@@ -11,8 +11,7 @@ All names and details PROPOSED, strikeable until written.
   small inside a child's patience, waiting for the awakening he knew came
   at six. It came.
 - **The soul:** the Wolf — canon's base beast spirit (the author's
-  ruling; receipt 13), beast-type, Power Attack System; his line's is
-  grey-furred. **Innate soul power: level 1** (the author's ruling; the
+  ruling; receipt 13), beast-type, Power Attack System, **ice attribute** (receipt 16), thin in the line; his line's is grey-furred. **Innate soul power: level 1** (the author's ruling; the
   canon mirror of Huo Yuhao's own rank 1). The release is possession
   (receipt 10). The blood came with it — the Ye line's wolf (the fourth
   list, night one).
@@ -29,8 +28,7 @@ All names and details PROPOSED, strikeable until written.
 - **Ye Shan** — the father: Grey Ridge's steadiest hunter, plain-spoken,
   owed favors across the ridge. His craft is the son's first technique.
   **The wolf is his too** — the same plain Wolf of the Ye line: innate 2, level 9, ringless;
-  the wall at ten has stood in front of him his whole life, and he fed his
-  family anyway. The bloodline the Ledger counts is his blood.
+  the wall at ten has stood in front of him his whole life, and he fed his family anyway — and the Ye men hunt the deep cold without shivering, every winter, because the thin ice in the blood is theirs too. The bloodline the Ledger counts is his blood.
 - **Zhou Xia** — the mother: the village weaver, sharper than her
   quiet. The grown mind respects her more than anyone in two lives.
 

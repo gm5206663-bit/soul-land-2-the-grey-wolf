@@ -38,10 +38,7 @@ ledger and is updated the same turn any number moves; the drift guard
   **the Grey Wolf bloodline, inherited in the Ye line, seats on the Ledger's
   first night** (「Bloodline — Grey Wolf: 7%」, PROPOSED). It deepens like a
   ring — on living (every release, every hunt, every year of growth) and,
-  once a ring seats, on the ring's years — never purchasable, no ceiling. It
-  feeds the blood and the body as a ring feeds the soul: vitality, recovery,
-  the predator's frame — and through the Infusion Law, every open meter. One
-  seat at his rank; the wolf fills it.
+  once a ring seats, on the ring's years — never purchasable, no ceiling. It feeds the blood and the body as a ring feeds the soul: **vitality, recovery, the predator's frame, the senses fed, the thin ice** (attribute: ice, canon's ordinary-wolf default — receipt 16; the full card in STATUS.md) — and through the Infusion Law, every open meter. One seat at his rank; the wolf fills it.
 - **Skills** (never slotted): the spirit's own ability is the FIRST skill
   (innate, seated the night the System wakes); every ring seats exactly
   one more; each carries its own silent incantation, spoken in the mind.
@@ -86,10 +83,7 @@ ledger and is updated the same turn any number moves; the drift guard
 
 `「Martial Soul — Name」` · `「Level — N」` · `「Slots: N / N / N」` ·
 `「Technique — Name: NN%」` · `「Soul Ring — Beast: N years」` ·
-`「Skill — Name: NN%」` · `「Bloodline — Line: NN%」` · life-skill lines
-`「Name: NN%」` · ring-skill lines as skills. Digits live in panels and
-ledgers only, never loose in narration; panels print at key beats, cold
-and quiet.
+`「Skill — Name: NN%」` · `「Bloodline — Line: NN%」` · life-skill lines `「Name: NN%」` · ring-skill lines as skills. **THE TWO TIERS (F7):** the FULL status panel (every gate: night one, rank-ups, year-ends) carries every line COMPLETE — class, system, attribute, nature, work; beat-panels (a single moving line) stay short. A bare name and a number is never the whole status. Digits live in panels and ledgers only, never loose in narration; panels print at key beats, cold and quiet.
 
 ## 6. What it never does
 
@@ -112,5 +106,9 @@ only, the author's to rule if ever touched.
 - **The beast body:** robust, released or not.
 - **The pre-30 window:** beast souls hold the advantage before level 30 —
   the village decade sits inside it, and the story should feel it.
+- **The attribute:** the Wolf is **ice** — canon's own line: "Ordinary
+  wolf-type Martial Souls are mostly of the ice attribute" (receipt 16);
+  thin in the Ye line. The wolf mutants (Fierce Fire Gray Wolf, Swift Wind
+  Two-Headed Wolf) are canon's other roads — never ours to claim.
 - **Ring skills build the arsenal** on top of possession; the **True
   Body** (武魂真身) waits at the far end.

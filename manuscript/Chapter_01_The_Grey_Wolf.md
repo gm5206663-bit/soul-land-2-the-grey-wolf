@@ -72,13 +72,13 @@ No voice. That was the first fact, and he learned it before anything else, and h
 
 Slots. Meters. Numbers, in parts of a hundred. A status panel — whole, cold, complete — hanging in the dark of him with the patience of a ledger. And a man who had counted for a living knew a ledger when he saw one.
 
-> 「Martial Soul — Wolf」
-> 「Level — 1」
+> 「Martial Soul — Wolf · beast-type · Power Attack · ice」
+> 「Level — 1 · innate 1」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation: 1%」
-> 「Technique — The Hunter's Craft: 11%」
-> 「Skill — The Wolf: 1%」
-> 「Bloodline — Grey Wolf: 7%」
+> 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive」
+> 「Technique — The Hunter's Craft: 11% · parked, unslotted」
+> 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws」
+> 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame」
 > 「Hunter's Sense: 13%」
 > 「Plain Speech: 21%」
 > 「Mountain Stride: 9%」
@@ -95,6 +95,8 @@ The skill: The Wolf, one part. The release itself — the grey light, the fur, t
 Bloodline — Grey Wolf: seven parts.
 
 A bloodline. A list none of the stories had, because none of the stories had this: the blood itself, counted. The wolf ran in the blood — his father's blood, his grandfather's, an old, thin line of it, seven parts deep and his to grow. It fed the body, he understood, slowly, reading the line's cold weight with six years of this life and thirty-one of the other. The blood was why the soul was a wolf at all. The skill was the wolf used. The bloodline was the wolf kept.
+
+And the line had a nature, the panel said — ledgers note what things are made of, and this one noted: ice. Thin ice — the ordinary wolf's attribute, old and faint in a thin line. It explained a thing he had never thought to explain: the Ye men hunted the deep cold every winter without shivering, and had for as long as the ridge remembered them. The cold was not kindness to them. It was inheritance.
 
 Then the life list, and he almost laughed alone in the loft, in the dark, at the bottom of it.
 

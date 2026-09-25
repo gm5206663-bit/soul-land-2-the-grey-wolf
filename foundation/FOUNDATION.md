@@ -47,17 +47,12 @@ written; every ruling lives verbatim in `RULINGS_LOG.md`.
   Ye line's expression, a description, never a canon-breed claim (canon
   has no plain "Grey Wolf" breed; its wolf variants — Inferno Grey Wolf,
   Thunder Wolf, and the rest — are receipted and stay design-doc only).
-  The serial's title keeps the grey: his wolf is the grey one. The
-  release is POSSESSION (receipt 10); the pre-30 window is his decade's
-  home ground (receipt 11).
+  The serial's title keeps the grey: his wolf is the grey one. **Attribute: ICE** — canon's own line (receipt 16: ordinary wolf-type martial souls are mostly ice), thin in the Ye line. The release is POSSESSION (receipt 10); the pre-30 window is his decade's home ground (receipt 11).
 - **His innate soul power (author-ruled): level 1** — the same rank-1
   start as Huo Yuhao's own (receipted: the fandom Soul Power table lists
   Huo Yuhao's original Innate Soul Power as 1). The world's verdict:
   barely a spark. The Ledger's verdict: a starting point.
-- **The bloodline (F2):** the fourth list opens with the soul itself — a beast-type soul IS its bloodline expressed. The wolf bloodline, inherited in the Ye line (the father's own wolf soul: innate 2, level 9,
-  ringless — the wall at ten his whole life), seats on the Ledger's first
-  night at an honest 7% (PROPOSED); grows on living and, once a ring seats,
-  on the ring's years.
+- **The bloodline (F2):** the fourth list opens with the soul itself — a beast-type soul IS its bloodline expressed. The wolf bloodline, inherited in the Ye line (the father's own wolf soul: innate 2, level 9, ringless — the wall at ten his whole life), seats on the Ledger's first night at an honest 7% (PROPOSED); **ice, thin — the body-line** (the full card in STATUS.md, F7); grows on living and, once a ring seats, on the ring's years.
 - **The cheat (author-ruled):** the same silent System, complete — and
   per the author's "give him a name," named **The Ledger** (PROPOSED): he
   names it himself, in-story, the way a tallykeeper would. If the ruling

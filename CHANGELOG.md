@@ -73,3 +73,19 @@ release on canon's template, the FULL panel on the Ledger's first night
 (eleven lines), the engine slotted and running (2% by dawn), and the
 five winters counted to the day the world's book opens. Issues #1–#3
 closed; Release v0.2.0.
+
+## v1.5 — 2026-09-25 — THE FULL THING IN THE STATUS (F7)
+
+The author's strike: *"So what is it, what attribute is it, what the hell
+even this, why you don't full thing in stutas what attribute and others
+things about it."* **The attribute, canon-answered:** "Ordinary wolf-type
+Martial Souls are mostly of the ice attribute" — the Wolf is ICE, thin in
+the Ye line (the winter-born; "The cold was not kindness to them. It was
+inheritance."). **The two panel tiers:** the FULL status panel at every
+gate carries every line complete — class, system, attribute, nature, work;
+beat-panels stay short; a bare name and a number is never the whole status
+again. **The BLOODLINE CARD** (STATUS.md): what it is, its attribute, what
+it does (vitality, recovery, the predator's frame, the senses fed, the
+thin ice), how it grows, its seats, the Upgrade Law at 100%, what it feeds
+and is fed. Chapter 1 re-cut (s1); receipt 16 (Su Yuntao's Lone Wolf and
+Xiao Chenyu's plain Wolf with it).

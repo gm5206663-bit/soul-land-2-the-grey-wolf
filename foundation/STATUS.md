@@ -8,13 +8,13 @@ file is the whole picture.
 ## THE FIRST PANEL — night one, the awakening day (Chapter 1's first
 print, PROPOSED)
 
-> 「Martial Soul — Wolf」
-> 「Level — 1」
+> 「Martial Soul — Wolf · beast-type · Power Attack · ice」
+> 「Level — 1 · innate 1」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation: 1%」
-> 「Technique — The Hunter's Craft: 11%」
-> 「Skill — The Wolf: 1%」
-> 「Bloodline — Grey Wolf: 7%」
+> 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive」
+> 「Technique — The Hunter's Craft: 11% · parked, unslotted」
+> 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws」
+> 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame」
 > 「Hunter's Sense: 13%」
 > 「Plain Speech: 21%」
 > 「Mountain Stride: 9%」
@@ -35,7 +35,8 @@ Read honestly, the way he reads it that night:
   him through six years of forest life parks beside it at 11%, learned,
   counted, waiting for the second seat. A grown reader of a thousand
   stories knows which one the engine should be.
-- **The bloodline, the fourth list, unlocked with the soul itself** — the blood is why the soul is a wolf at all: the Ye line's old, thin wolf, his father's own soul and his grandfather's before that. Seven parts — an old line, thinly kept, counted where it stands. It grows on living (every release, every hunt, every year of growth) and, once a ring seats, on the ring's years. It feeds the blood and the body as a ring feeds the soul — and through the Infusion Law, every open meter. One seat at his rank, and the wolf fills it.
+- **The martial soul line, complete:** the Wolf — beast-type, Power Attack System, **attribute: ice** (receipt 16: "Ordinary wolf-type Martial Souls are mostly of the ice attribute"), thin in the Ye line. The level line carries its origin (innate 1). The technique lines carry their state (the engine, passive; the craft, parked). The skill line carries its nature (possession, and what it gives). Every line the full thing.
+- **The bloodline, the fourth list, unlocked with the soul itself** — the blood is why the soul is a wolf at all: the Ye line's old, thin wolf, his father's own soul and his grandfather's before that. Seven parts — an old line, thinly kept, counted where it stands. It grows on living (every release, every hunt, every year of growth) and, once a ring seats, on the ring's years. It feeds the blood and the body as a ring feeds the soul — and through the Infusion Law, every open meter. One seat at his rank, and the wolf fills it. Its nature: **ice, thin** — the ordinary wolf's canon attribute, faint in an old thin line: the Ye men hunt the deep cold without shivering. (The full card below.)
 - **The life-skills at their honest levels:** a hunter's son's legs and
   eyes; a grown man's plain speech in a six-year-old's mouth; a
   tallykeeper's counting, the one thing he was better at than anyone he
@@ -51,7 +52,7 @@ Read honestly, the way he reads it that night:
 | Techniques | 1 seat: Basic Soul Power Cultivation (engine) — **2% after night one (Ch 1 close)** · learned + parked: The Hunter's Craft 11% |
 | Soul Rings | 0 seats (first ring at level 10 — **the beast is the author's to rule, Issue #1**) |
 | Soul Bones | 0 seats |
-| Bloodline | Grey Wolf 7% (the Ye line's wolf — the fourth list, unlocked with the soul itself; night one) |
+| Bloodline | Grey Wolf 7% · ice · the body-line (the card below) |
 | Skills | The Wolf 1% (innate, the first skill — possession: the release attaches the beast) |
 | Life-skills | Hunter's Sense 13 · Plain Speech 21 · Mountain Stride 9 · The Tally 27 · (others surface as the counting does) |
 | Level | 1 (innate) — the wall at ten waits for the ring; the first beast is RULED: the Ghost Wolf, ~120 years (CANON_GROUND 15) |
@@ -65,3 +66,15 @@ Read honestly, the way he reads it that night:
   beside Huo Yuhao.
 - Every rank-up, year's end, and gate: the full panel prints, and this
   file carries it.
+
+## THE BLOODLINE CARD — the Grey Wolf, complete (F7)
+
+| Question | The answer |
+|---|---|
+| **What is it?** | The inherited wolf-blood of the Ye line — the body-line beneath the soul. The soul is the wolf used (the skill); the blood is the wolf kept (the line). Grandfather to father to son. |
+| **Attribute?** | **Ice** — canon's default for ordinary wolf-type martial souls (receipt 16), THIN in this old, thin line. Not a weapon at 7%: the cold of the line — the Ye men hunt the deep cold without shivering. What deep ice could become at depth is design-doc, the story's to earn. |
+| **What does it DO?** | Always-on, deepening with the meter: **vitality** (the deep health — sick less, last longer); **recovery** (sleep heals more, fatigue lifts sooner, the body mends faster); **the predator's frame** (over years: denser bone, quicker muscle, the reflexes a step ahead — the body slowly becoming the wolf's, released or not); **the senses fed** (the nose and ears sharpen as the line deepens — permanent, not only on release); **the thin ice** (cold-tolerance now; more at depth). |
+| **How does it grow?** | On living it — every release, every hunt, every year of growth — and, once a ring seats, on the ring's years (the Aging Law). Never purchasable. No ceiling. |
+| **Seats?** | One at his rank; the wolf fills it. |
+| **At 100%?** | The Upgrade Law, like every meter: the line's next stage opens, a gate, never a rest. What a wolf-line becomes at fullness, the story earns (design-doc). |
+| **What feeds it / what it feeds?** | Fed by everything that grows (the Infusion Law); feeds the blood and body — and through them, every open meter. |
