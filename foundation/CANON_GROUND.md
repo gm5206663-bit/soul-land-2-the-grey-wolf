@@ -202,6 +202,34 @@ canon ground are marked [CARRIED].
     Datura Snake; the rank-gift rule as canon-quoted in the wild; the
     color ladder twice-said; the older-ring-stronger rule.)
 
+21. **THE ENGINE'S OWN ARITHMETIC (F12 — the nerf limit, the pace
+    receipts).** Canon's own numbers: "At the age of six, he awakened the
+    spirit... his Spirit Power was only at rank 1 and it took him 5 years
+    to get to rank 10 which is 2 years more than what people usually
+    take" (fandom Huo Yuhao) — the ordinary soul does 1 to 10 in about
+    three years; the rank-one boy, poor and alone, in five — and then sat
+    AT ten ringless, the wall real (Yu Xiaogang's own thirty years at 29
+    the far mirror). The banked advance is canon's too: "Circumstances
+    like when Tang San obtained his first spirit ring and directly
+    advanced to the thirteenth rank were extremely rare, that was because
+    of his innate full spirit power, or perhaps to say it was because his
+    Mysterious Heaven Skill had already cultivated up to the bottleneck"
+    (novel v4) — the method at the wall, the ring opening it, several
+    levels arriving at once. And the teen band POURS for canon's
+    monsters: "Tang San and Xiao Wu at age twelve have already reached
+    twenty ninth ranked" (novel v4); Dai Mubai "was at Level 25 when he
+    enrolled in the Shrek Academy" (fandom). THE LAW IT GIVES: **the
+    walls alone are ring-gated; between walls, hours are hours.** OURS
+    (F12): the engine runs 24/7 — the pouring year takes the boy 12 to
+    19, decelerating into the second wall; the second ring (the last
+    hunt, the beast at the author's word) opens it — 20 the banked
+    crossing, 21 the ring's gift (F11); he arrives at Shrek's gates at
+    twenty-one, two yellow rings, eleven years old. Between Yuhao
+    (eleven, strangled, the bottom of the class) and the clan monsters
+    (25-29 at twelve and thirteen) — exactly where five honest years of
+    an all-hours engine put a rank-one boy. THE NERF LIMIT: the wall is
+    canon; the crawl between walls is not.
+
 ## The rules of the ground
 
 - The anime and the novel reorder things — **we never do.** The receipts

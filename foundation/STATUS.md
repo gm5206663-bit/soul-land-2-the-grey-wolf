@@ -62,8 +62,21 @@ Read honestly, the way he reads it that night:
 - Level 10: the first ring (the hunt, Arc 1's climax) — slots → 2/2/2,
   the second technique seat (The Hunter's Craft slots in), the second
   skill seats with the ring.
-- Age ~11: the road to Shrek City, the entrance exam, the freshman year
-  beside Huo Yuhao.
+- **The pouring year (F12, age 10 to 11): the teens POUR — 12 to 19
+  through the year, the engine's own arithmetic (the walls alone are
+  ring-gated; between walls the hours are honest — receipt 21), the pool
+  decelerating into the second wall and banking behind it.**
+- The second wall (20): ring-gated, absolute — the same law that held the
+  first. The second ring — the last hunt, the beast at the author's word
+  (PROPOSED) — opens it: 20 the banked crossing, 21 the ring's gift
+  (F11). Slots to 3/3/3 at Soul Elder; the second skill seats with the
+  ring; the third technique seat stands open until something true fills
+  it.
+- Age ~11: the road to Shrek City — arriving at the gates at **level 21,
+  two yellow rings, eleven years old**, the top of the freshman class on
+  honest hours — the entrance exam, the freshman year beside Huo Yuhao,
+  who arrives the same autumn at the bottom of the class with his
+  million-year passenger. The two roads the serial is about.
 - Every rank-up, year's end, and gate: the full panel prints, and this
   file carries it.
 

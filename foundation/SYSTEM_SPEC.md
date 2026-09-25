@@ -55,7 +55,10 @@ ledger and is updated the same turn any number moves; the drift guard
   walking, counting, reading, writing, and every other thing a life does.
   New lines surface when the counting does.
 - **The level** (context line): the crystal's measure, counted with the
-  rest.
+  rest. The bottleneck law gates every title (10, 20, 30 — no ring, no
+  crossing); between walls the engine's hours are honest and the band
+  pours (F12, receipt 21 — the nerf limit: the wall is canon, the crawl
+  between walls is not).
 
 **The Slots line:** seats per slotted list, same number in every list —
 `1/1/1` at the start, `+1` at every rank-up, to `10/10/10`.

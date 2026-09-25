@@ -186,3 +186,21 @@ to 12 (eleven the banked water, twelve the ring's own); the ring law
 rewritten whole in SYSTEM_SPEC; and the repo-wide audit the author
 ordered caught the stale public README ("Chapter 1 written" with four
 chapters shipped) — refreshed. run_all green.
+
+## v1.12 — 2026-09-26 — THE ENGINE'S OWN ARITHMETIC (F12 — the nerf limit)
+
+The author's strike ("There is limit of Nerfing... logic is dead... 5
+years"): the Arc 2 plan still said a level-ten body at Shrek's gates
+after five years of a 24/7 engine. The pace receipts (21): the ordinary
+soul does 1 to 10 in about three years (Yuhao, rank one and poor, took
+five — then sat AT the wall ringless: the wall is canon); the banked
+advance is canon (Tang San's ring day took him to thirteen); the teen
+band POURS for canon's monsters (Tang San and Xiao Wu at twenty-nine at
+twelve; Dai Mubai enrolled at twenty-five). THE LAW COMPLETED: the walls
+alone are ring-gated — between walls the hours are honest. The pouring
+year runs 12 to 19; the second ring (the last hunt, the beast at the
+author's word) opens the second wall — 20 the banked crossing, 21 the
+gift — and the boy arrives at Shrek's gates at twenty-one, two yellow
+rings, eleven years old. STORY_ARCS' stale level-ten line killed; the
+road's geography corrected (the academy northeast of the Great Star Dou
+Forest, the road around its skirts).

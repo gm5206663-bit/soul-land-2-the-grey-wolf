@@ -19,7 +19,7 @@
    the iron-grey (receipt 15; Netherlight PROPOSED). The hunt is Arc 1's
    climax, ~age 10.
 3. ~~CHAPTER 1~~ — **shipped** (v1.4). ~~CHAPTER 2~~ — **shipped** (v1.6).
-   ~~CHAPTER 3~~ — **shipped** (v1.8, "NextNext"). Next gate: **Chapter 5 — THE ROAD BEGINS** (Arc 2: the year between the ring and the road — the levels pouring, the ring aging, the leaving made; then Shrek City's gates in the autumn the spirit-eyes boy arrives), at the author's word.
+   ~~CHAPTER 3~~ — **shipped** (v1.8, "NextNext"). Next gate: **Chapter 5 — THE ROAD BEGINS** (Arc 2, F12's honest curve: the pouring year — the teens honest to the engine, 12 to 19; the second wall; the second ring — the last hunt, the beast at the author's word — level 21 at the leaving, slots 3/3/3; then Shrek City's gates in the autumn the spirit-eyes boy arrives; the author may split the year from the hunt), at the author's word.
 
 ## Pipeline
 

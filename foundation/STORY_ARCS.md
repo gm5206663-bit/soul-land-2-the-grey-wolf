@@ -14,10 +14,14 @@ skill arriving, the slots doubling.
 
 ## ARC 2 — THE ROAD TO SHREK (age 11)
 
-The county, the road south, Shrek City — the city that grew around the
-academy for ten thousand years. The entrance exam taken by a rank-one
-nobody with a level-ten wolf's body and a grown man's head. The autumn a
-boy with Spirit Eyes arrives with a Tang Sect granddaughter and a hidden
+The county, the road north and east around the forest's skirts (the
+academy sits northeast of the Great Star Dou Forest — the receipted map),
+Shrek City — the city that grew around the academy for ten thousand
+years. The entrance exam taken by a self-made monster of the western hem:
+**level 21 at eleven, two yellow rings, a grown man's head** — the
+engine's own arithmetic (F12), the top of the freshman class on honest
+hours, beside a strangled genius at the bottom of it. The autumn a boy
+with Spirit Eyes arrives with a Tang Sect granddaughter and a hidden
 million-year passenger.
 
 ## ARC 3 — SHREK, BESIDE CANON (age 11+, the freshman year)

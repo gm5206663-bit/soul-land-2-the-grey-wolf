@@ -40,7 +40,7 @@ panel lines. Every reading is a current reading — nothing fixed.
 
 | Measure | Law | Night one | Now |
 |---|---|---|---|
-| Level (the crystal's) | the bottleneck law: no ring, no crossing 10; engine passive + infusions; **the ring's rank gift at every ring (F11: a level for a ring, canon's rule)** | 1 | **12 — Soul Master** (Ch 4 gate: 11 the banked water through the opened door, 12 the ring's own gift; the engine pouring through the teens now) |
+| Level (the crystal's) | the bottleneck law at every title (no ring, no crossing 10, 20, 30...); engine passive + infusions; the ring's rank gift at every ring (F11); **F12 THE ENGINE'S OWN ARITHMETIC: the walls alone are ring-gated — between walls the hours are honest and the band pours (receipt 21: canon's monsters did 13 to 29 inside a year; the ordinary soul does 1 to 10 in about three years)** | 1 | **12 — Soul Master** (Ch 4 gate: 11 the banked water, 12 the ring's gift; the engine pouring through the teens now — the pouring year runs 12 to 19 into the second wall, F12) |
 | The ring — Ghost Wolf (the hunt, Ch 4) | **the Aging Law**: his strength, the ring's own potential, the bloodline, what the world weighs — the number not going to stand still | — | **120 years, yellow — AGING** |
 
 ## THE LAW OF THIS FILE
