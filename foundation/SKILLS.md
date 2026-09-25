@@ -14,9 +14,7 @@ slotted — the spirit is his, and a ring's skill rides its ring's seat.
 
 ## What the coming rings will bring
 
-One ring, one skill, one incantation of its own — the first at level 10,
-the beast **the author's to rule** (Issue #1). A wolf's book of ring
-skills is a design question that stays design-doc until he rules it.
+**THE FIRST RING — RULED (F6, "Do yourself"): the Ghost Wolf (幽冥狼), ~120 years** — the iron-grey, yellow class, the village's honest ceiling. Chosen on the receipts: a wolf soul, wolf blood, and a wolf ring — the deepest seat-match a first ring can have; the Ghost Wolf's way of war (patience, attrition, the strike at the weakness, the waist as the vital) is the hunter's craft his father taught, written in a beast; the breed is grey as the line itself; and the SL2 receipt stands (Huo Yuhao fought a thousand-year Spectre Wolf at Shrek's Beast Dueling Area). The ring's skill, PROPOSED from the canon ability ("Light of the Netherworld"): **「Netherlight」** — the speed surge and the physical damage sliding off, one silent incantation with it: *"fade."* The hunt is Arc 1's climax, ~age 10; the ring AGES from its seat the night it seats (the Aging Law). A wolf's book of ring skills beyond the first stays design-doc until the story earns it.
 
 ## The receipts
 

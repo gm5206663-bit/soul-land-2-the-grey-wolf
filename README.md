@@ -1,8 +1,8 @@
 # THE GREY WOLF — a Soul Land 2 fan fiction
 
 > **Era:** Soul Land II: The Unrivaled Tang Sect · **Beside canon:** the
-> same years as Huo Yuhao · **Status:** FOUNDATIONS LOCKED, no chapters
-> yet — the author strikes or keeps first.
+> same years as Huo Yuhao · **Status:** Chapter 1 written — the serial
+> has begun.
 
 A man who counted things for a living dies on Earth, and is born again on
 the Douluo Continent with a thousand stories in his head — including the
@@ -44,7 +44,7 @@ Shrek Academy, in the age of soul tools.
 12. `foundation/GLOSSARY.md` · `foundation/PLACES.md` ·
     `foundation/ECONOMY.md` — the world's terms, map, and money
 13. `foundation/CODEX.md` — the file map + decision log
-14. `chapters/` — (empty until the author says *Next*); `manuscript/`
+14. `chapters/Chapter_01_The_Grey_Wolf.md` — **Chapter 1: The Grey Wolf** (the awakening day, the full panel, the engine, the five winters); `manuscript/`
     gains a **FULL edition** (every chapter in one file) as the chapters
     come
 15. `NOTICE.md` · `CHANGELOG.md` · `NEXT.md`

@@ -11,7 +11,7 @@ live here and in the prose panels only, never loose in narration.
 `「Skill — Name: NN%」` · `「Bloodline — Line: NN%」` · life-skill lines
 `「Name: NN%」`
 
-## THE FIRST PANEL (defined, not yet printed — Chapter 1, night one)
+## THE FIRST PANEL — printed (Chapter 1, night one)
 
 The full block, as `STATUS.md` carries it:
 
@@ -29,7 +29,22 @@ The full block, as `STATUS.md` carries it:
 
 ## Chapter ledger (a row per line, per chapter — begins with Chapter 1)
 
-*(empty — the chapters have not begun)*
+### Chapter 1 — The Grey Wolf (age 6)
+
+| Panel | Beat |
+|---|---|
+| 「Martial Soul — Wolf」 | THE FULL PANEL — the Ledger waking, night one |
+| 「Level — 1」 | 〃 |
+| 「Slots: 1 / 1 / 1」 | 〃 |
+| 「Technique — Basic Soul Power Cultivation: 1%」 | 〃 |
+| 「Technique — The Hunter's Craft: 11%」 | 〃 |
+| 「Skill — The Wolf: 1%」 | 〃 |
+| 「Bloodline — Grey Wolf: 7%」 | 〃 |
+| 「Hunter's Sense: 13%」 | 〃 |
+| 「Plain Speech: 21%」 | 〃 |
+| 「Mountain Stride: 9%」 | 〃 |
+| 「The Tally: 27%」 | 〃 |
+| 「Technique — Basic Soul Power Cultivation: 2%」 | the dawn reading — the engine's first night |
 
 ## The law of this file
 

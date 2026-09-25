@@ -39,6 +39,7 @@ Great Star Dou Forest, PROPOSED)
 
 - **Old Kuo** — the village head, all arithmetic and arrows.
 - **Little Shan** — the friend, two years older, bow-hunter's apprentice.
+- **Little Bao** — the tanner's boy: a hatchet soul with no fuel to run it; the not-unkind sound; will tan, and be strong, and probably be happy.
 - **The examiner** — the county's traveling official with the crystal
   (OPEN-1: the ceremony's administration in the SL2 era is unreceipted;
   written as county-run until receipts say otherwise).

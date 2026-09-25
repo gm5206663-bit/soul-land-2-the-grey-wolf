@@ -60,3 +60,16 @@ permanent — possession, the body laws, the White Tiger ring template, the
 wolf receipts); `tools/style_gate_ci_draft.yml` (CI, held for a
 workflow-scoped token); the FULL edition generator in the pipeline; and
 Release v0.1.0 — the foundations bundle.
+
+## v1.4 — 2026-09-25 — CHAPTER 1 (F6: "Do yourself")
+
+All three gates executed. **The first beast RULED: the Ghost Wolf
+(幽冥狼), ~120 years** — the iron-grey; wolf upon wolf upon wolf; the
+beast that hunts the way the craft teaches (patience, attrition, the
+waist as the vital — receipt 15); ring skill PROPOSED 「Netherlight」,
+incantation *"fade."* **The names kept whole.** **Chapter 1 written —
+"The Grey Wolf":** the awakening day at Grey Ridge, the possession
+release on canon's template, the FULL panel on the Ledger's first night
+(eleven lines), the engine slotted and running (2% by dawn), and the
+five winters counted to the day the world's book opens. Issues #1–#3
+closed; Release v0.2.0.

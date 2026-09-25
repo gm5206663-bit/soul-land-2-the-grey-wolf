@@ -103,6 +103,8 @@ canon ground are marked [CARRIED].
     mutation... resulting in characteristics or enhancement directions
     different from the original species." (Baike Beast Martial Soul)
 
+15. **THE FIRST BEAST — RULED (F6, "Do yourself"): the Ghost Wolf (幽冥狼), ~120 years.** The receipts it stands on: the fandom Ghost Wolf page (iron-grey, green eyes, packs, "innately suspicious... willing to go through mutual attrition with their prey until the prey tires itself out or exposes a weakness"; the waist as the vital — "copper-headed, iron-boned, bean-curd waist"; 10–1,000+ years) and the SL2 receipt (Huo Yuhao and He Caitou fought a thousand-year Spectre Wolf at Shrek's Beast Dueling Area). The ring: yellow class at ~120, the village's honest ceiling; it AGES from its seat (the Aging Law — ours). The ring skill PROPOSED from the canon innate ability "Light of the Netherworld" (speed increase + reduced physical damage): 「Netherlight」, incantation *"fade."* The deep lore (packs, and far in the deep forest the Silver Moon Wolf King who raises his whole pack by a fifth) stays for the later arcs.
+
 ## The rules of the ground
 
 - The anime and the novel reorder things — **we never do.** The receipts

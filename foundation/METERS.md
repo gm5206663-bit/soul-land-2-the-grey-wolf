@@ -8,14 +8,14 @@ panel lines. Every reading is a current reading — nothing fixed.
 
 | Art | Its own pace law (what feeds it) | Night one | Now |
 |---|---|---|---|
-| Basic Soul Power Cultivation (the standard method; the ENGINE — slotted, passive 24/7) | his best, around the clock; the infusions (growth, the craft, the wolf's vitality once the ring seats) | 1% | 1% |
+| Basic Soul Power Cultivation (the standard method; the ENGINE — slotted, passive 24/7) | his best, around the clock; the infusions (growth, the craft, the wolf's vitality once the ring seats) | 1% | **2%** (Ch 1 dawn) |
 | The Hunter's Craft (his father's teaching — learned, parked until the second seat) | six lived years counted at the open; grows by living it, even parked | 11% | 11% |
 
 ## THE SKILLS
 
 | Skill | Its own pace law | Night one | Now |
 |---|---|---|---|
-| The Wolf (innate — the first skill: POSSESSION, the release attaching the beast to the man — strength, speed, senses, claws) | every release feeds it; each part heavier than the last; deepens with every ring that seats | 1% | 1% |
+| The Wolf (innate — the first skill: POSSESSION, the release attaching the beast to the man — strength, speed, senses, claws) | every release feeds it; each part heavier than the last; deepens with every ring that seats; first release Ch 1 (twelve breaths, then emptied) | 1% | 1% |
 
 ## THE LIFE-SKILLS (each its own pace; grows on plain living)
 
@@ -37,8 +37,8 @@ panel lines. Every reading is a current reading — nothing fixed.
 
 | Measure | Law | Night one | Now |
 |---|---|---|---|
-| Level (the crystal's) | the bottleneck law: no ring, no crossing 10; engine passive + infusions | 1 | 1 |
-| The ring (none yet) | the beast is the author's to rule (Issue #1) | — | — |
+| Level (the crystal's) | the bottleneck law: no ring, no crossing 10; engine passive + infusions | 1 | 1 (the wall at ten: Arc 1's country) |
+| The ring (none yet) | **RULED (F6): the Ghost Wolf, ~120 years** — the hunt is Arc 1's climax, ~age 10 | — | — |
 
 ## THE LAW OF THIS FILE
 

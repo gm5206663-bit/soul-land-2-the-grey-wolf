@@ -44,18 +44,17 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** before Chapter 1. The panel above is the defined
-night-one state; nothing has moved yet.
+**Story position:** after Chapter 1 (the awakening day + first night). The panel above is printed in Chapter 1 exactly as written; the engine ran its first night and stands at 2%.
 
 | List | State |
 |---|---|
-| Techniques | 1 seat: Basic Soul Power Cultivation (engine) · learned + parked: The Hunter's Craft 11% |
+| Techniques | 1 seat: Basic Soul Power Cultivation (engine) — **2% after night one (Ch 1 close)** · learned + parked: The Hunter's Craft 11% |
 | Soul Rings | 0 seats (first ring at level 10 — **the beast is the author's to rule, Issue #1**) |
 | Soul Bones | 0 seats |
 | Bloodline | Grey Wolf 7% (the Ye line's wolf — the fourth list, unlocked with the soul itself; night one) |
 | Skills | The Wolf 1% (innate, the first skill — possession: the release attaches the beast) |
 | Life-skills | Hunter's Sense 13 · Plain Speech 21 · Mountain Stride 9 · The Tally 27 · (others surface as the counting does) |
-| Level | 1 (innate) — the bottleneck law receipts at `TIMELINE.md` |
+| Level | 1 (innate) — the wall at ten waits for the ring; the first beast is RULED: the Ghost Wolf, ~120 years (CANON_GROUND 15) |
 
 ## THE FORWARD MAP (what joins when)
 

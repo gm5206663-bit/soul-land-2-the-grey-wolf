@@ -34,6 +34,5 @@
 7. The bloodline list opens at the awakening (F2, the author's strike): a beast-type soul is its bloodline expressed — the wolf bloodline, the Ye line's, seated and counted from night one (7%, PROPOSED); the father's own wolf soul innate 2, level 9, ringless.
 8. RESEARCH FIRST (F3): possession and the beast-type laws receipted and installed (CANON_GROUND 10-12); the soul corrected to canon's plain WOLF — the grey is the Ye line's fur, not a breed (receipt 13); the life-skills renamed (Hunter's Sense · Plain Speech · Mountain Stride · The Tally); Lesson 6 added to the Foundations.
 9. THE COMPLETE FILE SET (F4): SERIAL_LOG + CANON_STUDY_BEAST_TYPE + the CI draft + the FULL edition step + Release v0.1.0 — the inventory verified against the architecture whole.
-10. THE WORKSHOP COPY (F5): the whole project lives in the author's
-    workspace, refreshed to HEAD every turn the repo changes — GitHub the
-    store, the workshop the reading desk.
+10. THE WORKSHOP COPY (F5): the whole project lives in the author's workspace, refreshed to HEAD every turn the repo changes — GitHub the store, the workshop the reading desk.
+11. F6 ("Do yourself"): all three gates executed — the first beast RULED (the Ghost Wolf, ~120 years, the iron-grey; Netherlight PROPOSED), the names kept whole, Chapter 1 written from the locked foundations.

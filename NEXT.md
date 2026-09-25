@@ -4,19 +4,20 @@
 
 | # | Title | Words | Band | State at close |
 |---|---|---|---|---|
-| — | *(none yet — foundations locked, awaiting the author's word)* | | | |
+| 1 | The Grey Wolf | 2,700 | IN | level 1 · the full panel night one · the engine at 2% by dawn · the beast RULED: the Ghost Wolf, ~120y · five winters to the book's first page |
+
 
 ## The author's hand (gates)
 
-1. **THE NAMES** (Issue #2): strike or keep — **Ye Cang** (the boy) ·
-   **The Ledger** (the System, per "give him a name"; if the ruling meant
-   the boy only, the System's name returns to the author's gift) ·
-   **Grey Ridge Village** · **The Grey Wolf** (title + soul) · **The
-   Hunter's Craft** · the silent word *"hunt."*
-2. **THE FIRST BEAST** (Issue #1): which beast, which years — the ring at
-   level 10, Arc 1's climax.
-3. **CHAPTER 1** (Issue #3): say *Next* and it fires from the locked
-   foundations.
+1. ~~THE NAMES~~ — **resolved at F6**: kept whole (Ye Cang, The Ledger,
+   The Grey Wolf, Grey Ridge, The Hunter's Craft, Anlin, *hunt.*) — any
+   strike still slots in clean.
+2. ~~THE FIRST BEAST~~ — **resolved at F6**: the Ghost Wolf, ~120 years,
+   the iron-grey (receipt 15; Netherlight PROPOSED). The hunt is Arc 1's
+   climax, ~age 10.
+3. ~~CHAPTER 1~~ — **shipped** (v1.4). Next gate: Chapter 2 — the quiet
+   years begin (the engine, the craft, the wolf's releases), at the
+   author's word.
 
 ## Pipeline
 
