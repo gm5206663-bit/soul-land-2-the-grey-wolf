@@ -7,6 +7,12 @@ eyes: slots, meters, the full status panel. It never speaks; it counts.
 beast-type, attack-type. Its release is the first skill: 「The Wolf」,
 one silent word — *"hunt."* (PROPOSED)
 
+**The bloodline list** — the fourth list: a beast-type soul is its
+bloodline expressed, so it unlocks with the soul itself (night one:
+「Bloodline — Grey Wolf: 7%」). The Ye line's old, thin wolf — his father's
+soul and his grandfather's before that. Grows on living and on the ring's
+years; feeds the blood and body; never purchasable; no ceiling.
+
 **Innate soul power** — the starting level measured at the awakening
 ceremony (~age 6). Full = 10, once-a-century; rank 1 = poor talent,
 cultivable — Huo Yuhao's own start, and our boy's (the author's ruling).

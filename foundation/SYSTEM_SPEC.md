@@ -34,8 +34,14 @@ ledger and is updated the same turn any number moves; the drift guard
   in canon a ring's years are fixed at the kill; his grow).
 - **Soul Bones** (slotted): as canon; seats by the same count.
 - **Bloodline** (slotted, the fourth list): unlocks the moment a bloodline
-  exists; seats and deepens like a ring. For a wolf soul, the question of
-  what a bloodline could be is design-doc only until the author rules.
+  exists — and for a beast-type soul the blood exists with the soul itself:
+  **the Grey Wolf bloodline, inherited in the Ye line, seats on the Ledger's
+  first night** (「Bloodline — Grey Wolf: 7%」, PROPOSED). It deepens like a
+  ring — on living (every release, every hunt, every year of growth) and,
+  once a ring seats, on the ring's years — never purchasable, no ceiling. It
+  feeds the blood and the body as a ring feeds the soul: vitality, recovery,
+  the predator's frame — and through the Infusion Law, every open meter. One
+  seat at his rank; the wolf fills it.
 - **Skills** (never slotted): the spirit's own ability is the FIRST skill
   (innate, seated the night the System wakes); every ring seats exactly
   one more; each carries its own silent incantation, spoken in the mind.

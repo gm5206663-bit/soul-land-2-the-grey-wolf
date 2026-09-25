@@ -27,6 +27,12 @@ panel lines. Every reading is a current reading — nothing fixed.
 | Counting | a tallykeeper's whole adult life | 27% | 27% |
 | Reading | — | (no line — cannot read this world's script; surfaces when it exists) | — |
 
+## THE BLOODLINE (the fourth list — unlocked with the soul itself)
+
+| Line | Its own pace law (what feeds it) | Night one | Now |
+|---|---|---|---|
+| Grey Wolf (the Ye line — inherited) | grows on living it: every release, every hunt, every year of growth; once a ring seats, on the ring's years too (the Aging Law); feeds the blood and body, and through the Infusion Law every open meter; never purchasable; no ceiling | 7% | 7% |
+
 ## THE CONTEXT
 
 | Measure | Law | Night one | Now |

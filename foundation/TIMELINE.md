@@ -16,7 +16,7 @@ PROPOSED until written. The years count his age.
 
 | Age | The road |
 |---|---|
-| 6 | **Chapter 1, the awakening day**: the Grey Wolf, innate level 1, the village's shrug — and the Ledger waking that night with the FULL panel (STATUS.md). The engine slots (the standard method). |
+| 6 | **Chapter 1, the awakening day**: the Grey Wolf, innate level 1, the village's shrug — and the Ledger waking that night with the FULL panel (STATUS.md) — the bloodline list unlocked with the soul itself: the Ye line's wolf at 7%. The engine slots (the standard method). |
 | 6–10 | **ARC 1 — GREY RIDGE**: the quiet climb. The engine runs nights; the craft runs days; the wolf's releases grow. Levels 1 → 10 (Nothing-Fixed; the bottleneck law holds at 10). The forest's edge hunted carefully — a rank-one boy with a wolf's nose and a grown man's caution. |
 | ~10 | **THE FIRST RING — the hunt, Arc 1's climax. The beast is the author's to rule (Issue #1).** Slots → 2/2/2; The Hunter's Craft seats; the ring's skill seats; the ring begins to AGE (the signature). |
 | 11 | **ARC 2 — THE ROAD TO SHREK**: the county, the road, Shrek City; the entrance exam — the same autumn a boy with Spirit Eyes arrives. |

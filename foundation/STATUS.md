@@ -14,6 +14,7 @@ print, PROPOSED)
 > 「Technique — Basic Soul Power Cultivation: 1%」
 > 「Technique — The Hunter's Craft: 11%」
 > 「Skill — The Wolf: 1%」
+> 「Bloodline — Grey Wolf: 7%」
 > 「Senses: 13%」
 > 「Speech: 21%」
 > 「Walking and Running: 9%」
@@ -30,6 +31,7 @@ Read honestly, the way he reads it that night:
   him through six years of forest life parks beside it at 11%, learned,
   counted, waiting for the second seat. A grown reader of a thousand
   stories knows which one the engine should be.
+- **The bloodline, the fourth list, unlocked with the soul itself** — the blood is why the soul is a wolf at all: the Ye line's old, thin wolf, his father's own soul and his grandfather's before that. Seven parts — an old line, thinly kept, counted where it stands. It grows on living (every release, every hunt, every year of growth) and, once a ring seats, on the ring's years. It feeds the blood and the body as a ring feeds the soul — and through the Infusion Law, every open meter. One seat at his rank, and the wolf fills it.
 - **The life-skills at their honest levels:** a hunter's son's legs and
   eyes; a grown man's plain speech in a six-year-old's mouth; a
   tallykeeper's counting, the one thing he was better at than anyone he
@@ -46,7 +48,7 @@ night-one state; nothing has moved yet.
 | Techniques | 1 seat: Basic Soul Power Cultivation (engine) · learned + parked: The Hunter's Craft 11% |
 | Soul Rings | 0 seats (first ring at level 10 — **the beast is the author's to rule, Issue #1**) |
 | Soul Bones | 0 seats |
-| Bloodline | the list unlocks when a bloodline exists |
+| Bloodline | Grey Wolf 7% (the Ye line's wolf — the fourth list, unlocked with the soul itself; night one) |
 | Skills | The Wolf 1% (innate, the first skill) |
 | Life-skills | Senses 13 · Speech 21 · Walking and Running 9 · Counting 27 · (others surface as the counting does) |
 | Level | 1 (innate) — the bottleneck law receipts at `TIMELINE.md` |

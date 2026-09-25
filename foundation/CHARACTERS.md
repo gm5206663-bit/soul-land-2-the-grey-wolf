@@ -10,9 +10,7 @@ All names and details PROPOSED, strikeable until written.
 - **This life:** six quiet years as a hunter's son, an adult mind folded
   small inside a child's patience, waiting for the awakening he knew came
   at six. It came.
-- **The soul:** the Grey Wolf, beast-type, attack-type (the author's
-  ruling). **Innate soul power: level 1** (the author's ruling; the canon
-  mirror of Huo Yuhao's own rank 1).
+- **The soul:** the Grey Wolf, beast-type, attack-type (the author's ruling). **Innate soul power: level 1** (the author's ruling; the canon mirror of Huo Yuhao's own rank 1). The blood came with it — the Ye line's wolf (the fourth list, night one).
 - **The cheat:** the Ledger (the same silent system, complete from day
   one — SYSTEM_SPEC.md).
 - **Written as:** patient, observant, unafraid — he has read this
@@ -25,6 +23,9 @@ All names and details PROPOSED, strikeable until written.
 
 - **Ye Shan** — the father: Grey Ridge's steadiest hunter, plain-spoken,
   owed favors across the ridge. His craft is the son's first technique.
+  **The wolf is his too** — the Ye line's soul: innate 2, level 9, ringless;
+  the wall at ten has stood in front of him his whole life, and he fed his
+  family anyway. The bloodline the Ledger counts is his blood.
 - **Zhou Xia** — the mother: the village weaver, sharper than her
   quiet. The grown mind respects her more than anyone in two lives.
 

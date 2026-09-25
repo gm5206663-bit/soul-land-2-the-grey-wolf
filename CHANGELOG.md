@@ -21,3 +21,15 @@ foundations perfectly."*
   (`tools/run_all.py`), the panel drift guard, and this repo's reading
   site. No chapters yet — the author strikes or keeps the names and
   numbers first.
+
+## v1.1 — 2026-09-25 — THE BLOODLINE LIST AT THE AWAKENING (F2)
+
+The author's strike: *"Where is bloodline list, where is grey wolf
+bloodline."* A beast-type soul IS its bloodline expressed — the fourth
+list opens with the soul itself: 「Bloodline — Grey Wolf: 7%」 on the
+Ledger's first night (PROPOSED). The Ye line's old, thin wolf — the
+father's own soul (innate 2, level 9, ringless). Grows on living and on
+the ring's years; feeds the blood and body; never purchasable; no
+ceiling. Installed across STATUS, PANELS, METERS, SYSTEM_SPEC,
+FOUNDATION, CHARACTERS, TIMELINE, STORY_ARCS, GLOSSARY, CANON_GROUND
+(receipt 9: beast souls run in bloodlines), RULINGS_LOG F2.

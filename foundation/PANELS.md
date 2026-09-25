@@ -21,6 +21,7 @@ The full block, as `STATUS.md` carries it:
 > 「Technique — Basic Soul Power Cultivation: 1%」
 > 「Technique — The Hunter's Craft: 11%」
 > 「Skill — The Wolf: 1%」
+> 「Bloodline — Grey Wolf: 7%」
 > 「Senses: 13%」
 > 「Speech: 21%」
 > 「Walking and Running: 9%」

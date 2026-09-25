@@ -54,6 +54,14 @@ canon ground are marked [CARRIED].
    Soul King 51–60 · Soul Emperor 61–70 · Soul Saint 71–80 · Douluo 81–90
    · Titled Douluo 91–99. (WebNovel SL1 ch.2; fandom Ranks)
 
+9. **Beast-type souls run in bloodlines.** Canon's bloodlines pass by
+   descent: the Dai family's White Tiger down the ducal generations (Dai
+   Hao, Dai Huabin, Dai Luoli — the hereditary White Tiger Duke's line);
+   Tang San's Blue Silver Grass from his mother, and the deeper Emperor line
+   in her blood. Our mirror: the Ye line's wolf — inherited, thinly kept, a
+   hunter family's old blood. [CARRIED from the first serial's canon ground
+   28; Dai/Tang receipts fandom-verified]
+
 ## The rules of the ground
 
 - The anime and the novel reorder things — **we never do.** The receipts

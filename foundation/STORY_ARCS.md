@@ -37,7 +37,6 @@ rising — the book he read, walked through from the inside.
 ## The design locks of the arcs
 
 The wolf is a FIGHTER's soul (the apple serial's opposite: where Su Ping
-could only support, Ye Cang can hunt from day one) · the engine + the
-Aging Law is the snowball · the meta-knowledge is the drama (he knows
+could only support, Ye Cang can hunt from day one) · the engine + the Aging Law + the bloodline loop is the snowball (the ring feeds the blood, the blood feeds the body, the body feeds the engine) · the meta-knowledge is the drama (he knows
 what comes; the story is what he does about it) · canon adjacency at
 every touch · panels at key beats, the FULL panel at every gate.
