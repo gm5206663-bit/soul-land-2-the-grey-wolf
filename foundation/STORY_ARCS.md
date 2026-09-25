@@ -9,7 +9,7 @@ method, and the Ledger waking that night with the FULL panel — the engine
 slotted before he sleeps. Then the quiet years: the passive nights, the
 hunts with his father, the wolf's releases growing, the craft counting,
 the forest's edge learned by a mind that knows exactly what sleeps deeper
-in. **Climax: level 10, the bottleneck, the first hunt — THE BEAST RULED (F6): the Ghost Wolf, ~120 years, the iron-grey** — and the ring seating, aging, the second
+in. **Climax — WRITTEN (Ch 4): the hunt at the black pools — the Ghost Wolf, 120, taken; the ring seating, AGING; the second
 skill arriving, the slots doubling.
 
 ## ARC 2 — THE ROAD TO SHREK (age 11)

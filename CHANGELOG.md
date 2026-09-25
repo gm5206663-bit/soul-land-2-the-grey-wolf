@@ -132,3 +132,20 @@ alone at the black pools. The hunt-year gate's FULL panel at the close
 (engine 47 · craft 44 · wolf 38 · blood 27 · Spear 21 · the level that
 "had not moved once, and had never once slowed him"). 2,528 words, gate
 green, panel ledger in sync.
+
+## v1.9 — 2026-09-25 — CHAPTER 4: THE PATIENT KIND ("Next") — ARC 1 COMPLETE
+
+The hunt at the black pools: the ring law said standing up at the burned
+cedar ("The ring comes to the hand that kills it... I will be your edge.
+Nothing else." — two calls ends it); two days watched and the second day
+as information; the performed mistake (the spear a reach and a half away,
+the drinking with the shoulder turned); the grey without a sound; the
+netherlight (the beast's canon light — the speed surge, the blow sliding
+off); the claws' honest price; the waist-door and the point that let the
+moving thing arrive; the father's vigil (heard it all and did not come);
+the absorption as winter ("a hundred and twenty cold seasons... poured in
+as frost goes into stone"); **Soul Master at ten** — 2/2/2, level 11 with
+the banked water moving, the craft seated unasked, Netherlight arriving
+with its one silent word (*fade.*), and the ring AGING from the night it
+seats ("the number was not going to stand still"). The gate panel:
+fifteen lines. 2,493 words, gate green, panel ledger in sync.

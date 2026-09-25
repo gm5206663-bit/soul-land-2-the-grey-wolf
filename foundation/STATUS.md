@@ -45,17 +45,17 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 3 (the wall years, ages 7→10). Level 10 reached at seven and HELD three years (the bottleneck); the hunt-year gate's panel (Chapter 3's close) is the current reading: **level 10 held, the engine 47%, the craft 44%, the wolf 38%, the blood 27%, Spear 21%**. THE HUNT IS SET: this autumn, age 10 — the big iron-grey at the black pools, ~120 years, alone.
+**Story position:** after Chapter 4 — THE HUNT, Arc 1 complete. Ye Cang is a SOUL MASTER at ten: the Ghost Wolf ring seated (120 years, yellow, **AGING**), slots 2/2/2, level 11 with the door open and the banked water moving, the craft seated in the second slot, Netherlight arrived (*fade.*). The gate panel (Chapter 4's close) is the current reading. One year to the boy with spirit eyes and the road to Shrek.
 
 | List | State |
 |---|---|
-| Techniques | 1 seat: Basic Soul Power Cultivation (engine, Low) — **47% (Ch 3, the hunt-year eve)** · learned + parked: The Hunter's Craft 44% (Low) |
-| Soul Rings | 0 seats (first ring at level 10 — **the beast is the author's to rule, Issue #1**) |
+| Techniques | 2 seats: Basic Soul Power Cultivation (engine, Low) — **49% (Ch 4 gate)** · **The Hunter's Craft 47% — SEATED, slot 2** |
+| Soul Rings | 1 seat: **Ghost Wolf, 120 years, yellow — AGING** (the hunt, Ch 4; the number not going to stand still) |
 | Soul Bones | 0 seats |
-| Bloodline | Grey Wolf 27% · ice · Low · the body-line (the card below; the shoulders arrived) |
-| Skills | The Wolf 38% · Mid (innate, the first skill — possession; whole mornings by Ch 3's close) |
-| Life-skills | Hunter's Sense 36 · Stillness 22 · Plain Speech 29 · Mountain Stride 31 · The Tally 35 · Spear 21 (surfaced Ch 3) · (others surface as the counting does) |
-| Level | **10, HELD three years (Ch 3, age 10 — the hunt set for this autumn)** — the bottleneck holds until the ring; the beast is RULED: the Ghost Wolf, ~120 years, the big one alone at the black pools (CANON_GROUND 15) |
+| Bloodline | Grey Wolf 31% · ice · Low · the body-line (the card below; the ring's essence feeding it) |
+| Skills | The Wolf 40% · Mid (innate — possession; whole mornings) · **Netherlight 1% · Mid (the ring's gift — the speed surge, the blow sliding off; fade.)** |
+| Life-skills | Hunter's Sense 38 · Stillness 24 · Plain Speech 29 · Mountain Stride 32 · The Tally 36 · Spear 24 (the kill on it) · (others surface as the counting does) |
+| Level | **11 — Soul Master (Ch 4, age 10: the door opened by the ring; the banked water arriving home, level after level)** — the engine pouring through the teens now |
 
 ## THE FORWARD MAP (what joins when)
 
@@ -85,6 +85,7 @@ Read honestly, the way he reads it that night:
 |---|---|---|
 | The Wolf (the martial soul) | **Mid** (Ordinary) | the quality ladder, receipt 17 |
 | The Wolf (the skill — possession) | **Mid** | the soul's own expression |
+| Netherlight (the first ring's skill) | **Mid** | a hundred-and-twenty-year beast's signature light |
 | Basic Soul Power Cultivation (the engine) | **Low** (Waste) | the county's plain method |
 | The Hunter's Craft | **Low** | a village art |
 | The Grey Wolf bloodline | **Low** | an old, thin line — honest reading |
