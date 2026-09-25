@@ -38,16 +38,21 @@ Shrek Academy, in the age of soul tools.
 10. `foundation/RELATIONSHIPS.md` · `foundation/CHARACTERS.md` — the cast,
     canon and ours
 11. `foundation/CANON_GROUND.md` — the receipts: nothing enters a chapter
-    unverified
+    unverified; `foundation/CANON_STUDY_BEAST_TYPE.md` — the beast-type
+    study, whole: possession, the body laws, how canon's beast masters
+    fight, the wolf receipts; `foundation/SERIAL_LOG.md` — the work journal
 12. `foundation/GLOSSARY.md` · `foundation/PLACES.md` ·
     `foundation/ECONOMY.md` — the world's terms, map, and money
 13. `foundation/CODEX.md` — the file map + decision log
-14. `chapters/` — (empty until the author says *Next*)
+14. `chapters/` — (empty until the author says *Next*); `manuscript/`
+    gains a **FULL edition** (every chapter in one file) as the chapters
+    come
 15. `NOTICE.md` · `CHANGELOG.md` · `NEXT.md`
 16. `tools/` — the pipeline: `style_gate.py` (the style laws,
     self-enforcing), `build_site.py` (the reading site),
     `check_panels.py` (the drift guard — a frozen meter fails the build),
-    `run_all.py` (one command: manuscript → gate → site → panel check)
+    `run_all.py` (manuscript → gate → site → panel check + FULL edition),
+    `style_gate_ci_draft.yml` (CI, held for a workflow-scoped token)
 
 ## The working laws (carried whole from the first serial, plus its lessons)
 

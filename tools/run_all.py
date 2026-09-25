@@ -28,7 +28,18 @@ def sync_manuscript():
         out = os.path.join(dst_dir, os.path.basename(s))
         open(out, "w", encoding="utf-8").write(body)
         n += 1
-    print(f"[1/4] manuscript synced: {n} reader editions")
+    # FULL edition — every chapter in one reader file
+    if srcs:
+        parts = []
+        for s in srcs:
+            t = open(s, encoding="utf-8").read()
+            b = t.split("\n---\n\n## Footer")[0].split("\n## Footer")[0].rstrip()
+            parts.append(b)
+        full = "# THE GREY WOLF — the full edition\n\n" + "\n\n---\n\n".join(parts) + "\n"
+        open(os.path.join(dst_dir, "FULL.md"), "w", encoding="utf-8").write(full)
+        print(f"[1/4] manuscript synced: {n} reader editions + FULL edition")
+    else:
+        print(f"[1/4] manuscript synced: {n} reader editions")
 
 def run_gate():
     r = subprocess.run([sys.executable, os.path.join(HERE, "style_gate.py")])

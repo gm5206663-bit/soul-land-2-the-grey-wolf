@@ -1,0 +1,18 @@
+# CI DRAFT — held here until a workflow-scoped token exists
+# (the current PAT lacks the workflow scope; GitHub rejects any push
+#  touching .github/workflows/. To activate: move this file to
+#  .github/workflows/style-gate.yml and push with a scoped token.)
+name: style-gate
+on: [push, pull_request]
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Style gate + panel check
+        run: |
+          python3 tools/style_gate.py
+          python3 tools/check_panels.py

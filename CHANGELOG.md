@@ -49,3 +49,14 @@ Wolf beasts receipted for the first-ring menu (Issue #1): the Ghost Wolf
 and Cyan Wolves, the Silver Moon Wolf King. **The life-skills renamed:**
 Hunter's Sense · Plain Speech · Mountain Stride · The Tally. Lesson 6
 (RESEARCH FIRST) added to the Foundations. CANON_GROUND receipts 10–14.
+
+## v1.3 — 2026-09-25 — THE COMPLETE FILE SET (F4)
+
+The author's strike: *"Where others All file of this project, because i
+clearly said to create all."* The inventory completed against the
+architecture whole: `foundation/SERIAL_LOG.md` (the work journal);
+`foundation/CANON_STUDY_BEAST_TYPE.md` (the beast-type study made
+permanent — possession, the body laws, the White Tiger ring template, the
+wolf receipts); `tools/style_gate_ci_draft.yml` (CI, held for a
+workflow-scoped token); the FULL edition generator in the pipeline; and
+Release v0.1.0 — the foundations bundle.

@@ -20,8 +20,7 @@
 
 ## Pipeline
 
-`python3 tools/run_all.py` — manuscript sync → style gate → site →
-**panel check** (the drift guard: every 「...」 line diffed against
+`python3 tools/run_all.py` — manuscript sync (+ FULL edition) → style gate → site → **panel check** (the drift guard: every 「...」 line diffed against
 `foundation/PANELS.md`; a frozen or stale meter fails the build). After
 it: commit and push (Pages serves `/docs` on main).
 
