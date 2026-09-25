@@ -22,6 +22,7 @@ is Low — and every grade is a current reading that can rise.
 bloodline expressed, so it unlocks with the soul itself (night one: 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame」 — the line's name for their own grey wolf blood, OURS, no canon breed claimed). The Ye line's old, thin wolf — his father's soul and his grandfather's before that. Grows on living and on the ring's
 years; feeds the blood and body; never purchasable; no ceiling.
 **The ring's blood (F10)** — a soul ring seats the slain beast's bloodline too: the kill's blood enters with the ring and the line opens the night of the absorption, one part at the open, deepening on its ring's years (receipts 18–19). The Ghost Wolf line seated with the first ring — 「Bloodline — Ghost Wolf: 1% · the ghost-line: the patient hunt, the quiet step, the seen-late」 — the second seat, filled the night it opened. Seats open by the Slots line, the same count as every list.
+**The ring's grant (F11)** — what a soul ring gives, complete, the night it seats: the skill (the beast's signature); the rank gift (a level for a ring — canon's rule, bigger rings more); the soul's upgrade (the martial soul itself deepens); the body flood (the pool, the pathways, the vitality); the blood (F10); the years (the skill's scale — and ours age); the title (no ring, no rank). Receipt 20.
 
 **Innate soul power** — the starting level measured at the awakening
 ceremony (~age 6). Full = 10, once-a-century; rank 1 = poor talent,

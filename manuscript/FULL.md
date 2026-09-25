@@ -469,7 +469,7 @@ The yellow ring came to him across the water at his pulling, slow, patient, and 
 
 The lines printed cold and quiet in the dark behind his eyes, one after another, and he was a Soul Master, at ten, sitting in the black pools country with his father's hand flat on his back — the whole lesson, both halves of it, finished.
 
-The gains came in over the hours of that day, as freight comes off a dock: the pool itself deepened and darkened, fed at the bottom by the old wolf's cold; the body took its vitality as meat takes salt, slowly, permanently. And the second seat stood open in him where there had been one, and The Hunter's Craft went into it unasked, as a hand goes home to a familiar tool, and seated, and began quietly to run.
+The gains came in over the hours of that day, as freight comes off a dock: the pool itself deepened and darkened, fed at the bottom by the old wolf's cold; the body took its vitality as meat takes salt, slowly, permanently. The level came too, and it came twice: one rank of banked water through the door the ring had opened, and one more atop it that was the ring's own. A level for a ring — the beast's hundred and twenty years of cultivation, paid in at the seating — the continent's oldest arithmetic. And the second seat stood open in him where there had been one, and The Hunter's Craft went into it unasked, as a hand goes home to a familiar tool, and seated, and began quietly to run.
 
 And with the evening, one more thing arrived, cold and plain, one silent word set in his mind with a skill's weight to it, the second word of its kind in his life: *fade.*
 
@@ -488,7 +488,7 @@ His mother checked his hands herself, both of them, turning them over in the doo
 And that night, in the loft, at the gate of the thing that had happened, he looked, and the ledger gave him the whole of it, every line, as it did at every gate he had ever crossed.
 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
-> 「Level — 11 · Soul Master · the door open」
+> 「Level — 12 · Soul Master · the door open · the ring's gift」
 > 「Slots: 2 / 2 / 2」
 > 「Soul Ring — Ghost Wolf: 120 years · yellow · aging」
 > 「Technique — Basic Soul Power Cultivation: 49% · the engine, passive · Low」
@@ -504,7 +504,7 @@ And that night, in the loft, at the gate of the thing that had happened, he look
 > 「The Tally: 36%」
 > 「Spear: 24%」
 
-Two lines of blood now: the one he was born to, and the one he had taken.
+Two lines of blood now: the one he was born to, and the one he had taken. The level line held the day's other gift: twelve, with the ring's own rank inside it.
 
 He audited it, line by line, and found it honest, and found himself smiling at the ring's line in particular. A hundred and twenty, it said, and then, underneath the number, in the manner of ledgers and nothing else in this world, the quiet note that the number was not going to stand still.
 

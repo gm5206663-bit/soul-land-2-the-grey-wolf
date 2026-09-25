@@ -1,8 +1,9 @@
 # THE GREY WOLF — a Soul Land 2 fan fiction
 
 > **Era:** Soul Land II: The Unrivaled Tang Sect · **Beside canon:** the
-> same years as Huo Yuhao · **Status:** Chapter 1 written — the serial
-> has begun.
+> same years as Huo Yuhao · **Status:** four chapters written — Arc 1
+> (Grey Ridge) complete; releases through v0.5.x; Arc 2 (the road to
+> Shrek) next, at the author's word.
 
 A man who counted things for a living dies on Earth, and is born again on
 the Douluo Continent with a thousand stories in his head — including the

@@ -9,7 +9,7 @@ method, and the Ledger waking that night with the FULL panel — the engine
 slotted before he sleeps. Then the quiet years: the passive nights, the
 hunts with his father, the wolf's releases growing, the craft counting,
 the forest's edge learned by a mind that knows exactly what sleeps deeper
-in. **Climax — WRITTEN (Ch 4): the hunt at the black pools — the Ghost Wolf, 120, taken; the ring seating, AGING; the kill's blood seating with it (F10 — the ghost-line, one part at its open); the second
+in. **Climax — WRITTEN (Ch 4): the hunt at the black pools — the Ghost Wolf, 120, taken; the ring seating, AGING; the kill's blood seating with it (F10 — the ghost-line, one part at its open); the ring's own rank gift (level 12 — F11); the second
 skill arriving, the slots doubling.
 
 ## ARC 2 — THE ROAD TO SHREK (age 11)

@@ -167,6 +167,41 @@ canon ground are marked [CARRIED].
     ring's years. The system counts what enters; the author rules where
     it seats.
 
+20. **THE RING'S FULL GRANT (F11's verification — what a soul ring IS and
+    gives, completely).** WHAT IT IS: the beast's lifetime cultivation
+    condensed at death into the ring, risen from the corpse, drawn in and
+    absorbed by the killer (the kill by one's own hand). WHAT IT GIVES,
+    ALL OF IT, THE NIGHT IT SEATS: **(1) THE SKILL** — the beast's
+    signature ability, one per ring (Tang San's first: the vine that
+    entangles and binds, "paralyzing them via poison"; ours: Netherlight,
+    *fade.*). **(2) THE RANK GIFT** — canon's rule, verbatim: "Normally,
+    absorbing a soul ring raises a spirit master's level by only one";
+    Tang San's own first ring: level 10 becomes "Level 11 One Ring" at
+    422 years (Episodes 007-008); bigger rings give more (a 2,000-year
+    cypress "increased his... power by three levels at once"; "Red Rings
+    are capable of allowing Titled Douluos to break through 2-5 ranks").
+    OURS: the 120-year Ghost Wolf paid level 12 — eleven the banked water
+    through the opened door, twelve the ring's own. **(3) THE SOUL'S
+    UPGRADE** — "his upgraded Blue Silver Grass... gave him both
+    toughness and poison": the martial soul itself grows with every ring
+    seated. **(4) THE BODY FLOOD** — the absorption's influx widens and
+    hardens the spirit pathways and deepens the pool ("widened to the
+    extreme... they hardened themselves, while being wider than they were
+    ever before"). **(5) THE BLOOD** — the slain beast's line seated
+    (F10, receipts 18-19). **(6) THE YEARS** — "The older the Spirit Ring
+    was, the stronger the Spirit Skill would become"; the color ladder
+    (white 10 / yellow 100 / purple 1,000 / black 10,000 / red 100,000);
+    the first-ring limit: "the acceptable limit of the 1st Spirit Ring
+    should be 423 years" (Yu Xiaogang), said again as "around 420 years";
+    and the continent's norm: "Under normal circumstances, they will
+    choose a hundred-year spirit ring to start" — ours at 120 years is
+    the continent's own normal start, well inside the limit. **(7) THE
+    TITLE** — the ring makes the rank true (one ring: Soul Master; the
+    bottleneck law, receipt 2). OURS BEYOND CANON (the signature,
+    PROPOSED): the ring AGES in its seat. (fandom Episodes 007/008 and
+    Datura Snake; the rank-gift rule as canon-quoted in the wild; the
+    color ladder twice-said; the older-ring-stronger rule.)
+
 ## The rules of the ground
 
 - The anime and the novel reorder things — **we never do.** The receipts

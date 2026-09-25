@@ -109,7 +109,7 @@ The full block, as `STATUS.md` carries it:
 | 「Slots: 2 / 2 / 2」 | 〃 — the rank-up, every list |
 | 「Level — 11」 | 〃 — the door open, the banked water moving |
 | 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE GATE PANEL — the hunt's gate night, every line complete |
-| 「Level — 11 · Soul Master · the door open」 | 〃 |
+| 「Level — 12 · Soul Master · the door open · the ring's gift」 | 〃 — 11 the banked water; 12 the ring's own gift (F11) |
 | 「Slots: 2 / 2 / 2」 | 〃 |
 | 「Soul Ring — Ghost Wolf: 120 years · yellow · aging」 | 〃 — the number not going to stand still |
 | 「Technique — Basic Soul Power Cultivation: 49% · the engine, passive · Low」 | 〃 |

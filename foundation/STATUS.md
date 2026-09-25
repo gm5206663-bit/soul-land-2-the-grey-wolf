@@ -45,7 +45,7 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 4 — THE HUNT, Arc 1 complete. Ye Cang is a SOUL MASTER at ten: the Ghost Wolf ring seated (120 years, yellow, **AGING**), slots 2/2/2, level 11 with the door open and the banked water moving, the craft seated in the second slot, Netherlight arrived (*fade.*), and the Ghost Wolf bloodline seated with the ring — the second line of blood, one part at its open (F10). The gate panel (Chapter 4's close) is the current reading. One year to the boy with spirit eyes and the road to Shrek.
+**Story position:** after Chapter 4 — THE HUNT, Arc 1 complete. Ye Cang is a SOUL MASTER at ten: the Ghost Wolf ring seated (120 years, yellow, **AGING**), slots 2/2/2, level 12 with the door open (eleven the banked water arriving, twelve the ring's own gift — F11), the water still moving, the craft seated in the second slot, Netherlight arrived (*fade.*), and the Ghost Wolf bloodline seated with the ring — the second line of blood, one part at its open (F10). The gate panel (Chapter 4's close) is the current reading. One year to the boy with spirit eyes and the road to Shrek.
 
 | List | State |
 |---|---|
@@ -55,7 +55,7 @@ Read honestly, the way he reads it that night:
 | Bloodline | Grey Wolf 31% · ice · Low · the body-line (the card below; the ring's essence feeding it) |
 | Skills | The Wolf 40% · Mid (innate — possession; whole mornings) · **Netherlight 1% · Mid (the ring's gift — the speed surge, the blow sliding off; fade.)** |
 | Life-skills | Hunter's Sense 38 · Stillness 24 · Plain Speech 29 · Mountain Stride 32 · The Tally 36 · Spear 24 (the kill on it) · (others surface as the counting does) |
-| Level | **11 — Soul Master (Ch 4, age 10: the door opened by the ring; the banked water arriving home, level after level)** — the engine pouring through the teens now |
+| Level | **12 — Soul Master (Ch 4, age 10: 11 the banked water through the door the ring opened; 12 the ring's own gift — a level for a ring, canon's rule, F11)** — the engine pouring through the teens now |
 
 ## THE FORWARD MAP (what joins when)
 

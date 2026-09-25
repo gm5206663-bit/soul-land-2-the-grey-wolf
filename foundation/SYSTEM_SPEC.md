@@ -31,7 +31,18 @@ ledger and is updated the same turn any number moves; the drift guard
   24/7, at his best**; learned-once, free-switch; seen once, learnable.
 - **Soul Rings** (slotted): one seat per rank; a ring seats the night of
   its absorption and **AGES in its seat** (the Aging Law — the signature:
-  in canon a ring's years are fixed at the kill; his grow).
+  in canon a ring's years are fixed at the kill; his grow). **THE RING'S
+  FULL GRANT (F11, receipt 20) — everything a ring gives, counted the
+  night it seats:** the SKILL (the beast's signature, one per ring, its
+  own incantation); the RANK GIFT (canon's rule: a level for a ring,
+  bigger rings more — the 120-year ring paid level 12); the SOUL'S
+  UPGRADE (the martial soul itself deepens with every ring seated); the
+  BODY FLOOD (the pool deepened, the pathways widened and hardened, the
+  vitality); the BLOOD (F10 — the slain beast's line seated); the YEARS
+  (the ring's age is the skill's scale; white 10 / yellow 100 / purple
+  1,000 / black 10,000 / red 100,000; the first-ring limit ~420 years;
+  ours at 120 — the continent's normal start); the TITLE (no ring, no
+  rank — the bottleneck law).
 - **Soul Bones** (slotted): as canon; seats by the same count.
 - **Bloodline** (slotted, the fourth list): unlocks the moment a bloodline
   exists — and for a beast-type soul the blood exists with the soul itself:

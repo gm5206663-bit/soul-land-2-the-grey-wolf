@@ -168,3 +168,21 @@ one he had taken."); the Ghost Wolf card in STATUS; the seats law fixed
 to the Slots line everywhere it was said wrong; receipt 13 extended with
 the ghost's whole canon (green eyes, the lightning mark, the golden
 lock, the patience verbatim).
+
+## v1.11 — 2026-09-26 — THE RING'S FULL GRANT (F11)
+
+The author's strike ("what soul ring gives completely everything"), the
+map researched whole at his order (receipt 20): a soul ring is the
+beast's lifetime cultivation condensed, and it gives EVERYTHING the
+night it seats — the skill; the rank gift (canon's own rule: "Normally,
+absorbing a soul ring raises a spirit master's level by only one" —
+Tang San's own first ring took him 10 to 11 at 422 years); the soul's
+upgrade ("his upgraded Blue Silver Grass... toughness and poison"); the
+body flood (the pathways widened and hardened); the blood (F10); the
+years (the skill's scale; the color ladder; the ~420-year first-ring
+limit; the continent's normal hundred-year start — ours at 120); the
+title. THE FIX: the rank gift now counted — Chapter 4's gate level 11
+to 12 (eleven the banked water, twelve the ring's own); the ring law
+rewritten whole in SYSTEM_SPEC; and the repo-wide audit the author
+ordered caught the stale public README ("Chapter 1 written" with four
+chapters shipped) — refreshed. run_all green.
