@@ -230,6 +230,35 @@ canon ground are marked [CARRIED].
     an all-hours engine put a rank-one boy. THE NERF LIMIT: the wall is
     canon; the crawl between walls is not.
 
+22. **THE HONEST YIELD (F13 — the meters must pay the hours).** The
+    author's arithmetic, and it is just: TWO slotted techniques, both
+    passive around the clock — the engine and the craft together bank
+    more than forty years of a normal person's part-time practice inside
+    five years, and a meter that reads halfway after that is a meter
+    lying about its own law. Canon's own pace receipts agree: Tang San's
+    Mysterious Heaven Skill "had already cultivated up to the bottleneck"
+    by ring day at twelve — a genius on a top-tier sect method,
+    part-time, six years (novel v4); a plain county method is a smaller
+    thing than that. And the system's own laws were already written and
+    unfulfilled: the Upgrade Law ("100% is a gate, never a resting
+    state") had never fired in four chapters, and §8's own rule — "a
+    technique's 100% upgrade opens the next stage AND ITS GRADE with it"
+    — was never applied. THE CORRECTIONS: the ENGINE (Basic Soul Power
+    Cultivation) mastered the FIRST MIDWINTER of year one — the FIRST
+    UPGRADE, the method reopening as Stage Two, grade Low to Mid; Stage
+    Two 84% at the Ch 4 gate; Stage Three in the pouring year. The CRAFT
+    mastered AT THE KILL itself (the performed mistake was the
+    graduation) — the upgrade fired on the kill, Stage Two seating with
+    the rank-up, grade Low to Mid. The meters re-derived whole (wolf 52,
+    grey blood 36 and climbing, the life-list lifted). THE POOL'S
+    QUALITY: dense, dark, and pure for its rank — the reborn mind's
+    discipline (a grown reader of a thousand systems wastes no hour and
+    no motion), the all-hours circulation, two bloodlines feeding it;
+    rank for rank, more than the rank says. THE BLOODLINES LIVE: not
+    names — the grey line climbing toward the forties on the ring's
+    essence, the ghost line climbing toward the mid-teens on the ring's
+    aging years.
+
 ## The rules of the ground
 
 - The anime and the novel reorder things — **we never do.** The receipts

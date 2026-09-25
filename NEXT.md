@@ -5,9 +5,9 @@
 | # | Title | Words | Band | State at close |
 |---|---|---|---|---|
 | 1 | The Grey Wolf | 2,874 | IN | level 1 · the full panel night one · the engine at 2% by dawn · the beast RULED: the Ghost Wolf, ~120y · five winters to the book's first page |
-| 2 | The Quiet Climb | 2537 | IN | level 9 at seven (the honest pace) · engine 22% · wolf 9% · blood 12% · the grades on every line · Stillness surfaced · the wall a season out |
-| 3 | The Wall | 2,528 | IN | level 10 held three years · engine 47% · craft 44% · wolf 38% · blood 27% · Spear 21% · the first sighting · **the hunt set: this autumn** |
-| 4 | The Patient Kind | 2,603 | IN | **THE RING** — Soul Master at ten · Ghost Wolf 120y, yellow, AGING · 2/2/2 · level 12 (the ring's gift), the door open · the craft seated · Netherlight (fade.) · the ghost-line seated (F10, 1%) · one year to Shrek's road |
+| 2 | The Quiet Climb | 2644 | IN | level 9 at seven (the honest pace) · the engine MASTERED at midwinter — the FIRST UPGRADE (Stage Two 34% by year-end) · craft 55% · wolf 12% · blood 14% · the grades on every line · Stillness surfaced · the wall a season out |
+| 3 | The Wall | 2532 | IN | level 10 held three years · engine Stage Two 71% · craft 78% (the kill will graduate it) · wolf 41% · blood 29% · Spear 25% · the first sighting · **the hunt set: this autumn** |
+| 4 | The Patient Kind | 2641 | IN | **THE RING** — Soul Master at ten · Ghost Wolf 120y, yellow, AGING · 2/2/2 · level 12 (the ring's gift), the door open · the craft mastered at the kill (Stage Two, grade Mid) and seated · engine Stage Two 84% · wolf 52% · blood 36% · Netherlight (fade.) · the ghost-line seated (F10, 1%) · one year to Shrek's road |
 
 
 ## The author's hand (gates)

@@ -45,17 +45,22 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 4 — THE HUNT, Arc 1 complete. Ye Cang is a SOUL MASTER at ten: the Ghost Wolf ring seated (120 years, yellow, **AGING**), slots 2/2/2, level 12 with the door open (eleven the banked water arriving, twelve the ring's own gift — F11), the water still moving, the craft seated in the second slot, Netherlight arrived (*fade.*), and the Ghost Wolf bloodline seated with the ring — the second line of blood, one part at its open (F10). The gate panel (Chapter 4's close) is the current reading. One year to the boy with spirit eyes and the road to Shrek.
+**Story position:** after Chapter 4 — THE HUNT, Arc 1 complete. Ye Cang is a SOUL MASTER at ten: the Ghost Wolf ring seated (120 years, yellow, **AGING**), slots 2/2/2, level 12 with the door open (eleven the banked water arriving, twelve the ring's own gift — F11), the water still moving, the craft seated in the second slot, Netherlight arrived (*fade.*), and the Ghost Wolf bloodline seated with the ring — the second line of blood, one part at its open (F10). The meters honest to the hours at last (F13): engine and craft both past their first Upgrades, the bloods climbing, the pool dense and dark for its rank. The gate panel (Chapter 4's close) is the current reading. One year to the boy with spirit eyes and the road to Shrek.
 
 | List | State |
 |---|---|
-| Techniques | 2 seats: Basic Soul Power Cultivation (engine, Low) — **49% (Ch 4 gate)** · **The Hunter's Craft 47% — SEATED, slot 2** |
+| Techniques | 2 seats: **Basic Soul Power Cultivation — Stage Two (engine, Mid): 84%** (mastered the first midwinter — the FIRST UPGRADE) · **The Hunter's Craft — Stage Two (Mid): 6%, SEATED slot 2** (mastered at the kill — the upgrade fired on it) |
 | Soul Rings | 1 seat: **Ghost Wolf, 120 years, yellow — AGING** (the hunt, Ch 4; the number not going to stand still) |
 | Soul Bones | 0 seats |
-| Bloodline | Grey Wolf 31% · ice · Low · the body-line (the card below; the ring's essence feeding it) |
-| Skills | The Wolf 40% · Mid (innate — possession; whole mornings) · **Netherlight 1% · Mid (the ring's gift — the speed surge, the blow sliding off; fade.)** |
-| Life-skills | Hunter's Sense 38 · Stillness 24 · Plain Speech 29 · Mountain Stride 32 · The Tally 36 · Spear 24 (the kill on it) · (others surface as the counting does) |
+| Bloodline | Grey Wolf 36% · ice · Low · the body-line (the card below; the ring's essence feeding it — climbing, not a name) · **Ghost Wolf 1% · Low** (the kill's blood, seated with the ring — climbing on the ring's aging years) |
+| Skills | The Wolf 52% · Mid (innate — possession; the hunt the deepest release yet) · **Netherlight 1% · Mid (the ring's gift — the speed surge, the blow sliding off; fade.)** |
+| Life-skills | Hunter's Sense 46 · Stillness 31 · Plain Speech 33 · Mountain Stride 39 · The Tally 44 · Spear 29 (the kill on it) · (others surface as the counting does) |
 | Level | **12 — Soul Master (Ch 4, age 10: 11 the banked water through the door the ring opened; 12 the ring's own gift — a level for a ring, canon's rule, F11)** — the engine pouring through the teens now |
+
+**The pool's quality (F13):** dense, dark, and pure for its rank — the
+reborn mind's discipline (no wasted hour, no wasted motion, the method
+cut to its bones), the all-hours circulation, two bloodlines feeding it.
+Rank for rank, more than the rank says.
 
 ## THE FORWARD MAP (what joins when)
 
@@ -72,6 +77,10 @@ Read honestly, the way he reads it that night:
   (F11). Slots to 3/3/3 at Soul Elder; the second skill seats with the
   ring; the third technique seat stands open until something true fills
   it.
+- The meters' road (F13): the engine's Stage Two masters in the pouring
+  year — the SECOND UPGRADE (Stage Three) near the leaving; the ghost
+  line climbs toward the mid-teens on the ring's aging; the grey line
+  toward the forties; the craft's Stage Two deepens seated.
 - Age ~11: the road to Shrek City — arriving at the gates at **level 21,
   two yellow rings, eleven years old**, the top of the freshman class on
   honest hours — the entrance exam, the freshman year beside Huo Yuhao,
@@ -111,8 +120,8 @@ Read honestly, the way he reads it that night:
 | The Wolf (the martial soul) | **Mid** (Ordinary) | the quality ladder, receipt 17 |
 | The Wolf (the skill — possession) | **Mid** | the soul's own expression |
 | Netherlight (the first ring's skill) | **Mid** | a hundred-and-twenty-year beast's signature light |
-| Basic Soul Power Cultivation (the engine) | **Low** (Waste) | the county's plain method |
-| The Hunter's Craft | **Low** | a village art |
+| Basic Soul Power Cultivation (the engine) | **Mid** | the county's plain method, mastered and reopened — the grade rose at the FIRST UPGRADE (§8's own law, F13) |
+| The Hunter's Craft | **Mid** | mastered at the kill — the grade rose with the upgrade (F13) |
 | The Grey Wolf bloodline | **Low** | an old, thin line — honest reading |
 | The Ghost Wolf bloodline | **Low** | the kill's blood at one part — the opening reading (F10) |
 

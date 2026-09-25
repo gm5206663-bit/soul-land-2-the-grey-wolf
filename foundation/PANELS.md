@@ -69,18 +69,19 @@ The full block, as `STATUS.md` carries it:
 | Panel | Beat |
 |---|---|
 | 「Level — 4」 | midwinter — the beat panel, short: the water standing higher |
+| 「Technique — Basic Soul Power Cultivation: 100% · STAGE TWO」 | the FIRST UPGRADE — the method reopening at its top, the grade rising with it (F13) |
 | 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE YEAR LIST — the anniversary, every line complete |
 | 「Level — 9 · innate 1」 | 〃 |
 | 「Slots: 1 / 1 / 1」 | 〃 |
-| 「Technique — Basic Soul Power Cultivation: 22% · the engine, passive · Low」 | 〃 |
-| 「Technique — The Hunter's Craft: 19% · parked, unslotted · Low」 | 〃 |
-| 「Skill — The Wolf: 9% · possession · strength, speed, senses, claws · Mid」 | 〃 |
-| 「Bloodline — Grey Wolf: 12% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
-| 「Hunter's Sense: 19%」 | 〃 |
-| 「Stillness: 6%」 | the new line — surfaced the night the thorn thicket taught it |
-| 「Plain Speech: 23%」 | 〃 |
-| 「Mountain Stride: 15%」 | 〃 |
-| 「The Tally: 29%」 | 〃 |
+| 「Technique — Basic Soul Power Cultivation — Stage Two: 34% · the engine, passive · Mid」 | 〃 |
+| 「Technique — The Hunter's Craft: 55% · parked, unslotted · Low」 | 〃 |
+| 「Skill — The Wolf: 12% · possession · strength, speed, senses, claws · Mid」 | 〃 |
+| 「Bloodline — Grey Wolf: 14% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
+| 「Hunter's Sense: 22%」 | 〃 |
+| 「Stillness: 8%」 | the new line — surfaced the night the thorn thicket taught it |
+| 「Plain Speech: 25%」 | 〃 |
+| 「Mountain Stride: 18%」 | 〃 |
+| 「The Tally: 32%」 | 〃 |
 
 ### Chapter 3 — The Wall (ages 7→10, the wall years)
 
@@ -90,16 +91,16 @@ The full block, as `STATUS.md` carries it:
 | 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE HUNT-YEAR GATE — the eve panel, every line complete |
 | 「Level — 10 · innate 1 · the wall, held three years」 | 〃 |
 | 「Slots: 1 / 1 / 1」 | 〃 |
-| 「Technique — Basic Soul Power Cultivation: 47% · the engine, passive · Low」 | 〃 |
-| 「Technique — The Hunter's Craft: 44% · parked, unslotted · Low」 | 〃 |
-| 「Skill — The Wolf: 38% · possession · strength, speed, senses, claws · Mid」 | 〃 |
-| 「Bloodline — Grey Wolf: 27% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
-| 「Hunter's Sense: 36%」 | 〃 |
-| 「Stillness: 22%」 | 〃 |
+| 「Technique — Basic Soul Power Cultivation — Stage Two: 71% · the engine, passive · Mid」 | 〃 |
+| 「Technique — The Hunter's Craft: 78% · parked, unslotted · Low」 | 〃 |
+| 「Skill — The Wolf: 41% · possession · strength, speed, senses, claws · Mid」 | 〃 |
+| 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
+| 「Hunter's Sense: 40%」 | 〃 |
+| 「Stillness: 26%」 | 〃 |
 | 「Plain Speech: 29%」 | 〃 |
-| 「Mountain Stride: 31%」 | 〃 |
-| 「The Tally: 35%」 | 〃 |
-| 「Spear: 21%」 | 〃 — five years of blisters |
+| 「Mountain Stride: 35%」 | 〃 |
+| 「The Tally: 40%」 | 〃 |
+| 「Spear: 25%」 | 〃 — five years of blisters |
 
 ### Chapter 4 — The Patient Kind (age 10, THE HUNT)
 
@@ -112,18 +113,18 @@ The full block, as `STATUS.md` carries it:
 | 「Level — 12 · Soul Master · the door open · the ring's gift」 | 〃 — 11 the banked water; 12 the ring's own gift (F11) |
 | 「Slots: 2 / 2 / 2」 | 〃 |
 | 「Soul Ring — Ghost Wolf: 120 years · yellow · aging」 | 〃 — the number not going to stand still |
-| 「Technique — Basic Soul Power Cultivation: 49% · the engine, passive · Low」 | 〃 |
-| 「Technique — The Hunter's Craft: 47% · seated, the second slot · Low」 | 〃 — the craft home |
-| 「Skill — The Wolf: 40% · possession · strength, speed, senses, claws · Mid」 | 〃 |
+| 「Technique — Basic Soul Power Cultivation — Stage Two: 84% · the engine, passive · Mid」 | 〃 |
+| 「Technique — The Hunter's Craft — Stage Two: 6% · seated, the second slot · Mid」 | 〃 — mastered at the kill, the upgrade fired on it; the craft home |
+| 「Skill — The Wolf: 52% · possession · strength, speed, senses, claws · Mid」 | 〃 |
 | 「Skill — Netherlight: 1% · the speed surge, the blow sliding off · Mid」 | 〃 — the ring's gift, its word fade. |
-| 「Bloodline — Grey Wolf: 31% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
+| 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
 | 「Bloodline — Ghost Wolf: 1% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」 | 〃 — the kill's blood seated with the ring (F10) |
-| 「Hunter's Sense: 38%」 | 〃 |
-| 「Stillness: 24%」 | 〃 |
-| 「Plain Speech: 29%」 | 〃 |
-| 「Mountain Stride: 32%」 | 〃 |
-| 「The Tally: 36%」 | 〃 |
-| 「Spear: 24%」 | 〃 — the kill on it |
+| 「Hunter's Sense: 46%」 | 〃 |
+| 「Stillness: 31%」 | 〃 |
+| 「Plain Speech: 33%」 | 〃 |
+| 「Mountain Stride: 39%」 | 〃 |
+| 「The Tally: 44%」 | 〃 |
+| 「Spear: 29%」 | 〃 — the kill on it |
 
 ## The law of this file
 

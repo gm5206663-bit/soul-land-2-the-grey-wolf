@@ -70,7 +70,10 @@ ledger and is updated the same turn any number moves; the drift guard
    six years.
 2. **THE UPGRADE LAW** — the moment a meter touches 100%, the technique
    upgrades to its next stage, immediately, in place. 100% is a gate,
-   never a resting state. The named method IS the next stage.
+   never a resting state. The named method IS the next stage. (Firings
+   to date, F13: the ENGINE at the first midwinter — the county's plain
+   method reopened as Stage Two, its grade rising with it; the CRAFT at
+   the kill — Stage Two, seated the same night.)
 3. **THE VARIED-PACE LAW** — every skill and technique is different; each
    takes its own time, at its own pace, for its own reasons. No two meters
    alike.
@@ -79,7 +82,10 @@ ledger and is updated the same turn any number moves; the drift guard
    vitality, a bloodline. A meter never freezes while its feeders grow.
 5. **THE ACQUISITION LAW** — seen once, learnable. The world's roads only.
 6. **THE PASSIVE LAW** — slotted techniques run 24/7 at his best, awake
-   and asleep.
+   and asleep. The hours actually run are the hours that count: two
+   slotted techniques through five years bank decades of a part-time
+   practitioner's practice, and the meters pay it (F13 — the honest
+   yield).
 7. **THE AGING LAW** — rings age in their seats (his strength, the ring's
    own potential, the bloodline, what the world weighs), and everything
    seated on a ring deepens with it — the skill keeps its identity, its

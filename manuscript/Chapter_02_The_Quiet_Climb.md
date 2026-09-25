@@ -40,6 +40,10 @@ In the second month of winter, lying in the loft with the engine turning over in
 
 > 「Level — 4」
 
+And that same night, for the first time, a second line printed under the level's: the engine's own count, standing at one hundred. It did not rest there. The method reopened under him as it touched its top — a road becoming a road again past a bridge — and what had been the county's plain method came back deeper, and its grade rose with it, and the engine settled into the deeper water and went on. He had read a thousand systems in another life. He knew what a gate was.
+
+> 「Technique — Basic Soul Power Cultivation: 100% · STAGE TWO」
+
 He lay still and did the professional arithmetic, because it was the only luxury he had ever been able to afford in either life.
 
 The county method, as taught, was an hour a day: the examiner had said so, and every soul in every village on the continent sat their hour and rose and went to work. An hour a day, for a rank-one soul on poor food, was two levels in a year, three in a lucky one. He knew that number from the inside, because he had read this world's book twice: the rank-one boy in it, alone and unfed in a rich man's house, had climbed from one to the wall at ten in three years of exactly that hour.
@@ -97,15 +101,15 @@ The ninth level came up in the night near the end of summer, like a boat coming 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 9 · innate 1」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation: 22% · the engine, passive · Low」
-> 「Technique — The Hunter's Craft: 19% · parked, unslotted · Low」
-> 「Skill — The Wolf: 9% · possession · strength, speed, senses, claws · Mid」
-> 「Bloodline — Grey Wolf: 12% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
-> 「Hunter's Sense: 19%」
-> 「Stillness: 6%」
-> 「Plain Speech: 23%」
-> 「Mountain Stride: 15%」
-> 「The Tally: 29%」
+> 「Technique — Basic Soul Power Cultivation — Stage Two: 34% · the engine, passive · Mid」
+> 「Technique — The Hunter's Craft: 55% · parked, unslotted · Low」
+> 「Skill — The Wolf: 12% · possession · strength, speed, senses, claws · Mid」
+> 「Bloodline — Grey Wolf: 14% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Hunter's Sense: 22%」
+> 「Stillness: 8%」
+> 「Plain Speech: 25%」
+> 「Mountain Stride: 18%」
+> 「The Tally: 32%」
 
 He audited it line by line, because auditing was how he slept.
 

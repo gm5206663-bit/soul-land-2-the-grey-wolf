@@ -68,7 +68,7 @@ The yellow ring came to him across the water at his pulling, slow, patient, and 
 
 The lines printed cold and quiet in the dark behind his eyes, one after another, and he was a Soul Master, at ten, sitting in the black pools country with his father's hand flat on his back — the whole lesson, both halves of it, finished.
 
-The gains came in over the hours of that day, as freight comes off a dock: the pool itself deepened and darkened, fed at the bottom by the old wolf's cold; the body took its vitality as meat takes salt, slowly, permanently. The level came too, and it came twice: one rank of banked water through the door the ring had opened, and one more atop it that was the ring's own. A level for a ring — the beast's hundred and twenty years of cultivation, paid in at the seating — the continent's oldest arithmetic. And the second seat stood open in him where there had been one, and The Hunter's Craft went into it unasked, as a hand goes home to a familiar tool, and seated, and began quietly to run.
+The gains came in over the hours of that day, as freight comes off a dock: the pool itself deepened and darkened, fed at the bottom by the old wolf's cold; the body took its vitality as meat takes salt, slowly, permanently. The level came too, and it came twice: one rank of banked water through the door the ring had opened, and one more atop it that was the ring's own. A level for a ring — the beast's hundred and twenty years of cultivation, paid in at the seating — the continent's oldest arithmetic. The craft's own count, which had stood at its top since the cedar, went over at the kill itself and reopened deeper — Stage Two before the seat that took it. And the second seat stood open in him where there had been one, and The Hunter's Craft went into it unasked, as a hand goes home to a familiar tool, and seated, and began quietly to run.
 
 And with the evening, one more thing arrived, cold and plain, one silent word set in his mind with a skill's weight to it, the second word of its kind in his life: *fade.*
 
@@ -90,18 +90,18 @@ And that night, in the loft, at the gate of the thing that had happened, he look
 > 「Level — 12 · Soul Master · the door open · the ring's gift」
 > 「Slots: 2 / 2 / 2」
 > 「Soul Ring — Ghost Wolf: 120 years · yellow · aging」
-> 「Technique — Basic Soul Power Cultivation: 49% · the engine, passive · Low」
-> 「Technique — The Hunter's Craft: 47% · seated, the second slot · Low」
-> 「Skill — The Wolf: 40% · possession · strength, speed, senses, claws · Mid」
+> 「Technique — Basic Soul Power Cultivation — Stage Two: 84% · the engine, passive · Mid」
+> 「Technique — The Hunter's Craft — Stage Two: 6% · seated, the second slot · Mid」
+> 「Skill — The Wolf: 52% · possession · strength, speed, senses, claws · Mid」
 > 「Skill — Netherlight: 1% · the speed surge, the blow sliding off · Mid」
-> 「Bloodline — Grey Wolf: 31% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
 > 「Bloodline — Ghost Wolf: 1% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」
-> 「Hunter's Sense: 38%」
-> 「Stillness: 24%」
-> 「Plain Speech: 29%」
-> 「Mountain Stride: 32%」
-> 「The Tally: 36%」
-> 「Spear: 24%」
+> 「Hunter's Sense: 46%」
+> 「Stillness: 31%」
+> 「Plain Speech: 33%」
+> 「Mountain Stride: 39%」
+> 「The Tally: 44%」
+> 「Spear: 29%」
 
 Two lines of blood now: the one he was born to, and the one he had taken. The level line held the day's other gift: twelve, with the ring's own rank inside it.
 

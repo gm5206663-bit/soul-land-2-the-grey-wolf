@@ -15,7 +15,7 @@ souls hold the advantage before level 30 (receipt 11); the **True Body**
 **The grade ladder** — rank in everything (F9, canon-verified): **Low
 (Waste) / Mid (Ordinary) / High (Excellent) / Top (Top-tier) / Ultimate
 (Divine — the Extreme road: canon defines Extreme Ice at −150°C and
-below)**. The Wolf is Mid; the engine and the craft are Low; the bloodline
+below)**. The Wolf is Mid; the engine and the craft are Mid (each raised at its 100% upgrade — §8's own law, F13); the bloodline
 is Low — and every grade is a current reading that can rise.
 
 **The bloodline list** — the fourth list: a beast-type soul is its
