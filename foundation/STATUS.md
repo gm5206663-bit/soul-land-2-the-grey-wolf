@@ -45,17 +45,17 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 4 — THE HUNT, Arc 1 complete. Ye Cang is a SOUL MASTER at ten: the Ghost Wolf ring seated (120 years, yellow, **AGING**), slots 2/2/2, level 12 with the door open (eleven the banked water arriving, twelve the ring's own gift — F11), the water still moving, the craft seated in the second slot, Netherlight arrived (*fade.*), and the Ghost Wolf bloodline seated with the ring — the second line of blood, one part at its open (F10). The meters honest to the hours at last (F13): engine and craft both past their first Upgrades, the bloods climbing, the pool dense and dark for its rank. The gate panel (Chapter 4's close) is the current reading. One year to the boy with spirit eyes and the road to Shrek.
+**Story position:** after Chapter 5 — THE ROAD BEGINS, Arc 2 opened. Ye Cang is a GREAT SOUL MASTER at eleven: the pouring year done (the levels 12 to 19, honest to the engine's hours — F12), the second wall met, the last hunt won — the Stormwind Demon Wolf ring seated (603 years, yellow, **AGING**), the second door open, **level 21** (twenty the banked water, twenty-one the ring's gift — F11), slots **3/3/3**, two rings aging, three lines of blood (the grey 41, the ghost 13, the storm 1), three words (*hunt. fade. run.*), the engine past its SECOND UPGRADE (Stage Three, 9%). The leaving made; the road east begun; a season to Shrek City — the same autumn a boy with spirit eyes walks into a forest far to the east. The road-gate panel (Chapter 5's close) is the current reading.
 
 | List | State |
 |---|---|
-| Techniques | 2 seats: **Basic Soul Power Cultivation — Stage Two (engine, Mid): 84%** (mastered the first midwinter — the FIRST UPGRADE) · **The Hunter's Craft — Stage Two (Mid): 6%, SEATED slot 2** (mastered at the kill — the upgrade fired on it) |
-| Soul Rings | 1 seat: **Ghost Wolf, 120 years, yellow — AGING** (the hunt, Ch 4; the number not going to stand still) |
+| Techniques | 3 seats open, 2 filled: **Basic Soul Power Cultivation — Stage Three (engine, Mid): 9%** (mastered twice — the FIRST UPGRADE at the first midwinter, the SECOND in the pouring year's late summer, in his sleep) · **The Hunter's Craft — Stage Two (Mid): 35%, SEATED slot 2** (mastered at the first kill) · the third seat standing open until something true fills it |
+| Soul Rings | 2 seats: **Ghost Wolf, 131 years, yellow — AGING** (the hunt, Ch 4; a year and a season of turning) · **Stormwind Demon Wolf, 603 years, yellow — AGING** (the last hunt, Ch 5 — six centuries turning) |
 | Soul Bones | 0 seats |
-| Bloodline | Grey Wolf 36% · ice · Low · the body-line (the card below; the ring's essence feeding it — climbing, not a name) · **Ghost Wolf 1% · Low** (the kill's blood, seated with the ring — climbing on the ring's aging years) |
-| Skills | The Wolf 52% · Mid (innate — possession; the hunt the deepest release yet) · **Netherlight 1% · Mid (the ring's gift — the speed surge, the blow sliding off; fade.)** |
-| Life-skills | Hunter's Sense 46 · Stillness 31 · Plain Speech 33 · Mountain Stride 39 · The Tally 44 · Spear 29 (the kill on it) · (others surface as the counting does) |
-| Level | **12 — Soul Master (Ch 4, age 10: 11 the banked water through the door the ring opened; 12 the ring's own gift — a level for a ring, canon's rule, F11)** — the engine pouring through the teens now |
+| Bloodline | **three lines now**: Grey Wolf 41% · ice · Low · the body-line (the forties' edge — the frame arrived as freight) · Ghost Wolf 13% · Low (the quiet step, the seen-late, the patience as a limb) · **Stormwind Demon Wolf 1% · Low** (the storm-line — the fast kind, the wind's stride; the third seat, filled at the kill) |
+| Skills | The Wolf 63% · Mid (innate — possession; the grey worn like the coat, whole mornings) · **Netherlight 18% · Mid** (the cold light arriving before fear — the sledge runner) · **Windstride 1% · Mid (the second ring's gift — the burst that arrives; run.)** |
+| Life-skills | Hunter's Sense 52 · Stillness 37 · Plain Speech 38 · Mountain Stride 46 (the road begun) · The Tally 50 (half a life's craft) · Spear 35 (the father's spear carried now) · (others surface as the counting does) |
+| Level | **21 — Great Soul Master (Ch 5, age 11: the pour 12 to 19 — F12's honest curve; the second wall held a season; ring two — 20 the banked water, 21 the ring's gift — F11; the 21–30 band, canon's title ladder)** — the twenties open now |
 
 **The pool's quality (F13):** dense, dark, and pure for its rank — the
 reborn mind's discipline (no wasted hour, no wasted motion, the method
@@ -71,21 +71,23 @@ Rank for rank, more than the rank says.
   through the year, the engine's own arithmetic (the walls alone are
   ring-gated; between walls the hours are honest — receipt 21), the pool
   decelerating into the second wall and banking behind it.**
-- The second wall (20): ring-gated, absolute — the same law that held the
-  first. The second ring — the last hunt, the beast at the author's word
-  (PROPOSED) — opens it: 20 the banked crossing, 21 the ring's gift
-  (F11). Slots to 3/3/3 at Soul Elder; the second skill seats with the
-  ring; the third technique seat stands open until something true fills
-  it.
+- The second wall (20) — **CROSSED (Ch 5)**: the last hunt at the south
+  crags, the Stormwind Demon Wolf (603, yellow, AGING — the beast at the
+  author's word, PROPOSED); 20 the banked crossing, 21 the gift; slots
+  3/3/3 at GREAT SOUL MASTER (the 21–30 band — the F12 note's "Soul
+  Elder" corrected); Windstride seated with the ring; the third
+  technique seat standing open.
 - The meters' road (F13): the engine's Stage Two masters in the pouring
   year — the SECOND UPGRADE (Stage Three) near the leaving; the ghost
   line climbs toward the mid-teens on the ring's aging; the grey line
   toward the forties; the craft's Stage Two deepens seated.
-- Age ~11: the road to Shrek City — arriving at the gates at **level 21,
-  two yellow rings, eleven years old**, the top of the freshman class on
-  honest hours — the entrance exam, the freshman year beside Huo Yuhao,
-  who arrives the same autumn at the bottom of the class with his
-  million-year passenger. The two roads the serial is about.
+- **NOW (Ch 5 close): on the road east** — the hem roads around the
+  forest's skirts, a season to Shrek City, level 21, two yellow rings,
+  eleven years old. AHEAD: the city, the gates, the entrance exam — the
+  autumn a boy with Spirit Eyes arrives with a Tang Sect granddaughter
+  and a hidden million-year passenger. The two roads meeting is Arc 2's
+  second half. The 30-wall (ring three) is years out; the engine's
+  Stage Three climbs; both rings age; the third technique seat waits.
 - Every rank-up, year's end, and gate: the full panel prints, and this
   file carries it.
 
@@ -111,7 +113,13 @@ Rank for rank, more than the rank says.
 | **How does it grow?** | On its own ring's years (the Aging Law — a century and more of ghost-wolf pouring into a line that opened at one part), on living, on releases. Never purchasable. No ceiling. |
 | **Seats?** | The second bloodline seat — opened at Soul Master, filled by the ring the same night. Seats open by the Slots line, the same count as every list. |
 | **At 100%?** | The Upgrade Law, like every meter: a gate, never a rest. What a ghost-line becomes at fullness, the story earns (design-doc). |
-| **Grade?** | **Low** — the honest reading at one part (receipt 17's ladder; a current reading that rises). |
+| **Grade?** | **Low** — the honest reading at one part (receipt 17's ladder; a current reading that rises). 13% at the road's gate. |
+
+**THE THIRD LINE — the Stormwind, the second ring's blood (Ch 5):** the
+storm-line — **the fast kind, the wind's stride** — one part at its open
+(the third seat, filled at the kill), aging on its ring's six centuries.
+Low at the open, a current reading. The wolf's three lines: the born
+line, the first kill's, the last hunt's.
 
 ## THE GRADES (F9 — rank in everything)
 
@@ -123,7 +131,9 @@ Rank for rank, more than the rank says.
 | Basic Soul Power Cultivation (the engine) | **Mid** | the county's plain method, mastered and reopened — the grade rose at the FIRST UPGRADE (§8's own law, F13) |
 | The Hunter's Craft | **Mid** | mastered at the kill — the grade rose with the upgrade (F13) |
 | The Grey Wolf bloodline | **Low** | an old, thin line — honest reading |
-| The Ghost Wolf bloodline | **Low** | the kill's blood at one part — the opening reading (F10) |
+| The Ghost Wolf bloodline | **Low** (13% and climbing) | the first kill's blood — the quiet step, the seen-late |
+| The Stormwind bloodline | **Low** (1% at the open) | the last hunt's blood — the fast kind, the wind's stride (Ch 5) |
+| Windstride (the second ring's skill) | **Mid** | a six-hundred-year storm-wolf's stride — the burst that arrives |
 
 The ladder: **Low (Waste) / Mid (Ordinary) / High (Excellent) / Top
 (Top-tier) / Ultimate (Divine — and the Extreme attribute road: canon

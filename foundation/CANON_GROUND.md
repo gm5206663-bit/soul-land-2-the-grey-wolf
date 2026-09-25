@@ -259,6 +259,22 @@ canon ground are marked [CARRIED].
     essence, the ghost line climbing toward the mid-teens on the ring's
     aging years.
 
+23. **THE SECOND RING'S LAW (Ch 5's verification).** The optimum for a
+    second ring: the wild's consensus arithmetic — "below 764 years is
+    the optimum age for the 2nd spirit ring" (fanfic-quoted canon
+    arithmetic, the same family as Yu Xiaogang's first-ring 423); bigger
+    than the first, never past what the body can bear. OURS: the
+    **Stormwind Demon Wolf (疾风魔狼)** — canon's wolf list (receipt 13),
+    the pack hunter of the wind line — ~600 years, taken at the south
+    crags: PROPOSED at the author's word, strikeable whole. Wolf-on-wolf
+    again, the seat-match held (canon's tiger-on-tiger precedent); the
+    fast kind set against the patient kind — the hunt's whole shape.
+    **THE TITLE LADDER (canon, already receipted above): Soul Master
+    11–20 · Great Soul Master 21–30 · Soul Elder 31–40** — the Chapter 5
+    crossing is GREAT SOUL MASTER (the F12 planning notes' "Soul Elder"
+    corrected before the author had to strike it: Soul Elder is the
+    31–40 band).
+
 ## The rules of the ground
 
 - The anime and the novel reorder things — **we never do.** The receipts

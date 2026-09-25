@@ -126,6 +126,30 @@ The full block, as `STATUS.md` carries it:
 | 「The Tally: 44%」 | 〃 |
 | 「Spear: 29%」 | 〃 — the kill on it |
 
+### Chapter 5 — The Road Begins (age 10→11, the pouring year, the last hunt, the leaving)
+
+| Panel | Beat |
+|---|---|
+| 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE ROAD'S FIRST GATE — the inn loft, the leaving made, every line complete |
+| 「Level — 21 · Great Soul Master · the second door open · the ring's gift」 | 〃 — 19 the wall, 20 the banked water, 21 the ring's gift |
+| 「Slots: 3 / 3 / 3」 | 〃 — the second rank-up, every list |
+| 「Soul Ring — Ghost Wolf: 131 years · yellow · aging」 | 〃 — a year and a season of turning |
+| 「Soul Ring — Stormwind Demon Wolf: 603 years · yellow · aging」 | 〃 — the last hunt, the fast kind |
+| 「Technique — Basic Soul Power Cultivation — Stage Three: 9% · the engine, passive · Mid」 | 〃 — the SECOND UPGRADE, mastered in his sleep |
+| 「Technique — The Hunter's Craft — Stage Two: 35% · seated, the second slot · Mid」 | 〃 |
+| 「Skill — The Wolf: 63% · possession · strength, speed, senses, claws · Mid」 | 〃 — the grey worn like the coat |
+| 「Skill — Netherlight: 18% · the speed surge, the blow sliding off · Mid」 | 〃 — the sledge runner, the cold light before fear |
+| 「Skill — Windstride: 1% · the burst that arrives · Mid」 | 〃 — the storm's own stride, its word run. |
+| 「Bloodline — Grey Wolf: 41% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 — the forties' edge |
+| 「Bloodline — Ghost Wolf: 13% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」 | 〃 |
+| 「Bloodline — Stormwind Demon Wolf: 1% · the storm-line: the fast kind, the wind's stride · Low」 | 〃 — the third seat, filled at the kill |
+| 「Hunter's Sense: 52%」 | 〃 |
+| 「Stillness: 37%」 | 〃 |
+| 「Plain Speech: 38%」 | 〃 |
+| 「Mountain Stride: 46%」 | 〃 |
+| 「The Tally: 50%」 | 〃 — half a life's craft |
+| 「Spear: 35%」 | 〃 — the father's spear carried now |
+
 ## The law of this file
 
 Every panel line that prints in a chapter must exist here, and every row

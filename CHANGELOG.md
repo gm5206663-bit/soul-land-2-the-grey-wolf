@@ -224,3 +224,25 @@ life-list lifted. THE POOL'S QUALITY installed: dense, dark, and pure
 for its rank — the reborn mind's discipline, the all-hours circulation,
 two bloodlines feeding it. Chapters 2-4 re-cut; receipt 22; all
 ledgers synced.
+
+## v1.14 — 2026-09-26 — CHAPTER 5: THE ROAD BEGINS ("Next chapter") — ARC 2 OPENED
+
+The pouring year, the last hunt, the leaving, the road. The levels pour
+12 to 19 (F12's curve honest to the engine's hours) into the second
+wall; the SECOND UPGRADE crosses in his sleep (the engine's Stage
+Three — the meters paying the hours, F13); the ring ages (131 and
+climbing); the body becomes the wolf's (the frame as freight, the
+patience as a limb, the grey worn like the coat). THE LAST HUNT: the
+Stormwind Demon Wolf, 603 years, the fast kind against the patient —
+out-decided at the fold in the scree; ring two seated (yellow, AGING)
+with its full grant (F11): Windstride (*run.* — the wolf's three words
+now: hunt. fade. run.), the rank gift (level 21 — 20 the banked water,
+21 the gift), GREAT SOUL MASTER at eleven (the 21–30 band — the F12
+notes' "Soul Elder" error caught and corrected; Soul Elder is 31–40),
+slots 3/3/3, the storm-line blood in the third seat. The leaving: the
+road coat and the hem's weight, the father's cedar spear ("I don't know
+what you are. I know whose you are."), Old Kuo's closed stroke, Little
+Shan's two fingers returned. The road east begun — a season to Shrek
+City, the autumn a boy with spirit eyes converging on the same gates.
+2,686 words, gate green; 19 new panel rows (ledger 72 in sync); receipt
+23 (the second ring's law). Release v0.6.0.
