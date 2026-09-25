@@ -82,6 +82,25 @@ The full block, as `STATUS.md` carries it:
 | 「Mountain Stride: 15%」 | 〃 |
 | 「The Tally: 29%」 | 〃 |
 
+### Chapter 3 — The Wall (ages 7→10, the wall years)
+
+| Panel | Beat |
+|---|---|
+| 「Level — 10」 | THE WALL — the count standing still, one line: the water against the stone |
+| 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE HUNT-YEAR GATE — the eve panel, every line complete |
+| 「Level — 10 · innate 1 · the wall, held three years」 | 〃 |
+| 「Slots: 1 / 1 / 1」 | 〃 |
+| 「Technique — Basic Soul Power Cultivation: 47% · the engine, passive · Low」 | 〃 |
+| 「Technique — The Hunter's Craft: 44% · parked, unslotted · Low」 | 〃 |
+| 「Skill — The Wolf: 38% · possession · strength, speed, senses, claws · Mid」 | 〃 |
+| 「Bloodline — Grey Wolf: 27% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
+| 「Hunter's Sense: 36%」 | 〃 |
+| 「Stillness: 22%」 | 〃 |
+| 「Plain Speech: 29%」 | 〃 |
+| 「Mountain Stride: 31%」 | 〃 |
+| 「The Tally: 35%」 | 〃 |
+| 「Spear: 21%」 | 〃 — five years of blisters |
+
 ## The law of this file
 
 Every panel line that prints in a chapter must exist here, and every row

@@ -116,3 +116,19 @@ the grade ladder installed, canon-verified exactly as given** — Low
 (Divine; Extreme Ice = −150°C, receipt 17). Every graded panel line
 carries its grade; life-skills never graded; grades are current readings.
 Chapters 1–2 re-cut (s2/s1); SYSTEM_SPEC §8; STATUS grades table.
+
+## v1.8 — 2026-09-25 — CHAPTER 3: THE WALL ("NextNext")
+
+The wall years, ages 7→10: level 10 reached at seven and held three
+years — the bottleneck law lived from inside (the count stops, the machine
+runs on; the pool pressing and growing heavy behind the door). The spear
+at eight (「Spear」 surfaced); the fireside lore (the Ghost Wolf receipts
+as the father's own teaching — "copper-headed, iron-boned, bean-curd
+waist"); the first sighting (the bracken, the pack at water, the father's
+flat hand); the first meat ("Good kill" — once a year on the ridge); the
+skipped crystal (the Knowledge Law kept); the shoulders arriving as
+weather; the hunt set: "This autumn." — the big iron-grey, ~120 years,
+alone at the black pools. The hunt-year gate's FULL panel at the close
+(engine 47 · craft 44 · wolf 38 · blood 27 · Spear 21 · the level that
+"had not moved once, and had never once slowed him"). 2,528 words, gate
+green, panel ledger in sync.

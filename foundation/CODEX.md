@@ -40,3 +40,4 @@
 13. Chapter 2 written at the author's "Ok continue gry wolf" — the first year whole: Old Kuo's winter count, the Anlin soul lamp, the boar follow, Stillness surfaced, the year-end full panel.
 14. F8 — THE HONEST PACE: the year's climb corrected on the canon rank-one anchor (level 9 at seven, the wall a season out); the father's wall canon-true (at ten).
 15. F9 — THE GRADE LADDER: rank in everything (Low/Mid/High/Top/Ultimate = canon's Waste/Ordinary/Excellent/Top-tier/Divine, receipt 17); grades on every graded panel line; SYSTEM_SPEC section 8.
+16. Chapter 3 written at the author's "NextNext" — the wall years: the bottleneck lived from inside (10 at seven, held three years, everything else growing); the spear; the first meat; the first sighting; the hunt set (the big iron-grey, ~120, alone at the black pools, this autumn).

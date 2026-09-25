@@ -45,17 +45,17 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 2 (the first year). The night-one panel above is Chapter 1's print, kept; the year-end panel (Chapter 2's close) is the current reading: **level 9 at seven** (the wall a season out — F8's honest pace, canon-anchored), the engine 22%, the craft 19%, the wolf 9%, the blood 12%, Stillness surfaced. The winters after the wall are for the body and the hunt.
+**Story position:** after Chapter 3 (the wall years, ages 7→10). Level 10 reached at seven and HELD three years (the bottleneck); the hunt-year gate's panel (Chapter 3's close) is the current reading: **level 10 held, the engine 47%, the craft 44%, the wolf 38%, the blood 27%, Spear 21%**. THE HUNT IS SET: this autumn, age 10 — the big iron-grey at the black pools, ~120 years, alone.
 
 | List | State |
 |---|---|
-| Techniques | 1 seat: Basic Soul Power Cultivation (engine, Low) — **22% (Ch 2 year-end)** · learned + parked: The Hunter's Craft 19% (Low) |
+| Techniques | 1 seat: Basic Soul Power Cultivation (engine, Low) — **47% (Ch 3, the hunt-year eve)** · learned + parked: The Hunter's Craft 44% (Low) |
 | Soul Rings | 0 seats (first ring at level 10 — **the beast is the author's to rule, Issue #1**) |
 | Soul Bones | 0 seats |
-| Bloodline | Grey Wolf 12% · ice · Low · the body-line (the card below) |
-| Skills | The Wolf 9% · Mid (innate, the first skill — possession; an hour's grey light by Ch 2's close) |
-| Life-skills | Hunter's Sense 19 · Stillness 6 (surfaced Ch 2) · Plain Speech 23 · Mountain Stride 15 · The Tally 29 · (others surface as the counting does) |
-| Level | **9 (Ch 2, age 7 — the wall a season out)** — past ten nothing moves without the ring; the first beast is RULED: the Ghost Wolf, ~120 years (CANON_GROUND 15) |
+| Bloodline | Grey Wolf 27% · ice · Low · the body-line (the card below; the shoulders arrived) |
+| Skills | The Wolf 38% · Mid (innate, the first skill — possession; whole mornings by Ch 3's close) |
+| Life-skills | Hunter's Sense 36 · Stillness 22 · Plain Speech 29 · Mountain Stride 31 · The Tally 35 · Spear 21 (surfaced Ch 3) · (others surface as the counting does) |
+| Level | **10, HELD three years (Ch 3, age 10 — the hunt set for this autumn)** — the bottleneck holds until the ring; the beast is RULED: the Ghost Wolf, ~120 years, the big one alone at the black pools (CANON_GROUND 15) |
 
 ## THE FORWARD MAP (what joins when)
 
