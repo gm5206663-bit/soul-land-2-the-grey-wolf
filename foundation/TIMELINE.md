@@ -17,7 +17,7 @@ PROPOSED until written. The years count his age.
 | Age | The road |
 |---|---|
 | 6 | **WRITTEN (Ch 1) — the awakening day**: the Wolf (the Ye line's grey), innate level 1, the village's shrug — and the Ledger waking that night with the FULL panel (STATUS.md) — the bloodline list unlocked with the soul itself: the Ye line's wolf at 7%. The engine slots (the standard method). |
-| 6–10 | **ARC 1 — GREY RIDGE**: the quiet climb. The engine runs nights; the craft runs days; the wolf's releases grow. Levels 1 → 10 (Nothing-Fixed; the bottleneck law holds at 10). The forest's edge hunted carefully — a rank-one boy with a wolf's nose and a grown man's caution. |
+| 6–10 | **ARC 1 — GREY RIDGE**: the quiet climb. The engine runs nights; the craft runs days; the wolf's releases grow. Levels 1 → 10 (Nothing-Fixed; the bottleneck law holds at 10). The forest's edge hunted carefully — a rank-one boy with a wolf's nose and a grown man's caution. **(Ch 2 written: the first year — level 3 at seven, the engine 14, the blood 12, Stillness surfaced.)** |
 | ~10 | **THE FIRST RING — the hunt, Arc 1's climax. The beast is the author's to rule (Issue #1).** Slots → 2/2/2; The Hunter's Craft seats; the ring's skill seats; the ring begins to AGE (the signature). |
 | 11 | **ARC 2 — THE ROAD TO SHREK**: the county, the road, Shrek City; the entrance exam — the same autumn a boy with Spirit Eyes arrives. |
 | 11+ | **ARC 3 — SHREK, BESIDE CANON**: the freshman year beside Huo Yuhao and Wang Dong; soul tools; the Tang Sect; canon as canon goes, touched where the author rules. |

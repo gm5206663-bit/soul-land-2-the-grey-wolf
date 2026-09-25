@@ -45,17 +45,17 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 1 (the awakening day + first night). The panel above is printed in Chapter 1 exactly as written; the engine ran its first night and stands at 2%.
+**Story position:** after Chapter 2 (the first year). The night-one panel above is Chapter 1's print, kept; the year-end panel (Chapter 2's close) is the current reading: level 3, the engine 14%, the craft 19%, the wolf 9%, the blood 12%, Stillness surfaced. Four winters to the wall.
 
 | List | State |
 |---|---|
-| Techniques | 1 seat: Basic Soul Power Cultivation (engine) — **2% after night one (Ch 1 close)** · learned + parked: The Hunter's Craft 11% |
+| Techniques | 1 seat: Basic Soul Power Cultivation (engine) — **14% (Ch 2 year-end)** · learned + parked: The Hunter's Craft 19% |
 | Soul Rings | 0 seats (first ring at level 10 — **the beast is the author's to rule, Issue #1**) |
 | Soul Bones | 0 seats |
-| Bloodline | Grey Wolf 7% · ice · the body-line (the card below) |
-| Skills | The Wolf 1% (innate, the first skill — possession: the release attaches the beast) |
-| Life-skills | Hunter's Sense 13 · Plain Speech 21 · Mountain Stride 9 · The Tally 27 · (others surface as the counting does) |
-| Level | 1 (innate) — the wall at ten waits for the ring; the first beast is RULED: the Ghost Wolf, ~120 years (CANON_GROUND 15) |
+| Bloodline | Grey Wolf 12% · ice · the body-line (the card below) |
+| Skills | The Wolf 9% (innate, the first skill — possession; an hour's grey light by Ch 2's close) |
+| Life-skills | Hunter's Sense 19 · Stillness 6 (surfaced Ch 2) · Plain Speech 23 · Mountain Stride 15 · The Tally 29 · (others surface as the counting does) |
+| Level | 3 (Ch 2, age 7) — the wall at ten waits for the ring; the first beast is RULED: the Ghost Wolf, ~120 years (CANON_GROUND 15) |
 
 ## THE FORWARD MAP (what joins when)
 

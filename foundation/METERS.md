@@ -8,36 +8,37 @@ panel lines. Every reading is a current reading — nothing fixed.
 
 | Art | Its own pace law (what feeds it) | Night one | Now |
 |---|---|---|---|
-| Basic Soul Power Cultivation (the standard method; the ENGINE — slotted, passive 24/7) | his best, around the clock; the infusions (growth, the craft, the wolf's vitality once the ring seats) | 1% | **2%** (Ch 1 dawn) |
-| The Hunter's Craft (his father's teaching — learned, parked until the second seat) | six lived years counted at the open; grows by living it, even parked | 11% | 11% |
+| Basic Soul Power Cultivation (the standard method; the ENGINE — slotted, passive 24/7) | his best, around the clock; the infusions (growth, the craft, the wolf's vitality once the ring seats) | 1% | **14%** (Ch 2 year-end) |
+| The Hunter's Craft (his father's teaching — learned, parked until the second seat) | six lived years counted at the open; grows by living it, even parked | 11% | **19%** (Ch 2 — a winter of snares, the boar follow) |
 
 ## THE SKILLS
 
 | Skill | Its own pace law | Night one | Now |
 |---|---|---|---|
-| The Wolf (innate — the first skill: POSSESSION, the release attaching the beast to the man — strength, speed, senses, claws) | every release feeds it; each part heavier than the last; deepens with every ring that seats; first release Ch 1 (twelve breaths, then emptied) | 1% | 1% |
+| The Wolf (innate — the first skill: POSSESSION, the release attaching the beast to the man — strength, speed, senses, claws) | every release feeds it; each part heavier than the last; deepens with every ring that seats; first release Ch 1 (twelve breaths, then emptied) | 1% | **9%** (Ch 2 — an hour's grey light by summer's end) |
 
 ## THE LIFE-SKILLS (each its own pace; grows on plain living)
 
 | Skill | What feeds it | Night one | Now |
 |---|---|---|---|
-| Hunter's Sense | a hunter's son's six years of woodcraft | 13% | 13% |
-| Plain Speech | a grown mind's plain speech, six years of the local tongue | 21% | 21% |
-| Mountain Stride | the ridge trails, the following | 9% | 9% |
-| The Tally | a tallykeeper's whole adult life — the one thing he was better at than anyone he knew | 27% | 27% |
+| Hunter's Sense | a hunter's son's six years of woodcraft | 13% | **19%** (Ch 2) |
+| Plain Speech | a grown mind's plain speech, six years of the local tongue | 21% | **23%** (Ch 2) |
+| Mountain Stride | the ridge trails, the following | 9% | **15%** (Ch 2) |
+| The Tally | a tallykeeper's whole adult life — the one thing he was better at than anyone he knew | 27% | **29%** (Ch 2) |
+| Stillness | the thorn thicket, the sitting still — SURFACED Ch 2 | — | **6%** |
 | Reading | — | (no line — cannot read this world's script yet; surfaces when it exists) | — |
 
 ## THE BLOODLINE (the fourth list — unlocked with the soul itself)
 
 | Line | Its own pace law (what feeds it) | Night one | Now |
 |---|---|---|---|
-| Grey Wolf (the Ye line — inherited; **ice, thin** — the body-line: vitality, recovery, the predator's frame, the senses fed, the cold-tolerance; the full card in STATUS.md) | grows on living it: every release, every hunt, every year of growth; once a ring seats, on the ring's years too (the Aging Law); feeds the blood and body, and through the Infusion Law every open meter; never purchasable; no ceiling | 7% | 7% |
+| Grey Wolf (the Ye line — inherited; **ice, thin** — the body-line: vitality, recovery, the predator's frame, the senses fed, the cold-tolerance; the full card in STATUS.md) | grows on living it: every release, every hunt, every year of growth; once a ring seats, on the ring's years too (the Aging Law); feeds the blood and body, and through the Infusion Law every open meter; never purchasable; no ceiling | 7% | **12%** (Ch 2 — the winter lived, the frame filling) |
 
 ## THE CONTEXT
 
 | Measure | Law | Night one | Now |
 |---|---|---|---|
-| Level (the crystal's) | the bottleneck law: no ring, no crossing 10; engine passive + infusions | 1 | 1 (the wall at ten: Arc 1's country) |
+| Level (the crystal's) | the bottleneck law: no ring, no crossing 10; engine passive + infusions | 1 | **3** (Ch 2, age 7 — four winters to the wall) |
 | The ring (none yet) | **RULED (F6): the Ghost Wolf, ~120 years** — the hunt is Arc 1's climax, ~age 10 | — | — |
 
 ## THE LAW OF THIS FILE

@@ -89,3 +89,16 @@ it does (vitality, recovery, the predator's frame, the senses fed, the
 thin ice), how it grows, its seats, the Upgrade Law at 100%, what it feeds
 and is fed. Chapter 1 re-cut (s1); receipt 16 (Su Yuntao's Lone Wolf and
 Xiao Chenyu's plain Wolf with it).
+
+## v1.6 — 2026-09-25 — CHAPTER 2: THE QUIET CLIMB
+
+At the author's word ("Ok continue gry wolf"). The first year whole: the
+morning releases (twelve breaths → sixty), the interior of possession
+mapped, Old Kuo's winter count (The Tally's village debut), the engine's
+honest arithmetic (level two at midwinter, three by late summer — rank-one
+pace, all-hours machine, compounding), Anlin and the examiner's second
+line, the soul lamp in the window (the Knowledge Law carried — one
+breath, nothing said), the snare lines, the boar follow ("Your track.
+Your call."), the mother's letting-out, Stillness surfaced, and the
+year-end FULL panel — every line complete, F7's first anniversary print.
+2,417 words, gate green, panel ledger in sync.

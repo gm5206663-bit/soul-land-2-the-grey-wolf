@@ -55,6 +55,24 @@ The full block, as `STATUS.md` carries it:
 | 「The Tally: 27%」 | 〃 |
 | 「Technique — Basic Soul Power Cultivation: 2%」 | the dawn reading — the engine's first night |
 
+### Chapter 2 — The Quiet Climb (age 6→7, the first year)
+
+| Panel | Beat |
+|---|---|
+| 「Level — 2」 | midwinter — the beat panel, short: the water standing higher |
+| 「Martial Soul — Wolf · beast-type · Power Attack · ice」 | THE YEAR LIST — the anniversary, every line complete |
+| 「Level — 3 · innate 1」 | 〃 |
+| 「Slots: 1 / 1 / 1」 | 〃 |
+| 「Technique — Basic Soul Power Cultivation: 14% · the engine, passive」 | 〃 |
+| 「Technique — The Hunter's Craft: 19% · parked, unslotted」 | 〃 |
+| 「Skill — The Wolf: 9% · possession · strength, speed, senses, claws」 | 〃 |
+| 「Bloodline — Grey Wolf: 12% · ice · the body-line: vitality, recovery, the wolf's frame」 | 〃 |
+| 「Hunter's Sense: 19%」 | 〃 |
+| 「Stillness: 6%」 | the new line — surfaced the night the thorn thicket taught it |
+| 「Plain Speech: 23%」 | 〃 |
+| 「Mountain Stride: 15%」 | 〃 |
+| 「The Tally: 29%」 | 〃 |
+
 ## The law of this file
 
 Every panel line that prints in a chapter must exist here, and every row
