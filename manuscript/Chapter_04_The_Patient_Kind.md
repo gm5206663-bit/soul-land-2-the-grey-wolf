@@ -95,12 +95,15 @@ And that night, in the loft, at the gate of the thing that had happened, he look
 > 「Skill — The Wolf: 40% · possession · strength, speed, senses, claws · Mid」
 > 「Skill — Netherlight: 1% · the speed surge, the blow sliding off · Mid」
 > 「Bloodline — Grey Wolf: 31% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Bloodline — Ghost Wolf: 1% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」
 > 「Hunter's Sense: 38%」
 > 「Stillness: 24%」
 > 「Plain Speech: 29%」
 > 「Mountain Stride: 32%」
 > 「The Tally: 36%」
 > 「Spear: 24%」
+
+Two lines of blood now: the one he was born to, and the one he had taken.
 
 He audited it, line by line, and found it honest, and found himself smiling at the ring's line in particular. A hundred and twenty, it said, and then, underneath the number, in the manner of ledgers and nothing else in this world, the quiet note that the number was not going to stand still.
 

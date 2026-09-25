@@ -34,6 +34,7 @@ panel lines. Every reading is a current reading — nothing fixed.
 | Line | Its own pace law (what feeds it) | Night one | Now |
 |---|---|---|---|
 | Grey Wolf (the Ye line — inherited; **ice, thin** — the body-line: vitality, recovery, the predator's frame, the senses fed, the cold-tolerance; the full card in STATUS.md) | grows on living it: every release, every hunt, every year of growth; once a ring seats, on the ring's years too (the Aging Law); feeds the blood and body, and through the Infusion Law every open meter; never purchasable; no ceiling | 7% | **31%** (Ch 4 — the ring's wolf-essence feeding the line) |
+| Ghost Wolf (the FIRST RING'S BLOOD — F10; the ghost-line: the patient hunt, the quiet step, the seen-late; no element receipted, none claimed) | feeds on its own ring's years (the Aging Law — a century and more pouring into a line that opened at one part), on living, on releases; through the Infusion Law every open meter; never purchasable; no ceiling | — (not yet; seated at the kill, Ch 4) | **1%** (Ch 4 gate — the opening reading, PROPOSED) |
 
 ## THE CONTEXT
 

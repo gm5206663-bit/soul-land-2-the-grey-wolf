@@ -117,6 +117,7 @@ The full block, as `STATUS.md` carries it:
 | 「Skill — The Wolf: 40% · possession · strength, speed, senses, claws · Mid」 | 〃 |
 | 「Skill — Netherlight: 1% · the speed surge, the blow sliding off · Mid」 | 〃 — the ring's gift, its word fade. |
 | 「Bloodline — Grey Wolf: 31% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
+| 「Bloodline — Ghost Wolf: 1% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」 | 〃 — the kill's blood seated with the ring (F10) |
 | 「Hunter's Sense: 38%」 | 〃 |
 | 「Stillness: 24%」 | 〃 |
 | 「Plain Speech: 29%」 | 〃 |

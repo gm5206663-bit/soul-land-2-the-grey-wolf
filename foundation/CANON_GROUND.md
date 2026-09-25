@@ -99,6 +99,20 @@ canon ground are marked [CARRIED].
     author's strike is receipt-confirmed; our soul is the plain Wolf and
     the grey is the Ye line's fur.** (fandom Wolf / Ghost Wolf / Silver
     Moon Wolf King / Demon Wolf / Mutant Wolf Ape)
+    THE GHOST WOLF, WHOLE (fandom Ghost Wolf — 幽冥狼, the Nether Wolf;
+    the finer data receipted at F10's research order): iron-grey, ~1.6 m,
+    **green eyes**, a lightning-shaped mark on the head, large fangs;
+    "After 100 years, its forehead has a lock of golden hair" — ours was
+    120: the lock was on the brow. "They are known as the copper-headed,
+    iron-boned bean curd waist." "Innately suspicious in nature and do
+    not like to attack head-on. Instead, they prefer to exploit their
+    target's weaknesses... extremely patient spirit beasts and proficient
+    in seeking opportunities... willing to go through mutual attrition
+    with their prey until the prey tires itself out or expose a
+    weakness." The skull is the toughest part of the body; the waist is
+    the vital. OURS: the patience duel WAS the canon animal — the hunt's
+    whole shape receipt-true.
+
 14. **Beast souls can mutate.** "A Beast Martial Soul may undergo
     mutation... resulting in characteristics or enhancement directions
     different from the original species." (Baike Beast Martial Soul)
@@ -108,6 +122,50 @@ canon ground are marked [CARRIED].
 16. **THE WOLF'S ATTRIBUTE — canon's own line.** "Ordinary wolf-type Martial Souls are mostly of the **ice attribute**, while the Fierce Fire Gray Wolf is a mutated wolf Martial Soul with the fire attribute." (Baike, Martial Soul — the Inferno Grey Wolf passage). More wolf receipts: **Su Yuntao's wolf is the LONE WOLF** (Beast Martial Soul, Power Attack Type, 26th rank; possession "exhibits wolf-like characteristics, enhancing strength and speed" — Baike Su Yuntao); **Xiao Chenyu: the plain Wolf, Power Attack System, rank 11, one white ring** (fandom). The mutants (receipted, never ours): Fierce Fire Gray Wolf = Qin Ming's (Shrek's first-class graduate); Swift Wind Two-Headed Wolf = a mutant of Swift Wind Demon Wolf (Strong + Agile). And the rare no-attribute road exists (the Nightmare Demon: "the absence of attribute restrictions" — can absorb any beast's ability). Possession eye-color follows the beast (Dai Mubai's dark blue). OURS: the Ye line's wolf is ordinary — ice, thin; the eyes amber (proposed, no canon plain-wolf eye color receipted from canon text).
 
 17. **THE QUALITY LADDER + THE ULTIMATE TIER (F9's verification).** Canon, verbatim: "The quality of a Martial Soul ranges from low to high, including Waste Soul, Ordinary Soul, Excellent Soul, Top-tier Soul, Divine Soul." Waste Souls: "the sickle, Hoe, and Blue Silver Grass... almost impossible for them to possess Innate Soul Power, with rare exceptions not exceeding the first level." Extreme/Ultimate souls: "characterized by possessing an extreme attribute among Martial Souls of the same kind. Their cultivation speed is generally average before reaching the 30th rank, extremely slow between the 30th and 70th ranks, and then becomes exceptionally fast after the 70th rank... **Extreme Ice is defined as -150°C or below, and Extreme Fire as 3000°C or above.**" Yuhao's Ultimate Ice (fandom Abilities): "absolute suppression to all Ice and fire elements... at Limit Douluo, Absolute Zero — thought to be just a myth, the complete absence of any heat." Top-tier receipts: Blazing Fire Dragon ("a genuine Top-tier Soul"), Bright Holy Dragon ("one of the most top-tier Beast Souls on the continent"). (Baike Martial Soul; fandom Huo Yuhao/Abilities.) **THE PACE ANCHOR (F8):** canon's rank-one boy climbed 1 → 10 on one hour a day in three poor years and sat at the wall ringless — every level number in this serial must survive that anchor.
+
+18. **BLOODLINE — THE CANON OF IT (F10's research, the author's order).**
+    "When a spirit master is born, they are born with a certain bloodline.
+    The bloodline is usually related to the spirit master's martial
+    spirit... Over the course of time, a spirit master's bloodline can
+    become diluted... Bloodlines can be purified, evolve, or mutate by
+    using certain techniques or items. Some examples include using the
+    Heaven's Child Fruit or fusing with a soul spirit." (fandom Soul
+    Master, Blood Essence.) And the merge, said outright: "Once bound,
+    soul spirits **merge their bloodlines into their contracted soul
+    master** and allow physical improvement. If their bloodline or
+    compatibility is high, the bloodlines can possibly affect the soul
+    master's martial soul and evolve them, awakening it." (fandom Soul
+    Spirit — with canon's own examples: Xu Sanshi's Xuanwu Shield →
+    Golden Xuanwu Shield on contracting the Golden Tortoise; Lan Mengqin's
+    Jade Phoenix Zither → Emerald Jade Phoenix Zither on the Emerald Swan
+    Bi Ji; Qian Lei's blood and physique remade by the Divine Beast
+    Golden Behemoth.) THE LAWS IT GIVES: blood is born and usually
+    matches the soul; it DILUTES down the generations (the thin Ye line
+    is canon's own physics, not our apology); it can be purified, evolve,
+    mutate — and a beast bound to a human MERGES ITS BLOODLINE INTO HIM.
+    Beast-blood-in-human is not our invention; it is the universe's own
+    later-era standard.
+
+19. **THE ESSENCE THAT RIDES A RING (F10's other leg).** Canon's own
+    million-year case: the Heavenly Dream Ice Silkworm "became Huo
+    Yuhao's first Spirit Ring," and the essence did not stop at a skill —
+    it "granted Huo Yuhao a second martial soul" (Baike Heavenly Dream
+    Ice Silkworm); "he was given an ice-type formless second martial
+    soul" (fandom God of Emotions Trial); "it furnished Huo Yuhao with a
+    second attribute — Ice — that allowed him to absorb a Spirit Beast of
+    ice attribute and become his second Spirit" (fandom Ice Silk Worm);
+    and "his future spirit rings would also naturally evolve along with
+    his cultivation" — the ring-borne essence AGING his rings toward the
+    hundred-thousand-year level (fandom Huo Yuhao/Cultivation). THE LAWS
+    IT GIVES: what a beast is does not die at the kill — its essence
+    rides the ring into the absorber and can take root in him, deep
+    enough in canon to root a whole second martial soul; and origin
+    energy ages rings (our Aging Law's canon cousin). OURS (F10, the
+    author's strike, PROPOSED at canon's edge): canon's rooted cases were
+    LIVING, willing spirits — our dead ring seats the kill's blood as a
+    line of the bloodline list, one part at the open, deepening on the
+    ring's years. The system counts what enters; the author rules where
+    it seats.
 
 ## The rules of the ground
 

@@ -36,7 +36,7 @@ Read honestly, the way he reads it that night:
   counted, waiting for the second seat. A grown reader of a thousand
   stories knows which one the engine should be.
 - **The martial soul line, complete:** the Wolf — beast-type, Power Attack System, **attribute: ice** (receipt 16: "Ordinary wolf-type Martial Souls are mostly of the ice attribute"), thin in the Ye line. The level line carries its origin (innate 1). The technique lines carry their state (the engine, passive; the craft, parked). The skill line carries its nature (possession, and what it gives). Every line the full thing.
-- **The bloodline, the fourth list, unlocked with the soul itself** — the blood is why the soul is a wolf at all: the Ye line's old, thin wolf, his father's own soul and his grandfather's before that. Seven parts — an old line, thinly kept, counted where it stands. It grows on living (every release, every hunt, every year of growth) and, once a ring seats, on the ring's years. It feeds the blood and the body as a ring feeds the soul — and through the Infusion Law, every open meter. One seat at his rank, and the wolf fills it. Its nature: **ice, thin** — the ordinary wolf's canon attribute, faint in an old thin line: the Ye men hunt the deep cold without shivering. (The full card below.)
+- **The bloodline, the fourth list, unlocked with the soul itself** — the blood is why the soul is a wolf at all: the Ye line's old, thin wolf, his father's own soul and his grandfather's before that. Seven parts — an old line, thinly kept, counted where it stands. It grows on living (every release, every hunt, every year of growth) and, once a ring seats, on the ring's years. It feeds the blood and the body as a ring feeds the soul — and through the Infusion Law, every open meter. One seat at his rank that night, and the wolf fills it — and seats open by the Slots line as every list does: the second opened at Soul Master, and the first ring's blood filled it the same night (F10, the Ghost Wolf card below). Its nature: **ice, thin** — the ordinary wolf's canon attribute, faint in an old thin line: the Ye men hunt the deep cold without shivering. (The full card below.)
 - **The life-skills at their honest levels:** a hunter's son's legs and
   eyes; a grown man's plain speech in a six-year-old's mouth; a
   tallykeeper's counting, the one thing he was better at than anyone he
@@ -45,7 +45,7 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 4 — THE HUNT, Arc 1 complete. Ye Cang is a SOUL MASTER at ten: the Ghost Wolf ring seated (120 years, yellow, **AGING**), slots 2/2/2, level 11 with the door open and the banked water moving, the craft seated in the second slot, Netherlight arrived (*fade.*). The gate panel (Chapter 4's close) is the current reading. One year to the boy with spirit eyes and the road to Shrek.
+**Story position:** after Chapter 4 — THE HUNT, Arc 1 complete. Ye Cang is a SOUL MASTER at ten: the Ghost Wolf ring seated (120 years, yellow, **AGING**), slots 2/2/2, level 11 with the door open and the banked water moving, the craft seated in the second slot, Netherlight arrived (*fade.*), and the Ghost Wolf bloodline seated with the ring — the second line of blood, one part at its open (F10). The gate panel (Chapter 4's close) is the current reading. One year to the boy with spirit eyes and the road to Shrek.
 
 | List | State |
 |---|---|
@@ -75,9 +75,21 @@ Read honestly, the way he reads it that night:
 | **Attribute?** | **Ice** — canon's default for ordinary wolf-type martial souls (receipt 16), THIN in this old, thin line. Not a weapon at 7%: the cold of the line — the Ye men hunt the deep cold without shivering. What deep ice could become at depth is design-doc, the story's to earn. |
 | **What does it DO?** | Always-on, deepening with the meter: **vitality** (the deep health — sick less, last longer); **recovery** (sleep heals more, fatigue lifts sooner, the body mends faster); **the predator's frame** (over years: denser bone, quicker muscle, the reflexes a step ahead — the body slowly becoming the wolf's, released or not); **the senses fed** (the nose and ears sharpen as the line deepens — permanent, not only on release); **the thin ice** (cold-tolerance now; more at depth). |
 | **How does it grow?** | On living it — every release, every hunt, every year of growth — and, once a ring seats, on the ring's years (the Aging Law). Never purchasable. No ceiling. |
-| **Seats?** | One at his rank; the wolf fills it. |
+| **Seats?** | The first seat, his by birth. Seats open by the Slots line as every list; the second opened at Soul Master and the first ring's blood filled it (the Ghost Wolf card below). |
 | **At 100%?** | The Upgrade Law, like every meter: the line's next stage opens, a gate, never a rest. What a wolf-line becomes at fullness, the story earns (design-doc). |
 | **What feeds it / what it feeds?** | Fed by everything that grows (the Infusion Law); feeds the blood and body — and through them, every open meter. |
+
+## THE SECOND BLOODLINE CARD — the Ghost Wolf, the first ring's blood (F10)
+
+| Question | The answer |
+|---|---|
+| **What is it?** | The kill's blood, seated with the ring — the beast's own line opened in him the night of the absorption, beside the line he was born to. Two lines of blood now: the one he was born to, and the one he had taken. |
+| **Attribute?** | None receipted, none claimed (receipt 13 gives the ghost no element). The line's work is the beast's NATURE, not an element. |
+| **What does it DO?** | The ghost-line, always-on and deepening with the meter: **the patient hunt** (the body's own patience — the watch held longer, the attrition worn easier; canon: "extremely patient spirit beasts... willing to go through mutual attrition with their prey until the prey tires itself out or exposes a weakness"); **the quiet step** (movement growing quieter as the line deepens — the ghost that does not attack head-on); **the seen-late** (the eye finding him a beat slow — the suspicious, exploiting beast's own gift). Through the Infusion Law, every open meter. |
+| **How does it grow?** | On its own ring's years (the Aging Law — a century and more of ghost-wolf pouring into a line that opened at one part), on living, on releases. Never purchasable. No ceiling. |
+| **Seats?** | The second bloodline seat — opened at Soul Master, filled by the ring the same night. Seats open by the Slots line, the same count as every list. |
+| **At 100%?** | The Upgrade Law, like every meter: a gate, never a rest. What a ghost-line becomes at fullness, the story earns (design-doc). |
+| **Grade?** | **Low** — the honest reading at one part (receipt 17's ladder; a current reading that rises). |
 
 ## THE GRADES (F9 — rank in everything)
 
@@ -89,6 +101,7 @@ Read honestly, the way he reads it that night:
 | Basic Soul Power Cultivation (the engine) | **Low** (Waste) | the county's plain method |
 | The Hunter's Craft | **Low** | a village art |
 | The Grey Wolf bloodline | **Low** | an old, thin line — honest reading |
+| The Ghost Wolf bloodline | **Low** | the kill's blood at one part — the opening reading (F10) |
 
 The ladder: **Low (Waste) / Mid (Ordinary) / High (Excellent) / Top
 (Top-tier) / Ultimate (Divine — and the Extreme attribute road: canon

@@ -149,3 +149,22 @@ the banked water moving, the craft seated unasked, Netherlight arriving
 with its one silent word (*fade.*), and the ring AGING from the night it
 seats ("the number was not going to stand still"). The gate panel:
 fifteen lines. 2,493 words, gate green, panel ledger in sync.
+
+## v1.10 — 2026-09-26 — THE RING'S BLOOD (F10)
+
+The author's strike on the bloodline law ("Hey you completely don't
+understand how bloodline work's completely... Where is Ghost Wolf
+bloodline he got from soul'ring"), the research done whole at his order:
+bloodline is canon (born with the soul, diluting down the generations,
+purifiable, evolvable — receipt 18), bound beasts MERGE their bloodlines
+into their humans (receipt 18), and a ring has already carried beast
+essence deep enough to root a second martial soul (receipt 19 — the
+Heavenly Dream Ice Silkworm's own case, ice attribute and all). THE LAW
+NOW: every soul ring seats the slain beast's bloodline — the Ghost Wolf
+line seated with the first ring at one part, the second bloodline seat
+filled the same night it opened. Chapter 4's gate panel re-cut to
+sixteen lines ("Two lines of blood now: the one he was born to, and the
+one he had taken."); the Ghost Wolf card in STATUS; the seats law fixed
+to the Slots line everywhere it was said wrong; receipt 13 extended with
+the ghost's whole canon (green eyes, the lightning mark, the golden
+lock, the patience verbatim).
