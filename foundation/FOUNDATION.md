@@ -80,6 +80,13 @@ written; every ruling lives verbatim in `RULINGS_LOG.md`.
 - **TIMELINE PURITY:** no canon future leaks into the world's speech. The
   anime-novel reorder rule stands: the spine is the receipts, and we never
   reorder canon.
+- **THE HONEST PACE (F8):** every level number must survive the canon
+  anchor — the rank-one hour-a-day boy took three poor years to the wall
+  at ten; the all-hours engine beats the hour by the hours it runs, no
+  more.
+- **THE GRADE LADDER (F9):** rank in everything — Low / Mid / High / Top /
+  Ultimate, canon's own five quality tiers (receipt 17); life-skills
+  never graded.
 - **THE STYLE (carried whole):** plain speech; every number survives the
   author's arithmetic; panels cold and quiet at key beats, digits never
   loose in narration; nothing fixed; the working band 2,400–3,400 words

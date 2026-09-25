@@ -8,13 +8,13 @@ file is the whole picture.
 ## THE FIRST PANEL — night one, the awakening day (Chapter 1's first
 print, PROPOSED)
 
-> 「Martial Soul — Wolf · beast-type · Power Attack · ice」
+> 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 1 · innate 1」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive」
-> 「Technique — The Hunter's Craft: 11% · parked, unslotted」
-> 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws」
-> 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame」
+> 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive · Low」
+> 「Technique — The Hunter's Craft: 11% · parked, unslotted · Low」
+> 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws · Mid」
+> 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
 > 「Hunter's Sense: 13%」
 > 「Plain Speech: 21%」
 > 「Mountain Stride: 9%」
@@ -45,17 +45,17 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 2 (the first year). The night-one panel above is Chapter 1's print, kept; the year-end panel (Chapter 2's close) is the current reading: level 3, the engine 14%, the craft 19%, the wolf 9%, the blood 12%, Stillness surfaced. Four winters to the wall.
+**Story position:** after Chapter 2 (the first year). The night-one panel above is Chapter 1's print, kept; the year-end panel (Chapter 2's close) is the current reading: **level 9 at seven** (the wall a season out — F8's honest pace, canon-anchored), the engine 22%, the craft 19%, the wolf 9%, the blood 12%, Stillness surfaced. The winters after the wall are for the body and the hunt.
 
 | List | State |
 |---|---|
-| Techniques | 1 seat: Basic Soul Power Cultivation (engine) — **14% (Ch 2 year-end)** · learned + parked: The Hunter's Craft 19% |
+| Techniques | 1 seat: Basic Soul Power Cultivation (engine, Low) — **22% (Ch 2 year-end)** · learned + parked: The Hunter's Craft 19% (Low) |
 | Soul Rings | 0 seats (first ring at level 10 — **the beast is the author's to rule, Issue #1**) |
 | Soul Bones | 0 seats |
-| Bloodline | Grey Wolf 12% · ice · the body-line (the card below) |
-| Skills | The Wolf 9% (innate, the first skill — possession; an hour's grey light by Ch 2's close) |
+| Bloodline | Grey Wolf 12% · ice · Low · the body-line (the card below) |
+| Skills | The Wolf 9% · Mid (innate, the first skill — possession; an hour's grey light by Ch 2's close) |
 | Life-skills | Hunter's Sense 19 · Stillness 6 (surfaced Ch 2) · Plain Speech 23 · Mountain Stride 15 · The Tally 29 · (others surface as the counting does) |
-| Level | 3 (Ch 2, age 7) — the wall at ten waits for the ring; the first beast is RULED: the Ghost Wolf, ~120 years (CANON_GROUND 15) |
+| Level | **9 (Ch 2, age 7 — the wall a season out)** — past ten nothing moves without the ring; the first beast is RULED: the Ghost Wolf, ~120 years (CANON_GROUND 15) |
 
 ## THE FORWARD MAP (what joins when)
 
@@ -78,3 +78,20 @@ Read honestly, the way he reads it that night:
 | **Seats?** | One at his rank; the wolf fills it. |
 | **At 100%?** | The Upgrade Law, like every meter: the line's next stage opens, a gate, never a rest. What a wolf-line becomes at fullness, the story earns (design-doc). |
 | **What feeds it / what it feeds?** | Fed by everything that grows (the Infusion Law); feeds the blood and body — and through them, every open meter. |
+
+## THE GRADES (F9 — rank in everything)
+
+| Thing | Grade | Canon anchor |
+|---|---|---|
+| The Wolf (the martial soul) | **Mid** (Ordinary) | the quality ladder, receipt 17 |
+| The Wolf (the skill — possession) | **Mid** | the soul's own expression |
+| Basic Soul Power Cultivation (the engine) | **Low** (Waste) | the county's plain method |
+| The Hunter's Craft | **Low** | a village art |
+| The Grey Wolf bloodline | **Low** | an old, thin line — honest reading |
+
+The ladder: **Low (Waste) / Mid (Ordinary) / High (Excellent) / Top
+(Top-tier) / Ultimate (Divine — and the Extreme attribute road: canon
+defines Extreme Ice at −150°C and below, receipt 17).** Grades are honest
+current readings — they rise as the thing grows, and 100% opens the next
+stage. The far horizon, canon-true: his thin ice has a defined ceiling to
+grow toward.

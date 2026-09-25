@@ -102,3 +102,17 @@ breath, nothing said), the snare lines, the boar follow ("Your track.
 Your call."), the mother's letting-out, Stillness surfaced, and the
 year-end FULL panel — every line complete, F7's first anniversary print.
 2,417 words, gate green, panel ledger in sync.
+
+## v1.7 — 2026-09-25 — THE HONEST PACE + THE GRADE LADDER (F8/F9)
+
+**F8 ("Are you even serious"):** the year's climb corrected — canon's
+rank-one boy took three poor hour-a-day years to the wall at ten; the
+all-hours engine's honest year is **level 9 at seven, the wall a season
+out** (4 midwinter, 6 at the spring crystal, 9 by year's end). The
+father's wall made canon-true (he sits AT ten). The winters after the
+wall are for the body and the hunt. **F9 ("Rank in everything"):
+the grade ladder installed, canon-verified exactly as given** — Low
+(Waste) / Mid (Ordinary) / High (Excellent) / Top (Top-tier) / Ultimate
+(Divine; Extreme Ice = −150°C, receipt 17). Every graded panel line
+carries its grade; life-skills never graded; grades are current readings.
+Chapters 1–2 re-cut (s2/s1); SYSTEM_SPEC §8; STATUS grades table.

@@ -32,7 +32,7 @@ The crystal, when the examiner remembered to look at it, held one grey spark. Ba
 
 "It's not," said Ye Shan.
 
-The room did its arithmetic in the quiet, friendly, terrible manner of villages. The Ye wolf, third generation: the grandfather's, strong, and the grandfather two winters in the ground. The father's — level nine for twenty years, no ring, no tenth level, no road. And now the boy: the same grey wolf, and the smallest spark anyone present could remember.
+The room did its arithmetic in the quiet, friendly, terrible manner of villages. The Ye wolf, third generation: the grandfather's, strong, and the grandfather two winters in the ground. The father's — level ten for twenty years, ringless, the road past it never once opening. And now the boy: the same grey wolf, and the smallest spark anyone present could remember.
 
 Nobody said any of it out loud. Grey Ridge was not a cruel village. It simply counted well, being full of hunters, and everyone had the total before the examiner closed his box.
 
@@ -60,7 +60,7 @@ His father looked at him a moment more and let it go, the manner of a man who ha
 
 That evening his mother put the last of the honey in his rice and did not say the soft things, because she could see he did not need them. His father told one story, the story the boy had already half collected from aunts and uncles but had never heard from the mouth it belonged to: the wall.
 
-"Level ten," his father said. "You climb to it on fuel, one level at a time, like everyone. And at ten, the climbing stops. The tenth level is a door, and a soul ring is the key, and a soul ring comes from a soul beast, and the beast must die by your hand or it counts for nothing. No ring, no tenth level. Not in twenty years of trying. I sat at nine and hunted the hem my whole life, and my beast never came." He said it flat, without self-pity, a man reading his own ledger out loud. "Your grandfather's beast never came either. The forest decides. Until it decides for you, you walk behind me and you learn the forest, so that when it decides, you are ready to answer."
+"Level ten," his father said. "You climb to it on fuel, one level at a time, like everyone. And at ten, the climbing stops. The tenth level is a door, and a soul ring is the key, and a soul ring comes from a soul beast, and the beast must die by your hand or it counts for nothing. No ring, no tenth level. Not in twenty years of trying. I sat at ten for twenty of them, and hunted the hem my whole life, and my beast never came." He said it flat, without self-pity, a man reading his own ledger out loud. "Your grandfather's beast never came either. The forest decides. Until it decides for you, you walk behind me and you learn the forest, so that when it decides, you are ready to answer."
 
 "I know," said Ye Cang again, and this time he almost said the rest of it, and did not.
 
@@ -72,13 +72,13 @@ No voice. That was the first fact, and he learned it before anything else, and h
 
 Slots. Meters. Numbers, in parts of a hundred. A status panel — whole, cold, complete — hanging in the dark of him with the patience of a ledger. And a man who had counted for a living knew a ledger when he saw one.
 
-> 「Martial Soul — Wolf · beast-type · Power Attack · ice」
+> 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 1 · innate 1」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive」
-> 「Technique — The Hunter's Craft: 11% · parked, unslotted」
-> 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws」
-> 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame」
+> 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive · Low」
+> 「Technique — The Hunter's Craft: 11% · parked, unslotted · Low」
+> 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws · Mid」
+> 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
 > 「Hunter's Sense: 13%」
 > 「Plain Speech: 21%」
 > 「Mountain Stride: 9%」
@@ -89,6 +89,8 @@ He read it twice, line by line, cold as the panel itself, and made himself under
 The wolf, counted at its first release: one part in a hundred. The level, one, as the crystal had said. The slots, one in every list — a technique seat, a ring seat, a bone seat, all empty but the first.
 
 The techniques, then. The county's plain method, at one part: honest, because this body had never cultivated an hour. Under it, a line he had not been shown and had earned all his life: The Hunter's Craft, eleven parts. Six years of walking behind his father through the hem — the tracks, the wind, the knife under the crown, the waiting — counted by whatever this thing was, and never erased. Nothing in him had started at zero. Everything had started where his lives had put it.
+
+And everything that could be graded carried its grade, cold as a market tag. The soul: Mid — ordinary, the county's own word for it. The method: Low. The craft: Low. The blood: Low, an old thin line's honest reading. The ledger did not flatter. It only weighed.
 
 The skill: The Wolf, one part. The release itself — the grey light, the fur, the claws, the amber eyes — held up as a thing with a name and a number, counted like everything else. And under the skill, the line that made him lie very still in the dark and look at it for a long time.
 

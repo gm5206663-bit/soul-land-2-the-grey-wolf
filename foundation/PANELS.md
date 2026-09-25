@@ -10,6 +10,15 @@ live here and in the prose panels only, never loose in narration.
 `「Technique — Name: NN%」` · `「Soul Ring — Beast: N years」` ·
 `「Skill — Name: NN%」` · `「Bloodline — Line: NN%」` · life-skill lines `「Name: NN%」`
 
+**THE GRADE LADDER (F9 — rank in everything, canon-verified):** every
+graded line carries its grade — **Low (Waste) · Mid (Ordinary) · High
+(Excellent) · Top (Top-tier) · Ultimate (Divine/Extreme)** — canon's own
+quality ladder (receipt 17: "The quality of a Martial Soul ranges from low
+to high, including Waste Soul, Ordinary Soul, Excellent Soul, Top-tier
+Soul, Divine Soul"). Rings grade by their own ladder (the years: white →
+yellow → purple → black → red). Life-skills carry no grade — life has no
+ceiling. The level and the slots are counts, not things.
+
 **THE TWO TIERS (F7 — the full thing in the status):** the FULL status
 panel — printed at every gate (night one, rank-ups, year-ends) — carries
 every line COMPLETE: the martial soul's class, system, and attribute
@@ -24,13 +33,13 @@ never the whole status again.
 
 The full block, as `STATUS.md` carries it:
 
-> 「Martial Soul — Wolf · beast-type · Power Attack · ice」
+> 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 1 · innate 1」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive」
-> 「Technique — The Hunter's Craft: 11% · parked, unslotted」
-> 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws」
-> 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame」
+> 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive · Low」
+> 「Technique — The Hunter's Craft: 11% · parked, unslotted · Low」
+> 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws · Mid」
+> 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
 > 「Hunter's Sense: 13%」
 > 「Plain Speech: 21%」
 > 「Mountain Stride: 9%」
@@ -42,13 +51,13 @@ The full block, as `STATUS.md` carries it:
 
 | Panel | Beat |
 |---|---|
-| 「Martial Soul — Wolf · beast-type · Power Attack · ice」 | THE FULL PANEL — the Ledger waking, night one |
+| 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE FULL PANEL — the Ledger waking, night one |
 | 「Level — 1 · innate 1」 | 〃 |
 | 「Slots: 1 / 1 / 1」 | 〃 |
-| 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive」 | 〃 |
-| 「Technique — The Hunter's Craft: 11% · parked, unslotted」 | 〃 |
-| 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws」 | 〃 |
-| 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame」 | 〃 |
+| 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive · Low」 | 〃 |
+| 「Technique — The Hunter's Craft: 11% · parked, unslotted · Low」 | 〃 |
+| 「Skill — The Wolf: 1% · possession · strength, speed, senses, claws · Mid」 | 〃 |
+| 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
 | 「Hunter's Sense: 13%」 | 〃 |
 | 「Plain Speech: 21%」 | 〃 |
 | 「Mountain Stride: 9%」 | 〃 |
@@ -59,14 +68,14 @@ The full block, as `STATUS.md` carries it:
 
 | Panel | Beat |
 |---|---|
-| 「Level — 2」 | midwinter — the beat panel, short: the water standing higher |
-| 「Martial Soul — Wolf · beast-type · Power Attack · ice」 | THE YEAR LIST — the anniversary, every line complete |
-| 「Level — 3 · innate 1」 | 〃 |
+| 「Level — 4」 | midwinter — the beat panel, short: the water standing higher |
+| 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE YEAR LIST — the anniversary, every line complete |
+| 「Level — 9 · innate 1」 | 〃 |
 | 「Slots: 1 / 1 / 1」 | 〃 |
-| 「Technique — Basic Soul Power Cultivation: 14% · the engine, passive」 | 〃 |
-| 「Technique — The Hunter's Craft: 19% · parked, unslotted」 | 〃 |
-| 「Skill — The Wolf: 9% · possession · strength, speed, senses, claws」 | 〃 |
-| 「Bloodline — Grey Wolf: 12% · ice · the body-line: vitality, recovery, the wolf's frame」 | 〃 |
+| 「Technique — Basic Soul Power Cultivation: 22% · the engine, passive · Low」 | 〃 |
+| 「Technique — The Hunter's Craft: 19% · parked, unslotted · Low」 | 〃 |
+| 「Skill — The Wolf: 9% · possession · strength, speed, senses, claws · Mid」 | 〃 |
+| 「Bloodline — Grey Wolf: 12% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
 | 「Hunter's Sense: 19%」 | 〃 |
 | 「Stillness: 6%」 | the new line — surfaced the night the thorn thicket taught it |
 | 「Plain Speech: 23%」 | 〃 |

@@ -37,4 +37,6 @@
 10. THE WORKSHOP COPY (F5): the whole project lives in the author's workspace, refreshed to HEAD every turn the repo changes — GitHub the store, the workshop the reading desk.
 11. F6 ("Do yourself"): all three gates executed — the first beast RULED (the Ghost Wolf, ~120 years, the iron-grey; Netherlight PROPOSED), the names kept whole, Chapter 1 written from the locked foundations.
 12. F7 — THE FULL THING IN THE STATUS: the attribute canon-answered (ICE — receipt 16); the two panel tiers (full panels complete, beat-panels short); the BLOODLINE CARD in STATUS.md; Chapter 1 re-cut (s1).
-13. Chapter 2 written at the author's "Ok continue gry wolf" — the first year whole: the honest engine arithmetic (level 3 at seven), Old Kuo's winter count, the Anlin soul lamp, the boar follow, Stillness surfaced, the year-end full panel.
+13. Chapter 2 written at the author's "Ok continue gry wolf" — the first year whole: Old Kuo's winter count, the Anlin soul lamp, the boar follow, Stillness surfaced, the year-end full panel.
+14. F8 — THE HONEST PACE: the year's climb corrected on the canon rank-one anchor (level 9 at seven, the wall a season out); the father's wall canon-true (at ten).
+15. F9 — THE GRADE LADDER: rank in everything (Low/Mid/High/Top/Ultimate = canon's Waste/Ordinary/Excellent/Top-tier/Divine, receipt 17); grades on every graded panel line; SYSTEM_SPEC section 8.

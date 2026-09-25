@@ -38,13 +38,13 @@ After that the winter count had a chair in it, and the chair had a barrel under 
 
 In the second month of winter, lying in the loft with the engine turning over in the dark of him, faint and constant as water under ice, Ye Cang felt the pool find a new shelf. There was no sound to it and no ceremony. The water simply stood higher than it had stood, and the height had a name, and the name was a number, and the number was his.
 
-> 「Level — 2」
+> 「Level — 4」
 
 He lay still and did the professional arithmetic, because it was the only luxury he had ever been able to afford in either life.
 
-The county method, as taught, was an hour a day: the examiner had said so, and every soul in every village on the continent sat their hour and rose and went to work. His ran all hours. It ran while he carried water, and while he sat in the snow, and while he slept, and it ran at his best and not at his mood, because the slot held it at his best for him. The machine was small — rank one was rank one, and the county's plain method was nobody's treasure — but it compounded, and compounding was a word he had loved in the old life and loved more in this one, where nobody else had ever heard it.
+The county method, as taught, was an hour a day: the examiner had said so, and every soul in every village on the continent sat their hour and rose and went to work. An hour a day, for a rank-one soul on poor food, was two levels in a year, three in a lucky one. He knew that number from the inside, because he had read this world's book twice: the rank-one boy in it, alone and unfed in a rich man's house, had climbed from one to the wall at ten in three years of exactly that hour.
 
-Two levels in the first year, then, if the pace held. Perhaps three, if living fed it, and living seemed to feed it. He had read the story this world lived inside, and the story had never once mentioned a boy on the western hem of the great forest, and so the boy had a number of years to spend quietly, and he intended to spend every one of them getting harder to kill.
+His engine did not do hours. It ran while he carried water, and while he sat in the snow, and while he slept, at his best and not at his mood, because the slot held it at his best for him. The machine was small — rank one was rank one, and the county's plain method was nobody's treasure — but where the county's soul worked one hour, his worked every one of them, and it compounded, a word he had loved in the old life and loved more in this one, where nobody else had ever heard it. The honest count — and he counted everything twice — put the wall at ten inside his first year and a half. The county would call that a lie. The ledger called it arithmetic, and the ledger had never once flattered him. The years after the wall would be quiet ones. He had read the story this world lived inside, and the story had never once mentioned a boy on the western hem of the great forest, and he intended to spend the quiet years getting harder to kill.
 
 He slept. The engine did not.
 
@@ -56,7 +56,7 @@ Anlin was three streets and a wall, a market, a well, and a county hall with a s
 
 At the county hall, the crystal came out of its box for him, and the examiner — older in the spring light, the same mule — read the spark and read it again.
 
-"Level two," he said. He opened the book, found his own line from the autumn — *wolf, rank one, cultivates slowly* — and did not cross it out. He wrote under it. "Faster than my word, boy."
+"Level six," he said. He opened the book, found his own line from the autumn — *wolf, rank one, cultivates slowly* — and did not cross it out. He wrote under it. "Faster than my word, boy."
 
 "The method suits me," said Ye Cang.
 
@@ -92,15 +92,15 @@ That night, in the loft, a new line had surfaced in the dark behind his eyes, qu
 
 ---
 
-The third level came up in the night near the end of summer, like a boat coming to anchor: no sound, no ceremony, the water simply standing higher. Then the year came around to the stone room's anniversary, and the year's list printed itself in the dark, complete — as it had on the first night, and as it would on every gate he ever crossed.
+The ninth level came up in the night near the end of summer, like a boat coming to anchor: no sound, no ceremony, the water simply standing higher. Then the year came around to the stone room's anniversary, and the year's list printed itself in the dark, complete — as it had on the first night, and as it would on every gate he ever crossed.
 
-> 「Martial Soul — Wolf · beast-type · Power Attack · ice」
-> 「Level — 3 · innate 1」
+> 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
+> 「Level — 9 · innate 1」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation: 14% · the engine, passive」
-> 「Technique — The Hunter's Craft: 19% · parked, unslotted」
-> 「Skill — The Wolf: 9% · possession · strength, speed, senses, claws」
-> 「Bloodline — Grey Wolf: 12% · ice · the body-line: vitality, recovery, the wolf's frame」
+> 「Technique — Basic Soul Power Cultivation: 22% · the engine, passive · Low」
+> 「Technique — The Hunter's Craft: 19% · parked, unslotted · Low」
+> 「Skill — The Wolf: 9% · possession · strength, speed, senses, claws · Mid」
+> 「Bloodline — Grey Wolf: 12% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
 > 「Hunter's Sense: 19%」
 > 「Stillness: 6%」
 > 「Plain Speech: 23%」
@@ -109,9 +109,9 @@ The third level came up in the night near the end of summer, like a boat coming 
 
 He audited it line by line, because auditing was how he slept.
 
-The engine at fourteen parts. The craft at nineteen, grown a full winter of snares and one long afternoon of a boar. The wolf at nine — sixty breaths of grey light most mornings, and each breath worth more than the last. The blood at twelve, and the winter's proof of it hung on the fence every morning of the cold: the shirt, and the boy under the shirt, comfortable. Two lines up in the list of the life a man lives with his mouth and his legs. One new line, counted from the thorn thicket and the sitting still.
+The engine at twenty-two parts. The craft at nineteen, grown a full winter of snares and one long afternoon of a boar. The wolf at nine — sixty breaths of grey light most mornings, and each breath worth more than the last. The blood at twelve, and the winter's proof of it hung on the fence every morning of the cold: the shirt, and the boy under the shirt, comfortable. Two lines up in the list of the life a man lives with his mouth and his legs. One new line, counted from the thorn thicket and the sitting still.
 
-And the level: three, at seven years old. Rank-one pace, honest for what he was, ahead of the county's word for him, and four winters from the wall his father had stood at for twenty years. Four winters, and the forest, and the grey beast that hunted like his father taught, and the book this world lived inside opening its first page somewhere far east of here, on schedule, without him.
+And the level: nine, at seven years old — a season from the wall his father had stood at for twenty years. The wall was never the work; the body was. A seven-year-old frame could hold ten levels as a cup holds a flood, and a hundred-and-twenty-year beast would need a man's shoulders to take it from. The winters between now and the grey beast were for the shoulders. And the book this world lived inside would open its first page somewhere far east of here, on schedule, without him.
 
 His mother let his sleeves out twice that year and the shoulders once, working the needle in the door light with the calm of a woman who had made up her mind about something and did not require witnesses. He was growing as the ridge's boys grew, and then a little past it — the frame filling quietly under everything, bone and meat coming on like weather. She measured him with her eyes across the whole year and said only, "Eat," and put the bigger share in his bowl, and he ate, and neither of them called the bloodline by name, and neither of them needed to.
 

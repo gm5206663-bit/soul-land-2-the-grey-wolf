@@ -4,8 +4,8 @@
 
 | # | Title | Words | Band | State at close |
 |---|---|---|---|---|
-| 1 | The Grey Wolf | 2,700 | IN | level 1 · the full panel night one · the engine at 2% by dawn · the beast RULED: the Ghost Wolf, ~120y · five winters to the book's first page |
-| 2 | The Quiet Climb | 2,417 | IN | level 3 at seven · engine 14% · wolf 9% · blood 12% · Stillness surfaced · Old Kuo's count · the soul lamp · four winters to the wall |
+| 1 | The Grey Wolf | 2,874 | IN | level 1 · the full panel night one · the engine at 2% by dawn · the beast RULED: the Ghost Wolf, ~120y · five winters to the book's first page |
+| 2 | The Quiet Climb | 2537 | IN | level 9 at seven (the honest pace) · engine 22% · wolf 9% · blood 12% · the grades on every line · Stillness surfaced · the wall a season out |
 
 
 ## The author's hand (gates)

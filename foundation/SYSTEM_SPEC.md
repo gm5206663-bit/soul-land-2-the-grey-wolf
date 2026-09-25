@@ -112,3 +112,31 @@ only, the author's to rule if ever touched.
   Two-Headed Wolf) are canon's other roads — never ours to claim.
 - **Ring skills build the arsenal** on top of possession; the **True
   Body** (武魂真身) waits at the far end.
+
+## 8. THE GRADE LADDER (F9 — rank in everything, canon-verified)
+
+Canon's own quality ladder, verbatim (receipt 17): "The quality of a
+Martial Soul ranges from low to high, including Waste Soul, Ordinary Soul,
+Excellent Soul, Top-tier Soul, Divine Soul." The Ledger's five grades map
+one-to-one:
+
+| Ledger | Canon | Receipt |
+|---|---|---|
+| **Low** | Waste Soul | "extremely low quality... almost impossible for them to possess Innate Soul Power" — the sickle, the hoe, Blue Silver Grass |
+| **Mid** | Ordinary Soul | the common run of souls |
+| **High** | Excellent Soul | the strong village-town tier |
+| **Top** | Top-tier Soul | the Clear Sky Hammer / Seven Kill Sword country |
+| **Ultimate** | Divine Soul — and the Extreme (极致) attribute road | canon defines **Extreme Ice at −150°C and below, Extreme Fire at 3000°C and above**; Extreme souls: average before 30, slow 30–70, exceptional after 70; Yuhao's Ultimate Ice = absolute suppression of ice and fire |
+
+- **What gets graded:** the martial soul, every skill, every technique,
+  the bloodline (and soul tools, when the story reaches them). Rings grade
+  by their own ladder — the years (white → yellow → purple → black → red).
+- **What never gets graded:** the life-skills (life has no ceiling), the
+  level, the slots (counts, not things).
+- **Grades are honest current readings** (Nothing-Fixed): a grade rises as
+  the thing grows; a technique's 100% upgrade opens the next stage and its
+  grade with it; mutation is canon's other road between grades (receipt
+  14).
+- **The far horizon, canon-true:** an old thin ice line has a defined
+  ceiling to grow toward — the Ultimate tier is real, receipted, and
+  −150°C cold.

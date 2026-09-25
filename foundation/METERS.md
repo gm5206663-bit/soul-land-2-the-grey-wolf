@@ -8,7 +8,7 @@ panel lines. Every reading is a current reading — nothing fixed.
 
 | Art | Its own pace law (what feeds it) | Night one | Now |
 |---|---|---|---|
-| Basic Soul Power Cultivation (the standard method; the ENGINE — slotted, passive 24/7) | his best, around the clock; the infusions (growth, the craft, the wolf's vitality once the ring seats) | 1% | **14%** (Ch 2 year-end) |
+| Basic Soul Power Cultivation (the standard method; the ENGINE — slotted, passive 24/7) | his best, around the clock; the infusions (growth, the craft, the wolf's vitality once the ring seats) | 1% | **22%** (Ch 2 year-end — the honest pace, F8) |
 | The Hunter's Craft (his father's teaching — learned, parked until the second seat) | six lived years counted at the open; grows by living it, even parked | 11% | **19%** (Ch 2 — a winter of snares, the boar follow) |
 
 ## THE SKILLS
@@ -38,7 +38,7 @@ panel lines. Every reading is a current reading — nothing fixed.
 
 | Measure | Law | Night one | Now |
 |---|---|---|---|
-| Level (the crystal's) | the bottleneck law: no ring, no crossing 10; engine passive + infusions | 1 | **3** (Ch 2, age 7 — four winters to the wall) |
+| Level (the crystal's) | the bottleneck law: no ring, no crossing 10; engine passive + infusions | 1 | **9** (Ch 2, age 7 — the wall a season out; canon anchor: the rank-one hour-a-day boy took three years to ten, poor-fed; the all-hours engine beats the hour by the hours it runs) |
 | The ring (none yet) | **RULED (F6): the Ghost Wolf, ~120 years** — the hunt is Arc 1's climax, ~age 10 | — | — |
 
 ## THE LAW OF THIS FILE

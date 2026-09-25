@@ -12,6 +12,12 @@ attached to the man, physique enhanced, damage shared (receipt 10). Beast
 souls hold the advantage before level 30 (receipt 11); the **True Body**
 (武魂真身) waits at the far end (receipt 12).
 
+**The grade ladder** — rank in everything (F9, canon-verified): **Low
+(Waste) / Mid (Ordinary) / High (Excellent) / Top (Top-tier) / Ultimate
+(Divine — the Extreme road: canon defines Extreme Ice at −150°C and
+below)**. The Wolf is Mid; the engine and the craft are Low; the bloodline
+is Low — and every grade is a current reading that can rise.
+
 **The bloodline list** — the fourth list: a beast-type soul is its
 bloodline expressed, so it unlocks with the soul itself (night one: 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame」 — the line's name for their own grey wolf blood, OURS, no canon breed claimed). The Ye line's old, thin wolf — his father's soul and his grandfather's before that. Grows on living and on the ring's
 years; feeds the blood and body; never purchasable; no ceiling.
