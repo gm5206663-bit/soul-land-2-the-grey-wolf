@@ -29,7 +29,5 @@
 4. Beside canon: Shrek, the same years — canon adjacency lawed.
 5. The first beast: OPEN, the author's (Issue #1).
 6. The names: all PROPOSED (Issue #2). The first serial: kept finished, untouched.
-7. The bloodline list opens at the awakening (F2, the author's strike): a
-   beast-type soul is its bloodline expressed — the Grey Wolf bloodline, the
-   Ye line's, seated and counted from night one (7%, PROPOSED); the father's
-   own wolf soul innate 2, level 9, ringless.
+7. The bloodline list opens at the awakening (F2, the author's strike): a beast-type soul is its bloodline expressed — the wolf bloodline, the Ye line's, seated and counted from night one (7%, PROPOSED); the father's own wolf soul innate 2, level 9, ringless.
+8. RESEARCH FIRST (F3): possession and the beast-type laws receipted and installed (CANON_GROUND 10-12); the soul corrected to canon's plain WOLF — the grey is the Ye line's fur, not a breed (receipt 13); the life-skills renamed (Hunter's Sense · Plain Speech · Mountain Stride · The Tally); Lesson 6 added to the Foundations.

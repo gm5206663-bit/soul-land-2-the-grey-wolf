@@ -23,6 +23,10 @@ written; every ruling lives verbatim in `RULINGS_LOG.md`.
    the base locks only at the author's rulings.
 5. **RECEIPTS.** Every canon claim verified before it enters a chapter
    (`CANON_GROUND.md`). Nothing on memory alone.
+6. **RESEARCH FIRST (F3, the author's order).** Research everything
+   completely BEFORE starting anything — the foundations carry no concept
+   (possession, breeds, ranks, money) that has not been receipted first.
+   What the receipts do not cover is marked OURS or OPEN, never blurred.
 
 ## THE LOCKS (the author's rulings, verbatim in RULINGS_LOG)
 
@@ -37,16 +41,20 @@ written; every ruling lives verbatim in `RULINGS_LOG.md`.
   (PROPOSED lock: SL1+SL2 whole; everything after = fog he never read.)
 - **His name:** **Ye Cang** (叶苍, "cang" as in the grey of the grey wolf)
   — PROPOSED.
-- **His martial soul (author-ruled):** **a wolf** — the Grey Wolf, a
-  beast-type, attack-type soul (the wolf itself is the author's; "grey" is
-  the PROPOSED breed and color).
+- **His martial soul (author-ruled):** **the Wolf** — canon's own base
+  beast spirit (CANON_GROUND 13: Su Yuntao and Xiao Chenyu carry it),
+  beast-type, Power Attack System. His line's wolf is grey-furred — the
+  Ye line's expression, a description, never a canon-breed claim (canon
+  has no plain "Grey Wolf" breed; its wolf variants — Inferno Grey Wolf,
+  Thunder Wolf, and the rest — are receipted and stay design-doc only).
+  The serial's title keeps the grey: his wolf is the grey one. The
+  release is POSSESSION (receipt 10); the pre-30 window is his decade's
+  home ground (receipt 11).
 - **His innate soul power (author-ruled): level 1** — the same rank-1
   start as Huo Yuhao's own (receipted: the fandom Soul Power table lists
   Huo Yuhao's original Innate Soul Power as 1). The world's verdict:
   barely a spark. The Ledger's verdict: a starting point.
-- **The bloodline (F2):** the fourth list opens with the soul itself — a
-  beast-type soul IS its bloodline expressed. The Grey Wolf bloodline,
-  inherited in the Ye line (the father's own wolf soul: innate 2, level 9,
+- **The bloodline (F2):** the fourth list opens with the soul itself — a beast-type soul IS its bloodline expressed. The wolf bloodline, inherited in the Ye line (the father's own wolf soul: innate 2, level 9,
   ringless — the wall at ten his whole life), seats on the Ledger's first
   night at an honest 7% (PROPOSED); grows on living and, once a ring seats,
   on the ring's years.

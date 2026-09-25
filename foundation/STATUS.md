@@ -8,22 +8,26 @@ file is the whole picture.
 ## THE FIRST PANEL — night one, the awakening day (Chapter 1's first
 print, PROPOSED)
 
-> 「Martial Soul — Grey Wolf」
+> 「Martial Soul — Wolf」
 > 「Level — 1」
 > 「Slots: 1 / 1 / 1」
 > 「Technique — Basic Soul Power Cultivation: 1%」
 > 「Technique — The Hunter's Craft: 11%」
 > 「Skill — The Wolf: 1%」
 > 「Bloodline — Grey Wolf: 7%」
-> 「Senses: 13%」
-> 「Speech: 21%」
-> 「Walking and Running: 9%」
-> 「Counting: 27%」
+> 「Hunter's Sense: 13%」
+> 「Plain Speech: 21%」
+> 「Mountain Stride: 9%」
+> 「The Tally: 27%」
 
 Read honestly, the way he reads it that night:
 
 - **The wolf, counted at its first release** — one part in a hundred. The
-  village saw a spark; the Ledger saw a start.
+  release is what a beast soul IS: **possession** — the beast attached to
+  the man, the muscles and claws and senses made predator (CANON_GROUND
+  10). And the beast-soul advantage runs to level 30: the whole village
+  decade sits inside the window where his kind of soul is the strongest
+  kind (receipt 11). The village saw a spark; the Ledger saw a start.
 - **One technique seat, and his choice already made in it:** the standard
   basic method the examiner left (shown once, taken in — Acquisition),
   slotted for the passive engine, at an honest 1% — he has never
@@ -49,8 +53,8 @@ night-one state; nothing has moved yet.
 | Soul Rings | 0 seats (first ring at level 10 — **the beast is the author's to rule, Issue #1**) |
 | Soul Bones | 0 seats |
 | Bloodline | Grey Wolf 7% (the Ye line's wolf — the fourth list, unlocked with the soul itself; night one) |
-| Skills | The Wolf 1% (innate, the first skill) |
-| Life-skills | Senses 13 · Speech 21 · Walking and Running 9 · Counting 27 · (others surface as the counting does) |
+| Skills | The Wolf 1% (innate, the first skill — possession: the release attaches the beast) |
+| Life-skills | Hunter's Sense 13 · Plain Speech 21 · Mountain Stride 9 · The Tally 27 · (others surface as the counting does) |
 | Level | 1 (innate) — the bottleneck law receipts at `TIMELINE.md` |
 
 ## THE FORWARD MAP (what joins when)

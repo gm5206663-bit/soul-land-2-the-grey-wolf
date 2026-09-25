@@ -15,17 +15,17 @@ panel lines. Every reading is a current reading — nothing fixed.
 
 | Skill | Its own pace law | Night one | Now |
 |---|---|---|---|
-| The Wolf (innate — the first skill: the release, the wolf over him) | every release feeds it; each part heavier than the last | 1% | 1% |
+| The Wolf (innate — the first skill: POSSESSION, the release attaching the beast to the man — strength, speed, senses, claws) | every release feeds it; each part heavier than the last; deepens with every ring that seats | 1% | 1% |
 
 ## THE LIFE-SKILLS (each its own pace; grows on plain living)
 
 | Skill | What feeds it | Night one | Now |
 |---|---|---|---|
-| Senses | a hunter's son's six years of woodcraft | 13% | 13% |
-| Speech | a grown mind's plain speech, six years of the local tongue | 21% | 21% |
-| Walking and Running | the ridge trails, the following | 9% | 9% |
-| Counting | a tallykeeper's whole adult life | 27% | 27% |
-| Reading | — | (no line — cannot read this world's script; surfaces when it exists) | — |
+| Hunter's Sense | a hunter's son's six years of woodcraft | 13% | 13% |
+| Plain Speech | a grown mind's plain speech, six years of the local tongue | 21% | 21% |
+| Mountain Stride | the ridge trails, the following | 9% | 9% |
+| The Tally | a tallykeeper's whole adult life — the one thing he was better at than anyone he knew | 27% | 27% |
+| Reading | — | (no line — cannot read this world's script yet; surfaces when it exists) | — |
 
 ## THE BLOODLINE (the fourth list — unlocked with the soul itself)
 

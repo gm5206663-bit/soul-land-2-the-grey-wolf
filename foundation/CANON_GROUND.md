@@ -62,6 +62,47 @@ canon ground are marked [CARRIED].
    hunter family's old blood. [CARRIED from the first serial's canon ground
    28; Dai/Tang receipts fandom-verified]
 
+10. **POSSESSION (武魂附体) — what a beast soul's release IS.** "A
+    Spirit Master using 'Possession' to attach the attributes of the
+    animal corresponding to their Martial Soul to themselves, enhancing
+    their physique and sharing damage... Beast Martial Souls achieve
+    unity of human and soul through Possession." The White Tiger
+    receipt: "When the Martial Soul is attached to the body, a pale
+    white light erupts... the muscles swell... hands double in size and
+    become covered in fur... claws... the pupils change." (Baike Beast
+    Martial Soul; Baike/Dai Mubai)
+11. **THE PRE-30 WINDOW.** "At lower levels (before level thirty), Beast
+    Martial Souls hold an advantage due to directly enhancing physical
+    strength, but the gap with Tool Martial Souls narrows at higher
+    levels." And: "the bodies of Beast Soul Masters are generally
+    extremely robust." (Baike Beast Martial Soul / Martial Soul)
+12. **THE TRUE BODY (武魂真身), far end.** The full transformation into
+    the beast — Dai Mubai's SEVENTH skill: "Martial Soul True Body:
+    White Tiger True Body — transforms into a giant White Tiger."
+    (Baike Dai Mubai) Design-doc only until the story earns it.
+13. **CANON WOLVES — they exist, and this is exactly what exists.** The
+    plain **Wolf is a canon martial soul** (fandom Wolf page: "a beast
+    spirit which transforms the body constitution into that of a wolf,
+    giving sharp claws... boosting their strength"; users: **Su Yuntao —
+    SL1's own traveling awakening examiner** — Xiao Chenyu, Jia Long).
+    Martial-soul variants (receipted, design-doc only for us): Inferno
+    Grey Wolf, Stormwind Doubleheaded Wolf, Thunder Wolf, Green-faced
+    Wolf, Lone Wolf, Soul Wolf, Dragon Wolf. Wolf BEASTS: **Ghost Wolf**
+    (iron-grey, pack hunter, patient attrition predator, 10–1,000+ years;
+    SL2 receipt: Huo Yuhao and He Caitou fought a thousand-year Spectre
+    Wolf at Shrek's Beast Dueling Area), Golden Wolf, Cyan Wolf,
+    Elemental Silver Wolf, Purple Spirit Wolf, Wind Spirit Wolf,
+    Stormwind Demon Wolf, Mutant Wolf Ape (10k+), Demon Wolf (100k+), and
+    the **Silver Moon Wolf King** (20,000+ years, Jing Yang Mountain
+    Range — enslaves wolf packs and raises the whole pack's cultivation
+    by ~20%). **There is NO plain "Grey Wolf" breed in canon — the
+    author's strike is receipt-confirmed; our soul is the plain Wolf and
+    the grey is the Ye line's fur.** (fandom Wolf / Ghost Wolf / Silver
+    Moon Wolf King / Demon Wolf / Mutant Wolf Ape)
+14. **Beast souls can mutate.** "A Beast Martial Soul may undergo
+    mutation... resulting in characteristics or enhancement directions
+    different from the original species." (Baike Beast Martial Soul)
+
 ## The rules of the ground
 
 - The anime and the novel reorder things — **we never do.** The receipts
@@ -85,6 +126,4 @@ canon ground are marked [CARRIED].
   Tang Ya; verify the map before the journey chapter).
 - **OPEN-4:** the Heavenly Dream's ring color at the fusion (never needed
   in-world — his ring, not ours; listed to keep us honest).
-- **OPEN-5:** wolf-type beast canon examples at the forest's edge (the
-  Grey Wolf is our invention inside canon's beast-type rules; find canon
-  wolf kin before the first hunt chapter).
+- **OPEN-5 — RESOLVED (receipt 13):** canon wolf kin receipted whole (Ghost Wolf, Golden Wolf, the Silver Moon Wolf King, and the rest); the first-ring menu lives in Issue #1's canon list.

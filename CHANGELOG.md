@@ -33,3 +33,19 @@ the ring's years; feeds the blood and body; never purchasable; no
 ceiling. Installed across STATUS, PANELS, METERS, SYSTEM_SPEC,
 FOUNDATION, CHARACTERS, TIMELINE, STORY_ARCS, GLOSSARY, CANON_GROUND
 (receipt 9: beast souls run in bloodlines), RULINGS_LOG F2.
+
+## v1.2 — 2026-09-25 — RESEARCH FIRST: POSSESSION + THE CANON WOLF (F3)
+
+The author's strike, answered with receipts. **Possession (武魂附体)
+installed:** a beast soul's release IS possession — the beast attached to
+the man, physique enhanced, damage shared (the White Tiger attachment
+receipt); the beast body; the pre-30 advantage window; the True Body at
+the far end (Dai Mubai's seventh skill). **The wolf corrected:** the
+plain Wolf is canon (Su Yuntao — SL1's own examiner — and Xiao Chenyu
+carry it); canon has NO plain Grey Wolf breed — the soul is now the Wolf,
+「Martial Soul — Wolf」 on the panel, and the grey is the Ye line's fur.
+Wolf beasts receipted for the first-ring menu (Issue #1): the Ghost Wolf
+(iron-grey, packs, 10–1,000+ years, the SL2 Spectre Wolf receipt), Golden
+and Cyan Wolves, the Silver Moon Wolf King. **The life-skills renamed:**
+Hunter's Sense · Plain Speech · Mountain Stride · The Tally. Lesson 6
+(RESEARCH FIRST) added to the Foundations. CANON_GROUND receipts 10–14.

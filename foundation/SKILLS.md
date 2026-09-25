@@ -10,7 +10,7 @@ slotted — the spirit is his, and a ring's skill rides its ring's seat.
 
 | Skill | Source | Incantation (PROPOSED) | What it does | Meter | Its own pace |
 |---|---|---|---|---|---|
-| 「The Wolf」 | the spirit itself — innate, the FIRST skill | *"hunt."* — one silent word, cold and plain | the release: the wolf over him — strength, speed, the senses sharpened, the body made predator; costs soul power, held as long as it is paid for | night one: 1% | every release feeds it; each part heavier; deepens with every ring that seats (the Aging Law) |
+| 「The Wolf」 | the spirit itself — innate, the FIRST skill | *"hunt."* — one silent word, cold and plain | **possession** (CANON_GROUND 10): the release attaches the beast to the man — the muscles swell, the claws come, the senses sharpen, the body is made predator; costs soul power, held as long as it is paid for | night one: 1% | every release feeds it; each part heavier; deepens with every ring that seats (the Aging Law) |
 
 ## What the coming rings will bring
 
@@ -25,3 +25,22 @@ spirit's rings are new working products with their own incantations, from
 the first hour. The beast-soul mirror: the release is the birthright, the
 rings sharpen it. Canon: a ring's skill is obtained and usable the moment
 the ring is absorbed — carried whole.
+
+## THE BEAST-TYPE LAWS (receipted — CANON_GROUND 10–12)
+
+- **The release is possession:** a beast soul attaches its beast to the
+  man — physique enhanced, damage shared; the White Tiger receipt: "when
+  the Martial Soul is attached, a pale white light erupts... muscles
+  expand... claws... the pupils change."
+- **The beast body:** beast soul masters' bodies are naturally robust,
+  released or not.
+- **The pre-30 window:** before level 30, beast souls surpass tool souls
+  of the same level — direct physical enhancement. His whole village
+  decade runs inside the window.
+- **The ring skills build the arsenal:** possession is the birthright; the
+  rings add the named skills on top of it (the White Tiger receipts:
+  Barrier, Light Wave, Vajra Transformation — ring skills, not
+  possession).
+- **The True Body (武魂真身), far end:** the full transformation —
+  Dai Mubai's seventh skill, the giant White Tiger. Design-doc only until
+  the story earns it.

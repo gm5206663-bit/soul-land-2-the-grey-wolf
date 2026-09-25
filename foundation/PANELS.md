@@ -15,17 +15,17 @@ live here and in the prose panels only, never loose in narration.
 
 The full block, as `STATUS.md` carries it:
 
-> 「Martial Soul — Grey Wolf」
+> 「Martial Soul — Wolf」
 > 「Level — 1」
 > 「Slots: 1 / 1 / 1」
 > 「Technique — Basic Soul Power Cultivation: 1%」
 > 「Technique — The Hunter's Craft: 11%」
 > 「Skill — The Wolf: 1%」
 > 「Bloodline — Grey Wolf: 7%」
-> 「Senses: 13%」
-> 「Speech: 21%」
-> 「Walking and Running: 9%」
-> 「Counting: 27%」
+> 「Hunter's Sense: 13%」
+> 「Plain Speech: 21%」
+> 「Mountain Stride: 9%」
+> 「The Tally: 27%」
 
 ## Chapter ledger (a row per line, per chapter — begins with Chapter 1)
 

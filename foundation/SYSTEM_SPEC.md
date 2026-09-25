@@ -96,3 +96,21 @@ and quiet.
 No voice, no explanations, no gifts, no tasks, no shop, no points, no
 favorites. It never answers a question. It never warns. It counts — and
 the boy who reads it does the rest.
+
+## 7. What a beast-type soul is (the wolf's laws, receipted)
+
+The martial soul is the **Wolf** — canon's own base beast spirit
+(CANON_GROUND 13: users include Su Yuntao, SL1's traveling examiner, and
+Xiao Chenyu); his line's wolf is grey-furred — a description of the Ye
+line's expression, never a claim on a canon breed. Variant and mutation
+paths exist in canon (Inferno Grey Wolf, Thunder Wolf...) — design-doc
+only, the author's to rule if ever touched.
+
+- **The release is possession (武魂附体):** the beast attached to the man
+  — physique enhanced, damage shared; the first skill 「The Wolf」 IS the
+  possession, counted and metered like everything else.
+- **The beast body:** robust, released or not.
+- **The pre-30 window:** beast souls hold the advantage before level 30 —
+  the village decade sits inside it, and the story should feel it.
+- **Ring skills build the arsenal** on top of possession; the **True
+  Body** (武魂真身) waits at the far end.

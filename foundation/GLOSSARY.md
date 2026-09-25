@@ -3,14 +3,18 @@
 **The Ledger** (PROPOSED) — what he calls the silent thing behind his
 eyes: slots, meters, the full status panel. It never speaks; it counts.
 
-**The Grey Wolf** (the soul; wolf = the author's, grey/breed PROPOSED) —
-beast-type, attack-type. Its release is the first skill: 「The Wolf」,
-one silent word — *"hunt."* (PROPOSED)
+**The Wolf** (the martial soul; the author's ruling) — canon's own base
+beast spirit (receipt 13). The Ye line's wolf is grey-furred — the title's
+grey, a description, never a breed claim. Its release is the first skill:
+「The Wolf」, one silent word — *"hunt."* (PROPOSED)
+
+**Possession (武魂附体)** — what a beast soul's release IS: the beast
+attached to the man, physique enhanced, damage shared (receipt 10). Beast
+souls hold the advantage before level 30 (receipt 11); the **True Body**
+(武魂真身) waits at the far end (receipt 12).
 
 **The bloodline list** — the fourth list: a beast-type soul is its
-bloodline expressed, so it unlocks with the soul itself (night one:
-「Bloodline — Grey Wolf: 7%」). The Ye line's old, thin wolf — his father's
-soul and his grandfather's before that. Grows on living and on the ring's
+bloodline expressed, so it unlocks with the soul itself (night one: 「Bloodline — Grey Wolf: 7%」 — the line's name for their own grey wolf blood, OURS, no canon breed claimed). The Ye line's old, thin wolf — his father's soul and his grandfather's before that. Grows on living and on the ring's
 years; feeds the blood and body; never purchasable; no ceiling.
 
 **Innate soul power** — the starting level measured at the awakening
