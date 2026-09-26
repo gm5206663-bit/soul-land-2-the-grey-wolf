@@ -26,7 +26,7 @@ By late summer they fused.
 
 It was not new technique world handed him. It was what happened when man who counted for living mastered every basic ridge could teach — soul power control, observation, running, patience, wind stride, quiet step — and ledger, which never invents roads, recognized that roads had become one road. Third seat, open since Soul Master, filled without him asking.
 
-> 「Technique — The Grey Ridge Hunt: 100% → Silent Wind Step Mid 1% (evolution chain) · seated, the third slot · High」
+> 「Technique — The Grey Ridge Hunt: 100% → Storm Frost Ghost Hunt Mid 1% → Storm Frost Ghost Hunt · seated, the third slot · High」
 
 Fused method: spirit power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst. Its own effects, its own name. County's plain method plus hunter's craft plus every life-skill ridge taught, become something more good — named method that has own effects. That was canon's own road: Tang Sect's Ghost Shadow Perplexing Track was observation plus running; Mysterious Heaven Skill was cultivation plus control. His was Grey Ridge Hunt.
 
@@ -95,30 +95,30 @@ That night, at first gate of road, in loft of hem-village inn with smell of othe
 > 「Slots: 3 / 3 / 3」
 > 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」
 > 「Soul Ring — Stormwind Demon Wolf: 1,850 years · purple · aging」
-> 「Technique — Basic Soul Power Cultivation: 100% → Silent Wind Step Mid 1% (evolution chain) · the engine, passive · High」
-> 「Technique — The Hunter's Craft: 100% → Silent Wind Step Mid 1% (evolution chain) · seated, the second slot · High」
-> 「Technique — The Grey Ridge Hunt: 100% → Silent Wind Step Mid 1% (evolution chain) · seated, the third slot · High」
+> 「Technique — Basic Soul Power Cultivation: 100% → Flowing Soul Cultivation Mid 1% → Flowing Soul Cultivation · the engine, passive · High」
+> 「Technique — The Hunter's Craft: 100% → Forest Craft Mid 1% → Forest Craft · seated, the second slot · High」
+> 「Technique — The Grey Ridge Hunt: 100% → Storm Frost Ghost Hunt Mid 1% → Storm Frost Ghost Hunt · seated, the third slot · High」
 > 「Skill — The Wolf: 85% · possession · strength, speed, senses, claws · High → Storm Frost Ghost Wolf possession」
 > 「Skill — Netherlight: 45% · the speed surge, the blow sliding off · High → Ghost Veil」
 > 「Skill — Windstride: 20% · the burst that arrives · High → Storm Step」
 > 「Bloodline — Grey Wolf: 65% · ice · the body-line: vitality, recovery, the wolf's frame · High」
 > 「Bloodline — Ghost Wolf: 35% · the ghost-line: the patient hunt, the quiet step, the seen-late · Mid」
 > 「Bloodline — Stormwind Demon Wolf: 15% · the storm-line: the fast kind, the wind's stride · Mid」
-> 「Hunter's Sense: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Stillness: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Plain Speech: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Mountain Stride: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「The Tally: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Spear: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Soul Power Control: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Observation: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Body Control: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Five Senses: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Reading: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Understanding: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Basic Spearmanship: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Cooking Skill: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
-> 「Combat Style: 100% → Silent Wind Step Mid 1% (evolution chain Low→Mid→High)」
+> 「Hunter's Sense: 100% → Beast Sense Mid 1% → Beast Sense」
+> 「Stillness: 100% → Patience as Limb Mid 1% → Patience as Limb」
+> 「Plain Speech: 100% → Clear Speech Mid 1% → Clear Speech」
+> 「Mountain Stride: 100% → Ridge Stride Mid 1% → Ridge Stride」
+> 「The Tally: 100% → Clear Mind Mid 1% → Clear Mind」
+> 「Spear: 100% → Spear Flow Mid 1% → Spear Flow」
+> 「Soul Power Control: 100% → Flowing Control Mid 1% → Flowing Control」
+> 「Observation: 100% → Hunter's Eye Mid 1% → Hunter's Eye」
+> 「Body Control: 100% → Flowing Body Mid 1% → Flowing Body」
+> 「Five Senses: 100% → Keen Senses Mid 1% → Keen Senses」
+> 「Reading: 100% → Fluent Reading Mid 1% → Fluent Reading」
+> 「Understanding: 100% → Clear Understanding Mid 1% → Clear Understanding」
+> 「Basic Spearmanship: 100% → Spear Flow Mid 1% → Spear Flow」
+> 「Cooking Skill: 100% → Camp Cooking Mid 1% → Camp Cooking」
+> 「Combat Style: 100% → Grey Ridge Hunt Mid 1% → Grey Ridge Hunt」
 
 He read it twice, and found it honest — and found first line changed. Wolf no longer said Grey Wolf. It said High → Storm Frost Ghost Wolf. Bloodline strange change — Grey sixty five High plus Ghost thirty five Mid plus Stormwind fifteen Mid plus both rings purple thousand-year — had awakened soul. Grey Wolf → Ice Wolf → Storm Frost Ghost Wolf, three bloodlines fused, attribute ice deepened from thin to true ice, frame larger, eyes ice-amber. Ledger counted evolution as it counted everything. Netherlight at thirteen fifty purple had upgraded — Ghost Veil: speed surge plus physical plus energy sliding off plus brief invisibility. Windstride at eighteen fifty purple had upgraded — Storm Step: burst plus wind blade plus afterimage. Skills upgrade when ring breakthroughs next stage — canon's own law, Soul Land 3 receipt. And third technique, Grey Ridge Hunt, carried its own concealment — Ring Veil: hides purple as yellow to world, true purple only in Ledger. What fool shows two thousand-year rings at eleven? Not this one. He slept sleep of man whose tally had come out even, and in morning road ran on east, and he ran with it, spirit power flowed where eye went, body arrived where mind went first — Hunt's own effects, and purple hidden as yellow to every eye but his.
 
