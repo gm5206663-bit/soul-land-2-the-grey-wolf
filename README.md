@@ -1,9 +1,8 @@
 # THE GREY WOLF — a Soul Land 2 fan fiction
 
 > **Era:** Soul Land II: The Unrivaled Tang Sect · **Beside canon:** the
-> same years as Huo Yuhao · **Status:** five chapters written — Arc 1
-> (Grey Ridge) complete, Arc 2 (the road to Shrek) opened; releases
-> through v0.6.x; Chapter 6 — Shrek — next, at the author's word.
+> same years as Huo Yuhao · **Status:** six chapters written — Arc 1
+> (Grey Ridge) complete, Arc 2 (the road to Shrek) road craft — Chapter 6 The Hem Road (all basics 100% MASTERED High in daily life, Spirit Sea 850, body ~500kg, Storm Frost Ghost Wolf ice+wind High, Ghost Veil 3 clones golden lock toughest skull tofu waist, Storm Step wind blade burst wings flight, Ring Veil hides purple as yellow); releases through v0.6.9-f22; Chapter 7 — Shrek City arrival — next, at the author's word.
 
 A man who counted things for a living dies on Earth, and is born again on
 the Douluo Continent with a thousand stories in his head — including the

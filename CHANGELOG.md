@@ -305,3 +305,12 @@ The author's strike: "Everything mid or above in my view, his soul rings should 
 
 **FILES:** SYSTEM_SPEC v3.0 (Fusion Law F16), METERS (thousand-year 1,350/1,850 purple, level 30, Grey 65 High, Ghost 35 Mid, Stormwind 15 Mid, Wolf 85 High, Netherlight 45 High, Windstride 20 High, Basic/Craft High, new fusion Grey Ridge Hunt High, life-list 70/60/55/70/70/60/65/68), STATUS (thousand-year, level 30 top, everything Mid+, fusion, appearance, effective talent 3.5×), PANELS (Ch5 22 rows: 1,350/1,850 purple, level 30, High grades, fusion, Control/Observation), SKILLS (to be updated), RULINGS_LOG F16, CODEX 26, CANON_GROUND receipt 26, SERIAL_LOG 19, Chapters 3-5 Grey Low→Mid, Ch5 re-cut 2,731w, panels 73 rows, run_all green. Release v0.6.3-f16 follows.
 
+
+
+## F22 — Chapter 6 The Hem Road — road craft all basics MASTERED High (v0.6.9-f22, 2026-09-26)
+
+- Chapter 6 The Hem Road 2677w band IN avg6.8 med5 max47 over60 0 the-way 0 bare 0 dlg 0 ALL HARD CHECKS PASS + site + manuscript, panels 80 rows IN SYNC, Ch6 0 panel lines per user rule Not every time in chapter you only write when there is update or just gain then you write full normally can check in status file everything when needed
+- Road craft: hem roads villages Grey Ridge Hunt in use all basics MASTERED High shown in daily life Soul Power Control Body Control Five Senses Observation Hunter's Sense Stillness Mountain Stride Plain Speech Tally Reading Understanding Basic Spearmanship Cooking Combat Style no fights yet honest pace effective talent 3.5x Spirit Sea perception 10-100m house fly body ~500kg robust frame freight amber ice-amber eyes grey tint dogs no lift Ring Veil hides purple as yellow true purple only Ledger fool who shows two thousand-year rings Storm Frost Ghost Wolf ice+wind High Ghost Veil with 3 clones golden lock toughest skull tofu waist Light of Netherworld Storm Step wind blade burst wings flight
+- Keep F0-F21 numbers: 30, Ghost 1,350y purple with golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones, Stormwind 1,850y purple wind attribute even Wind Blade Burst 10 half crescent Wings 50m, everything Mid+ High, effective talent 3.5x, Spirit Sea 850, body ~500kg, Storm Frost Ghost Wolf ice+wind High
+- Release v0.6.9-f22 id 397054095 asset 589805529
+
