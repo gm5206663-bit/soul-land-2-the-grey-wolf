@@ -263,3 +263,27 @@ The author's triple strike: "131 years?,are you even serious?" / "He doesn't eve
 
 **FILES:** SYSTEM_SPEC (Upgrade + Aging laws revised F14), METERS (MASTERED + 168y + Mid + lifted meters), STATUS (techniques MASTERED, rings 168/603, bloodlines 48/18/1 Mid, grades, forward map), SKILLS (Ghost 120→168, Stormwind Mid-caliber), PANELS (Ch2-5 technique lines → MASTERED with engine nature, Ch5 19 rows corrected to 168y + MASTERED + Mid + lifted), GLOSSARY, RULINGS_LOG F14, CODEX 24, CANON_GROUND receipt 24, STORY_ARCS, TIMELINE, NEXT, Chapters 2-5 re-cut (Ch5 2,753w, gate green), SERIAL_LOG 17. run_all green, ledger 67 rows in sync. Release v0.6.1-f14 follows.
 
+## v1.16 — 2026-09-26 — F15: THE INTERCONNECTION REBUILD (the "Complete shit" rebuild)
+
+The author's strike: "Everything mistakes you don't understand anything / innate soul power is same that his cultivation speed not increasing when bloodline increases, his martial soul not grow even though bloodline do why he have three bloodlines what you think is this / he mastered all basic techniques and methods and everything, when you learn a thing other because easier / his spiritual power grow, bloodline grow, he became stronger, and indirectly talents and others All things increases, his appearance changes everything is, biggest joke in 5 years his gry wolf bloodline is same / Rebuild"
+
+**THE REBUILD, LOGICAL:**
+
+1. **CULTIVATION SPEED LAW (F15):** innate rank 1 is START, not ceiling. Effective talent = innate + Grey bonus (100% = +2.0, 48% = 0.96) + Ghost (100% = +1.0, 18% = 0.18) + Stormwind (100% = +1.5, 1% = 0.015) + Basic MASTERED (+0.5) + Craft MASTERED (+0.3) = **2.96× at Ch5 gate** — triple initial speed. As bloodlines grow, speed grows — pouring year pours faster at end. This is why 5y 24/7 = >40y normal, and why levels 12→19 accelerate.
+
+2. **BLOODLINE INFLUENCE LAW (F15):** three lines, three works, not numbers:
+   - Grey Wolf (ice, thin, body-line): vitality, recovery, predator's frame (denser bone, quicker muscle, height, shoulders), senses fed, cold-tolerance, appearance (amber eyes, grey tint), cultivation speed, martial soul growth.
+   - Ghost Wolf: patience, quiet step, seen-late, attrition, spirit power efficiency, Stillness, Hunter's Sense.
+   - Stormwind: wind stride, burst speed, agility, Mountain Stride, Spear leading.
+   Three lines combine via Resonance — whole faster than parts. Having three bloodlines is not "just for name" — each feeds every meter.
+
+3. **MASTERY CASCADE LAW (F15):** mastering makes related 50% faster — Basic MASTERED makes all soul power techniques easier, Craft MASTERED makes Spear/Stillness/Sense/Stride/Tally easier. Reborn mind + 24/7 + bloodlines = compounding — learning gets easier as you learn.
+
+4. **GRADE EVOLUTION LAW (F15):** nothing stays Low for 5 years. Grey Low 0-25 Mid 25-60 High 60-90 Top 90+, Ghost Low 0-30 Mid 30-70 High 70+, Stormwind Mid 0-40 High 40-80 Top 80+. At Ch5: Grey 48% = **Mid** (was Low — biggest joke fixed), Ghost 18% Low→Mid, Stormwind 1% Mid. Wolf martial soul Mid climbing toward High via three bloodlines.
+
+5. **APPEARANCE LAW (F15):** bloodline deepening changes appearance — frame arrives as freight (wrist, back, shoulders, height), nose reads day at door, amber eyes, grey tint, dogs no longer lift heads, wood passes him at peace, village stops calling him little one at spring — 5 years honest.
+
+6. **MARTIAL SOUL GROWS WITH BLOOD:** Wolf skill growth rate = base + Grey*0.5 + Ghost*0.3 + Stormwind*0.4 — three lines feed Wolf (71% honest 5y).
+
+**FILES:** SYSTEM_SPEC v2.0 (5 new laws F15), METERS (Grey Mid + talent bonuses + cascade), STATUS (effective talent 2.96×, Grey Mid, appearance, interconnection), PANELS (Grey 29%/36%/48% Low→Mid), GLOSSARY (Grey Mid, effective talent), RULINGS_LOG F15, CODEX 25, CANON_GROUND receipt 25, SERIAL_LOG 18, Chapters 3-5 Grey grade fixed. Panels 67 in sync, run_all green. Release v0.6.2-f15 follows.
+

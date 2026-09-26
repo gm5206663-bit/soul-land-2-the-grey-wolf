@@ -92,7 +92,7 @@ That night, at the first gate of the road, in the loft of a hem-village inn with
 > 「Skill — The Wolf: 71% · possession · strength, speed, senses, claws · Mid」
 > 「Skill — Netherlight: 26% · the speed surge, the blow sliding off · Mid」
 > 「Skill — Windstride: 1% · the burst that arrives · Mid」
-> 「Bloodline — Grey Wolf: 48% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Bloodline — Grey Wolf: 48% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」
 > 「Bloodline — Ghost Wolf: 18% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」
 > 「Bloodline — Stormwind Demon Wolf: 1% · the storm-line: the fast kind, the wind's stride · Mid」
 > 「Hunter's Sense: 58%」

@@ -45,15 +45,15 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 5 — THE ROAD BEGINS, Arc 2 opened (F14 corrected). Ye Cang is a GREAT SOUL MASTER at eleven: the pouring year done (the levels 12 to 19, honest to the engine's hours — F12), the second wall met, the last hunt won — the Stormwind Demon Wolf ring seated (603 years, yellow, **AGING**), the second door open, **level 21** (twenty the banked water, twenty-one the ring's gift — F11), slots **3/3/3**, two rings aging (**Ghost 168y**, Stormwind 603y — F14 true aging: pour-based, not calendar), three lines of blood (the grey 48, the ghost 18, the storm 1 — Mid), three words (*hunt. fade. run.*), the engine **MASTERED** 5 years (first midwinter age 6, F14 — no invented stages). The leaving made; the road east begun; a season to Shrek City — the same autumn a boy with spirit eyes walks into a forest far to the east. The road-gate panel (Chapter 5's close) is the current reading.
+**Story position:** after Chapter 5 — THE ROAD BEGINS, Arc 2 opened (F15 REBUILD — interconnection). Ye Cang is a GREAT SOUL MASTER at eleven: the pouring year done (12→19, honest hours — F12, effective talent 2.96× at gate — F15 Cultivation Speed Law: innate 1 + Grey 0.96 + Ghost 0.18 + Stormwind 0.015 + Basic 0.5 + Craft 0.3), the second wall met, the last hunt won — Stormwind Demon Wolf ring seated (603y yellow AGING, Mid-caliber), second door open, level 21 (20 banked, 21 gift — F11), slots 3/3/3, two rings aging (Ghost 168y, Stormwind 603y — F14 true aging), three lines of blood (Grey 48% Mid, Ghost 18% Low→Mid, Stormwind 1% Mid — F15 Grade Evolution), three words (*hunt. fade. run.*), engine MASTERED 5y (first midwinter age 6, F14, F15 Cascade: makes all soul power 50% easier), craft MASTERED 1y (F15 Cascade: Spear/Stillness/Sense/Stride/Tally 50% easier). Appearance: frame arrived as freight, amber eyes, grey tint, dogs no longer lift heads — F15 Appearance Law. The leaving made; road east begun; season to Shrek City — same autumn boy with spirit eyes walks into forest far east. Road-gate panel (Ch5 close) is current reading.
 
 | List | State |
 |---|---|
-| Techniques | 3 seats open, 2 filled: **Basic Soul Power Cultivation — 100% MASTERED (engine, Mid): MASTERED** (mastered first midwinter age 6 — F14 Mastery Law, 5 years at mastery, no stages) · **The Hunter's Craft — 100% MASTERED (Mid), SEATED slot 2** (mastered at the first kill age 10 — F14) · the third seat standing open until something true fills it |
-| Soul Rings | 2 seats: **Ghost Wolf, 168 years, yellow — AGING** (the hunt, Ch 4; 120→168 in pouring year — F14 true aging: 7 levels + 1y 24/7 engine = +48y) · **Stormwind Demon Wolf, 603 years, yellow — AGING** (the last hunt, Ch 5 — six centuries turning) |
+| Techniques | 3 seats open, 2 filled: **Basic Soul Power Cultivation — 100% MASTERED (engine, Mid): MASTERED** (mastered first midwinter age 6 — F14 Mastery, 5y at mastery, no stages, F15 Cascade: +0.5 effective talent, makes soul power 50% easier) · **The Hunter's Craft — 100% MASTERED (Mid), SEATED slot 2** (mastered at first kill age 10 — F14, 1y at mastery, F15 Cascade: +0.3 talent, Spear/Stillness/Sense/Stride/Tally 50% easier) · third seat open until something true fills it |
+| Soul Rings | 2 seats: **Ghost Wolf, 168 years, yellow — AGING** (hunt, Ch 4; 120→168 in pouring year — F14 true aging: 7 levels + 1y 24/7 mastered engine = +48y, feeds Ghost bloodline 18% + talent) · **Stormwind Demon Wolf, 603 years, yellow — AGING** (last hunt, Ch 5 — six centuries turning, Mid-caliber, feeds Stormwind bloodline 1% Mid + talent) |
 | Soul Bones | 0 seats |
-| Bloodline | **three lines now**: Grey Wolf 48% · ice · Low · the body-line (the forties' edge — the frame arrived as freight, honest 5y yield) · Ghost Wolf 18% · Low (climbing toward Mid on 168y — the quiet step, the seen-late, the patience as a limb) · **Stormwind Demon Wolf 1% · Mid** (the storm-line — the fast kind, the wind's stride; third seat, Mid-caliber even at 100y — F14) |
-| Skills | The Wolf 71% · Mid (innate — possession; the grey worn like the coat, whole mornings — honest 5y) · **Netherlight 26% · Mid** (the cold light arriving before fear — the sledge runner, 120→168y feeding it) · **Windstride 1% · Mid (the second ring's gift — the burst that arrives; run.)** |
+| Bloodline | **three lines now**: Grey Wolf 48% · ice · **Mid** · the body-line (the forties' edge — frame arrived as freight, appearance changed: amber eyes, height, shoulders, dogs no longer lift heads — F15 Appearance, honest 5y yield, Mid at 25-60% per F15 Grade Evolution, +0.96 effective talent) · Ghost Wolf 18% · Low (Low 0-30%, Mid at 30% — climbing toward Mid on 168y — quiet step, seen-late, patience as limb, +0.18 talent, feeds Stillness/Sense) · **Stormwind Demon Wolf 1% · Mid** (storm-line — fast kind, wind's stride, burst speed, agility, Mid 0-40% per F15, third seat, Mid-caliber even at 100y — F14/F15, +0.015 talent, feeds Stride/Spear) — **F15 Interconnection: three lines feed Wolf skill, cultivation speed, body, appearance, every meter** |
+| Skills | The Wolf 71% · Mid (innate — possession; grey worn like coat, whole mornings — honest 5y, fed by three bloodlines via F15 Bloodline Influence: Grey frame, Ghost patience, Stormwind speed) · **Netherlight 26% · Mid** (cold light arriving before fear — sledge runner, 120→168y feeding it, Ghost bloodline efficiency) · **Windstride 1% · Mid (second ring's gift — burst that arrives; run. — Stormwind speed)** — F15: Wolf skill growth rate = base + Grey*0.5 + Ghost*0.3 + Stormwind*0.4 |
 | Life-skills | Hunter's Sense 58 · Stillness 42 · Plain Speech 42 · Mountain Stride 52 (the road begun) · The Tally 56 (half a life's craft) · Spear 41 (the father's spear carried now) · (others surface as the counting does) — F14 honest yield |
 | Level | **21 — Great Soul Master (Ch 5, age 11: the pour 12 to 19 — F12's honest curve; the second wall held a season; ring two — 20 the banked water, 21 the ring's gift — F11; the 21–30 band, canon's title ladder)** — the twenties open now |
 
@@ -77,7 +77,7 @@ Rank for rank, more than the rank says.
   3/3/3 at GREAT SOUL MASTER (the 21–30 band — the F12 note's "Soul
   Elder" corrected); Windstride seated with the ring; the third
   technique seat standing open.
-- The meters' road (F14): the engine MASTERED first midwinter age 6, 5 years at mastery by Ch5 — pool dense/dark/pure, no Stage Two/Three invention; the ghost line climbs to high teens on ring's true aging (120→168); the grey line toward high forties (48); the craft MASTERED at kill, 1 year at mastery.
+- The meters' road (F15 REBUILD): the engine MASTERED first midwinter age 6, 5y at mastery by Ch5 — pool dense/dark/pure, no stages, F15 Cascade makes all soul power 50% easier; effective talent 2.96× at gate (1 + Grey 0.96 + Ghost 0.18 + Stormwind 0.015 + Basic 0.5 + Craft 0.3) — talent GROWS as bloodlines grow (F15 Cultivation Speed Law); ghost line 18% Low→Mid on 168y; grey line 48% Mid (25-60% threshold, appearance changed — amber eyes, frame, height, dogs no longer lift heads); craft MASTERED at kill, 1y at mastery, makes Spear/Stillness/Sense/Stride/Tally 50% easier.
 - **NOW (Ch 5 close): on the road east** — the hem roads around the
   forest's skirts, a season to Shrek City, level 21, two yellow rings,
   eleven years old. AHEAD: the city, the gates, the entrance exam — the
@@ -122,15 +122,15 @@ line, the first kill's, the last hunt's.
 
 | Thing | Grade | Canon anchor |
 |---|---|---|
-| The Wolf (the martial soul) | **Mid** (Ordinary) | the quality ladder, receipt 17 |
-| The Wolf (the skill — possession) | **Mid** | the soul's own expression — 71% honest 5y |
-| Netherlight (the first ring's skill) | **Mid** | a hundred-and-sixty-eight-year beast's signature light (120→168, F14) |
-| Basic Soul Power Cultivation (the engine) | **Mid** | the county's plain method, **MASTERED** first midwinter — grade Low→Mid at mastery, no stages (F14) |
-| The Hunter's Craft | **Mid** | **MASTERED** at the kill — grade Low→Mid at mastery (F14) |
-| The Grey Wolf bloodline | **Low** | an old, thin line — 48% honest 5y |
-| The Ghost Wolf bloodline | **Low** (18% and climbing toward Mid) | the first kill's blood — the quiet step, the seen-late — 168y feeding it |
-| The Stormwind bloodline | **Mid** (1% at the open) | the last hunt's blood — Mid-caliber even at 100y (F14), the fast kind, wind's stride |
-| Windstride (the second ring's skill) | **Mid** | a six-hundred-year storm-wolf's stride — the burst that arrives |
+| The Wolf (the martial soul) | **Mid** (Ordinary, climbing toward High via three bloodlines — F15) | the quality ladder, receipt 17 |
+| The Wolf (the skill — possession) | **Mid** | the soul's own expression — 71% honest 5y, fed by Grey+Ghost+Stormwind (F15) |
+| Netherlight (the first ring's skill) | **Mid** | a hundred-and-sixty-eight-year beast's signature light (120→168, F14), Ghost bloodline efficiency |
+| Basic Soul Power Cultivation (the engine) | **Mid** | the county's plain method, **MASTERED** first midwinter — grade Low→Mid at mastery, no stages (F14), F15 Cascade +0.5 talent |
+| The Hunter's Craft | **Mid** | **MASTERED** at the kill — grade Low→Mid at mastery (F14), F15 Cascade +0.3 talent, makes Spear/Stillness/Sense/Stride/Tally 50% easier |
+| The Grey Wolf bloodline | **Mid** (48% — Mid at 25-60% per F15 Grade Evolution) | an old, thin line evolved — honest 5y, appearance changed, +0.96 talent, feeds Wolf/frame/senses |
+| The Ghost Wolf bloodline | **Low** (18% — Low 0-30%, Mid at 30%, climbing toward Mid on 168y) | first kill's blood — quiet step, seen-late — 168y feeding, +0.18 talent, feeds Stillness/Sense/Wolf |
+| The Stormwind bloodline | **Mid** (1% — Mid 0-40% per F15, Mid-caliber even at 100y) | last hunt's blood — fast kind, wind's stride — +0.015 talent, feeds Stride/Spear/Wolf |
+| Windstride (the second ring's skill) | **Mid** | a six-hundred-year storm-wolf's stride — burst that arrives — Stormwind speed |
 
 The ladder: **Low (Waste) / Mid (Ordinary) / High (Excellent) / Top
 (Top-tier) / Ultimate (Divine — and the Extreme attribute road: canon

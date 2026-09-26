@@ -94,7 +94,7 @@ And that night, in the loft, at the gate of the thing that had happened, he look
 > 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · Mid」
 > 「Skill — The Wolf: 52% · possession · strength, speed, senses, claws · Mid」
 > 「Skill — Netherlight: 1% · the speed surge, the blow sliding off · Mid」
-> 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」
 > 「Bloodline — Ghost Wolf: 1% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」
 > 「Hunter's Sense: 46%」
 > 「Stillness: 31%」

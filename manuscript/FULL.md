@@ -381,7 +381,7 @@ That night, Ye Cang looked. It was the gate of the hunt year, and gates got the 
 > 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」
 > 「Technique — The Hunter's Craft: 78% · parked, unslotted · Low」
 > 「Skill — The Wolf: 41% · possession · strength, speed, senses, claws · Mid」
-> 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」
 > 「Hunter's Sense: 40%」
 > 「Stillness: 26%」
 > 「Plain Speech: 29%」
@@ -499,7 +499,7 @@ And that night, in the loft, at the gate of the thing that had happened, he look
 > 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · Mid」
 > 「Skill — The Wolf: 52% · possession · strength, speed, senses, claws · Mid」
 > 「Skill — Netherlight: 1% · the speed surge, the blow sliding off · Mid」
-> 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」
 > 「Bloodline — Ghost Wolf: 1% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」
 > 「Hunter's Sense: 46%」
 > 「Stillness: 31%」
@@ -614,7 +614,7 @@ That night, at the first gate of the road, in the loft of a hem-village inn with
 > 「Skill — The Wolf: 71% · possession · strength, speed, senses, claws · Mid」
 > 「Skill — Netherlight: 26% · the speed surge, the blow sliding off · Mid」
 > 「Skill — Windstride: 1% · the burst that arrives · Mid」
-> 「Bloodline — Grey Wolf: 48% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Bloodline — Grey Wolf: 48% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」
 > 「Bloodline — Ghost Wolf: 18% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」
 > 「Bloodline — Stormwind Demon Wolf: 1% · the storm-line: the fast kind, the wind's stride · Mid」
 > 「Hunter's Sense: 58%」

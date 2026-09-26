@@ -106,7 +106,7 @@ That night, Ye Cang looked. It was the gate of the hunt year, and gates got the 
 > 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」
 > 「Technique — The Hunter's Craft: 78% · parked, unslotted · Low」
 > 「Skill — The Wolf: 41% · possession · strength, speed, senses, claws · Mid」
-> 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」
 > 「Hunter's Sense: 40%」
 > 「Stillness: 26%」
 > 「Plain Speech: 29%」

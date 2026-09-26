@@ -94,7 +94,7 @@ The full block, as `STATUS.md` carries it:
 | 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」 | 〃 |
 | 「Technique — The Hunter's Craft: 78% · parked, unslotted · Low」 | 〃 |
 | 「Skill — The Wolf: 41% · possession · strength, speed, senses, claws · Mid」 | 〃 |
-| 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
+| 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」 | 〃 |
 | 「Hunter's Sense: 40%」 | 〃 |
 | 「Stillness: 26%」 | 〃 |
 | 「Plain Speech: 29%」 | 〃 |
@@ -117,7 +117,7 @@ The full block, as `STATUS.md` carries it:
 | 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · Mid」 | 〃 — mastered at the kill, the upgrade fired on it; the craft home |
 | 「Skill — The Wolf: 52% · possession · strength, speed, senses, claws · Mid」 | 〃 |
 | 「Skill — Netherlight: 1% · the speed surge, the blow sliding off · Mid」 | 〃 — the ring's gift, its word fade. |
-| 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 |
+| 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」 | 〃 |
 | 「Bloodline — Ghost Wolf: 1% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」 | 〃 — the kill's blood seated with the ring (F10) |
 | 「Hunter's Sense: 46%」 | 〃 |
 | 「Stillness: 31%」 | 〃 |
@@ -130,7 +130,7 @@ The full block, as `STATUS.md` carries it:
 
 | Panel | Beat |
 |---|---|
-| 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE ROAD'S FIRST GATE — the inn loft, the leaving made, every line complete — F14 corrected |
+| 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE ROAD'S FIRST GATE — the inn loft, the leaving made, every line complete — F15 REBUILD: Grey Mid, talent 2.96×, appearance, interconnection |
 | 「Level — 21 · Great Soul Master · the second door open · the ring's gift」 | 〃 — 19 the wall, 20 the banked water, 21 the ring's gift |
 | 「Slots: 3 / 3 / 3」 | 〃 — the second rank-up, every list |
 | 「Soul Ring — Ghost Wolf: 168 years · yellow · aging」 | 〃 — 120→168 in pouring year — F14 true aging |
@@ -140,7 +140,7 @@ The full block, as `STATUS.md` carries it:
 | 「Skill — The Wolf: 71% · possession · strength, speed, senses, claws · Mid」 | 〃 — the grey worn like the coat — honest 5y |
 | 「Skill — Netherlight: 26% · the speed surge, the blow sliding off · Mid」 | 〃 — the sledge runner, 120→168y feeding it |
 | 「Skill — Windstride: 1% · the burst that arrives · Mid」 | 〃 — the storm's own stride, its word run. |
-| 「Bloodline — Grey Wolf: 48% · ice · the body-line: vitality, recovery, the wolf's frame · Low」 | 〃 — the forties' edge — honest 5y |
+| 「Bloodline — Grey Wolf: 48% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」 | 〃 — the forties' edge — honest 5y |
 | 「Bloodline — Ghost Wolf: 18% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」 | 〃 — 168y feeding, climbing toward Mid |
 | 「Bloodline — Stormwind Demon Wolf: 1% · the storm-line: the fast kind, the wind's stride · Mid」 | 〃 — third seat, Mid-caliber even at 100y (F14) |
 | 「Hunter's Sense: 58%」 | 〃 — honest |

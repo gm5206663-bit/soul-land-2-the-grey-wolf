@@ -1,8 +1,8 @@
 # SYSTEM SPEC — The Ledger (working name)
 
-v1.0, 2026-09-25. Complete from day one: every law the first serial
+v2.0, 2026-09-26. Complete from day one: every law the first serial
 earned, installed before the first chapter. The System is silent — this
-document is the design, not the voice.
+document is the design, not the voice. **F15 REBUILD: interconnection — blood feeds speed, soul, body, talent, appearance.**
 
 ## 1. What it is
 
@@ -30,24 +30,12 @@ ledger and is updated the same turn any number moves; the drift guard
   per rank; one thing per slot; slotted techniques run **FULL PASSIVE,
   24/7, at his best**; learned-once, free-switch; seen once, learnable.
 - **Soul Rings** (slotted): one seat per rank; a ring seats the night of
-  its absorption and **AGES in its seat** (the Aging Law — the signature:
-  in canon a ring's years are fixed at the kill; his grow). **THE RING'S
-  FULL GRANT (F11, receipt 20) — everything a ring gives, counted the
-  night it seats:** the SKILL (the beast's signature, one per ring, its
-  own incantation); the RANK GIFT (canon's rule: a level for a ring,
-  bigger rings more — the 120-year ring paid level 12); the SOUL'S
-  UPGRADE (the martial soul itself deepens with every ring seated); the
-  BODY FLOOD (the pool deepened, the pathways widened and hardened, the
-  vitality); the BLOOD (F10 — the slain beast's line seated); the YEARS
-  (the ring's age is the skill's scale; white 10 / yellow 100 / purple
-  1,000 / black 10,000 / red 100,000; the first-ring limit ~420 years;
-  ours at 120 — the continent's normal start); the TITLE (no ring, no
-  rank — the bottleneck law).
+  its absorption and **AGES in its seat** (the Aging Law F14 — pour-based, not calendar). **THE RING'S FULL GRANT (F11, receipt 20) — everything a ring gives, counted the night it seats:** the SKILL (the beast's signature, one per ring, its own incantation); the RANK GIFT (canon's rule: a level for a ring, bigger rings more — the 120-year ring paid level 12); the SOUL'S UPGRADE (the martial soul itself deepens with every ring seated); the BODY FLOOD (the pool deepened, the pathways widened and hardened, the vitality); the BLOOD (F10 — the slain beast's line seated); the YEARS (the ring's age is the skill's scale; white 10 / yellow 100 / purple 1,000 / black 10,000 / red 100,000; the first-ring limit ~420 years; ours at 120 — the continent's normal start); the TITLE (no ring, no rank — the bottleneck law).
 - **Soul Bones** (slotted): as canon; seats by the same count.
 - **Bloodline** (slotted, the fourth list): unlocks the moment a bloodline
   exists — and for a beast-type soul the blood exists with the soul itself:
   **the Grey Wolf bloodline, inherited in the Ye line, seats on the Ledger's
-  first night** (「Bloodline — Grey Wolf: 7%」, PROPOSED). **THE RING'S BLOOD (F10, the author's strike): every soul ring seats the slain beast's bloodline as a line of this list** — the kill's blood enters with the ring and the line opens the night of the absorption, one part at the open (receipts 18–19: canon's own ring carried a beast's essence deep enough to root a second martial soul in a boy, and the universe's bound beasts merge their bloodlines into their humans; the Ghost Wolf line seated with the first ring — 「Bloodline — Ghost Wolf: 1%」, PROPOSED). A line deepens like a ring — on living (every release, every hunt, every year of growth) and, for a ring's line, on that ring's years (the Aging Law) — never purchasable, no ceiling. It feeds the blood and the body as a ring feeds the soul: **vitality, recovery, the predator's frame, the senses fed, the thin ice** (attribute: ice, canon's ordinary-wolf default — receipt 16; the full card in STATUS.md) — and through the Infusion Law, every open meter. Seats open by the Slots line, the same count as every slotted list: one seat at the start, the Grey Wolf in it; the second opened at Soul Master, and the first ring's blood filled it the same night.
+  first night** (「Bloodline — Grey Wolf: 7%」, PROPOSED). **THE RING'S BLOOD (F10): every soul ring seats the slain beast's bloodline as a line of this list** — the kill's blood enters with the ring and the line opens the night of the absorption, one part at the open (receipts 18–19). A line deepens like a ring — on living (every release, every hunt, every year of growth) and, for a ring's line, on that ring's years (the Aging Law F14 — pour-based) — never purchasable, no ceiling. It feeds the blood and the body as a ring feeds the soul: **vitality, recovery, the predator's frame, the senses fed, the thin ice** (attribute: ice, canon's ordinary-wolf default — receipt 16; the full card in STATUS.md) — and through the Infusion Law, every open meter. Seats open by the Slots line, the same count as every slotted list: one seat at the start, the Grey Wolf in it; the second opened at Soul Master, and the first ring's blood filled it the same night.
 - **Skills** (never slotted): the spirit's own ability is the FIRST skill
   (innate, seated the night the System wakes); every ring seats exactly
   one more; each carries its own silent incantation, spoken in the mind.
@@ -57,13 +45,12 @@ ledger and is updated the same turn any number moves; the drift guard
 - **The level** (context line): the crystal's measure, counted with the
   rest. The bottleneck law gates every title (10, 20, 30 — no ring, no
   crossing); between walls the engine's hours are honest and the band
-  pours (F12, receipt 21 — the nerf limit: the wall is canon, the crawl
-  between walls is not).
+  pours (F12, receipt 21); **effective speed grows with bloodlines and mastery (F15).**
 
 **The Slots line:** seats per slotted list, same number in every list —
 `1/1/1` at the start, `+1` at every rank-up, to `10/10/10`.
 
-## 4. The laws (numbered, all carried)
+## 4. The laws (numbered, all carried — F15 rebuild)
 
 1. **THE INITIALIZATION LAW** — a meter opens where life put it, never
    zero, never inflated. The night it wakes, it has already counted his
@@ -88,6 +75,19 @@ ledger and is updated the same turn any number moves; the drift guard
    ceiling.
 10. **THE MASTERY LAW** — the last part is not more work; it cares how
     true.
+11. **THE CULTIVATION SPEED LAW — F15 (THE INTERCONNECTION: TALENT GROWS)** — innate soul power rank 1 is the STARTING point, not the ceiling. Effective cultivation talent = innate + bloodline bonuses + mastered bonuses + ring aging. Formula (PROPOSED, honest): Grey Wolf at 100% = +2.0 effective innate (old thin line, body-line), Ghost Wolf at 100% = +1.0 (common), Stormwind Demon Wolf at 100% = +1.5 (Mid-caliber). Mastered Basic = +0.5, Mastered Craft = +0.3. At Ch5 gate (Grey 48% = 0.96, Ghost 18% = 0.18, Stormwind 1% = 0.015, Basic MASTERED 0.5, Craft MASTERED 0.3): effective = 1 + 0.96 + 0.18 + 0.015 + 0.5 + 0.3 = **2.96** — triple the starting speed. As bloodlines grow, speed grows — the pouring year pours faster at its end than its start. This is why 5y 24/7 = >40y normal.
+12. **THE BLOODLINE INFLUENCE LAW — F15 (THREE LINES, THREE WORKS)** — each bloodline is not a number, it is a work:
+    - **Grey Wolf (ice, thin, body-line):** vitality, recovery, predator's frame (denser bone, quicker muscle, height, shoulders), senses fed (nose, ears), cold-tolerance (thin ice), appearance (amber eyes, grey tint, wolfish frame), **cultivation speed + martial soul growth.**
+    - **Ghost Wolf (ghost-line):** the patient hunt, quiet step, seen-late (eye finds him slow), attrition, spirit power efficiency, Stillness, Hunter's Sense.
+    - **Stormwind Demon Wolf (storm-line, Mid-caliber, wind):** the fast kind, wind's stride, burst speed, agility, Mountain Stride, Spear leading.
+    Three lines combine via Resonance — whole faster than parts. Having three lines is not "just for name" — each feeds every meter.
+13. **THE MASTERY CASCADE LAW — F15 (LEARNING GETS EASIER)** — mastering a technique makes related things easier, 50% faster: Basic MASTERED makes all soul power techniques easier; Craft MASTERED makes Spear, Stillness, Hunter's Sense, Mountain Stride, Tally easier. When you learn a thing, other becomes easier — reborn mind + 24/7 + bloodlines = compounding.
+14. **THE GRADE EVOLUTION LAW — F15 (NOTHING STAYS LOW)** — grades are current readings that rise. Bloodline grade evolves with % AND caliber:
+    - Grey Wolf (Low-caliber old thin): Low 0-25%, **Mid 25-60%, High 60-90%, Top 90%+**
+    - Ghost Wolf (Low-caliber common): Low 0-30%, **Mid 30-70%, High 70%+**
+    - Stormwind Demon Wolf (Mid-caliber): **Mid 0-40%, High 40-80%, Top 80%+**
+    At Ch5 gate: Grey 48% = **Mid** (not Low — F15 correction), Ghost 18% = Low climbing to Mid, Stormwind 1% = Mid (already Mid at 100y). Martial soul grade evolves with total bloodline infusion: Wolf Mid at night one, climbing toward High as three lines feed it.
+15. **THE APPEARANCE LAW — F15 (THE BODY BECOMES THE WOLF'S)** — bloodline deepening changes appearance, not just numbers: frame arrives as freight (wrist, back, shoulders, height), nose reads day at door, eyes amber, hair grey tint, cold tolerance, dogs no longer lift heads, wood passes him at peace. At 48% Grey, the village sees Ye Cang, not the little one — 5 years honest.
 
 ## 5. Panel grammar (every form)
 
@@ -143,10 +143,7 @@ one-to-one:
   by their own ladder — the years (white → yellow → purple → black → red).
 - **What never gets graded:** the life-skills (life has no ceiling), the
   level, the slots (counts, not things).
-- **Grades are honest current readings** (Nothing-Fixed): a grade rises as
-  the thing grows; a technique's 100% upgrade opens the next stage and its
-  grade with it — or, for foundational/mortal methods, mastery raises grade Low→Mid and locks as MASTERED; mutation is canon's other road between grades (receipt
-  14).
+- **Grades are honest current readings** (Nothing-Fixed, F15 Grade Evolution): a grade rises as the thing grows; a technique's 100% mastery raises grade Low→Mid and locks as MASTERED; bloodline grade evolves with % and caliber (Grey Mid at 48%, Stormwind Mid at 1%, Ghost Low→Mid at 18%→30%); mutation is canon's other road between grades (receipt 14).
 - **The far horizon, canon-true:** an old thin ice line has a defined
   ceiling to grow toward — the Ultimate tier is real, receipted, and
   −150°C cold.
