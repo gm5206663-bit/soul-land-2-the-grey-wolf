@@ -107,7 +107,7 @@ That night, at first gate of road, in loft of hem-village inn with smell of othe
 > 「Hunter's Sense: 100% → Beast Sense Mid 1% → Beast Sense」
 > 「Stillness: 100% → Patience as Limb Mid 1% → Patience as Limb」
 > 「Plain Speech: 100% → Clear Speech Mid 1% → Clear Speech」
-> 「Mountain Stride: 100% → Ridge Stride Mid 1% → Ridge Stride」
+> 「Mountain Stride: 100% → Silent Wind Step Mid (FUSED — footwork fusion Basic Walking+Basic Running+Mountain Stride→Silent Wind Step ONE) 1% → Ridge Stride」
 > 「The Tally: 100% → Clear Mind Mid 1% → Clear Mind」
 > 「Spear: 100% → Spear Flow Mid 1% → Spear Flow」
 > 「Soul Power Control: 100% → Flowing Control Mid 1% → Flowing Control」
