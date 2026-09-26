@@ -14,7 +14,7 @@ Fifth village came with evening, forty roofs, forge with cold hearth, smith with
 
 Sixth village was larger, almost town, with cart track joining hem road, he heard track before seeing. Loose rim, dog favoring left hind, river before bend because air changed, that was senses at work, not numbers. He did not use burst, burst was for being seen late, here being unremarkable mattered more.
 
-He kept rings hidden, to world, two yellow hundred-year rings showed, true purple thousand-year only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village.
+He kept rings hidden, to world, two yellow hundred-year rings showed, true yellow hundred-year within limits only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village.
 
 He read signs without moving lips, one sign said Shrek City east, eight days by cart. Another said forest road closed after dark, spirit beasts, he understood.
 
@@ -40,7 +40,7 @@ Pool ran every night, pool deepened, pathways widened hardened, vitality two tho
 
 He thought about road complaint, he had been on road long time, user had said so. Road for long time was not good, so he compressed, he did not write each village as chapter. He wrote season as montage, that was honest, that was clean and clear, no nonsense repetition. Natural prose avg fourteen to eighteen, no repetitive skill list in body, show mastery via daily life action. Keep lore dumps in footer only. Band twenty four hundred to thirty four hundred over sixty zero the-way zero bare zero, that was standing rule.
 
-By third week, hem road became cart road, cart road became stone road. Stone road had ruts deeper and traffic more, he saw soul masters for first time since leaving ridge. Two men with tool martial souls, one with beast, rings yellow hundred-year, talking loud about Shrek City prices. He kept distance, veil hid purple as yellow, true purple only Ledger, rings show true color in canon at eleven. Not this one.
+By third week, hem road became cart road, cart road became stone road. Stone road had ruts deeper and traffic more, he saw soul masters for first time since leaving ridge. Two men with tool martial souls, one with beast, rings yellow hundred-year, talking loud about Shrek City prices. He kept distance, veil hid purple as yellow, yellow within limits — rings show true color in canon, rings show true color in canon at eleven. Not this one.
 
 He watched soul masters from distance and learned. They walked like men who owned road, not like boy who walked hem because no one owned it. They talked loud about academy fees, about spirit beasts, about soul tools. He listened because clear understanding and fluent reading taught listening, he did not speak. He learned that city prices were high, that academy exam was in seven days, that many boys failed first part crystal because level too low.
 
@@ -80,3 +80,6 @@ He checked hem again, ink cake, scrap paper, beans gone, half coin gone, road co
 Night was cold, road coat weighted with pelts kept cold out, mother's work, and he remembered her hands sewing, not counting cost, carrying that weight as promise, not burden.
 
 He slept back to wall, spear point leading, and dreamed of nothing because tallykeeper who counted whole day does not need to count at night.
+
+
+---

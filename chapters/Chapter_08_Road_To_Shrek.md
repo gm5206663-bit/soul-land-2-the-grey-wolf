@@ -14,7 +14,7 @@ Fifth village came with evening, forty roofs, forge with cold hearth, smith with
 
 Sixth village was larger, almost town, with cart track joining hem road, he heard track before seeing. Loose rim, dog favoring left hind, river before bend because air changed, that was senses at work, not numbers. He did not use burst, burst was for being seen late, here being unremarkable mattered more.
 
-He kept rings hidden, to world, two yellow hundred-year rings showed, true purple thousand-year only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village.
+He kept rings hidden, to world, two yellow hundred-year rings showed, true yellow hundred-year within limits only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village.
 
 He read signs without moving lips, one sign said Shrek City east, eight days by cart. Another said forest road closed after dark, spirit beasts, he understood.
 
@@ -40,7 +40,7 @@ Pool ran every night, pool deepened, pathways widened hardened, vitality two tho
 
 He thought about road complaint, he had been on road long time, user had said so. Road for long time was not good, so he compressed, he did not write each village as chapter. He wrote season as montage, that was honest, that was clean and clear, no nonsense repetition. Natural prose avg fourteen to eighteen, no repetitive skill list in body, show mastery via daily life action. Keep lore dumps in footer only. Band twenty four hundred to thirty four hundred over sixty zero the-way zero bare zero, that was standing rule.
 
-By third week, hem road became cart road, cart road became stone road. Stone road had ruts deeper and traffic more, he saw soul masters for first time since leaving ridge. Two men with tool martial souls, one with beast, rings yellow hundred-year, talking loud about Shrek City prices. He kept distance, veil hid purple as yellow, true purple only Ledger, rings show true color in canon at eleven. Not this one.
+By third week, hem road became cart road, cart road became stone road. Stone road had ruts deeper and traffic more, he saw soul masters for first time since leaving ridge. Two men with tool martial souls, one with beast, rings yellow hundred-year, talking loud about Shrek City prices. He kept distance, veil hid purple as yellow, yellow within limits — rings show true color in canon, rings show true color in canon at eleven. Not this one.
 
 He watched soul masters from distance and learned. They walked like men who owned road, not like boy who walked hem because no one owned it. They talked loud about academy fees, about spirit beasts, about soul tools. He listened because clear understanding and fluent reading taught listening, he did not speak. He learned that city prices were high, that academy exam was in seven days, that many boys failed first part crystal because level too low.
 
@@ -96,7 +96,7 @@ He slept back to wall, spear point leading, and dreamed of nothing because tally
 
 - **Beats:** third village behind mid-morning hem road thinned hard ground beaten flat grass middle beaten down again villages know hunters know no one owned it father said hem north never in trees; fourth village twenty roofs well loose rope mended, fifth village forge bellows, sixth village cart track eight days to Shrek City, seventh ninth villages montage season travel not each village as chapter — road complaint fixed — arrival Shrek City East Hem Gate inner city north exam seven days inn loft mended chair table; perception 10-20m body 100-150kg robust Wolf ice thin — footwork fusion ONE line per F26 details in STATUS.md — clean no repetition — canon-strict
 
-- **PROPOSED (all numbers PROPOSED not canon, details in STATUS.md):** Level 30 Great Soul Master, rings yellow 120y/603y within limits aging to purple PROPOSED via Heavenly Dream, concealment dimming PROPOSED not canon, Spirit Connection 200-300 not Sea 850, body 100-150kg not 500kg, martial soul Wolf ice thin canon Ice Wolf Mid mutation PROPOSED, skills Netherlight/Windstride with canon Ghost Wolf / Stormwind Demon Wolf skills — see STATUS.md for full evolution chain — not repeated here.
+- **PROPOSED (all numbers PROPOSED not canon, details in STATUS.md):** Level 30 Great Soul Master, rings yellow 120y/603y within limits aging to purple PROPOSED via Heavenly Dream, concealment dimming PROPOSED not canon, Spirit Connection 200-300 not Sea 850, body 100-150kg not 100-150kg, martial soul Wolf ice thin canon Ice Wolf Mid mutation PROPOSED, skills Netherlight/Windstride with canon Ghost Wolf / Stormwind Demon Wolf skills — see STATUS.md for full evolution chain — not repeated here.
 
 - **History:** Chapter 08 Road To Shrek — Arc 2 road east / city — road compressed montage — arrival Shrek City gates — no level/ring/bloodline update — 0 panel lines per F22 — clean no repetition — canon-strict — no repetitive fusion chain in footer, details in STATUS.md.
 

@@ -7,9 +7,9 @@ User strikes F17:
 - Rebuild scope: chapters 2-5
 
 New laws added v4.0 F17:
-- Martial Soul Evolution Law: Grey Wolf → Ice Wolf at Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings thousand-year purple
+- Martial Soul Evolution Law: Grey Wolf → Ice Wolf at Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings yellow within limits
 - Skill Upgrade on Ring Breakthrough Law: Netherlight → Ghost Veil at 1000y, Windstride → Storm Step at 1000y, Wolf possession upgrades on evolution
-- Concealment Law: Ring Veil technique hides purple as yellow
+- Concealment Law: Ring Veil technique yellow within limits — PROPOSED dimming not canon
 - Fusion Law expanded: all basics (Soul Power Control, Body Control, Five Senses as technique, Observation, Running, Stillness, Sense, Stride, Spear, Tally) fuse into Grey Ridge Hunt + Wolf's Five Senses + Body Control — each with own effects
 
 Questions for author before rewriting chapters 2-5:
@@ -18,6 +18,6 @@ Questions for author before rewriting chapters 2-5:
 3. What should concealment technique be named? Ring Veil? Soul Concealment?
 4. What exact list of basic techniques should fuse? Current list: Soul Power Control, Body Control, Five Senses (Sight, Hearing, Smell, Taste, Touch), Observation, Running, Stillness, Hunter's Sense, Mountain Stride, Spear, Tally, Plain Speech — any missing?
 5. What should Ch5 gate numbers be? Keep F16 thousand-year 1,350/1,850 purple level 30 everything High/Mid + fusion + evolution, or different?
-6. Should rings be shown as purple to world or concealed as yellow via Ring Veil?
+6. Should rings be shown as purple to world or yellow within limits via Ring Veil?
 
 Awaiting author's word before rewriting chapters 2-5.

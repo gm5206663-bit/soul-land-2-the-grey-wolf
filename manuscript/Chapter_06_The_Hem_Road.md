@@ -80,3 +80,6 @@ He checked hem again, ink cake, scrap paper, beans gone, half coin gone, road co
 Night was cold, road coat weighted with pelts kept cold out, mother's work, and he remembered her hands sewing, not counting cost, carrying that weight as promise.
 
 He slept back to wall, spear point leading, and dreamed of nothing because tallykeeper who counted whole day does not need to count at night.
+
+
+---

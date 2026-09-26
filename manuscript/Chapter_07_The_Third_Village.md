@@ -12,7 +12,7 @@ The third village came by noon, larger than the first two, almost a market town.
 
 He did not use burst, road wanted patience, not burst, sitting on hem road edge with spear across knees. Counting cart ruts and wind and field birds without moving, kept patience honest, burst was for being seen late. Here being unremarkable mattered more.
 
-He kept rings hidden, to world, two yellow hundred-year rings showed, true purple thousand-year only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village when a boy stared too long at his hands.
+He kept rings hidden, to world, two yellow hundred-year rings showed, true yellow hundred-year within limits only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village when a boy stared too long at his hands.
 
 His feet threw no dust even carrying weight, that was quiet step at work. He passed geese sleeping in yard and none lifted heads, he passed dogs at gate and none barked. Grey line gave vitality recovery predator frame, dogs knew predator frame and gave it space. Amber eyes grey tint hair when sun hit, that was appearance cascade bloodline gives many things canon perfectly.
 
@@ -81,3 +81,6 @@ He slept back to wall, spear point leading, and dreamed of nothing because tally
 He checked hem again, ink cake, scrap paper, beans in cloth, half coin gone, road coat honest, spear balanced, and he liked that tally came even, honest work honest pay.
 
 Night was cold, road coat weighted with pelts kept cold out, mother's work, and he remembered her hands sewing, not counting cost, carrying that weight as promise.
+
+
+---

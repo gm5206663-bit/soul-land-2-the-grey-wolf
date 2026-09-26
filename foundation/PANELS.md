@@ -58,10 +58,10 @@ v5.4, 2026-09-26. Footwork Fusion Fix: Which fool masters so many step technique
 | 「Slots: 2 / 2 / 2」 | Chapter_04_The_Patient_Kind.md |
 | 「Slots: 3 / 3 / 3」 | Chapter_05_The_Road_Begins.md |
 | 「Soul Power Control: 100% → Flowing Control Mid 1% → Flowing Control」 | Chapter_05_The_Road_Begins.md |
-| 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」 | Chapter_05_The_Road_Begins.md |
+| 「Soul Ring — Ghost Wolf: 1,350 years · yellow within limits · aging」 | Chapter_05_The_Road_Begins.md |
 | 「Soul Ring — Ghost Wolf: 120 years · yellow · aging」 | Chapter_04_The_Patient_Kind.md |
 | 「Soul Ring — Ghost Wolf: 120 years」 | Chapter_04_The_Patient_Kind.md |
-| 「Soul Ring — Stormwind Demon Wolf: 1,850 years · purple · aging」 | Chapter_05_The_Road_Begins.md |
+| 「Soul Ring — Stormwind Demon Wolf: 603 years · yellow within limits · aging PROPOSED」 | Chapter_05_The_Road_Begins.md |
 | 「Spear: 100% → Spear Flow Mid 1% → Spear Flow」 | Chapter_05_The_Road_Begins.md |
 | 「Spear: 25%」 | Chapter_03_The_Wall.md |
 | 「Spear: 29%」 | Chapter_04_The_Patient_Kind.md |

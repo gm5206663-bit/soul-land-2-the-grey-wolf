@@ -558,7 +558,7 @@ It was not new technique world handed him. It was what happened when man who cou
 
 Fused method: spirit power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst. Its own effects, its own name. County's plain method plus hunter's craft plus every life-skill ridge taught, become something more good — named method that has own effects. That was canon's own road: Tang Sect's Ghost Shadow Perplexing Track was observation plus running; Mysterious Heaven Skill was cultivation plus control. His was Grey Ridge Hunt.
 
-Ring aged — not by calendar, but by what poured through it. He had felt it turn in its seat on night it seated, and thought turning was settling. It was work. Seventeen levels poured through it in pouring year — thirteen through twenty nine — shelves holding less, water coming anyway, effective talent two point nine six at start of year, three point five by its end with three bloodlines and thousand-year rings feeding it. Year of engine at mastery, all hours. Number under ring's line was not number kill had left: hundred twenty at seating, thirteen fifty by leaving, twelve hundred thirty years of ghost-wolf poured into year's honest work, yellow to purple, color changing as years crossed thousand. Pelt beside mother's loom, faintly on warm evenings, smelled of live wolf, and wolf was older now.
+Ring aged — not by calendar, but by what poured through it. He had felt it turn in its seat on night it seated, and thought turning was settling. It was work. Seventeen levels poured through it in pouring year — thirteen through twenty nine — shelves holding less, water coming anyway, effective talent two point nine six at start of year, three point five by its end with three bloodlines and thousand-year rings feeding it. Year of engine at mastery, all hours. Number under ring's line was not number kill had left: hundred twenty at seating, thirteen fifty by leaving, twelve hundred thirty years of ghost-wolf poured into year's honest work, yellow to yellow within limits, color changing as years crossed thousand. Pelt beside mother's loom, faintly on warm evenings, smelled of live wolf, and wolf was older now.
 
 Nineteen arrived with first cold of autumn and did not stop. Twenty came week later. Twenty one, twenty two, twenty three, twenty four, twenty five — pour that had slowed shelf by shelf for half season now ran faster at its end than start, because blood feeds speed and speed feeds blood. Grey line at sixty five percent High gave plus one point three zero effective innate. Ghost at thirty five percent Mid gave plus zero point three five. Storm at fifteen percent Mid gave plus zero point two two five. Basic evolving High gave plus zero point five. Craft evolving High gave plus zero point three. Innate one became three point five. Wall at twenty was door with price, and price was paid, and water behind it kept coming. Twenty six, twenty seven, twenty eight, twenty nine — and stopped.
 
@@ -588,7 +588,7 @@ They sat shoulder day and night, and second day pack came through scree at hour 
 
 Ye Cang stood up out of grass into line.
 
-He had chosen place in first hour of first day: fold in scree where every running line through shoulder narrowed to one. Pack's line fixed by crags; crags did not move; fold did not move; boy stood in fold and did not move, and spear's point led arriving wolf by width craft demanded, which is to say: by nothing slower eye could see. Soul power control flowed where eye went — fused Hunt's first gift. Observation read running line, running arrived where mind went first — Hunt's second gift. First soul ring lit up — yellow to world, true purple in Ledger — faint black light halo erupted one meter around, then slid: Netherlight, speed surge plus sixty agility plus fifty physical blow sliding off thirty, body shifting half-step before fear arrived like sledge runner. At purple upgrade it would become Ghost Veil — energy sliding off plus forty plus brief invisibility two seconds ghost-line seen-late plus confuse stun like Purple Demon Eye — Spirit Sea eight fifty supporting.
+He had chosen place in first hour of first day: fold in scree where every running line through shoulder narrowed to one. Pack's line fixed by crags; crags did not move; fold did not move; boy stood in fold and did not move, and spear's point led arriving wolf by width craft demanded, which is to say: by nothing slower eye could see. Soul power control flowed where eye went — fused Hunt's first gift. Observation read running line, running arrived where mind went first — Hunt's second gift. First soul ring lit up — yellow to world, true yellow within limits in Ledger — faint black light halo erupted one meter around, then slid: Netherlight, speed surge plus sixty agility plus fifty physical blow sliding off thirty, body shifting half-step before fear arrived like sledge runner. At yellow within limits upgrade it would become Ghost Veil — energy sliding off plus forty plus brief invisibility two seconds ghost-line seen-late plus confuse stun like Purple Demon Eye — Spirit Connection two hundred supporting.
 
 Grey met point at full stride. Point went home at shoulder's root, craft's whole sentence written in one line — and wind's own weight came down shaft and tore shoulder half open before second spear, his father's, arrived from flank and closed account.
 
@@ -598,7 +598,7 @@ Purple. Young straw darkened to deep violet: twelve hundred years and change, an
 
 *run.*
 
-Storm's own stride. Burst that is not escape but arrival, body going where mind went first, his now, at price of pool and cost of breath. Second soul ring lit up — yellow to world true purple in Ledger — cyan light burst, sharp wolf claws extended from palms, wind curled around legs: Windstride, burst ten meters afterimage one second attack plus fifty defense plus thirty speed plus eighty like Double Wolf Possession. At purple upgrade it would become Storm Step. Wind Blade Burst: ten half crescent wind blades sealing evasion. Range twenty meters. Each thirty percent spirit power. Stormwind Wings: pair enormous cyan wings with frost edges. Flight fifty meters height. Fifteen seconds. Sharp wings offensive. Afterimage two to three like Ghost Shadow Perplexing Track. Future Tornado Wind Blade: layer intense cyan light exploding into dazzling tornado. He sat on scree with shoulder in pieces and word in head and laughed once, short, sound ridge would have sworn boy did not make, because wolf's book now read: *hunt. fade. run.* — and he was eleven years old, and Great Soul Master at top, level thirty, and ledger's lines were climbing off page, and both rings were purple, thousand-year.
+Storm's own stride. Burst that is not escape but arrival, body going where mind went first, his now, at price of pool and cost of breath. Second soul ring lit up — yellow to world true yellow within limits in Ledger — cyan light burst, sharp wolf claws extended from palms, wind curled around legs: Windstride, burst ten meters afterimage one second attack plus fifty defense plus thirty speed plus eighty like Double Wolf Possession. At yellow within limits upgrade it would become Storm Step. Wind Blade Burst: ten half crescent wind blades sealing evasion. Range twenty meters. Each thirty percent spirit power. Stormwind Wings: pair enormous cyan wings with frost edges. Flight fifty meters height. Fifteen seconds. Sharp wings offensive. Afterimage two to three like Ghost Shadow Perplexing Track. Future Tornado Wind Blade: layer intense cyan light exploding into dazzling tornado. He sat on scree with shoulder in pieces and word in head and laughed once, short, sound ridge would have sworn boy did not make, because wolf's book now read: *hunt. fade. run.* — and he was eleven years old, and Great Soul Master at top, level thirty, and ledger's lines were climbing off page, and both rings were yellow within limits, thousand-year.
 
 Coming home was quiet one. Mother sewed shoulder and fed him and said nothing at all, which was her longest speech. Pelt went to smoke-house beam beside first. Old Kuo, at year's turning of his book, wrote largest number of Ye column to date, looked at it while, and ruled line closed with flat stroke he kept for finished accounts.
 
@@ -614,15 +614,15 @@ Mother let hunt coat out last time, and then, finding nothing left to let, cut i
 
 Little Shan was at fence in blue cold of leaving morning, practice bow on back. Ye Cang, passing, touched two fingers to own forehead — hunter's acknowledgment between equals, returned at last, given away whole. Little Shan took it as ridge takes weather, and that was everything that was ever said.
 
-At top of first rise he looked back once. Smoke, forty roofs, long grey shoulder of ridge he could hunt blind, mother small at gate, father not there, which meant father was in trees, which meant father would watch road while from inside it. Then road went over rise, and ridge went into him instead, and he walked east into cold morning with road coat weighted at hem, father's spear on shoulder, two purple thousand-year rings aging in seats, three bloodlines High Mid Mid, fused Hunt in third seat, and whole counted life of him folded shut like Old Kuo's book.
+At top of first rise he looked back once. Smoke, forty roofs, long grey shoulder of ridge he could hunt blind, mother small at gate, father not there, which meant father was in trees, which meant father would watch road while from inside it. Then road went over rise, and ridge went into him instead, and he walked east into cold morning with road coat weighted at hem, father's spear on shoulder, two yellow within limits thousand-year rings aging in seats, three bloodlines High Mid Mid, fused Hunt in third seat, and whole counted life of him folded shut like Old Kuo's book.
 
 That night, at first gate of road, in loft of hem-village inn with smell of other men's suppers below, he looked, and ledger gave him whole of it, every line, as it did at every gate he had ever crossed.
 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice + wind · High → Storm Frost Ghost Wolf」
 > 「Level — 30 · Great Soul Master (top) · the second door open · the ring's gift」
 > 「Slots: 3 / 3 / 3」
-> 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」
-> 「Soul Ring — Stormwind Demon Wolf: 1,850 years · purple · aging」
+> 「Soul Ring — Ghost Wolf: 1,350 years · yellow within limits · aging」
+> 「Soul Ring — Stormwind Demon Wolf: 603 years · yellow within limits · aging PROPOSED」
 > 「Technique — Basic Soul Power Cultivation: 100% → Flowing Soul Cultivation Mid 1% → Flowing Soul Cultivation · the engine, passive · High」
 > 「Technique — The Hunter's Craft: 100% → Forest Craft Mid 1% → Forest Craft · seated, the second slot · High」
 > 「Technique — The Grey Ridge Hunt: 100% → Storm Frost Ghost Hunt Mid 1% → Storm Frost Ghost Hunt · seated, the third slot · High」
@@ -648,9 +648,9 @@ That night, at first gate of road, in loft of hem-village inn with smell of othe
 > 「Cooking Skill: 100% → Camp Cooking Mid 1% → Camp Cooking」
 > 「Combat Style: 100% → Grey Ridge Hunt Mid 1% → Grey Ridge Hunt」
 
-He read it twice, and found it honest — and found first line changed. Wolf no longer said Grey Wolf. It said High → Storm Frost Ghost Wolf. Bloodline strange change — Grey sixty five High plus Ghost thirty five Mid plus Stormwind fifteen Mid plus both rings purple thousand-year — had awakened soul. Grey Wolf → Ice Wolf → Storm Frost Ghost Wolf, three bloodlines fused, attribute ice deepened from thin to true ice, frame larger, eyes ice-amber. Ledger counted evolution as it counted everything. Netherlight at thirteen fifty purple had upgraded — Ghost Veil: speed surge plus physical plus energy sliding off plus brief invisibility. Windstride at eighteen fifty purple had upgraded — Storm Step: burst plus wind blade plus afterimage. Skills upgrade when ring breakthroughs next stage — canon's own law, Soul Land 3 receipt. And third technique, Grey Ridge Hunt, carried its own concealment — Ring Veil: hides purple as yellow to world, true purple only in Ledger. What fool shows two thousand-year rings at eleven? Not this one. He slept sleep of man whose tally had come out even, and in morning road ran on east, and he ran with it, spirit power flowed where eye went, body arrived where mind went first — Hunt's own effects, and purple hidden as yellow to every eye but his.
+He read it twice, and found it honest — and found first line changed. Wolf no longer said Grey Wolf. It said High → Storm Frost Ghost Wolf. Bloodline strange change — Grey sixty five High plus Ghost thirty five Mid plus Stormwind fifteen Mid plus both rings yellow within limits thousand-year — had awakened soul. Grey Wolf → Ice Wolf → Storm Frost Ghost Wolf, three bloodlines fused, attribute ice deepened from thin to true ice, frame larger, eyes ice-amber. Ledger counted evolution as it counted everything. Netherlight at thirteen fifty yellow within limits had upgraded — Ghost Veil: speed surge plus physical plus energy sliding off plus brief invisibility. Windstride at eighteen fifty yellow within limits had upgraded — Storm Step: burst plus wind blade plus afterimage. Skills upgrade when ring breakthroughs next stage — canon's own law, Soul Land 3 receipt. And third technique, Grey Ridge Hunt, carried its own concealment — Ring Veil: yellow within limits — concealment dimming PROPOSED not canon to world, true yellow within limits only in Ledger. What rings show true color in canon at eleven? Not this one. He slept sleep of man whose tally had come out even, and in morning road ran on east, and he ran with it, spirit power flowed where eye went, body arrived where mind went first — Hunt's own effects, and yellow within limits hidden as yellow to every eye but his.
 
-Somewhere far down same turning of world, in same autumn, boy his own age with eyes color of nothing was walking alone out of great man's back gate, toward forest, toward ring of his own that was million years wide, toward same city. Book this world lived inside was opening. Ye Cang walked hem of it, season ahead, two purple thousand-year rings, level thirty, everything Mid+, fused method, and ledger counted his road whole way.
+Somewhere far down same turning of world, in same autumn, boy his own age with eyes color of nothing was walking alone out of great man's back gate, toward forest, toward ring of his own that was million years wide, toward same city. Book this world lived inside was opening. Ye Cang walked hem of it, season ahead, two yellow within limits thousand-year rings, level thirty, everything Mid+, fused method, and ledger counted his road whole way.
 
 ---
 
@@ -737,6 +737,9 @@ Night was cold, road coat weighted with pelts kept cold out, mother's work, and 
 
 He slept back to wall, spear point leading, and dreamed of nothing because tallykeeper who counted whole day does not need to count at night.
 
+
+---
+
 ---
 
 # Chapter 07 — The Third Village
@@ -753,7 +756,7 @@ The third village came by noon, larger than the first two, almost a market town.
 
 He did not use burst, road wanted patience, not burst, sitting on hem road edge with spear across knees. Counting cart ruts and wind and field birds without moving, kept patience honest, burst was for being seen late. Here being unremarkable mattered more.
 
-He kept rings hidden, to world, two yellow hundred-year rings showed, true purple thousand-year only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village when a boy stared too long at his hands.
+He kept rings hidden, to world, two yellow hundred-year rings showed, true yellow hundred-year within limits only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village when a boy stared too long at his hands.
 
 His feet threw no dust even carrying weight, that was quiet step at work. He passed geese sleeping in yard and none lifted heads, he passed dogs at gate and none barked. Grey line gave vitality recovery predator frame, dogs knew predator frame and gave it space. Amber eyes grey tint hair when sun hit, that was appearance cascade bloodline gives many things canon perfectly.
 
@@ -823,6 +826,9 @@ He checked hem again, ink cake, scrap paper, beans in cloth, half coin gone, roa
 
 Night was cold, road coat weighted with pelts kept cold out, mother's work, and he remembered her hands sewing, not counting cost, carrying that weight as promise.
 
+
+---
+
 ---
 
 # Chapter 08 — Road To Shrek
@@ -841,7 +847,7 @@ Fifth village came with evening, forty roofs, forge with cold hearth, smith with
 
 Sixth village was larger, almost town, with cart track joining hem road, he heard track before seeing. Loose rim, dog favoring left hind, river before bend because air changed, that was senses at work, not numbers. He did not use burst, burst was for being seen late, here being unremarkable mattered more.
 
-He kept rings hidden, to world, two yellow hundred-year rings showed, true purple thousand-year only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village.
+He kept rings hidden, to world, two yellow hundred-year rings showed, true yellow hundred-year within limits only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village.
 
 He read signs without moving lips, one sign said Shrek City east, eight days by cart. Another said forest road closed after dark, spirit beasts, he understood.
 
@@ -867,7 +873,7 @@ Pool ran every night, pool deepened, pathways widened hardened, vitality two tho
 
 He thought about road complaint, he had been on road long time, user had said so. Road for long time was not good, so he compressed, he did not write each village as chapter. He wrote season as montage, that was honest, that was clean and clear, no nonsense repetition. Natural prose avg fourteen to eighteen, no repetitive skill list in body, show mastery via daily life action. Keep lore dumps in footer only. Band twenty four hundred to thirty four hundred over sixty zero the-way zero bare zero, that was standing rule.
 
-By third week, hem road became cart road, cart road became stone road. Stone road had ruts deeper and traffic more, he saw soul masters for first time since leaving ridge. Two men with tool martial souls, one with beast, rings yellow hundred-year, talking loud about Shrek City prices. He kept distance, veil hid purple as yellow, true purple only Ledger, rings show true color in canon at eleven. Not this one.
+By third week, hem road became cart road, cart road became stone road. Stone road had ruts deeper and traffic more, he saw soul masters for first time since leaving ridge. Two men with tool martial souls, one with beast, rings yellow hundred-year, talking loud about Shrek City prices. He kept distance, veil hid purple as yellow, yellow within limits — rings show true color in canon, rings show true color in canon at eleven. Not this one.
 
 He watched soul masters from distance and learned. They walked like men who owned road, not like boy who walked hem because no one owned it. They talked loud about academy fees, about spirit beasts, about soul tools. He listened because clear understanding and fluent reading taught listening, he did not speak. He learned that city prices were high, that academy exam was in seven days, that many boys failed first part crystal because level too low.
 
@@ -907,6 +913,9 @@ He checked hem again, ink cake, scrap paper, beans gone, half coin gone, road co
 Night was cold, road coat weighted with pelts kept cold out, mother's work, and he remembered her hands sewing, not counting cost, carrying that weight as promise, not burden.
 
 He slept back to wall, spear point leading, and dreamed of nothing because tallykeeper who counted whole day does not need to count at night.
+
+
+---
 
 ---
 
@@ -950,7 +959,7 @@ She wrote, "Martial soul?".
 
 He called them, two yellow hundred-year within limits, wolf ice thin, light came. First ring yellow, faint light halo one meter around then slid, speed surge, blow sliding off, body shifting half-step before fear arrived. At purple upgrade it added energy slide plus brief invisibility two seconds plus confuse stun plus three clones hiding real body. Second ring yellow to world, cyan light burst, sharp claws extended from palms, wind curled around legs, burst ten meters afterimage one second.
 
-Examiner wrote two yellow hundred-year, she did not see purple, veil hid it, true purple only Ledger. She looked at frame, body near a hundred kilos robust at eleven, three times normal boy. Denser bone, quicker muscle, reflexes step ahead, shoulders freight height old line gave at High plus thousand-year rings. Amber eyes grey tint hair when sun hit, village dogs stopped lifting heads when he passed. Wood passed him at peace, she had seen clan monsters before. Level thirty at eleven was top of freshman class on honest hours, between strangled genius at bottom and clan monsters at top. Exactly where five honest years of all-hours engine put rank-one boy.
+Examiner wrote two yellow hundred-year, she did not see purple, veil hid it, yellow within limits — rings show true color in canon. She looked at frame, body near a hundred kilos robust at eleven, three times normal boy. Denser bone, quicker muscle, reflexes step ahead, shoulders freight height old line gave at High plus thousand-year rings. Amber eyes grey tint hair when sun hit, village dogs stopped lifting heads when he passed. Wood passed him at peace, she had seen clan monsters before. Level thirty at eleven was top of freshman class on honest hours, between strangled genius at bottom and clan monsters at top. Exactly where five honest years of all-hours engine put rank-one boy.
 
 "Pass," she said, "Second part.".
 
@@ -972,7 +981,7 @@ He found Tang Sect across fence, as book had said. Declining sect, small courtya
 
 He found soul tool shop with cold lamps burning without fire. Same lamp seen Anlin window and Shrek City inner city, cost more than forty roofs. Small quiet first line of war east building. Sun Moon Empire rising on soul tools, core arrays rare metals engraved soul circuits powered by soul power, engineer levels one to ten, Kong Deming rank ninety five level ten tool held standstill against rank ninety nine. Era's equalizer, he let it go and walked.
 
-At dusk, he sat at culvert near academy wall, spear across knees, counting cart ruts wind field birds without fidget. Power flowed where eye went, body arrived where mind went first. That was Hunt's own effects: power flows where eye goes, body arrives where mind went first, patience as limb, quiet step seen-late, burst, wind blade wings afterimage, veil concealment hides purple as yellow, mind's eye perception ten to twenty meters.
+At dusk, he sat at culvert near academy wall, spear across knees, counting cart ruts wind field birds without fidget. Power flowed where eye went, body arrived where mind went first. That was Hunt's own effects: power flows where eye goes, body arrives where mind went first, patience as limb, quiet step seen-late, burst, wind blade wings afterimage, concealment dimming PROPOSED not canon — rings yellow within limits, mind's eye perception ten to twenty meters.
 
 He opened scrap paper with wolf woodcut and used ink cake to write small tally, tallykeeper's hand, not numbers prose may never state. Just tally: Shrek City East Hem Gate arrival, inner city north, academy gates ten meters high dark wood iron. Exam first part crystal level thirty top age eleven wolf ice plus wind two yellow hundred-year concealed purple. Examiner bored then not bored, second part body martial soul possession, third part tomorrow combat character. Tang Sect across fence declining, soul tool shops cold lamps.
 
@@ -1005,5 +1014,91 @@ He bought bread with last half copper coin and ate it walking market edge, not m
 At dusk, he sat at culvert near academy wall again, spear across knees, counting cart ruts wind field birds without fidget. He opened scrap paper and wrote last tally: Shrek City inner city north, academy gates ten meters high dark wood iron, exam first part crystal level thirty top, second part body possession, third part combat character pass, Tang Sect declining, soul tool shops cold lamps, season done. He folded paper and put it in hem and slept back to wall, spear point leading, ledger counting road whole way to gates.
 
 ---
+
+---
+
+---
+
+---
+
+# Chapter 10 — The Combat Exam
+
+Morning bell came before light, third bell, iron tongue, he heard it before others. Patience as limb held sitting whole night, spear across knees, back to wall. Loft smelled city noise below and wind through eaves above. He checked hem, ink cake, scrap paper, beans gone, half coin gone, road coat folded, spear balanced. Tally came even.
+
+He left inn before light, old woman did not ask where boy eleven learned to set chair true. He paid with mended chair, not coin, hands knew work. Outside, inner city north still dark, stone road wider, ruts deeper, cold lamps burning without fire. He walked quiet step, ground did not know he passed. Dogs at gate did not lift heads.
+
+Academy gates stood ten meters high, dark wood iron, words carved ten thousand years not worn smooth. Shrek Academy, beyond courtyard buildings lake willows students green yellow. Line already long for third part, boys girls his age some older some with parents some alone. All martial souls awake innate measured. He joined line, patience made waiting honest. He counted without meaning to: sacks of grain, coins changing hands, soul masters with yellow rings, children chasing dogs that did not chase him.
+
+First part yesterday had been crystal, level thirty Great Soul Master top, examiner bored then not bored. Second part body martial soul possession, grey light bones cracking muscles expanding stature larger hair grey frost tint amber eyes claws grey fur cold air wind curling feet, robust released or not, stone lifted point leading pass. Teacher nodded once as father nodded once when boy read wind right. That nod held more weight than other men's speeches.
+
+Third part today was combat character, board said. Not killing, not winning, but showing. He liked that better than crystal, crystal counted number, combat counted choice.
+
+He kept rings hidden, to world two yellow hundred-year within limits 120y and 603y, wolf ice thin ordinary type mostly ice, possession holds whole morning. Rings show true color in canon yellow at this age, no Veil hiding purple as yellow in canon, concealment dimming self-created PROPOSED not in body. He showed two yellow, fool who shows two thousand-year at eleven would be taken to inner courtyard and asked questions no eleven-year-old could answer honestly. He learned that at second village.
+
+Yard was same as yesterday, mats older students watching teacher beast martial soul bear maybe. Teacher today was different, younger, green vines tool martial soul, eyes that read character before skill. He called names from list, Ye Cang from Grey Ridge west hem.
+
+He stepped to mat, spear left at edge, hands empty. Opponent was boy his age, taller, tool martial soul sword, one yellow ring hundred-year, stance wide, weight back. Boy looked at Ye Cang's frame and frowned, eleven but shoulders freight height, amber eyes grey tint hair when sun hit. Village dogs stopped lifting heads when he passed, wood passed him at peace.
+
+Teacher said begin, not loud.
+
+Sword boy came forward with point leading, but point led too high, throat not belly, boar point leads moving thing hand's width complete style, his did not. Ye Cang did not use burst, burst was ten meters blink that leaves afterimage one second, at yellow it was just burst, at purple wings flight fifty meters PROPOSED. Hem road wants patience not burst, patience as limb. He used quiet step, footwork one line fused per F26 details in STATUS.md, seen-late, street taught it differently than ridge. On ridge you learned where rock would give, in town you learned where crowd would give.
+
+Sword cut air where he had been, not where he was. He stepped half-step before fear arrived, body arrived where mind went first, that was Hunt's own effect. Power flowed where eye went, not as skill use as technique. He did not touch sword boy, he touched balance, point leading, thrust recover low guard, boar point leads moving thing hand's width, hands knew work because spear flow taught.
+
+Sword boy stumbled, caught himself, came again faster. Second cut lower, better, but still weight back, not point leading. Ye Cang read weakness fence board would give, eye went loose rim power went there, that was keen senses at work. He smelled river before bend because air changed, that was senses, not numbers. He heard loose rim three carts ahead dog favoring left hind, that was hunter's eye.
+
+He let sword boy tire himself, ghost line at work, quiet step seen-late patience limb extremely patient willing mutual attrition until prey tires exposes weakness. That was canon thousand-year moves away low-tier pack scattering into elite phantom hunter. At eleven he did not need to be phantom hunter, he needed to be boy who mended axle and bought ink.
+
+Sword boy breathed hard after six cuts, stance broke, weight too far back. Ye Cang stepped in, not with show but with point leading as spear flow taught, palm to elbow, not strike, guide. Sword boy sat down hard on mat, sword clattered, not hurt, just sat. Yard quiet, older students watched because frame freight height amber eyes grey tint dogs no lift wood passes at peace did not watch them walked quiet step ground did not know passed.
+
+Teacher with vines nodded once, same nod as yesterday, that nod held more weight than other men's speeches. Pass, he said, character. He did not ask how boy eleven did it, village knows when not to ask.
+
+Ye Cang picked up sword boy's sword and handed it back hilt first, plain speech plain. Sword boy took it and said sorry without meaning sorry, just breath. Ye Cang nodded and left mat, retrieved spear at edge, point leading.
+
+Next name called, he sat at edge of yard, spear across knees, counting cart ruts wind field birds without fidget, whole short hour without fidget because patience as limb, body outlasted boy, something old and wolfish held sitting boy could not. That was ghost line.
+
+He watched other exams, not to learn how to win, but to learn how city counted character. One girl cried when she lost, teacher marked something. One boy helped opponent up after throwing him, teacher marked something else. One boy laughed when opponent fell, teacher marked something else again. He understood, clear understanding taught listening, he did not speak.
+
+By midday third part ended, list posted on board, his name there, Ye Cang Grey Ridge west hem pass. Below it, other names, some he knew from line, some not. He found stall selling bread bought half loaf with last half copper coin carpenter's pay third village ate half loaf while walking market edge not middle where eyes were.
+
+Outside academy gates inner city louder, he found Tang Sect across fence as book had said declining sect small courtyard sign faded. Two people inside, boy blue hair girl pony tail maybe Bei Bei Tang Ya same age plus few years talking about recruiting. He did not approach, read about them, knew what they would become, knew what they needed. He would walk beside canon not through it, canon adjacency law.
+
+He found soul tool shop cold lamps burning without fire, same lamp seen Anlin window. Shrek City inner city cost more than forty roofs, small quiet, first line war east building. Sun Moon Empire rising, core arrays rare metals engraved soul circuits powered soul power. Engineer levels one to ten, Kong Deming rank ninety five level ten tool held standstill against rank ninety nine era's equalizer. He let it go and walked.
+
+At dusk he returned to academy north gate, dorm assignment board, freshman outer courtyard building seven room three bed two. He walked building seven, stone road wider, lake willows beyond, students green yellow reading about twice on Earth book this world lived inside described continent's first academy city grew around it ten thousand years. Now he stood before it, eleven years old, road coat weighted at hem, father's spear on shoulder, two yellow hundred-year rings within limits, wolf ice thin, fused Hunt self-created named method like Mysterious Heaven Skill PROPOSED, whole counted life folded shut like Old Kuo's book.
+
+Room three had two beds, one taken, bag on it, blue hair boy not there yet, maybe Bei Bei recruiting, maybe other freshman. He set spear against wall point leading, road coat folded, hem checked, scrap paper with wolf woodcut folded. He wrote small tally on its back, tallykeeper's hand, not numbers prose may never state. Just tally: exam third part combat character pass, sword boy weight back point high, quiet step seen-late, patience limb, dorm building seven room three, season done. He folded paper and put it in hem.
+
+Night came, city noise below, wind through eaves above, pool ran, ledger counted, road waited. Pool deepened pathways widened vitality increased body robust for age 100-150kg not 100-150kg canon-strict, perception ten to twenty meters not ten to hundred meters canon-strict, spirit connection two hundred not sea eight fifty canon-strict. Method ran while he carried water while he sat black pools while he slept where other souls worked one hour his worked every one compounded.
+
+Somewhere far down same turning world same autumn boy his own age eyes color of nothing walking alone out of great man's back gate toward forest toward ring of his own that was million years wide toward same city. Huo Yuhao, Spirit Eyes, innate twenty plus, million-year ring, same autumn boy with spirit eyes walks into forest far east two roads meeting now seven days out two roads meeting at academy. Book this world lived inside opening wider. Ye Cang walked hem of it, season done, two yellow hundred-year rings level thirty everything Mid+ fused method ledger counted road whole way to gates now dorm.
+
+He slept back to wall, spear point leading, and dreamed of nothing because tallykeeper who counted whole day does not need to count at night. Pool ran, ledger counted, dorm waited. Morning would be freshman year, classes, lake, willows, Tang Sect across fence declining, soul tool shops cold lamps, Sun Moon Empire rising east, war building street by street army by army. He would walk beside canon not through it.
+
+He liked third village better than market town, but he liked gates better than villages, but he liked dorm better than gates. Gates meant arithmetic done, road just arithmetic, father had said, and banked fire, road was done. Dorm meant arithmetic beginning again.
+
+
+
+He woke before second bell, pool had run all night, pathways widened vitality increased. He checked hem again, ink cake, scrap paper, beans gone, half coin gone, road coat honest, spear balanced, and he liked that tally came even. He liked that road coat still held pelts sewed into hem, mother's work, not counting cost, carrying that weight as promise, not burden.
+
+He walked to water trough at edge of courtyard, washed face, water cold, city water different than ridge water, softer, but cold was honest. He saw other freshmen washing too, boys girls his age, some with parents, some alone, all with martial souls awake innate measured. Some had tool martial souls, some beast, some body, some with yellow rings already, some with white. He did not stare, clear mind counted, clear speech said little.
+
+Breakfast was bread and soup, half copper coin, he paid with coin now because mended things not needed at academy. He ate at edge, not middle where eyes were, dogs no longer lifted heads when he passed, wood passing at peace. Grey High body-line vitality recovery predator's frame, amber ice-amber eyes grey tint, he had not chosen that, bloodline gave many things canon perfectly.
+
+First class board said orientation at lake, he walked lake path, willows, water, students green yellow reading about twice on Earth book this world lived inside described continent's first academy city grew around it ten thousand years. Lake was large, wind over water, birds, he counted cart ruts wind field birds without fidget, whole short hour without fidget because patience as limb. Body outlasted boy, something old and wolfish held sitting boy could not, that was ghost line at work.
+
+Orientation was short, teacher with bear martial soul maybe same as yesterday, said Shrek Academy ten thousand years, Tang Sect declining across fence, soul tools rising east, Sun Moon Empire building army street by street. He listened because clear understanding taught listening, he did not speak. He knew what it was, he had read future twice, future was engraved metal burning without fire. East already building it street by street army by army, first line war small quiet.
+
+After orientation he walked back to dorm building seven room three, bag on other bed still there, owner not yet returned. He set spear against wall point leading, road coat folded, hem checked, scrap paper with wolf woodcut folded. He wrote small tally on its back, tallykeeper's hand, not numbers prose may never state. Just tally: orientation lake willows, teacher bear, ten thousand years, Tang Sect declining, soul tools rising east, war building street by street, dorm building seven room three still alone, season done.
+
+He sat at culvert near academy wall again, spear across knees, counting cart ruts wind field birds without fidget. He opened scrap paper and wrote last tally: Shrek City inner city north, academy gates ten meters high dark wood iron, exam first part crystal level thirty top, second part body possession, third part combat character pass, Tang Sect declining, soul tool shops cold lamps, season done. He folded paper and put it in hem and slept back to wall, spear point leading, ledger counting road whole way to gates.
+
+Night came, city noise below, wind through eaves above, pool ran, ledger counted, road waited. Pool deepened pathways widened vitality increased body robust for age 100-150kg not 100-150kg canon-strict, perception ten to twenty meters not ten to hundred meters canon-strict, spirit connection two hundred not sea eight fifty canon-strict. Method ran while he carried water while he sat black pools while he slept where other souls worked one hour his worked every one compounded.
+
+Somewhere far down same turning world same autumn boy his own age eyes color of nothing walking alone into Great Star Dou Forest edge toward forest toward ring of his own that was million years wide toward same city. Huo Yuhao, Spirit Eyes, innate twenty plus, million-year ring, same autumn boy with spirit eyes walks into forest far east two roads meeting now seven days out two roads meeting at academy. Book this world lived inside opening wider. Ye Cang walked hem of it, season done, two yellow hundred-year rings level thirty everything Mid+ fused method ledger counted road whole way to gates now dorm.
+
+He slept back to wall, spear point leading, and dreamed of nothing because tallykeeper who counted whole day does not need to count at night. Pool ran, ledger counted, dorm waited. Morning would be freshman year, classes, lake, willows, Tang Sect across fence declining, soul tool shops cold lamps, Sun Moon Empire rising east, war building street by street army by army. He would walk beside canon not through it.
+
+
 
 ---

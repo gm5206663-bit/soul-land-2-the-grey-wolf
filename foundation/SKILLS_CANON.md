@@ -29,21 +29,21 @@ White Tiger possession pale white light muscles expand golden hair white/black k
 ### Skill1 — Grey Wolf Possession — High → Storm Frost Ghost Wolf — Different Name Per Grade
 
 - **Current:** High → Storm Frost Ghost Wolf Possession different name — soul own expression 85% honest 5y + thousand-year feeding everything Mid+ upgrades on evolution with different name
-- **Description — Different Name Per Grade:** Grey Wolf Possession Mid different name → Storm Frost Ghost Wolf Possession High different name → Ghost Wolf Emperor Possession Top different name — iron-gray fur green eyes golden lock forehead — body ~500kg robust — vitality recovery predator's frame senses fed — different name per grade
+- **Description — Different Name Per Grade:** Grey Wolf Possession Mid different name → Storm Frost Ghost Wolf Possession High different name → Ghost Wolf Emperor Possession Top different name — iron-gray fur green eyes golden lock forehead — body 100-150kg robust for age robust — vitality recovery predator's frame senses fed — different name per grade
 - **Evolution — Different Name Per Grade:** Grey Wolf Low → Ice Wolf Mid different name → Storm Frost Ghost Wolf High different name → Storm Frost Ghost Wolf Emperor Top different name via three bloodlines + thousand-year rings — different name per grade
 - **Incantation:** silent — *hunt* for Storm Frost Ghost Hunt different name
 
 ### Skill2 — Netherlight Ghost Veil — High → Ghost Veil — Different Name Per Grade — Correct Evolution
 
-- **Current:** High → Ghost Veil different name — 1350-year beast signature light — 120→1350y purple F16/F17 upgrades at 1000y yellow→purple different name everything Mid+
+- **Current:** High → Ghost Veil different name — 120y yellow within limits beast signature light — 120→120y yellow within limits F16/F17 upgrades at 1000y yellow→purple different name everything Mid+
 - **Base (yellow 100y) — Different Name Per Grade:** Light of Netherworld Low different name — speed-boost physical mitigation aura flash past sensory tracking — Ghost Doppelganger Low → Advanced Ghost Doppelganger Mid different name 1 phantom clone — different name per grade
-- **Upgraded (purple 1000y+) — Different Name Per Grade:** Ghost Veil High different name — speed-boost physical mitigation aura + 3 phantom clones hiding real body + brief invisibility + sensory tracking 10-100m Spirit Sea 850 — Light of Netherworld Low → Netherlight Mid different name → Ghost Veil High different name → Ghost Storm Veil Top different name — different name per grade
+- **Upgraded (purple 1000y+) — Different Name Per Grade:** Ghost Veil High different name — speed-boost physical mitigation aura + 3 phantom clones hiding real body + brief invisibility + sensory tracking 10-20m Spirit Connection 200-300 — Light of Netherworld Low → Netherlight Mid different name → Ghost Veil High different name → Ghost Storm Veil Top different name — different name per grade
 - **Evolution — Different Name Per Grade:** At 10000y black — Ghost Storm Veil Top different name → Phantom Legion Dominion Top+ different name — 5 clones + wind blade burst — different name per grade
 - **Canon Anchor:** Ghost Wolf 1000-year Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top — different name per grade + Advanced Ghost Doppelganger 3 clones different name
 
 ### Skill3 — Windstride Storm Step — High → Storm Step — Different Name Per Grade — Correct Evolution
 
-- **Current:** High → Storm Step different name — 1850-year storm-wolf stride burst thousand-year purple upgrades at 1000y different name
+- **Current:** High → Storm Step different name — 603y yellow within limits storm-wolf stride burst yellow within limits upgrades at 1000y different name
 - **Base (yellow 100y) — Different Name Per Grade:** Wind Blade Burst Low different name 10 half crescent sealing evasion 10× quantity — Double Wolf Possession Low → Double Wolf Dominion Mid different name +50% attack defense agility — Swift Wind Dual Wings Low → Swift Wind Wings Mid different name cyan wings flight 50m best condition shatter preserve life — different name per grade
 - **Upgraded (purple 1000y+) — Different Name Per Grade:** Storm Step High different name — Tornado Wind Blade Low → Wind Tornado Dominion Mid different name → Storm Tornado Annihilation High different name countless sharp wind blades tornado — Thirty-Six Continuous Slashes Low → Thirty-Six Storm Slashes Mid different name → Seventy-Two Phantom Slashes High different name strength speed increasing each chop evolves 54/72 — Wind Blade Burst + Wings + Afterimage 2-3 + Veil of Ghost concealment different name — different name per grade
 - **Evolution — Different Name Per Grade:** At 10000y black — Storm Frost Ghost Wings Top different name → Ghost Storm Sky Dominion Top+ different name — flight 200m + frost storm — different name per grade
@@ -51,8 +51,8 @@ White Tiger possession pale white light muscles expand golden hair white/black k
 
 ### Veil of Ghost Concealment — High — F17 — Different Name Per Grade — Correct Evolution
 
-- **Current:** High → Veil of Ghost different name — hides purple thousand-year as yellow to world true purple only Ledger
-- **Description — Different Name Per Grade:** Ring Veil Low/Mid → Veil of Ghost High different name → Phantom Veil Top different name — hides true color purple thousand-year shows fake yellow/white — fool shows two thousand-year? No — shows two yellow hundred-year to world — true purple only Ledger sees — different name per grade
+- **Current:** High → Veil of Ghost different name — yellow within limits — concealment PROPOSED not canon to world yellow within limits — rings show true color in canon
+- **Description — Different Name Per Grade:** Ring Veil Low/Mid → Veil of Ghost High different name → Phantom Veil Top different name — hides true color yellow hundred-year within limits shows fake yellow/white — fool shows two thousand-year? No — shows two yellow hundred-year to world — yellow within limits — rings show true color in canon sees — different name per grade
 - **Evolution — Different Name Per Grade:** Ring Veil Low → Veil of Ghost High different name → Phantom Veil Top different name — Low 1-100% → Mid different name 1-100% → High different name at Ch5 gate — no terminal — evolution chain different name per grade — correct evolution — not footwork
 
 ### Storm Frost Ghost Hunt — High — Named Technique Like Purple Demon Eyes — v5.4 Footwork Fusion Fix — Different Name Per Grade — Correct Evolution
@@ -63,9 +63,9 @@ White Tiger possession pale white light muscles expand golden hair white/black k
   - Stage1 Perception Five Senses Low→Keen Senses Mid different name Sight amber ice-amber eyes sees weakness Hearing hears dogs hearts Smell nose reads whole day Low 1-100% evolves → Mid different name — correct — not Silent Wind Step
   - Stage2 Attention Observation Low→Hunter's Eye Mid different name + Soul Power Control Low→Flowing Control Mid different name → Spirit Perception High different name + Spirit Control High different name soul power flows where eye goes — different name per grade — correct — not Silent Wind Step
   - Stage3 Intoxication Body Control Low→Flowing Body Mid different name + Silent Wind Step Mid (FUSED from Walking+Running+Mountain Stride ONE) → Ghost Frost Storm Step High different name + Stillness Low→Patience as Limb Mid different name → Void Stillness High different name body arrives where mind went first — different name per grade — footwork fusion — which fool masters so many step techniques separately? They fuse! — ONE footwork line, not three
-  - Stage4 Immersion Boundless Quiet Step + Seen-late + Burst + Wind Blade + Veil of Ghost concealment High different name → Ghost Storm Dominion Top different name brief invisibility wind blade burst 10 half crescent stormwind wings flight 50m afterimage 2-3 hides purple as yellow unlocks mind's eye perception 10-100m — different name per grade
+  - Stage4 Immersion Boundless Quiet Step + Seen-late + Burst + Wind Blade + Veil of Ghost concealment High different name → Ghost Storm Dominion Top different name brief invisibility wind blade burst 10 half crescent stormwind wings flight 50m afterimage 2-3 yellow within limits — PROPOSED dimming not canon unlocks mind's eye perception 10-20m — different name per grade
 - **Training — Different Name Per Grade:** morning purple qi rising sun ridge run thorn thicket stillness black pools blind wind line scree fold sledge runner spear point leading all hours at best via Passive Law reborn mind +24/7+bloodlines=compounding
-- **Own Effects — Different Name Per Grade:** spirit power flows where eye goes body arrives where mind went first patience as limb quiet step seen-late burst wind blade wings afterimage Veil of Ghost concealment hides purple as yellow mind's eye perception extreme distances Wide-Area — different name per grade
+- **Own Effects — Different Name Per Grade:** spirit power flows where eye goes body arrives where mind went first patience as limb quiet step seen-late burst wind blade wings afterimage Veil of Ghost concealment dimming PROPOSED not canon — rings yellow within limits mind's eye perception extreme distances Wide-Area — different name per grade
 - **Incantation:** *hunt*
 
 ## Evolution Chain — v5.4 — Different Name Per Grade — Correct Evolution — Footwork Fusion Mandatory

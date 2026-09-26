@@ -12,7 +12,7 @@ The third village came by noon, larger than the first two, almost a market town.
 
 He did not use burst, road wanted patience, not burst, sitting on hem road edge with spear across knees. Counting cart ruts and wind and field birds without moving, kept patience honest, burst was for being seen late. Here being unremarkable mattered more.
 
-He kept rings hidden, to world, two yellow hundred-year rings showed, true purple thousand-year only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village when a boy stared too long at his hands.
+He kept rings hidden, to world, two yellow hundred-year rings showed, true yellow hundred-year within limits only Ledger saw. A boy showing two thousand-year rings would not be allowed to mend fences for bread. He learned that at second village when a boy stared too long at his hands.
 
 His feet threw no dust even carrying weight, that was quiet step at work. He passed geese sleeping in yard and none lifted heads, he passed dogs at gate and none barked. Grey line gave vitality recovery predator frame, dogs knew predator frame and gave it space. Amber eyes grey tint hair when sun hit, that was appearance cascade bloodline gives many things canon perfectly.
 
@@ -97,7 +97,7 @@ Night was cold, road coat weighted with pelts kept cold out, mother's work, and 
 
 - **Beats:** hem road strip hard ground between trees and tilled ground beaten by feet cart rims weather grass middle beaten down again villages know it hunters know it no one owned it — father said hem north never in trees; third village market town sixty roofs plus market low wall goats axle mended half loaf ink cake ten days to Shrek City by cart season to city same autumn boy with spirit eyes walks into forest far east two roads meeting second half did not count aloud Ledger counted; road craft hem roads villages Grey Ridge Hunt in use all basics shown daily life no fights yet perception 10-20m body 100-150kg robust frame freight amber eyes grey tint dogs no lift Wolf ice thin canon possession pale white light muscles swell hands double size fur claws — footwork fusion ONE line per F26 details in STATUS.md — clean no repetition — canon-strict
 
-- **PROPOSED (all numbers PROPOSED not canon, details in STATUS.md):** Level 30 Great Soul Master, rings yellow 120y/603y within limits aging to purple PROPOSED via Heavenly Dream, concealment dimming PROPOSED not canon, Spirit Connection 200-300 not Sea 850, body 100-150kg not 500kg, martial soul Wolf ice thin canon Ice Wolf Mid mutation PROPOSED, skills Netherlight/Windstride with canon Ghost Wolf / Stormwind Demon Wolf skills — see STATUS.md for full evolution chain — not repeated here.
+- **PROPOSED (all numbers PROPOSED not canon, details in STATUS.md):** Level 30 Great Soul Master, rings yellow 120y/603y within limits aging to purple PROPOSED via Heavenly Dream, concealment dimming PROPOSED not canon, Spirit Connection 200-300 not Sea 850, body 100-150kg not 100-150kg, martial soul Wolf ice thin canon Ice Wolf Mid mutation PROPOSED, skills Netherlight/Windstride with canon Ghost Wolf / Stormwind Demon Wolf skills — see STATUS.md for full evolution chain — not repeated here.
 
 - **History:** Chapter 07 The Third Village — Arc 2 road east / city — road compressed montage — arrival Shrek City gates — no level/ring/bloodline update — 0 panel lines per F22 — clean no repetition — canon-strict — no repetitive fusion chain in footer, details in STATUS.md.
 

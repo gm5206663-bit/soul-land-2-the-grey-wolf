@@ -28,7 +28,7 @@ User provided official canon facts for Thousand-Year Ghost Wolf (Spectre Wolf / 
 
 ### 1. Physical evolution integrated
 - Ch4 at 120y yellow: iron-gray base coat green glowing eyes, naturally fragile defensively weak, no golden lock yet — golden lock comes only at 1000y most prominent identifier. Skull not yet hardened, tofu waist already vulnerable.
-- Ch5 at 1,350y purple thousand-year: now has lock of golden hair on forehead, iron-gray base coat green glowing eyes, toughest skull capable matching elite power attack, tofu waist paradox waist/neck vulnerable.
+- Ch5 at 120y yellow within limits thousand-year: now has lock of golden hair on forehead, iron-gray base coat green glowing eyes, toughest skull capable matching elite power attack, tofu waist paradox waist/neck vulnerable.
 - METERS.md Ghost Wolf bloodline updated: includes golden lock, iron-gray green eyes, toughest skull, tofu waist, Light of Netherworld, Ghost Doppelganger 3 clones, Shrek Beast Dueling Area story.
 - STATUS.md second bloodline card updated with thousand-year physical evolution.
 - SKILLS_CANON.md First Soul Ring Skill rewritten with full canon facts integrated.
@@ -47,7 +47,7 @@ User provided official canon facts for Thousand-Year Ghost Wolf (Spectre Wolf / 
   - Brief invisibility 2s + 3 phantom clones 5s each hiding real body seen-late
   - Skull hardening head defense +60% but waist/neck vulnerability +20% damage taken if hit there — honest price
   - Psychological warfare calculation-driven phantom hunter high-speed attrition
-  - Confuse/stun 1-2s like Purple Demon Eye Spirit Sea 850
+  - Confuse/stun 1-2s like Purple Demon Eye Spirit Connection 200-300
 
 ### 4. Storyline appearance integrated
 - Soul Land 2 Shrek Academy Beast Dueling Area: Huo Yuhao + He Caitou vs Thousand-Year Spectre Wolf, wolf uses evasive phantom traits Light of Netherworld + Ghost Doppelganger to pressure duo, climax skull shattered by Dark Gold Terror Claw Bear right palm bone dark golden blades.
@@ -66,4 +66,4 @@ User provided official canon facts for Thousand-Year Ghost Wolf (Spectre Wolf / 
 - PANELS 80 rows IN SYNC
 
 ## Numbers kept from F18/F19
-- Level 30 Great Soul Master top, Ghost 1,350y purple concealed as 120y yellow via Ring Veil now with golden lock iron-gray green eyes toughest skull tofu waist, Stormwind 1,850y purple concealed as 603y yellow, everything Mid+ High, effective talent 3.5×, Spirit Sea 850, body ~500kg, martial soul Storm Frost Ghost Wolf ice+wind High, skills Ghost Veil with 3 clones + Storm Step with wind blade burst 10 half crescent + wings flight 50m + afterimage
+- Level 30 Great Soul Master top, Ghost 120y yellow within limits concealed as 120y yellow via Ring Veil now with golden lock iron-gray green eyes toughest skull tofu waist, Stormwind 603y yellow within limits concealed as 603y yellow, everything Mid+ High, effective talent from bloodlines and method, Spirit Connection 200-300, body 100-150kg robust for age, martial soul Storm Frost Ghost Wolf ice+wind High, skills Ghost Veil with 3 clones + Storm Step with wind blade burst 10 half crescent + wings flight 50m + afterimage

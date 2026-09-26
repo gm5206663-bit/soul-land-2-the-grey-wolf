@@ -38,7 +38,7 @@ She wrote, "Martial soul?".
 
 He called them, two yellow hundred-year within limits, wolf ice thin, light came. First ring yellow, faint light halo one meter around then slid, speed surge, blow sliding off, body shifting half-step before fear arrived. At purple upgrade it added energy slide plus brief invisibility two seconds plus confuse stun plus three clones hiding real body. Second ring yellow to world, cyan light burst, sharp claws extended from palms, wind curled around legs, burst ten meters afterimage one second.
 
-Examiner wrote two yellow hundred-year, she did not see purple, veil hid it, true purple only Ledger. She looked at frame, body near a hundred kilos robust at eleven, three times normal boy. Denser bone, quicker muscle, reflexes step ahead, shoulders freight height old line gave at High plus thousand-year rings. Amber eyes grey tint hair when sun hit, village dogs stopped lifting heads when he passed. Wood passed him at peace, she had seen clan monsters before. Level thirty at eleven was top of freshman class on honest hours, between strangled genius at bottom and clan monsters at top. Exactly where five honest years of all-hours engine put rank-one boy.
+Examiner wrote two yellow hundred-year, she did not see purple, veil hid it, yellow within limits — rings show true color in canon. She looked at frame, body near a hundred kilos robust at eleven, three times normal boy. Denser bone, quicker muscle, reflexes step ahead, shoulders freight height old line gave at High plus thousand-year rings. Amber eyes grey tint hair when sun hit, village dogs stopped lifting heads when he passed. Wood passed him at peace, she had seen clan monsters before. Level thirty at eleven was top of freshman class on honest hours, between strangled genius at bottom and clan monsters at top. Exactly where five honest years of all-hours engine put rank-one boy.
 
 "Pass," she said, "Second part.".
 
@@ -60,7 +60,7 @@ He found Tang Sect across fence, as book had said. Declining sect, small courtya
 
 He found soul tool shop with cold lamps burning without fire. Same lamp seen Anlin window and Shrek City inner city, cost more than forty roofs. Small quiet first line of war east building. Sun Moon Empire rising on soul tools, core arrays rare metals engraved soul circuits powered by soul power, engineer levels one to ten, Kong Deming rank ninety five level ten tool held standstill against rank ninety nine. Era's equalizer, he let it go and walked.
 
-At dusk, he sat at culvert near academy wall, spear across knees, counting cart ruts wind field birds without fidget. Power flowed where eye went, body arrived where mind went first. That was Hunt's own effects: power flows where eye goes, body arrives where mind went first, patience as limb, quiet step seen-late, burst, wind blade wings afterimage, veil concealment hides purple as yellow, mind's eye perception ten to twenty meters.
+At dusk, he sat at culvert near academy wall, spear across knees, counting cart ruts wind field birds without fidget. Power flowed where eye went, body arrived where mind went first. That was Hunt's own effects: power flows where eye goes, body arrives where mind went first, patience as limb, quiet step seen-late, burst, wind blade wings afterimage, concealment dimming PROPOSED not canon — rings yellow within limits, mind's eye perception ten to twenty meters.
 
 He opened scrap paper with wolf woodcut and used ink cake to write small tally, tallykeeper's hand, not numbers prose may never state. Just tally: Shrek City East Hem Gate arrival, inner city north, academy gates ten meters high dark wood iron. Exam first part crystal level thirty top age eleven wolf ice plus wind two yellow hundred-year concealed purple. Examiner bored then not bored, second part body martial soul possession, third part tomorrow combat character. Tang Sect across fence declining, soul tool shops cold lamps.
 
@@ -91,6 +91,8 @@ Outside, inner city was louder still. Soul tool shops cold lamps, Tang Sect acro
 He bought bread with last half copper coin and ate it walking market edge, not middle where eyes were. Dogs no longer lifted heads when he passed, wood passing at peace, Grey High body-line vitality recovery predator's frame. Amber ice-amber eyes grey tint, he had not chosen that, bloodline gave many things canon perfectly.
 
 At dusk, he sat at culvert near academy wall again, spear across knees, counting cart ruts wind field birds without fidget. He opened scrap paper and wrote last tally: Shrek City inner city north, academy gates ten meters high dark wood iron, exam first part crystal level thirty top, second part body possession, third part combat character pass, Tang Sect declining, soul tool shops cold lamps, season done. He folded paper and put it in hem and slept back to wall, spear point leading, ledger counting road whole way to gates.
+
+---
 
 ---
 
