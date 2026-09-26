@@ -213,6 +213,107 @@ Spiritual Power realms from low to high (SL3/SL4 canon, receipt): Spirit Origin 
 
 **Canon: soul rings give body flood — pool deepened, pathways widened and hardened, vitality (F11) — thousand-year rings give 1000 attribute increase (Blue Silver Grass control nature increases by 10 for 10-year ring, 100 for 100-year ring, 1000 for 1000-year ring — receipt). So 2 thousand-year rings give 1000+1000 = 2000 attribute increase to body — robust.**
 
+## THE SKILLS — DESCRIPTION LIKE IN SOUL LAND, GO CHECK CANON, HOW SOUL SKILLS IS AND ALSO CHECK MANY THINGS POSSIBLE (F19)
+
+**Canon format from fandom/baike receipts:**
+
+- **Beast Martial Soul possession:** When activated, attributes and characteristics superimposed upon Soul Master's body through Martial Soul Possession. Enhances relevant physical characteristics and can alter appearance, changes increasingly pronounced as cultivation rises. Degree of fusion affects how completely strength expressed. Closer physical transformation to martial soul characteristics, better unleash power. Bodies of Beast Soul Masters generally extremely robust, released or not. Shared damage. Example Dai Mubai White Tiger possession: pale white light erupts, muscles expand, golden hair white/black, king pattern forehead, hands double size white fur claws 20cm daggers, pupils deep dark blue. Feng Xiaotian Swift Wind Doubleheaded Wolf possession: faint cyan light surges, bones cracking, muscles bones expand, stature larger, hair dyed cyan, wolf head emerges left shoulder.
+
+- **Soul Ring lights up:** Yellow century, purple thousand-year, black ten-thousand-year, red hundred-thousand-year. Bright light, aura filled with grandeur. Incantation "First Soul Skill: White Tiger Protective Barrier" etc.
+
+- **Self-enhancement skills:** White Tiger Protective Barrier forms white light barrier increases defense 50%; White Tiger Vajra Transformation body muscles expand black stripes appear skin, during half-hour transformation resistance to abnormal statuses + attack defense strength simultaneously doubled 100%; Double Wolf Possession double-headed wolf light shadow merges body increasing attack defense agility 50%; etc.
+
+- **Long-range / Area:** Wind Blade Burst sharp wolf claws extend palms slash out ten crescent-shaped wind blades sealing all evasion — ten times quantity vs ordinary Stormwind Demon Wolf Wind Blade — innate advantage high level spirits; White Tiger Fierce Light Wave spits milky-white light sphere from mouth long-range blows anything away; Blue Silver Grass Bind causes grass tougher bind opponents slight paralyzing; Spider Web Restraint throws 6-7 meters spider net extremely durable self constricting + poisonous corrosive; White Tiger Meteor Shower launches countless fist-sized golden light spheres each 1/10 spirit power area or concentrated.
+
+- **Flight:** Swift Wind Dual Wings / Storm Wind Wings pair enormous cyan wings unfurl back granting flight 50 meters height brings body best condition, can shatter wings to preserve life.
+
+- **Self-created soul skill:** Not from ring, refined through continuous trials and training, more practical and powerful than common abilities. Feng Xiaotian Swift Wind Demon Wolf Thirty-Six Continuous Slashes strength speed increasing each chop, relies on Power Attack + Agility Attack characteristics, can compete stronger enemies, evolved to 54, 72 slashes. Tang Sect Chaos Wind Hammer Technique etc.
+
+- **Domain, True Body:** At 70+ Martial Soul True Body transforms into giant White Tiger enhances abilities 300% all abilities amplified 100%; Blue Silver Domain Disguise / Blue Silver Area Entanglement / All-Encompassing / All-Embracing; Slaughter God Domain increases imposing manner weakens opponent user 120%; Xuanwu Domain everything turns black water ability effects increase 100% physical and spiritual suppression weaken opponent 50%.
+
+**Ye Cang — current skills F18/F19 rewritten like canon:**
+
+### Innate — Martial Soul Possession: The Wolf → Storm Frost Ghost Wolf
+
+- **Name:** The Wolf (Grey Wolf → Storm Frost Ghost Wolf)
+- **Type:** Beast Martial Soul Possession — Power Attack System — innate, not from soul ring — first skill for beast soul masters
+- **Martial Soul:** Wolf · beast-type · Power Attack · ice + wind · High → Storm Frost Ghost Wolf (evolved at Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year)
+- **Grade:** High (Excellent Soul) at Ch5 gate — Mid at night one → High via three bloodlines + thousand-year rings + strange change awakening
+- **Activation:** Silent incantation *hunt.* — grey light surges from within body, faint ice-amber light fluctuates, accompanied by cracking sounds of bones, muscles and bones simultaneously expand, stature becomes significantly larger (taller than village boys same age), hair on head dyed grey with frost tint, amber eyes → ice-amber at evolution, hands become claws, nails sharp like daggers, grey fur faint on arms, wolf ears faint, cold air exhales, wind curls around feet. Soul rings rise from feet: two rings, concealed as yellow to world via Ring Veil (true purple thousand-year 1,350y/1,850y in Ledger). When released or not, body remains robust — beast soul masters' bodies generally extremely robust.
+- **Effect (F18):** When possessed, physique enhanced, damage shared. Enhances relevant physical characteristics: strength +100% (can lift ~500kg at 11 with two thousand-year rings, 3× normal 11-year-old), speed +80% (Mountain Stride MASTERED High + Stormwind bloodline), senses +200% (Five Senses MASTERED High — Sight sees weakness, Hearing hears dogs' hearts at fence, Smell reads whole day, Taste pelt smell live wolf, Touch wrist no longer sprain), defense +60% (Grey Wolf body-line vitality recovery predator's frame denser bone quicker muscle), ice resistance + true ice at evolution, wind affinity + wind reading. Appearance changes increasingly pronounced as cultivation rises — closer transformation to Storm Frost Ghost Wolf characteristics, better unleash power. Frame arrived as freight across season — not little one. Dogs no longer lift heads.
+- **Duration:** As long as soul power maintained — passive, low consumption due to Basic MASTERED High + Craft MASTERED High + Grey Ridge Hunt MASTERED High all-hours circulation
+- **Evolution:** Grey Wolf (ice thin) at night one → Ice Wolf (ice deepens) at first strange change → Frost Ghost Wolf → Storm Frost Ghost Wolf (ice + wind + ghost) at F17/F18 evolution when Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year. At evolution, possession gains: ice-amber eyes, frost fur, wind around feet, stormwind wings faint shadow, ghost quiet step seen-late. Skill upgrades with evolution (F17 Martial Soul Evolution Law). At 70+, will gain Martial Soul True Body: transforms into giant Storm Frost Ghost Wolf, enhances all abilities 100-300%, ice + wind domain faint.
+- **Canon anchor:** Dai Mubai White Tiger possession: pale white light erupts, muscles expand, golden hair white/black, king pattern forehead, hands double size white fur claws 20cm daggers, pupils deep dark blue. Feng Xiaotian Swift Wind Doubleheaded Wolf possession: faint cyan light surges, bones cracking, muscles bones expand, stature larger, hair dyed cyan, wolf head emerges left shoulder. Zhao Wuji Great Strength Golden Bear: body covered thick brown fur, height exceeds 2.5 meters, muscles bulging, brown-yellow eyes overbearing aura, hands massive. Our Wolf similar — grey, ice, wind.
+
+### First Soul Ring Skill: Netherlight → Ghost Veil
+
+- **Name:** Netherlight (first form) → Ghost Veil (upgraded form at 1000y purple)
+- **Soul Ring:** Ghost Wolf — 1,350 years, purple, aging — 120→1,350 thousand-year purple (+1,230y via 17 levels + 1y 24/7 mastered engine at 3.5× + three bloodlines) — concealed as 120y yellow via Ring Veil to world, true purple in Ledger
+- **Type:** Agility Attack + Defense + Control — self-enhancement + evasion
+- **Beast Origin:** Ghost Wolf — extremely patient spirit beasts, willing to go through mutual attrition until prey tires or exposes weakness, ghost that does not attack head-on, quiet step, seen-late, soul power efficiency
+- **Activation (canon style):** First soul ring lights up — yellow to world (true purple), bright light, aura filled with grandeur. Incantation *fade.* — faint black light halo erupts from body, covering one meter around, then slides. At purple upgrade, black light becomes grey-black with frost, brief transparency.
+- **Effect — Netherlight (yellow form, <1000y):** Self-enhancement: speed surge +60%, agility +50%, physical blow sliding off — when attacked, body shifts half-step before fear arrives, like sledge runner sliding off track — reduces physical damage by 30%. Duration 10 seconds, can be used while possessed. Soul power cost low due to MASTERED engine.
+- **Effect — Ghost Veil (purple form, ≥1000y, F17 Skill Upgrade Law):** When ring breakthroughs yellow→purple at 1000y, skill upgrades keeping identity power grows new effect: Netherlight → Ghost Veil. Adds: energy damage sliding off +40% (physical + energy), brief invisibility 2 seconds (ghost-line seen-late — eye finding him beat slow), confusion/stun effect like Purple Demon Eye (can be used to temporarily confuse or stun opponent 1-2 seconds, mental power + spiritual realm Spirit Sea 850 supports). In Ghost Veil form, produces ghost veil: body becomes semi-transparent, like ghost, quiet step, seen-late. Duration 15 seconds, cooldown short due to MASTERED. Appearance: grey-black veil like frost ghost wolf fur, ice-amber eyes hidden.
+- **Range:** Self — affects self and close contact
+- **Duration / Cooldown:** 10-15 seconds active, can maintain with soul power, cooldown 30 seconds at base, reduced with Body Control MASTERED High + Soul Power Control MASTERED High
+- **Evolution:** At 10,000y black, will add: longer invisibility 5 seconds, ghost clone, domain faint. At 100,000y red, will add: true ghost possession, immunity to physical. Currently 1,350y purple — Mid→High grade, everything Mid+ per author's view.
+- **Canon anchor:** Xu Sanshi Mystic Deep Quake: unleashes halo of black light covering ten meters or more front in black light that knocks back anything in way and stuns them, in Xuanwu form also produces suction force. Our Ghost Veil similar halo black light but evasion + invisibility. Dai Mubai White Tiger Protective Barrier: forms white light barrier self-enhancement increases defense 50%. Our Netherlight similar but ghost.
+
+### Second Soul Ring Skill: Windstride → Storm Step
+
+- **Name:** Windstride (first form) → Storm Step (upgraded form at 1000y purple)
+- **Soul Ring:** Stormwind Demon Wolf — 1,850 years, purple, aging — 1,200y at absorption → 1,850y purple thousand-year, Mid→High, thousand-year, 1,200y optimum 764y but bearable with MASTERED body + three bloodlines + 3.5× talent — concealed as 603y yellow via Ring Veil to world, true purple in Ledger
+- **Type:** Agility Attack + Power Attack — Wind attribute — burst, long-range, flight
+- **Attribute:** Wind — receipt: Stormwind Demon Wolf attribute Wind, Wind Blade Burst, Stormwind Wings, Wolftaken control wind to certain degree, equal to low level spirit beast, each Wolftaken power rank 20-30, physique speed innate
+- **Beast Origin:** Stormwind Demon Wolf — fast kind, wind's stride, burst speed, agility, observation, running, body control, wind attribute even
+- **Activation (canon style):** Second soul ring lights up — yellow to world (true purple), cyan light bursts. Incantation *run.* — sharp wolf claws extend from palms, cyan light surges, wind curls around legs, faint wolf head howls. At purple upgrade, cyan becomes storm cyan with ice flecks.
+- **Effect — Windstride (yellow form, <1000y):** Burst that arrives — self-enhancement: attack +50%, defense +30%, speed +80% for 10 seconds (like Double Wolf Possession increases attack defense speed by 50% — Feng Xiaotian 2nd skill). When activated, body bursts forward 10 meters in blink, leaves afterimage 1 second, like Ghost Shadow Perplexing Track. Can be used to close distance or evade. Soul power cost medium, reduced by Mountain Stride MASTERED High + Body Control MASTERED High.
+- **Effect — Storm Step (purple form, ≥1000y, F17 Skill Upgrade Law):** When ring breakthroughs yellow→purple at 1000y, skill upgrades: Windstride → Storm Step. Adds three new effects from Stormwind Doubleheaded Wolf canon:
+  1. **Wind Blade Burst:** Sharp wolf claws extend from palms, wolf claws slash out 10 half crescent wind blades appearing in air, sealing off all possible avenues for opponent to evade — each blade 1 meter long, cyan with frost, attack power equivalent to 30% of user's spirit power, range 20 meters, can be concentrated for single-target or scattered area. This is Feng Xiaotian's 1st skill Wind Blade Burst / Wind Blade Array — with ten times quantity vs ordinary Stormwind Demon Wolf Wind Blade — innate advantage high level spirits.
+  2. **Stormwind Wings / Swift Wind Dual Wings:** Pair of enormous cyan wings with frost edges unfurl from back, granting flight capability, allowing ascent to height of fifty meters above ground, brings body to best condition, sharp wings for flight/offensive (Feng Xiaotian 3rd skill) — wings can slash like blades, each wing 2+ meters long, creates sense of oppression, can shatter wings to preserve life in critical moment.
+  3. **Afterimage + Storm Step:** Burst + wind blade + afterimage — leaves 2-3 afterimages that confuse opponent, like Ghost Shadow Perplexing Track, can change direction mid-burst via wind control.
+  Duration 15 seconds flight, wind blades instant, burst 1 second. Cooldown 40 seconds base, reduced with MASTERED.
+- **Range:** Self for burst/wings, 20 meters for wind blades, 50 meters height for flight
+- **Duration / Cooldown:** Burst instant, wings 15 seconds flight, wind blades instant, cooldown 40 seconds, can maintain flight with soul power consumption high
+- **Evolution:** At 10,000y black, will add: Tornado Wind Blade — layer of intense cyan light bursts from body transforming into countless extremely sharp almost tangible wind blades which explode into dazzling tornado to attack targets surrounding body (Feng Xiaotian 5th skill). At 100,000y red, will add: Stormwind Demon Wolf Thirty-Six Continuous Slashes self-created evolution — strength and speed increasing with each chop, can compete with stronger enemies, evolves to 54, 72 slashes. Currently 1,850y purple — Mid→High, everything Mid+.
+- **Canon anchor:** Feng Xiaotian: 1st Wind Blade Array sharp wolf claws extend from palms slash out ten crescent-shaped wind blades sealing all evasion; 2nd Double Wolf Possession self-enhancement double-headed wolf light shadow merges body increasing attack defense agility 50%; 3rd Swift Wind Dual Wings pair enormous cyan wings unfurl back granting flight 50 meters height brings body best condition; 5th Tornado Wind Blade layer intense cyan light bursts transforming into countless extremely sharp wind blades explode into dazzling tornado; Self-created Thirty-Six Continuous Slashes strength speed increasing each chop. Our Storm Step includes all three.
+
+### Named Technique — The Grey Ridge Hunt (like Purple Demon Eyes)
+
+- **Name:** The Grey Ridge Hunt
+- **Type:** Fusion — Complete Combat Style — Named Technique like Purple Demon Eyes, Ghost Shadow Perplexing Track, Mysterious Heaven Skill — 3rd technique slot, 100% MASTERED High
+- **Fusion:** Basic Soul Power Cultivation 100% MASTERED High + Hunter's Craft 100% MASTERED High + all 15 life-skills MASTERED High — all basics MASTERED per author's strike, smart people fuse basics into named methods with own effects
+- **Stages (like Purple Demon Eyes 4 stages):** Stage 1 Perception (Five Senses MASTERED High), Stage 2 Attention (Observation + Soul Power Control MASTERED High), Stage 3 Intoxication (Body Control + Running + Mountain Stride + Patience MASTERED High), Stage 4 Immersion/Boundless (Quiet Step + Seen-late + Burst + Wind Blade + Ring Veil MASTERED High) — brief invisibility 2 seconds, wind blade burst 10 half crescent, stormwind wings flight 50m, afterimage 2-3, hides purple as yellow via Ring Veil, unlocks mind's eye perception 10-100m minute details like house fly — Wide-Area
+- **Own Effects:** spirit power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst, wind blade, wings, afterimage, Ring Veil concealment, mind's eye perception extreme distances Wide-Area, confuse/stun opponent 1-2 seconds, Wide-Area Ability
+- **Training:** Morning purple qi from rising sun (like Purple Demon Eyes), ridge run, thorn thicket stillness, black pools blind, wind line scree fold, sledge runner, spear point leading — all hours at best via Passive Law
+- **Incantation:** *hunt.* — one silent word, cold and plain
+
+### What else is possible — many things possible in Soul Land canon (future road)
+
+1. **Self-Created Soul Skills:** Like Feng Xiaotian Thirty-Six Continuous Slashes (36→54→72), Tang San Chaos Wind Hammer Technique — not from ring, refined through continuous trials, more practical and powerful. Ye Cang can create Grey Ridge Hunt Continuous Thrusts — spear point leads moving thing by hand's width, strength and speed increasing each thrust, using wind + ice + ghost.
+
+2. **Martial Soul True Body at 70:** Seventh ring grants Martial Soul True Body, greatly increasing degree to which Martial Soul itself can be manifested, all abilities amplified 100%, enhancement 300% for White Tiger. For Ye Cang: Storm Frost Ghost Wolf True Body — transforms into giant Storm Frost Ghost Wolf (height 5+ meters), ice + wind domain faint, all skills amplified 100%, can shoot ice wind blades.
+
+3. **Domain:** Like Blue Silver Domain (Disguise, Area Entanglement, All-Encompassing, All-Embracing), Slaughter God Domain (imposing manner weakens opponent user 120%), Xuanwu Domain (everything turns black water ability effects increase 100% physical and spiritual suppression weaken opponent 50%). Ye Cang can awaken Grey Ridge Domain / Storm Frost Ghost Wolf Domain at high level — ice + wind + ghost, slows enemies, enhances senses, perception Wide-Area.
+
+4. **Soul Bone:** When soul beast 10,000+ years killed small probability obtaining soul bone, 100,000 years definitely yields soul bone. Soul bones give additional skills, enhance body. Ye Cang can obtain wolf-type soul bones — e.g., Ghost Wolf Right Leg Bone for speed + ghost veil, Stormwind Demon Wolf Wing Bone for flight.
+
+5. **Bloodline Evolution — Blood Essence Core / Soul Core:** Canon bloodline can form blood essence core (removal of need for sustenance, fully merge soul power and blood essence, completely integrating bloodline power into all soul skills), soul core (storage and collection unit, lessen loss and accelerate recovery). Ye Cang's three bloodlines can form blood essence core at high level.
+
+6. **Spiritual Realm further:** Currently Spirit Sea 850 — can grow to Spirit Abyss (5k-19k distinguish elements), Spirit Domain (20k-49k personal domain), Divine Origin (50k-500k golden control laws), God King. Purple Demon Eye-like training helps.
+
+7. **Ring Ageing to Black/Red:** Currently purple thousand-year 1,350y/1,850y aging — can age to black ten-thousand-year (10,000y) → skill upgrade again (Ghost Veil → Ghost Emperor Veil, Storm Step → Storm Emperor Step with Tornado Wind Blade), then red hundred-thousand-year → additional effects.
+
+8. **Martial Soul Further Evolution:** Storm Frost Ghost Wolf → further evolution to Divine Beast — e.g., Storm Frost Ghost Wolf Emperor, with Extreme Ice (−150°C) or Extreme Wind, approaching Divine Soul quality.
+
+9. **Martial Soul Fusion Skill:** With Huo Yuhao or others — like Nether White Tiger (Dai Mubai + Zhu Zhuqing), can have fusion skill if compatible martial souls.
+
+10. **Tang Sect Methods:** Can learn Tang Sect's Mysterious Heaven Skill, Purple Demon Eyes, Ghost Shadow Perplexing Track, Controlling Crane Capturing Dragon, Hidden Weapons Hundred Solutions — currently Grey Ridge Hunt already like them, can formally learn at Shrek.
+
+All possible — many things possible.
+
+## THE FULL PANEL — CURRENT READING
+
 ## THE FULL PANEL — CURRENT READING (Ch5 gate, F17 — full status completely everything, not just system panel)
 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice + wind · High → Storm Frost Ghost Wolf」
