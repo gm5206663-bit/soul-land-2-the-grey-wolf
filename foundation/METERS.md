@@ -16,19 +16,25 @@ v3.0, 2026-09-26. F16 REBUILD: thousand-year rings, level 29-30, everything Mid+
 |---|---|---|---|
 | The Wolf (innate — the first skill: POSSESSION, release attaching beast to man — strength, speed, senses, claws) | every release feeds it; each part heavier than last; deepens with every ring that seats; first release Ch 1 (twelve breaths, then emptied); fed by three bloodlines via F15/F16 Bloodline Influence (Grey frame, Ghost patience, Stormwind speed) | 1% | **85% High** (Ch 5 gate F16 — grey worn like coat, whole mornings, wood passing him at peace — honest 5y + thousand-year rings feeding, Mid→High per everything Mid+ view) |
 
-## THE LIFE-SKILLS (each its own pace; grows on plain living; fuse into Grey Ridge Hunt F16)
+## THE LIFE-SKILLS (each its own pace; grows on plain living; fuse into Grey Ridge Hunt F16/F17 — F17: all basics MASTERED per author's strike "he doesn't master all basic things")
 
 | Skill | What feeds it | Night one | Now |
 |---|---|---|---|
-| Hunter's Sense | a hunter's son's six years of woodcraft; fed by Ghost bloodline (F15), Craft MASTERED 50% easier (F15 Cascade) | 13% | **70%** (Ch 5 F16 — everything Mid+ view, observation mastered, fuses into Grey Ridge Hunt) |
-| Plain Speech | a grown mind's plain speech, six years of local tongue | 21% | **55%** (Ch 5 F16) |
-| Mountain Stride | the ridge trails, following; fed by Stormwind bloodline (F15), Craft MASTERED 50% easier | 9% | **70%** (Ch 5 F16 — running mastered, fuses into Grey Ridge Hunt) |
-| The Tally | a tallykeeper's whole adult life — one thing he was better at than anyone he knew; Craft MASTERED 50% easier | 27% | **70%** (Ch 5 F16 — fuses into Grey Ridge Hunt) |
-| Spear | the father's teaching from winter of eight — SURFACED Ch 3; fed by Stormwind, Craft MASTERED 50% easier | — | **60%** (Ch 5 F16 — two kills on it, father's spear carried now, fuses into Grey Ridge Hunt) |
-| Stillness | the thorn thicket, sitting still — SURFACED Ch 2; fed by Ghost, Craft MASTERED 50% easier | — | **60%** (Ch 5 F16 — patience as limb, fuses into Grey Ridge Hunt) |
-| Soul Power Control | the engine's own control, reborn mind's discipline — SURFACED Ch2 midwinter at mastery; Basic MASTERED 50% easier | — | **65%** (Ch 5 F16 — soul power flows where eye goes, fuses into Grey Ridge Hunt) |
-| Observation | the hunter's eye, the tallykeeper's counting — SURFACED Ch2; fed by Ghost+Grey, Craft MASTERED 50% easier | — | **68%** (Ch 5 F16 — observation mastered, fuses into Grey Ridge Hunt) |
-| Reading | — | (no line — cannot read this world's script yet; surfaces when it exists) | — |
+| Hunter's Sense | a hunter's son's six years of woodcraft; fed by Ghost bloodline (F15), Craft MASTERED 50% easier (F15 Cascade), fuses into Grey Ridge Hunt | 13% | **100% MASTERED High** (Ch 5 F17 — observation mastered, all basics MASTERED per author's strike, everything Mid+, fuses into Grey Ridge Hunt) |
+| Plain Speech | a grown mind's plain speech, six years of local tongue; fuses into Grey Ridge Hunt | 21% | **100% MASTERED High** (Ch 5 F17 — all basics MASTERED) |
+| Mountain Stride | the ridge trails, following; fed by Stormwind bloodline (F15), Craft MASTERED 50% easier, fuses into Grey Ridge Hunt | 9% | **100% MASTERED High** (Ch 5 F17 — running mastered, all basics MASTERED, fuses) |
+| The Tally | a tallykeeper's whole adult life — one thing he was better at than anyone he knew; Craft MASTERED 50% easier, fuses into Grey Ridge Hunt | 27% | **100% MASTERED High** (Ch 5 F17 — understanding, all basics MASTERED, fuses) |
+| Spear | the father's teaching from winter of eight — SURFACED Ch 3; fed by Stormwind, Craft MASTERED 50% easier, fuses into Grey Ridge Hunt as basic spearmanship | — | **100% MASTERED High** (Ch 5 F17 — basic spearmanship mastered, father's spear carried now, fuses into combat style) |
+| Stillness | the thorn thicket, sitting still — SURFACED Ch 2; fed by Ghost, Craft MASTERED 50% easier, fuses into Grey Ridge Hunt | — | **100% MASTERED High** (Ch 5 F17 — patience as limb, all basics MASTERED, fuses) |
+| Soul Power Control | the engine's own control, reborn mind's discipline — SURFACED Ch2 midwinter at mastery; Basic MASTERED 50% easier, fuses into Grey Ridge Hunt | — | **100% MASTERED High** (Ch 5 F17 — soul power flows where eye goes, all basics MASTERED, fuses, like Mysterious Heaven Skill) |
+| Observation | the hunter's eye, the tallykeeper's counting — SURFACED Ch2; fed by Ghost+Grey, Craft MASTERED 50% easier, fuses into Grey Ridge Hunt | — | **100% MASTERED High** (Ch 5 F17 — observation mastered, all basics MASTERED, fuses, like Purple Demon Eyes) |
+| Body Control | the body's own control, reborn mind's discipline — SURFACED Ch2; fed by Stormwind+Grey, Craft+Basic MASTERED 50% easier, fuses into Grey Ridge Hunt | — | **100% MASTERED High** (Ch 5 F17 — body arrives where mind went first, all basics MASTERED, fuses, like Ghost Shadow Perplexing Track) |
+| Five Senses | Sight, Hearing, Smell, Taste, Touch as technique — SURFACED Ch2; fed by Grey+Ghost+Stormwind, Craft MASTERED 50% easier, fuses into Grey Ridge Hunt | — | **100% MASTERED High** (Ch 5 F17 — Sight amber ice-amber eyes sees weakness, Hearing hears dogs' hearts, Smell nose reads whole day, Taste pelt smell live wolf, Touch wrist no longer knows sprain — 5 senses become technique, all basics MASTERED, fuses, like Purple Demon Eyes eye training) |
+| Reading | reading this world's script — SURFACED Ch2; Craft MASTERED 50% easier, fuses into Grey Ridge Hunt | (no line — cannot read this world's script yet; surfaces when it exists) | **100% MASTERED High** (Ch 5 F17 — reading mastered, understanding, all basics MASTERED, fuses) |
+| Understanding | tallykeeper's understanding, reborn mind — SURFACED Ch2; Craft MASTERED 50% easier, fuses into Grey Ridge Hunt | — | **100% MASTERED High** (Ch 5 F17 — understanding mastered, all basics MASTERED, fuses) |
+| Basic Spearmanship | thrust and recover, low guard for boar, point leads moving thing — SURFACED Ch3; fed by Stormwind, Craft MASTERED 50% easier, fuses into Grey Ridge Hunt as combat style | — | **100% MASTERED High** (Ch 5 F17 — basic spearmanship mastered, complete style, fuses into combat style) |
+| Cooking Skill | mother's teaching, meat smoke, feeding — SURFACED Ch3; Craft MASTERED 50% easier, fuses into Grey Ridge Hunt | — | **100% MASTERED High** (Ch 5 F17 — cooking mastered, body control, patience, all basics MASTERED, fuses) |
+| Combat Style | his own complete style, Grey Ridge Hunt — SURFACED Ch5 when all basics MASTERED and fused; F16/F17 Fusion Law — named technique like Purple Demon Eyes | — | **100% MASTERED High** (Ch 5 F17 — his own complete combat style, Grey Ridge Hunt — like Purple Demon Eyes named technique, all basics MASTERED) |
 
 ## THE BLOODLINE (fourth list — unlocked with soul itself — F16: bloodline is not joke, gives many things, canon perfectly, awakening when strange change)
 

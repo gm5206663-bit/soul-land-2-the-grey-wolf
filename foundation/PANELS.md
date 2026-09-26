@@ -130,28 +130,35 @@ The full block, as `STATUS.md` carries it:
 
 | Panel | Beat |
 |---|---|
-| 「Martial Soul — Wolf · beast-type · Power Attack · ice · High → Storm Frost Ghost Wolf」 | THE ROAD'S FIRST GATE — the inn loft, the leaving made, every line complete — F17 REBUILD: Storm Frost Ghost Wolf evolution (Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year), Ring Veil concealment, all basics fuse, thousand-year rings, level 30, everything Mid+, bloodline not joke |
-| 「Level — 30 · Great Soul Master (top) · the second door open · the ring's gift」 | 〃 — 29 the wall, 29 banked water, 30 gift — F16 thousand-year + level 29-30 per author's view |
+| 「Martial Soul — Wolf · beast-type · Power Attack · ice + wind · High → Storm Frost Ghost Wolf」 | THE ROAD'S FIRST GATE — the inn loft, the leaving made, every line complete — F17 REBUILD: Storm Frost Ghost Wolf evolution (ice + wind, Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year), Ring Veil concealment (hides purple as yellow), all basics MASTERED High and fused into named techniques like Purple Demon Eyes, thousand-year rings, level 30, everything Mid+, bloodline not joke, spiritual realm Spirit Sea 850, body ~500kg robust, wind attribute even |
+| 「Level — 30 · Great Soul Master (top) · the second door open · the ring's gift」 | 〃 — 29 the wall, 29 banked water, 30 gift — F16/F17 thousand-year + level 29-30 per author's view, canon monsters' band, effective talent 3.5× |
 | 「Slots: 3 / 3 / 3」 | 〃 — second rank-up, every list |
-| 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」 | 〃 — 120→1,350 thousand-year purple — F16: 17 levels + 1y 24/7 mastered engine at 2.96×→3.5× + three bloodlines = +1,230y, everything Mid+ view |
-| 「Soul Ring — Stormwind Demon Wolf: 1,850 years · purple · aging」 | 〃 — last hunt, fast kind — 1,200→1,850 thousand-year purple, Mid→High |
-| 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · High」 | 〃 — MASTERED first midwinter, 5y at mastery, no stages, F15 Cascade +0.5 talent, F16 Mid→High, everything Mid+ |
-| 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · High」 | 〃 — MASTERED at kill, 1y at mastery, F15 Cascade +0.3 talent, F16 Mid→High, fuses into Grey Ridge Hunt |
-| 「Technique — The Grey Ridge Hunt: 100% · MASTERED · seated, the third slot · High」 | 〃 — F16/F17 Fusion: Basic+Craft+Sense+Stillness+Stride+Spear+Tally+Control+Body+Five Senses+Observation+Running+Reading+Understanding+Spearmanship+Cooking+Combat Style fused — complete combat style, own effects including Ring Veil (hides purple as yellow) — F17 Concealment Law, fool who shows two thousand-year rings |
-| 「Skill — The Wolf: 85% · possession · strength, speed, senses, claws · High → Storm Frost Ghost Wolf possession」 | 〃 — grey worn like coat — honest 5y + thousand-year rings feeding, Mid→High→evolves to Storm Frost Ghost Wolf at High bloodline + purple rings, F17 Evolution Law |
-| 「Skill — Netherlight: 45% · the speed surge, the blow sliding off · High → Ghost Veil」 | 〃 — sledge runner, 120→1,350y purple feeding it, upgrades at 1000y yellow→purple: Ghost Veil adds energy damage sliding off + brief invisibility — F17 Skill Upgrade Law, check SL3 |
-| 「Skill — Windstride: 20% · the burst that arrives · High → Storm Step」 | 〃 — storm's own stride, its word run — 1,200→1,850y purple feeding, upgrades at 1000y: Storm Step adds wind blade + afterimage — F17 Skill Upgrade Law |
-| 「Bloodline — Grey Wolf: 65% · ice · the body-line: vitality, recovery, the wolf's frame · High」 | 〃 — sixties edge — frame arrived as freight, appearance changed, High at 60-90%, +1.30 talent, everything Mid+ |
-| 「Bloodline — Ghost Wolf: 35% · the ghost-line: the patient hunt, the quiet step, the seen-late · Mid」 | 〃 — 1,350y purple feeding, Mid at 30-70%, +0.35 talent, everything Mid+ |
-| 「Bloodline — Stormwind Demon Wolf: 15% · the storm-line: the fast kind, the wind's stride · Mid」 | 〃 — third seat, 1,850y purple feeding, Mid 0-40% High 40-80%, +0.225 talent, everything Mid+ |
-| 「Hunter's Sense: 70%」 | 〃 — observation mastered, fuses into Grey Ridge Hunt — everything Mid+ |
-| 「Stillness: 60%」 | 〃 — patience as limb, fuses — everything Mid+ |
-| 「Plain Speech: 55%」 | 〃 |
-| 「Mountain Stride: 70%」 | 〃 — running mastered, fuses — everything Mid+ |
-| 「The Tally: 70%」 | 〃 — half a life's craft, fuses — everything Mid+ |
-| 「Spear: 60%」 | 〃 — father's spear carried now, fuses — everything Mid+ |
-| 「Soul Power Control: 65%」 | 〃 — soul power flows where eye goes, fuses — everything Mid+ |
-| 「Observation: 68%」 | 〃 — observation mastered, fuses — everything Mid+ |
+| 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」 | 〃 — 120→1,350 thousand-year purple — F16/F17: 17 levels + 1y 24/7 mastered engine at 3.5× + three bloodlines = +1,230y, yellow→purple awakening, everything Mid+, concealed as 120y yellow via Ring Veil to world |
+| 「Soul Ring — Stormwind Demon Wolf: 1,850 years · purple · aging」 | 〃 — last hunt, fast kind — 1,200→1,850 thousand-year purple, Mid→High, wind attribute even, concealed as 603y yellow via Ring Veil — fool who shows two thousand-year rings |
+| 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · High」 | 〃 — MASTERED first midwinter, 5y at mastery, no stages, F15 Cascade +0.5 talent, F16/F17 Mid→High, everything Mid+, fuses into Grey Ridge Hunt — like Mysterious Heaven Skill foundation |
+| 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · High」 | 〃 — MASTERED at kill, 1y at mastery, F15 Cascade +0.3 talent, F16/F17 Mid→High, fuses into Grey Ridge Hunt — like Tang Sect basic craft |
+| 「Technique — The Grey Ridge Hunt: 100% · MASTERED · seated, the third slot · High」 | 〃 — F16/F17 Fusion: Basic+Craft+Sense+Stillness+Stride+Spear+Tally+Control+Body+Five Senses+Observation+Running+Reading+Understanding+Spearmanship+Cooking+Combat Style fused — complete combat style like Purple Demon Eyes, 4 stages Perception/Attention/Intoxication/Immersion, own effects including Ring Veil (hides purple as yellow) — F17 Concealment Law |
+| 「Skill — The Wolf: 85% · possession · strength, speed, senses, claws · High → Storm Frost Ghost Wolf possession」 | 〃 — grey worn like coat — honest 5y + thousand-year rings feeding, Mid→High→evolves to Storm Frost Ghost Wolf at High bloodline + purple rings, F17 Evolution Law, attributes ice + wind |
+| 「Skill — Netherlight: 45% · the speed surge, the blow sliding off · High → Ghost Veil」 | 〃 — sledge runner, 120→1,350y purple feeding it, upgrades at 1000y yellow→purple: Ghost Veil adds energy damage sliding off + brief invisibility + confuse/stun like Purple Demon Eye — F17 Skill Upgrade Law, check SL3 |
+| 「Skill — Windstride: 20% · the burst that arrives · High → Storm Step」 | 〃 — storm's own stride, its word run — 1,200→1,850y purple feeding, upgrades at 1000y: Storm Step adds wind blade burst (10 half crescent wind blades) + stormwind wings (sharp wings flight/offensive) + afterimage — F17 Skill Upgrade Law, wind attribute even |
+| 「Bloodline — Grey Wolf: 65% · ice · the body-line: vitality, recovery, the wolf's frame · High」 | 〃 — sixties edge — frame arrived as freight, appearance changed: amber ice-amber eyes, height, shoulders, dogs no longer lift heads, High at 60-90%, +1.30 talent, everything Mid+, ice primary wind secondary at evolution |
+| 「Bloodline — Ghost Wolf: 35% · the ghost-line: the patient hunt, the quiet step, the seen-late · Mid」 | 〃 — 1,350y purple feeding, Mid at 30-70%, +0.35 talent, everything Mid+, soul power control, observation, awakening when ring purple → Ghost Veil |
+| 「Bloodline — Stormwind Demon Wolf: 15% · the storm-line: the fast kind, the wind's stride · Mid」 | 〃 — third seat, 1,850y purple feeding, Mid 0-40% High 40-80%, +0.225 talent, everything Mid+, wind attribute even (Wind Blade Burst, Stormwind Wings), observation, running, body control, awakening when second ring purple → Storm Step |
+| 「Hunter's Sense: 100% · MASTERED · High」 | 〃 — observation mastered, all basics MASTERED per author's strike, everything Mid+, fuses into Grey Ridge Hunt — like Purple Demon Eyes |
+| 「Stillness: 100% · MASTERED · High」 | 〃 — patience as limb, all basics MASTERED, fuses — everything Mid+ |
+| 「Plain Speech: 100% · MASTERED · High」 | 〃 — all basics MASTERED |
+| 「Mountain Stride: 100% · MASTERED · High」 | 〃 — running mastered, all basics MASTERED, fuses — everything Mid+ |
+| 「The Tally: 100% · MASTERED · High」 | 〃 — understanding, all basics MASTERED, fuses — everything Mid+ |
+| 「Spear: 100% · MASTERED · High」 | 〃 — basic spearmanship mastered, father's spear carried now, fuses into combat style — everything Mid+ |
+| 「Soul Power Control: 100% · MASTERED · High」 | 〃 — soul power flows where eye goes, all basics MASTERED, fuses — like Mysterious Heaven Skill — everything Mid+ |
+| 「Observation: 100% · MASTERED · High」 | 〃 — observation mastered, all basics MASTERED, fuses — like Purple Demon Eyes — everything Mid+ |
+| 「Body Control: 100% · MASTERED · High」 | 〃 — body arrives where mind went first, all basics MASTERED, fuses — like Ghost Shadow Perplexing Track — everything Mid+ |
+| 「Five Senses: 100% · MASTERED · High」 | 〃 — Sight Hearing Smell Taste Touch as technique — 5 senses become technique, all basics MASTERED, fuses — like Purple Demon Eyes eye training — everything Mid+ |
+| 「Reading: 100% · MASTERED · High」 | 〃 — reading mastered, understanding, all basics MASTERED, fuses — everything Mid+ |
+| 「Understanding: 100% · MASTERED · High」 | 〃 — understanding mastered, all basics MASTERED, fuses — everything Mid+ |
+| 「Basic Spearmanship: 100% · MASTERED · High」 | 〃 — thrust and recover, low guard, point leads moving thing — complete style, all basics MASTERED, fuses into combat style — everything Mid+ |
+| 「Cooking Skill: 100% · MASTERED · High」 | 〃 — cooking mastered, body control, patience, all basics MASTERED, fuses — everything Mid+ |
+| 「Combat Style: 100% · MASTERED · High」 | 〃 — his own complete combat style, Grey Ridge Hunt — like Purple Demon Eyes named technique, all basics MASTERED — everything Mid+ |
 
 ## The law of this file
 

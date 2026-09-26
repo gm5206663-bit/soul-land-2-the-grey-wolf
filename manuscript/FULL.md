@@ -614,7 +614,7 @@ At top of first rise he looked back once. Smoke, forty roofs, long grey shoulder
 
 That night, at first gate of road, in loft of hem-village inn with smell of other men's suppers below, he looked, and ledger gave him whole of it, every line, as it did at every gate he had ever crossed.
 
-> 「Martial Soul — Wolf · beast-type · Power Attack · ice · High → Storm Frost Ghost Wolf」
+> 「Martial Soul — Wolf · beast-type · Power Attack · ice + wind · High → Storm Frost Ghost Wolf」
 > 「Level — 30 · Great Soul Master (top) · the second door open · the ring's gift」
 > 「Slots: 3 / 3 / 3」
 > 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」
@@ -628,14 +628,21 @@ That night, at first gate of road, in loft of hem-village inn with smell of othe
 > 「Bloodline — Grey Wolf: 65% · ice · the body-line: vitality, recovery, the wolf's frame · High」
 > 「Bloodline — Ghost Wolf: 35% · the ghost-line: the patient hunt, the quiet step, the seen-late · Mid」
 > 「Bloodline — Stormwind Demon Wolf: 15% · the storm-line: the fast kind, the wind's stride · Mid」
-> 「Hunter's Sense: 70%」
-> 「Stillness: 60%」
-> 「Plain Speech: 55%」
-> 「Mountain Stride: 70%」
-> 「The Tally: 70%」
-> 「Spear: 60%」
-> 「Soul Power Control: 65%」
-> 「Observation: 68%」
+> 「Hunter's Sense: 100% · MASTERED · High」
+> 「Stillness: 100% · MASTERED · High」
+> 「Plain Speech: 100% · MASTERED · High」
+> 「Mountain Stride: 100% · MASTERED · High」
+> 「The Tally: 100% · MASTERED · High」
+> 「Spear: 100% · MASTERED · High」
+> 「Soul Power Control: 100% · MASTERED · High」
+> 「Observation: 100% · MASTERED · High」
+> 「Body Control: 100% · MASTERED · High」
+> 「Five Senses: 100% · MASTERED · High」
+> 「Reading: 100% · MASTERED · High」
+> 「Understanding: 100% · MASTERED · High」
+> 「Basic Spearmanship: 100% · MASTERED · High」
+> 「Cooking Skill: 100% · MASTERED · High」
+> 「Combat Style: 100% · MASTERED · High」
 
 He read it twice, and found it honest — and found the first line changed. Wolf no longer said Grey Wolf. It said High → Storm Frost Ghost Wolf. The bloodline strange change — Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year — had awakened the soul. Grey Wolf → Ice Wolf → Storm Frost Ghost Wolf, three bloodlines fused, attribute ice deepened from thin to true ice, frame larger, eyes ice-amber. The ledger counted the evolution as it counted everything. Netherlight at 1,350y purple had upgraded — Ghost Veil: speed surge + physical + energy sliding off + brief invisibility. Windstride at 1,850y purple had upgraded — Storm Step: burst + wind blade + afterimage. Skills upgrade when ring breakthroughs next stage — canon's own law, Soul Land 3 receipt. And the third technique, Grey Ridge Hunt, carried its own concealment — Ring Veil: hides purple as yellow to world, true purple only in Ledger. What fool shows two thousand-year rings at eleven? Not this one. He slept sleep of man whose tally had come out even, and in morning road ran on east, and he ran with it, spirit power flowed where eye went, body arrived where mind went first — the Hunt's own effects, and purple hidden as yellow to every eye but his.
 
