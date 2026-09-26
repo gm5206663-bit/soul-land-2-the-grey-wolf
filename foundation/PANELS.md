@@ -130,17 +130,17 @@ The full block, as `STATUS.md` carries it:
 
 | Panel | Beat |
 |---|---|
-| 「Martial Soul — Wolf · beast-type · Power Attack · ice · High」 | THE ROAD'S FIRST GATE — the inn loft, the leaving made, every line complete — F16 REBUILD: thousand-year rings, level 30, everything Mid+, fusion method, bloodline not joke |
+| 「Martial Soul — Wolf · beast-type · Power Attack · ice · High → Storm Frost Ghost Wolf」 | THE ROAD'S FIRST GATE — the inn loft, the leaving made, every line complete — F17 REBUILD: Storm Frost Ghost Wolf evolution (Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year), Ring Veil concealment, all basics fuse, thousand-year rings, level 30, everything Mid+, bloodline not joke |
 | 「Level — 30 · Great Soul Master (top) · the second door open · the ring's gift」 | 〃 — 29 the wall, 29 banked water, 30 gift — F16 thousand-year + level 29-30 per author's view |
 | 「Slots: 3 / 3 / 3」 | 〃 — second rank-up, every list |
 | 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」 | 〃 — 120→1,350 thousand-year purple — F16: 17 levels + 1y 24/7 mastered engine at 2.96×→3.5× + three bloodlines = +1,230y, everything Mid+ view |
 | 「Soul Ring — Stormwind Demon Wolf: 1,850 years · purple · aging」 | 〃 — last hunt, fast kind — 1,200→1,850 thousand-year purple, Mid→High |
 | 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · High」 | 〃 — MASTERED first midwinter, 5y at mastery, no stages, F15 Cascade +0.5 talent, F16 Mid→High, everything Mid+ |
 | 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · High」 | 〃 — MASTERED at kill, 1y at mastery, F15 Cascade +0.3 talent, F16 Mid→High, fuses into Grey Ridge Hunt |
-| 「Technique — The Grey Ridge Hunt: 100% · MASTERED · seated, the third slot · High」 | 〃 — F16 Fusion: Basic+Craft+Sense+Stillness+Stride+Spear+Tally+Control+Observation+Running fused — named method with own effects |
-| 「Skill — The Wolf: 85% · possession · strength, speed, senses, claws · High」 | 〃 — grey worn like coat — honest 5y + thousand-year rings feeding, Mid→High per everything Mid+ view |
-| 「Skill — Netherlight: 45% · the speed surge, the blow sliding off · High」 | 〃 — sledge runner, 120→1,350y purple feeding it, Mid→High |
-| 「Skill — Windstride: 20% · the burst that arrives · High」 | 〃 — storm's own stride, its word run — 1,200→1,850y purple feeding, Mid→High |
+| 「Technique — The Grey Ridge Hunt: 100% · MASTERED · seated, the third slot · High」 | 〃 — F16/F17 Fusion: Basic+Craft+Sense+Stillness+Stride+Spear+Tally+Control+Body+Five Senses+Observation+Running+Reading+Understanding+Spearmanship+Cooking+Combat Style fused — complete combat style, own effects including Ring Veil (hides purple as yellow) — F17 Concealment Law, fool who shows two thousand-year rings |
+| 「Skill — The Wolf: 85% · possession · strength, speed, senses, claws · High → Storm Frost Ghost Wolf possession」 | 〃 — grey worn like coat — honest 5y + thousand-year rings feeding, Mid→High→evolves to Storm Frost Ghost Wolf at High bloodline + purple rings, F17 Evolution Law |
+| 「Skill — Netherlight: 45% · the speed surge, the blow sliding off · High → Ghost Veil」 | 〃 — sledge runner, 120→1,350y purple feeding it, upgrades at 1000y yellow→purple: Ghost Veil adds energy damage sliding off + brief invisibility — F17 Skill Upgrade Law, check SL3 |
+| 「Skill — Windstride: 20% · the burst that arrives · High → Storm Step」 | 〃 — storm's own stride, its word run — 1,200→1,850y purple feeding, upgrades at 1000y: Storm Step adds wind blade + afterimage — F17 Skill Upgrade Law |
 | 「Bloodline — Grey Wolf: 65% · ice · the body-line: vitality, recovery, the wolf's frame · High」 | 〃 — sixties edge — frame arrived as freight, appearance changed, High at 60-90%, +1.30 talent, everything Mid+ |
 | 「Bloodline — Ghost Wolf: 35% · the ghost-line: the patient hunt, the quiet step, the seen-late · Mid」 | 〃 — 1,350y purple feeding, Mid at 30-70%, +0.35 talent, everything Mid+ |
 | 「Bloodline — Stormwind Demon Wolf: 15% · the storm-line: the fast kind, the wind's stride · Mid」 | 〃 — third seat, 1,850y purple feeding, Mid 0-40% High 40-80%, +0.225 talent, everything Mid+ |

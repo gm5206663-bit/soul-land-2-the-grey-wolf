@@ -92,7 +92,7 @@ At top of first rise he looked back once. Smoke, forty roofs, long grey shoulder
 
 That night, at first gate of road, in loft of hem-village inn with smell of other men's suppers below, he looked, and ledger gave him whole of it, every line, as it did at every gate he had ever crossed.
 
-> 「Martial Soul — Wolf · beast-type · Power Attack · ice · High」
+> 「Martial Soul — Wolf · beast-type · Power Attack · ice · High → Storm Frost Ghost Wolf」
 > 「Level — 30 · Great Soul Master (top) · the second door open · the ring's gift」
 > 「Slots: 3 / 3 / 3」
 > 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」
@@ -100,9 +100,9 @@ That night, at first gate of road, in loft of hem-village inn with smell of othe
 > 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · High」
 > 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · High」
 > 「Technique — The Grey Ridge Hunt: 100% · MASTERED · seated, the third slot · High」
-> 「Skill — The Wolf: 85% · possession · strength, speed, senses, claws · High」
-> 「Skill — Netherlight: 45% · the speed surge, the blow sliding off · High」
-> 「Skill — Windstride: 20% · the burst that arrives · High」
+> 「Skill — The Wolf: 85% · possession · strength, speed, senses, claws · High → Storm Frost Ghost Wolf possession」
+> 「Skill — Netherlight: 45% · the speed surge, the blow sliding off · High → Ghost Veil」
+> 「Skill — Windstride: 20% · the burst that arrives · High → Storm Step」
 > 「Bloodline — Grey Wolf: 65% · ice · the body-line: vitality, recovery, the wolf's frame · High」
 > 「Bloodline — Ghost Wolf: 35% · the ghost-line: the patient hunt, the quiet step, the seen-late · Mid」
 > 「Bloodline — Stormwind Demon Wolf: 15% · the storm-line: the fast kind, the wind's stride · Mid」
@@ -115,6 +115,6 @@ That night, at first gate of road, in loft of hem-village inn with smell of othe
 > 「Soul Power Control: 65%」
 > 「Observation: 68%」
 
-He read it twice, and found it honest, and slept sleep of man whose tally had come out even, and in morning road ran on east, and he ran with it, and spirit power flowed where eye went, and body arrived where mind went first — the Hunt's own effects.
+He read it twice, and found it honest — and found the first line changed. Wolf no longer said Grey Wolf. It said High → Storm Frost Ghost Wolf. The bloodline strange change — Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year — had awakened the soul. Grey Wolf → Ice Wolf → Storm Frost Ghost Wolf, three bloodlines fused, attribute ice deepened from thin to true ice, frame larger, eyes ice-amber. The ledger counted the evolution as it counted everything. Netherlight at 1,350y purple had upgraded — Ghost Veil: speed surge + physical + energy sliding off + brief invisibility. Windstride at 1,850y purple had upgraded — Storm Step: burst + wind blade + afterimage. Skills upgrade when ring breakthroughs next stage — canon's own law, Soul Land 3 receipt. And the third technique, Grey Ridge Hunt, carried its own concealment — Ring Veil: hides purple as yellow to world, true purple only in Ledger. What fool shows two thousand-year rings at eleven? Not this one. He slept sleep of man whose tally had come out even, and in morning road ran on east, and he ran with it, spirit power flowed where eye went, body arrived where mind went first — the Hunt's own effects, and purple hidden as yellow to every eye but his.
 
 Somewhere far down same turning of world, in same autumn, a boy his own age with eyes color of nothing was walking alone out of great man's back gate, toward forest, toward ring of his own that was million years wide, toward same city. Book this world lived inside was opening. Ye Cang walked hem of it, season ahead, two purple thousand-year rings, level thirty, everything Mid+, fused method, and ledger counted his road whole way.
