@@ -47,5 +47,5 @@ the ring is absorbed — carried whole.
   Dai Mubai's seventh skill, the giant White Tiger. Design-doc only until
   the story earns it.
 
-**THE FUSED METHOD — TAKEN (Ch 5, F16 Fusion): The Grey Ridge Hunt (灰岭猎法), 100% MASTERED High** — Basic + Craft + Sense + Stillness + Stride + Spear + Tally + Control + Observation + Running fused — named method with own effects: soul power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst. Canon's road: Tang Sect methods are fused basics. PROPOSED at author's word, everything Mid+.
+**THE FUSED METHOD — TAKEN (Ch 5, F16 Fusion): The Grey Ridge Hunt (灰岭猎法), evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High)** — Basic + Craft + Sense + Stillness + Stride + Spear + Tally + Control + Observation + Running fused — named method with own effects: soul power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst. Canon's road: Tang Sect methods are fused basics. PROPOSED at author's word, everything Mid+.
 

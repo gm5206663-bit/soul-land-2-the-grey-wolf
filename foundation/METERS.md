@@ -1,59 +1,82 @@
-# METERS — the master ledger of every meter — v4.0 Perfect Rebuild F22
+# METERS — v5.1 Evolution Chain Fix
 
-v4.0, 2026-09-26. Perfect rebuild — all chapters rebuilt clean and clear no nonsense spam, band IN all 6 over60 0 the-way 0 bare 0 panels 80 IN SYNC run_all green. F22: thousand-year rings 1350/1850 purple level 30 everything Mid+ High fusion Grey Ridge Hunt road craft hem roads villages Spirit Sea 850 body 500kg Ring Veil hides purple as yellow. Every meter with own pace law updated same turn number moves drift guard polices panel lines. Every reading current reading nothing fixed.
+v5.1, 2026-09-26. Evolution Chain Fix: There is no such thing as 100% MASTERED terminal. Techniques evolve Low 1-100% → Mid → High → Top instant evolution second it hits 100%. Suitable fuse like three fuse become High logically. All meters evolution chain, not terminal. Ch6 2458w avg11.3 band 2400-3400 over60 0 the-way 0 bare 0.
 
-## THE TECHNIQUES
+## Evolution Chain Law v5.1 — THE CORE
 
-| Art | Its own pace law (what feeds it) | Night one | Now Ch6 Perfect Rebuild |
-|---|---|---|---|
-| Basic Soul Power Cultivation — **100% MASTERED · High** (county plain method mastered first midwinter age 6 — F14 Mastery F15 Cascade +0.5 talent F16 Mid→High via three bloodlines + thousand-year rings F22 road craft; ENGINE slotted passive 24/7 at mastery) | his best around clock at mastery; infusions + bloodline bonuses F15 Cultivation Speed 2.96×→3.5× with thousand-year rings; mastered yield feeds pool quality dense dark pure makes all soul power 50% easier F15 Cascade fuses into Grey Ridge Hunt F16 Fusion | 1% mastered first midwinter grade Low→Mid | **100% MASTERED · High** Ch6 gate F22 — 5 years at mastery pool dark dense effective talent +0.5 everything Mid+ |
-| Hunter's Craft — **100% MASTERED · High** (father teaching mastered at first kill age 10 — F14 F15 Cascade +0.3 talent F16 Mid→High fuses into Grey Ridge Hunt) | six lived years counted at open grows by living it mastered at kill makes Spear Stillness Sense Stride Tally 50% easier F15 Cascade fuses into Grey Ridge Hunt | 11% | **100% MASTERED · High · SEATED slot 2** Ch6 gate F22 — 1 year at mastery effective talent +0.3 everything Mid+ |
-| Grey Ridge Hunt — **100% MASTERED · High** (F16/F17 Fusion Basic + Craft + Sense + Stillness + Stride + Spear + Tally + Soul Power Control + Body Control + Five Senses + Observation + Running + Reading + Understanding + Spearmanship + Cooking + Combat Style fused — named method own effects spirit power flows where eye goes body arrives where mind went first patience as limb quiet step seen-late burst **Ring Veil hides purple as yellow** — F17 Concealment Law complete combat style) | fuses when basics MASTERED F16/F17 Fusion Law canon road Tang Sect methods are fused basics | — not yet fuses at Ch5 gate when all basics MASTERED | **100% MASTERED · High · SEATED slot 3** Ch6 gate F22 — fusion all basics including Reading Understanding Spearmanship Cooking Combat Style Five Senses Body Control Soul Power Control — complete style own effects including Ring Veil concealment everything Mid+ road craft in use |
+**There is no such thing as terminal.** Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work.
 
-## THE SKILLS
+- Each technique has grade Low/Mid/High/Top and progress 1-100% within grade
+- At 100% that second it evolves instantly into next technique in lineage — no resting at 100%
+- No technique ever stays at 100% terminal — 100% is trigger for evolution/fusion
+- Fusion Law: 2-3 suitable Low (each 80%+ or one 100%+two 60%+) fuse → Mid 1%; 2-3 Mid fuse → High 1%; logically movement+movement+body=movement High, mental+mental+mental=mental High, perception+perception+patience=perception High
 
-| Skill | Its own pace law | Night one | Now Ch6 Perfect Rebuild |
-|---|---|---|---|
-| The Wolf innate — first skill POSSESSION release attaching beast to man strength speed senses claws | every release feeds it each part heavier than last deepens with every ring that seats first release Ch1 twelve breaths then emptied fed by three bloodlines via F15/F16 Bloodline Influence Grey frame Ghost patience Stormwind speed | 1% | **85% High → Storm Frost Ghost Wolf possession** Ch6 gate F22 — grey worn like coat whole mornings wood passing him at peace honest 5y + thousand-year rings feeding Mid→High per everything Mid+ view evolves to Storm Frost Ghost Wolf at High bloodline + purple rings F17 Evolution Law attributes ice+wind |
-| Netherlight first ring skill speed surge blow sliding off | grows on ring years 120→1350y purple feeding via F16 Aging thousand-year | — not yet seated at kill Ch4 | **45% High → Ghost Veil** Ch6 gate F22 — sledge runner 120→1350y purple feeding it upgrades at 1000y yellow→purple Ghost Veil adds Light of Netherworld speed-boosting mitigation aura flash past tracking + Ghost Doppelganger 3 clones hiding real body + toughest skull + tofu waist + invisibility 2s + confuse/stun like Purple Demon Eye — F17/F20 Skill Upgrade Law Shrek Beast Dueling Area Huo Yuhao He Caitou vs Thousand-Year Spectre Wolf |
-| Windstride second ring skill burst that arrives | grows on ring years 1200→1850y purple feeding via F16 Aging | — not yet seated at kill Ch5 | **20% High → Storm Step** Ch6 gate F22 — storm own stride run 1200→1850y purple feeding upgrades at 1000y Storm Step adds Wind Blade Burst 10 half crescent wind blades 20m sealing evasion + Stormwind Wings flight 50m height 15s + afterimage 2-3 + future Tornado + 36 Continuous Slashes — F17 Skill Upgrade Law wind attribute even |
+## Pace Laws — Every meter its own pace
 
-## THE LIFE-SKILLS — each own pace grows on plain living fuse into Grey Ridge Hunt F16/F17 — F18 all basics MASTERED per author's strike
+- **Reading:** paced by pages read — 0-100% per grade — evolves Fluent Reading → Deep Reading → Spirit Reading
+- **Understanding:** paced by comprehension events — evolves Basic Understanding → Clear Understanding → Profound Understanding
+- **Spearmanship:** paced by thrusts — Basic Spear (Low 1-100%) → Spear Flow (Mid 1-100%) → Storm Spear (High)
+- **Cooking:** paced by meals cooked — Camp Cooking Low→Mid→High
+- **Combat Style:** paced by sparring hours — Grey Ridge Hunt Low→Mid→High evolution chain
+- **Walking:** Basic Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top — every step counts
+- **Running:** Basic Running Low 1-100% → Wind Stride Mid → Storm Step High
+- **Body Control:** Body Control Low 1-100% → Flowing Body Mid → Storm Body High
+- **Soul Power Control:** Soul Power Control Low 1-100% → Flowing Control Mid → Spirit Control High
+- **Five Senses:** Five Senses Low 1-100% → Keen Senses Mid → Spirit Eye High — Sight, Hearing, Smell, Taste, Touch as technique
+- **Observation:** Observation Low→Mid→High
+- **Hunter's Sense:** Hunter's Sense Low→Beast Sense Mid→Predator Sense High
+- **Stillness:** Stillness Low→Patience as Limb Mid→Void Stillness High
 
-| Skill | What feeds it | Night one | Now Ch6 Perfect Rebuild |
-|---|---|---|---|
-| Hunter's Sense | hunter son six years woodcraft fed by Ghost bloodline F15 Craft MASTERED 50% easier F15 Cascade fuses into Grey Ridge Hunt | 13% | **100% MASTERED High** Ch6 F22 — observation mastered all basics MASTERED per author's strike everything Mid+ fuses into Grey Ridge Hunt |
-| Plain Speech | grown mind plain speech six years local tongue fuses into Grey Ridge Hunt | 21% | **100% MASTERED High** Ch6 F22 all basics MASTERED |
-| Mountain Stride | ridge trails following fed by Stormwind bloodline F15 Craft MASTERED 50% easier fuses into Grey Ridge Hunt | 9% | **100% MASTERED High** Ch6 F22 running mastered all basics MASTERED fuses |
-| Tally | tallykeeper whole adult life one thing better than anyone knew Craft MASTERED 50% easier fuses into Grey Ridge Hunt | 27% | **100% MASTERED High** Ch6 F22 understanding all basics MASTERED fuses |
-| Spear | father teaching winter eight SURFACED Ch3 fed by Stormwind Craft MASTERED 50% easier fuses into Grey Ridge Hunt as basic spearmanship | — | **100% MASTERED High** Ch6 F22 basic spearmanship mastered father spear carried now fuses into combat style |
-| Stillness | thorn thicket sitting still SURFACED Ch2 fed by Ghost Craft MASTERED 50% easier fuses into Grey Ridge Hunt | — | **100% MASTERED High** Ch6 F22 patience as limb all basics MASTERED fuses |
-| Soul Power Control | engine own control reborn mind discipline SURFACED Ch2 midwinter at mastery Basic MASTERED 50% easier fuses into Grey Ridge Hunt | — | **100% MASTERED High** Ch6 F22 soul power flows where eye goes all basics MASTERED fuses like Mysterious Heaven Skill |
-| Observation | hunter eye tallykeeper counting SURFACED Ch2 fed by Ghost+Grey Craft MASTERED 50% easier fuses into Grey Ridge Hunt | — | **100% MASTERED High** Ch6 F22 observation mastered all basics MASTERED fuses like Purple Demon Eyes |
-| Body Control | body own control reborn mind discipline SURFACED Ch2 fed by Stormwind+Grey Craft+Basic MASTERED 50% easier fuses into Grey Ridge Hunt | — | **100% MASTERED High** Ch6 F22 body arrives where mind went first all basics MASTERED fuses like Ghost Shadow Perplexing Track |
-| Five Senses | Sight Hearing Smell Taste Touch as technique SURFACED Ch2 fed by Grey+Ghost+Stormwind Craft MASTERED 50% easier fuses into Grey Ridge Hunt | — | **100% MASTERED High** Ch6 F22 Sight amber ice-amber eyes sees weakness Hearing hears dogs hearts Smell nose reads whole day Taste pelt smell live wolf Touch wrist no longer knows sprain 5 senses become technique all basics MASTERED fuses like Purple Demon Eyes eye training |
-| Reading | reading this world's script SURFACED Ch2 Craft MASTERED 50% easier fuses into Grey Ridge Hunt | no line cannot read this world's script yet surfaces when it exists | **100% MASTERED High** Ch6 F22 reading mastered understanding all basics MASTERED fuses |
-| Understanding | tallykeeper understanding reborn mind SURFACED Ch2 Craft MASTERED 50% easier fuses into Grey Ridge Hunt | — | **100% MASTERED High** Ch6 F22 understanding mastered all basics MASTERED fuses |
-| Basic Spearmanship | thrust recover low guard for boar point leads moving thing SURFACED Ch3 fed by Stormwind Craft MASTERED 50% easier fuses into Grey Ridge Hunt as combat style | — | **100% MASTERED High** Ch6 F22 basic spearmanship mastered complete style fuses into combat style |
-| Cooking Skill | mother teaching meat smoke feeding SURFACED Ch3 Craft MASTERED 50% easier fuses into Grey Ridge Hunt | — | **100% MASTERED High** Ch6 F22 cooking mastered body control patience all basics MASTERED fuses |
-| Combat Style | his own complete style Grey Ridge Hunt SURFACED Ch5 when all basics MASTERED fused F16/F17 Fusion Law named technique like Purple Demon Eyes | — | **100% MASTERED High** Ch6 F22 his own complete combat style Grey Ridge Hunt like Purple Demon Eyes named technique all basics MASTERED road craft in use |
+All meters infusion-fed: age, growth, mastery elsewhere, cleaner spirit power, ring's vitality, bloodline. Meter never freezes while feeders grow. Passive Law: slotted techniques run 24/7 at best.
 
-## THE BLOODLINE — fourth list unlocked with soul itself — F16 bloodline is not joke gives many things canon perfectly awakening when strange change — F22 Perfect Rebuild
+## Fusion Examples — How Logically Things Work
 
-| Line | Its own pace law (what feeds it) | Night one | Now Ch6 Perfect Rebuild |
-|---|---|---|---|
-| Grey Wolf Ye line inherited ice thin body-line vitality recovery predator's frame senses fed cold-tolerance appearance cultivation speed martial soul growth talent attribute evolution F15/F16 full card STATUS.md | grows on living it every release every hunt every year growth once ring seats on ring's years too Aging F16 thousand-year 120→1350y feeds blood/body and via Infusion+Resonance+Cultivation Speed Laws F15/F16 every open meter never purchasable no ceiling appearance changes talent grows awakening when strange change grade Mid→High | 7% | **65% High** Ch6 gate F22 — forties→sixties edge frame arrived freight appearance changed amber eyes height shoulders dogs no longer lift heads F15 Appearance Mid 25-60 High 60-90 per Grade Evolution F15/F16 honest 5y + thousand-year rings effective talent +1.30 at 65% 2.0×65% everything Mid+ per author's view |
-| Ghost Wolf FIRST RING'S BLOOD F10 ghost-line patient hunt quiet step seen-late spirit power efficiency Stillness Hunter's Sense soul power control observation F15/F16/F20 thousand-year physical evolution canon lock golden hair forehead most prominent identifier base coat iron-gray green glowing eyes toughest skull capable matching head-on force elite power attack tofu waist paradox copper-headed iron-boned tofu-waist waist/neck highly vulnerable vital spots experienced hunters target combat strategy elite calculation-driven phantom hunter psychological warfare avoids head-on high-speed attrition tracking until tire or exposed flank Light of Netherworld speed-boosting physical mitigation aura scales dramatically flash past sensory tracking Advanced Ghost Doppelganger 3 phantom clones hiding real body Shrek Academy Beast Dueling Area Huo Yuhao + He Caitou vs Thousand-Year Spectre Wolf Dark Gold Terror Claw Bear right palm bone shattering skull — canon facts F20 | feeds on own ring years Aging F16 thousand-year 120→1350y pouring into line that opened at 1% on living releases through Infusion+Resonance+Cultivation Speed F15/F16 every meter never purchasable no ceiling feeds Wolf skill Sense Stillness Control Observation cultivation speed awakening when ring becomes purple at 1000y grows golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones | — not yet seated at kill Ch4 | **35% Mid** Ch6 gate F22 — quiet step seen-late patience as limb golden lock on forehead at 1000y iron-gray green eyes toughest skull tofu waist paradox waist/neck vulnerable Light of Netherworld Ghost Doppelganger 3 clones Low 0-30 Mid 30-70 per F15/F16 1350y purple feeding effective talent +0.35 at 35% 1.0×35% everything Mid+ per author's view Mid at 30% has golden lock at 1350y |
-| Stormwind Demon Wolf SECOND RING'S BLOOD Ch5 storm-line fast kind wind's stride burst speed agility Mountain Stride Spear leading observation running body control wind attribute even F15/F16 | feeds on own ring years Aging F16 thousand-year 1200→1850y on living releases through Infusion+Resonance+Cultivation Speed F15/F16 every meter never purchasable no ceiling feeds Wolf Stride Spear Observation Running Body Control Wolf awakening when second ring purple | — not yet seated at kill Ch5 | **15% Mid** Ch6 gate F22 — opening reading Mid 0-40% per Grade Evolution F15/F16 Mid-caliber even at 100y High at 40-80% 1850y purple feeding effective talent +0.225 at 15% 1.5×15% everything Mid+ per author's view Mid |
+- Walking (Low 100%) + Running (Low 100%) + Body Control (Low 100%) → Silent Wind Step (Mid 1%) — movement+body=movement
+- Reading (Low 100%) + Understanding (Low 100%) + Tally (Low 100%) → Clear Mind (Mid 1%) — mental+mental+mental=mental
+- Observation (Low 100%) + Hunter's Sense (Low 100%) + Stillness (Low 100%) → Hunter's Eye (Mid 1%) — perception+perception+patience=perception
+- Silent Wind Step (Mid 100%) + Wind Stride (Mid 100%) + Flowing Body (Mid 100%) → Ghost Frost Storm Step (High 1%)
+- Soul Power Control + Body Control + Five Senses → Grey Ridge Hunt base
 
-## THE CONTEXT
+No terminal — evolution chain only.
 
-| Measure | Law | Night one | Now Ch6 Perfect Rebuild |
-|---|---|---|---|
-| Level crystal | bottleneck law at every title no ring no crossing 10,20,30... engine passive + infusions + effective talent F15/F16 ring rank gift at every ring F11 F12 ENGINE'S OWN ARITHMETIC + F16 THOUSAND-YEAR + LEVEL 29-30 walls alone ring-gated between walls hours honest band pours effective talent 2.96×→3.5× with thousand-year rings canon monsters 29 at 12 — F16 pour 12→29 17 levels in pouring year second wall held second ring 1200y at absorption →1850y level 30 at Shrek gates 29 banked +30 gift top Great Soul Master | 1 | **30 — Great Soul Master** Ch6 gate F22 pour 12→29 second wall held ring two 1200→1850y purple 29 banked 30 gift F11 21-30 band top canon monsters band everything Mid+ per author's view road craft |
-| Ring — Ghost Wolf hunt Ch4 | Aging Law F16 thousand-year pour-based 12→29 17 levels +1y 24/7 mastered engine at 2.96×→3.5× + three bloodlines = 120→1350y +1230y thousand-year ring purple AGING — F16 soul rings should be thousands years old per author's view | — | **1350 years purple — AGING** Ch6 gate F22 120→1350 thousand-year purple honest yield with effective talent everything Mid+ view golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld 3 clones concealed 120y yellow via Ring Veil |
-| Ring — Stormwind Demon Wolf last hunt Ch5 | Aging Law F16 thousand-year 1200y at absorption optimum 764y but bearable with MASTERED body + three bloodlines +2.96× talent PROPOSED →1850y by gate purple AGING thousand-year | — | **1850 years purple — AGING** Ch6 gate F22 1200→1850 thousand-year purple everything Mid+ view wind attribute even Wind Blade Burst 10 half crescent Wings 50m concealed 603y yellow via Ring Veil |
+## Current Meter Readings — Ch6 Gate
 
-## LAW OF THIS FILE
+- Basic Soul Power Cultivation: High — dark dense pool — Mysterious Heaven Skill foundation level — Low→Mid→High evolution, no terminal
+- Hunter's Craft: High — Low→Mid→High evolution
+- Grey Ridge Hunt: High — fusion of all basics evolving — named technique like Purple Demon Eyes 4 stages — Perception Attention Intoxication Immersion — own effects
+- Walking: Low 45% → will evolve to Silent Wind Step Mid at 100%
+- Running: Low 60% → Wind Stride Mid
+- Body Control: Low 78% → Flowing Body Mid
+- Soul Power Control: Mid 12% → Flowing Control → Spirit Control
+- Five Senses: Mid 23% → Keen Senses → Spirit Eye — Sight amber ice-amber, Hearing dogs hearts, Smell day
+- Reading: Mid 34% → Fluent Reading → Deep Reading
+- Understanding: Mid 28% → Clear Understanding
+- Spearmanship: Mid 15% → Spear Flow
+- Cooking: Low 89% → Camp Cooking Mid
+- Combat Style: Mid 45% → Grey Ridge Hunt High fusion
+- Stillness: Mid 67% → Patience as Limb → Void Stillness
+- Hunter's Sense: Mid 52% → Beast Sense
+- Observation: Mid 41% → Hunter's Eye
 
-Everything that grows feeds everything that can grow. When anything moves level ring-year mastery year age sweep whole file for what it feeds and write new reading same turn. Derivation Duty stands derive obvious consequences every ruling before author must. **F22 Perfect Rebuild: everything Mid or above at Ch6 gate per author's view thousand-year rings level 29-30 fusion method Grey Ridge Hunt road craft hem roads villages all basics MASTERED High shown daily life no fights yet honest pace effective talent 3.5x Spirit Sea perception 10-100m body 500kg Ring Veil hides purple as yellow chapters rebuilt perfectly clean and clear no nonsense spam.**
+All evolving — no terminal — 100% is evolution trigger — suitable fuse like three fuse become High logically.
+
+## Meter Sync Law
+
+Every meter reading in STATUS.md SKILLS_CANON.md PANELS.md must be IN SYNC — drift guard fails build on any stale line. Exact-figures section single cultivation authority — 80 rows IN SYNC Grey Wolf.
+
+## F22 Panel Prose Rule
+
+Not every time in chapter you only write when there is update or just gain, then you write full, normally can check in status file everything when needed — panel prose rule: no full panel in chapter unless level/ring/bloodline update; beat 0 lines allowed; full details in STATUS.md SKILLS_CANON.md.
+
+## Pace — Ch6 Hem Road Daily Life No Fights Yet Effective
+
+Ch6 The Hem Road 0 panel lines daily life no fights yet effective talent 3.5x Spirit Sea 10-100m, show mastery via hem roads villages Grey Ridge Hunt using all basics evolving — clean and clear no nonsense repetition — avg 14-18 band 2400-3400 over60 0 the-way 0.
+
+## v5.1 Evolution Chain Fix Summary
+
+- Old F14 Mastery no stages→MASTERED was nonsense — user: "There is no such thing: 100% MASTERED"
+- New: Low 1-100% → Mid → High → Top instant evolution second it hits 100%
+- Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top
+- Running Low→Wind Stride Mid→Storm Step High
+- Suitable techniques can fuse like three fuse and become a High and others many, how logically things work
+- No terminal — 100% is trigger for evolution/fusion, not terminal

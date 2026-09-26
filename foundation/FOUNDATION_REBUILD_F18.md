@@ -1,4 +1,4 @@
-# FOUNDATION REBUILD F18 — full status completely everything, all basics MASTERED, ice+wind, body strength, named technique like Purple Demon Eyes, spiritual realm, wind attribute
+# FOUNDATION REBUILD F18 — full status completely everything, all basics evolving, ice+wind, body strength, named technique like Purple Demon Eyes, spiritual realm, wind attribute
 
 Date: 2026-09-26
 Author strike after F17 push (v0.6.4-f17): 
@@ -7,13 +7,13 @@ Author strike after F17 push (v0.6.4-f17):
 
 ## What F18 fixes
 
-### 1. Life-skills level — all basics MASTERED High
+### 1. Life-skills level — all basics evolving Low→Mid→High
 F17 Ch5 panel had:
 Hunter's Sense 70%, Stillness 60%, Plain Speech 55%, Mountain Stride 70%, Tally 70%, Spear 60%, Control 65%, Observation 68%
 User: "what level of they are he doesn't master all basic things"
-Fix: F18 — all 15 life-skills 100% MASTERED High:
+Fix: F18 — all 15 life-skills evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High):
 - Hunter's Sense, Stillness, Plain Speech, Mountain Stride, Tally, Spear, Soul Power Control, Observation, Body Control, Five Senses, Reading, Understanding, Basic Spearmanship, Cooking Skill, Combat Style
-All MASTERED High, fuse into Grey Ridge Hunt — complete combat style like Purple Demon Eyes.
+All evolving Low→Mid→High, fuse into Grey Ridge Hunt — complete combat style like Purple Demon Eyes.
 Per author's strike: "he doesn't master all basic things" → now he does.
 
 ### 2. Martial soul attributes — ice + wind, where wind attribute even
@@ -41,12 +41,12 @@ Canon Purple Demon Eye (receipt):
 - Effects: improve vision power, clearly grasp detail, confuse/stun, mind's eye, Wide-Area
 
 Grey Ridge Hunt (Ye Cang's own, PROPOSED, like Purple Demon Eyes):
-- F16/F17 Fusion: all basics MASTERED fused — complete combat style, his own
+- F16/F17 Fusion: all basics evolving fused — complete combat style, his own
 - 4 stages like Purple Demon Eyes:
-  1. Perception (Five Senses MASTERED High — Sight Hearing Smell Taste Touch as technique)
-  2. Attention (Observation + Soul Power Control MASTERED High — soul power flows where eye goes)
-  3. Intoxication (Body Control + Running + Mountain Stride + Patience MASTERED High — body arrives where mind went first)
-  4. Immersion/Boundless (Quiet Step + Seen-late + Burst + Wind Blade + Ring Veil MASTERED High — brief invisibility, wind blade burst 10 half crescent, stormwind wings, afterimage, hides purple as yellow, unlocks mind's eye 10-100m minute details like house fly — Wide-Area)
+  1. Perception (Five Senses evolving Low→Mid→High — Sight Hearing Smell Taste Touch as technique)
+  2. Attention (Observation + Soul Power Control evolving Low→Mid→High — soul power flows where eye goes)
+  3. Intoxication (Body Control + Running + Mountain Stride + Patience evolving Low→Mid→High — body arrives where mind went first)
+  4. Immersion/Boundless (Quiet Step + Seen-late + Burst + Wind Blade + Ring Veil evolving Low→Mid→High — brief invisibility, wind blade burst 10 half crescent, stormwind wings, afterimage, hides purple as yellow, unlocks mind's eye 10-100m minute details like house fly — Wide-Area)
 - Training: morning purple qi rising sun, ridge run, thorn thicket stillness, black pools blind, wind line scree fold, sledge runner, spear point leading — all hours at best via Passive Law
 - Own effects: spirit power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst, wind blade, wings, afterimage, Ring Veil concealment, mind's eye perception extreme distances Wide-Area, confuse/stun
 - Incantation: *hunt.*
@@ -55,15 +55,15 @@ Grey Ridge Hunt (Ye Cang's own, PROPOSED, like Purple Demon Eyes):
 ### 5. Full status completely everything not just system panel
 F18 STATUS.md v4.1 rewritten:
 - Basic Info (Name, Age, Level 30 Great Soul Master top 3.5× effective talent, Martial Soul Storm Frost Ghost Wolf ice+wind High, Slots 3/3/3)
-- Body (robust beast-type ~500kg lift, strength 3× normal 11-year-old, senses Five Senses MASTERED High, appearance frame as freight amber ice-amber eyes grey tint dogs no lift)
+- Body (robust beast-type ~500kg lift, strength 3× normal 11-year-old, senses Five Senses evolving Low→Mid→High, appearance frame as freight amber ice-amber eyes grey tint dogs no lift)
 - Spiritual Realm (Spirit Origin 0-99, Connection 100-499, Sea 500-4999, Abyss 5k-19k, Domain 20k-49k, Divine Origin 50k+, God King; current Spirit Sea 850 points — vast as sea, foundation expert, battleship pilot minimum, perception 10-100m minute details house fly)
 - Soul Power / Pool Quality (dense dark pure, effective talent 3.875 capped 3.5×)
-- Techniques (Basic 100% MASTERED High like Mysterious Heaven Skill, Craft 100% MASTERED High like Tang Sect craft, Grey Ridge Hunt 100% MASTERED High like Purple Demon Eyes + Ring Veil)
-- Other basics fuse (Soul Power Control, Body Control, Five Senses, Reading, Understanding, Spearmanship, Cooking, Combat Style — all MASTERED High)
+- Techniques (Basic evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High) like Mysterious Heaven Skill, Craft evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High) like Tang Sect craft, Grey Ridge Hunt evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High) like Purple Demon Eyes + Ring Veil)
+- Other basics fuse (Soul Power Control, Body Control, Five Senses, Reading, Understanding, Spearmanship, Cooking, Combat Style — all evolving Low→Mid→High)
 - Soul Rings (Ghost 1,350y purple aging concealed as 120y yellow, Stormwind 1,850y purple aging concealed as 603y yellow, Ring Veil hides purple as yellow — fool who shows two thousand-year)
 - Skills (Wolf 85% High → Storm Frost Ghost Wolf possession, Netherlight 45% High → Ghost Veil at 1000y energy slide+invis+confuse/stun, Windstride 20% High → Storm Step at 1000y wind blade burst 10 half crescent + stormwind wings + afterimage)
 - Bloodlines (Grey 65% High ice +1.30 talent, Ghost 35% Mid +0.35, Stormwind 15% Mid +0.225 wind attribute even — three lines feed Wolf, cultivation speed, body, appearance, talent, attribute evolution, awakening when strange change)
-- Life-skills (15 all 100% MASTERED High per author's strike)
+- Life-skills (15 all evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High) per author's strike)
 - Level (30 Great Soul Master top, 29 banked +30 gift, canon monsters' band)
 - Plus Bloodline Cards, Grades, Named Techniques, Spiritual Realm, Attributes, Body Strength full sections
 
@@ -76,7 +76,7 @@ Canon spiritual power realms (SL3/SL4 receipt):
 - Spirit Domain 20,000-49,999 (clear distinction elements, personal domain)
 - Divine Origin 50,000-500,000 (spirit sea golden, control laws of plane and natural elements, million times greater potency than Spirit Domain)
 - God King
-Current: Spirit Sea Realm 850 points at 11 with 2 thousand-year purple rings + MASTERED basics + fused method — monster — Huo Yuhao similar age reached Spirit Connection→Spirit Sea via Mystic Water Pill + 6 months meditation + Fullmoon Dew — Ye Cang's Grey Ridge Hunt includes similar eye training.
+Current: Spirit Sea Realm 850 points at 11 with 2 thousand-year purple rings + evolving basics + fused method — monster — Huo Yuhao similar age reached Spirit Connection→Spirit Sea via Mystic Water Pill + 6 months meditation + Fullmoon Dew — Ye Cang's Grey Ridge Hunt includes similar eye training.
 
 ### 7. Wind attribute even
 Receipts:
@@ -91,25 +91,25 @@ F18: martial soul attributes ice+wind at evolution, bloodline Stormwind gives wi
 - Ghost Wolf no element — our Ghost line no element matches canon
 - At evolution to Storm Frost Ghost Wolf ice+wind+ghost — difference is mutation via three bloodlines + thousand-year rings — canon-allowed: Beast Martial Soul may undergo mutation resulting in characteristics different from original species (Baike), Xu Sanshi Xuanwu Shield → Golden Xuanwu Shield, Lan Mengqin Jade Phoenix Zither → Emerald Jade Phoenix Zither, Bai Xiuxiu Demon Shark → Abyss Demon Dragon Shark — bloodline merge evolves martial soul
 - Body strength with thousand-year rings: beast martial soul bodies extremely robust released or not — our body robust ~500kg lift matches canon
-- Spiritual realm: Spirit Sea at 11 with 2 thousand-year + MASTERED basics + fused method like Purple Demon Eyes — monster but honest to engine's hours + effective talent 3.5×
+- Spiritual realm: Spirit Sea at 11 with 2 thousand-year + evolving basics + fused method like Purple Demon Eyes — monster but honest to engine's hours + effective talent 3.5×
 - Named technique like Purple Demon Eyes: Grey Ridge Hunt 4 stages Perception/Attention/Intoxication/Immersion training purple qi morning own effects mind's eye Wide-Area confuse/stun — similar to Purple Demon Eyes
-- Status full status completely everything not just system panel — now STATUS.md has body, spiritual realm, attributes, named techniques, life-skills all MASTERED, bloodline cards, grades — full status
+- Status full status completely everything not just system panel — now STATUS.md has body, spiritual realm, attributes, named techniques, life-skills all evolving, bloodline cards, grades — full status
 
 ## Numbers kept from F16/F17
 - Level 30 Great Soul Master top (12→29 17 levels +30 gift)
 - Ghost Wolf 1,350y purple aging concealed as 120y yellow via Ring Veil
 - Stormwind Demon Wolf 1,850y purple aging concealed as 603y yellow via Ring Veil
-- Techniques Basic 100% MASTERED High + Craft 100% MASTERED High + Grey Ridge Hunt 100% MASTERED High (fusion Soul Power Control+Body Control+Five Senses+Observation+Running+Stillness+Sense+Stride+Spear+Tally+Reading+Understanding+Spearmanship+Cooking+Combat Style + Ring Veil)
+- Techniques Basic evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High) + Craft evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High) + Grey Ridge Hunt evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High) (fusion Soul Power Control+Body Control+Five Senses+Observation+Running+Stillness+Sense+Stride+Spear+Tally+Reading+Understanding+Spearmanship+Cooking+Combat Style + Ring Veil)
 - Skills Wolf 85% High → Storm Frost Ghost Wolf possession + Netherlight 45% High → Ghost Veil at 1000y + Windstride 20% High → Storm Step at 1000y wind blade burst + wings + afterimage
 - Bloodlines Grey 65% High +1.30 ice→ice+wind true ice + Ghost 35% Mid +0.35 + Stormwind 15% Mid +0.225 wind attribute Wind
-- Life-skills all 15 100% MASTERED High (was 70/60/55 etc — now MASTERED per author's strike)
+- Life-skills all 15 evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High) (was 70/60/55 etc — now evolving per author's strike)
 - Effective talent 3.5×, appearance frame freight amber ice-amber eyes grey tint dogs no lift, spiritual realm Spirit Sea 850, body ~500kg robust beast-type, martial soul evolution Grey→Storm Frost Ghost Wolf ice+wind High at Grey High+Ghost Mid+Stormwind Mid+both purple strange change, named technique Grey Ridge Hunt 4 stages like Purple Demon Eyes
 
 ## Files changed F18
-- foundation/STATUS.md v4.1 full status completely everything (ice+wind, Spirit Sea 850, body ~500kg, all basics 100% MASTERED High, named techniques 4 stages like Purple Demon Eyes)
-- foundation/METERS.md life-skills all 100% MASTERED High
-- foundation/PANELS.md Ch5 22 rows → 29 rows full MASTERED High + ice+wind
-- foundation/SYSTEM_SPEC.md v4.1 F18 (all basics MASTERED, ice+wind, wind attribute even, named technique like Purple Demon Eyes, full status, spiritual realm, body strength)
-- chapters/Chapter_05_The_Road_Begins.md panel block 22→29 rows full MASTERED High + ice+wind
+- foundation/STATUS.md v4.1 full status completely everything (ice+wind, Spirit Sea 850, body ~500kg, all basics evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High), named techniques 4 stages like Purple Demon Eyes)
+- foundation/METERS.md life-skills all evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High)
+- foundation/PANELS.md Ch5 22 rows → 29 rows full evolving Low→Mid→High + ice+wind
+- foundation/SYSTEM_SPEC.md v4.1 F18 (all basics evolving, ice+wind, wind attribute even, named technique like Purple Demon Eyes, full status, spiritual realm, body strength)
+- chapters/Chapter_05_The_Road_Begins.md panel block 22→29 rows full evolving Low→Mid→High + ice+wind
 - tools/check_panels.py → 80 rows IN SYNC
 - tools/run_all.py → 5 chapters 2875/2642/2531/2639/3011w band IN avg14.5-22.9 dlg 2.7-7.1 over60 0 the-way 0 bare 0 ALL HARD CHECKS PASS + site + manuscript

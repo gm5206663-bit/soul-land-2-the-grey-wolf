@@ -69,12 +69,12 @@ PANEL LEDGER IN SYNC
 - F10 ring seats beast bloodline: Ghost Wolf bloodline seated with ring: CHECKED
 - F11 full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k: in SYSTEM_SPEC Aging Law: CHECKED
 - F12 walls alone ring-gated: Level 10 wall held 3 years, Level 20 wall, Level 30 wall: CHECKED
-- F13 honest yield 24/7: Basic MASTERED 5y at mastery all-hours: CHECKED
-- F14 Mastery no stages->MASTERED 120->168 pour-based Mid-caliber 1% Mid: Basic 100% MASTERED: CHECKED
+- F13 honest yield 24/7: Basic evolving 5y at mastery all-hours: CHECKED
+- F14 Mastery no stages->evolving 120->168 pour-based Mid-caliber 1% Mid: Basic evolving Low→Mid→High (v5.1 evolution chain): CHECKED
 - F15 interconnection 2.96x Grey Mid appearance cascade: effective talent 3.5x: CHECKED
 - F16 thousand-year 1,350/1,850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt: Level 30, rings purple, everything Mid+, Grey Ridge Hunt fused: CHECKED
 - F17 evolution Storm Frost Ghost Wolf at High+purple skill upgrade Ghost Veil/Storm Step at 1000y Ring Veil hides purple as yellow: evolution, skill upgrade, concealment: CHECKED
-- F18 all basics 100% MASTERED High Sense70 etc what level he doesn't master: all 15 life-skills 100% MASTERED High: CHECKED
+- F18 all basics evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High) Sense70 etc what level he doesn't master: all 15 life-skills evolving Low→Mid→High (v5.1 evolution chain: Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High): CHECKED
 - F18 martial soul attributes ice+wind where wind attribute even: ice+wind High -> Storm Frost Ghost Wolf: CHECKED
 - F18 body strength with 2 thousand-year rings clear in status ~500kg robust: body ~500kg lift robust beast-type: CHECKED
 - F18 named technique like Purple Demon Eyes 4 stages Perception/Attention/Intoxication/Immersion training purple qi morning effects mind's eye Wide-Area confuse/stun: Grey Ridge Hunt 4 stages: CHECKED

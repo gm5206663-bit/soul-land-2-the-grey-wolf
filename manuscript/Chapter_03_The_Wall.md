@@ -107,7 +107,7 @@ That night, Ye Cang looked. It was gate of hunt year, and gates got whole panel,
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 10 · innate 1 · the wall, held three years」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」
+> 「Technique — Basic Soul Power Cultivation: 100% → evolving Low→Mid→High (v5.1 evolution chain) · the engine, passive · Mid」
 > 「Technique — The Hunter's Craft: 78% · parked, unslotted · Low」
 > 「Skill — The Wolf: 41% · possession · strength, speed, senses, claws · Mid」
 > 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」
