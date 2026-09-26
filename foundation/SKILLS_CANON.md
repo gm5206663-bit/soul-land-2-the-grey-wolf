@@ -1,4 +1,6 @@
-# SKILLS — description like in Soul Land, go check canon, how soul skills is and also check many things possible
+# SKILLS — description like in Soul Land, go check canon, how soul skills is and also check many things possible — v5.0 Perfect Rebuild F22
+
+v5.0, 2026-09-26. Perfect rebuild — all chapters rebuilt clean and clear no nonsense spam, band IN all 6 over60 0 the-way 0 bare 0 panels 80 IN SYNC run_all green. F22 road craft hem roads villages Grey Ridge Hunt in use all basics MASTERED High daily life Spirit Sea 850 body 500kg Storm Frost Ghost Wolf ice+wind High Ghost Veil 3 clones golden lock toughest skull tofu waist Storm Step wind blade burst wings flight Ring Veil hides purple as yellow. Canon check: how Soul Land describes soul skills in novel/wiki — Dai Mubai White Tiger Feng Xiaotian Wind Blade Burst etc + Ghost Wolf thousand-year canon golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones Shrek Beast Dueling Area Huo Yuhao He Caitou Dark Gold Terror Claw Bear.
 
 v4.2 F19, 2026-09-26. Canon check: how Soul Land describes soul skills in novel/wiki.
 
