@@ -140,103 +140,107 @@ He was six years old, with a wolf, a ledger, and five winters, and every count h
 
 # Chapter 2 — The Quiet Climb
 
-Winter came up the ridge in the old order: the dogs first, then the wind, then the silence with teeth in it.
+Winter came up ridge in old order: dogs first, then wind, then silence with teeth in it.
 
-Ye Cang met it standing in snow behind the house with his shirt hung on the fence, comfortable, watching his own breath make ghosts. His father, carrying firewood past him, looked at the shirt, and then at the boy, and then at the trees, and went inside, which was how he said everything he had decided not to say. The cold had not bitten the Ye men for as long as the ridge remembered them. The panel in the dark behind the boy's eyes had a line for that now, and the line said ice, and the line was growing.
+Ye Cang met it standing in snow behind house with shirt hung on fence, comfortable, watching own breath make ghosts. His father, carrying firewood past him, looked at shirt, and then at boy, and then at trees, and went inside, which was how he said everything he had decided not to say. Cold had not bitten Ye men for as long as ridge remembered them. Panel in dark behind boy's eyes had line for that now, and line said ice, and line was growing.
 
-The winter had one job in it, and the job was the wolf.
+Winter had one job in it, and job was wolf.
 
-Behind the house at first light, most mornings, the grey light stood up out of his skin and the wolf came out to stay a while. His father stood at the door with his arms crossed and counted breaths out loud, because a hunter measures everything he means to keep.
+Behind house at first light, most mornings, grey light stood up out of his skin and wolf came out to stay while. His father stood at door with arms crossed and counted breaths out loud, because hunter measures everything he means to keep.
 
-"Twelve," he said, on the first snow. "Same as the stone room."
+"Twelve," he said, on first snow. "Same as stone room."
 
-By the deep snow it was thirty. By thaw, sixty. The pool under the boy's ribs was deepening as a well deepens — no faster than the ground allows, but every day, and never once draining out overnight as it had in the stone room. The fuel cost of the wolf had not changed. The fuel supply had. That was the whole of the winter's arithmetic, and the tallykeeper in the boy approved of it as he had once approved of a loading dock that never jammed: quietly, professionally, every morning.
+By deep snow it was thirty. By thaw, sixty. Pool under boy's ribs was deepening as well deepens — no faster than ground allows, but every day, and never once draining out overnight as it had in stone room. Fuel cost of wolf had not changed. Fuel supply had. That was whole of winter's arithmetic, and tallykeeper in boy approved of it as he had once approved of loading dock that never jammed: quietly, professionally, every morning.
 
-The village dogs worked out their arrangement with the wolf in the first week. The yard was his when the grey light was on him, and theirs the rest of the time, and nobody discussed it. What the wolf was, from the inside, took him the whole winter to map. It was not a costume and not a shape he wore; it was the world coming closer. Snow got an age to it, and a direction, and a history he could read with his nose. He could hear the dogs' hearts at the fence, four of them, each with its own temper. He could smell morning before it happened. And under the skin the body waited like a drawn bow: strength on account, speed on loan, everything rented by the breath and priced honestly. When the fuel ran out it ran out at once, and for an hour afterward his own plain body felt like a coat with the lining torn out.
+Village dogs worked out arrangement with wolf in first week. Yard was his when grey light was on him, and theirs rest of time, and nobody discussed it. What wolf was, from inside, took him whole winter to map. It was not costume and not shape he wore; it was world coming closer. Snow got age to it, and direction, and history he could read with nose. He could hear dogs' hearts at fence, four of them, each with its own temper. He could smell morning before it happened. And under skin body waited like drawn bow: strength on account, speed on loan, everything rented by breath and priced honestly. When fuel ran out it ran out at once, and for hour afterward own plain body felt like coat with lining torn out.
 
-Little Shan came around to watch the morning releases, two years older and sworn to silence about them, standing on the fence with his practice bow on his back and his opinions kept behind his teeth like a man raised by hunters.
+Little Shan came around to watch morning releases, two years older and sworn to silence about them, standing on fence with practice bow on back and opinions kept behind teeth like man raised by hunters.
 
 "Does it hurt?" he asked once.
 
 "It costs," said Ye Cang. "That's different."
 
-Little Shan thought about that for three days and came back with a nod, satisfied. It was the most either of them ever said about it.
+Little Shan thought about that three days and came back with nod, satisfied. It was most either ever said about it.
 
-Midwinter, the village counted its stores in Old Kuo's barn, out loud, with the headman's charcoal marks on a plank, because a village that cannot count its winter does not see the spring. Ye Cang sat on a barrel and watched the count come out wrong twice, and said nothing, and Old Kuo saw him not saying it.
+Midwinter, village counted its stores in Old Kuo's barn, out loud, with headman's charcoal marks on plank, because village that cannot count its winter does not see spring. Ye Cang sat on barrel and watched count come out wrong twice, and said nothing, and Old Kuo saw him not saying it.
 
 "Out with it, Ye boy."
 
-"The smoked boar is forty-one, not forty-three. The west rack went in twice."
+"Smoked boar is forty one, not forty three. West rack went in twice."
 
-The barn went quiet in the particular manner of men checking. It came up forty-one. Old Kuo looked at the boy a long moment, then at his own plank, then dipped the charcoal.
+Barn went quiet in particular manner of men checking. It came up forty one. Old Kuo looked at boy long moment, then at own plank, then dipped charcoal.
 
-"The ridge will keep you fed for that head," he said, and wrote the true number.
+"Ridge will keep you fed for that head," he said, and wrote true number.
 
-After that the winter count had a chair in it, and the chair had a barrel under it, and if that was a kind of fame, it was exactly the kind he had chosen: useful, small, and completely unremarkable to anyone from beyond the county.
+After that winter count had chair in it, and chair had barrel under it, and if that was kind of fame, it was exactly kind he had chosen: useful, small, and completely unremarkable to anyone from beyond county.
+
+Winter gave him other lessons that did not show in barn counts. Father took him to ridge's wind side and taught him to read snow as water. Fresh snow lies. Old snow tells truth. Wind writes its own ledger across drifts, and a boy who can read it knows what passed in night without seeing it. He learned to tell fox from hare by depth of pad, and to tell tired deer from fresh by how drag marks faded. Nose helped. Eyes helped more. Ledger helped most, because it never forgot a line once it surfaced. Hunter's Sense grew that winter, quiet and honest, and Stillness grew with it, sitting in thorn thicket until cold bit and then sitting longer.
+
+Father never praised. He nodded once when boy read wind right, and that nod held more weight than other men's speeches. Boy stored it and spent it later, when fuel ran low and wolf wanted to stay out longer than pool allowed.
 
 ---
 
-In the second month of winter, lying in the loft with the engine turning over in the dark of him, faint and constant as water under ice, Ye Cang felt the pool find a new shelf. There was no sound to it and no ceremony. The water simply stood higher than it had stood, and the height had a name, and the name was a number, and the number was his.
+In second month of winter, lying in loft with engine turning over in dark of him, faint and constant as water under ice, Ye Cang felt pool find new shelf. There was no sound to it and no ceremony. Water simply stood higher than it had stood, and height had name, and name was number, and number was his.
 
 > 「Level — 4」
 
-And that same night, for the first time, a second line printed under the level's: the engine's own count, standing at one hundred. It did not rest there. The method reopened under him as it touched its top — a road becoming a road again past a bridge — and what had been the county's plain method came back deeper, and its grade rose with it, and the engine settled into the deeper water and went on. He had read a thousand systems in another life. He knew what a gate was.
+And that same night, for first time, second line printed under level's: engine's own count, standing at one hundred. It did not rest there. Method reopened under him as it touched its top — road becoming road again past bridge — and what had been county's plain method came back deeper, and its grade rose with it, and engine settled into deeper water and went on. He had read thousand systems in another life. He knew what gate was.
 
 > 「Technique — Basic Soul Power Cultivation: 100% · MASTERED」
 
-He lay still and did the professional arithmetic, because it was the only luxury he had ever been able to afford in either life.
+He lay still and did professional arithmetic, because it was only luxury he had ever been able to afford in either life.
 
-The county method, as taught, was an hour a day: the examiner had said so, and every soul in every village on the continent sat their hour and rose and went to work. An hour a day, for a rank-one soul on poor food, was two levels in a year, three in a lucky one. He knew that number from the inside, because he had read this world's book twice: the rank-one boy in it, alone and unfed in a rich man's house, had climbed from one to the wall at ten in three years of exactly that hour.
+County method, as taught, was hour a day: examiner had said so, and every soul in every village on continent sat their hour and rose and went to work. Hour a day, for rank-one soul on poor food, was two levels in year, three in lucky one. He knew that number from inside, because he had read this world's book twice: rank-one boy in it, alone and unfed in rich man's house, had climbed from one to wall at ten in three years of exactly that hour.
 
-His engine did not do hours. It ran while he carried water, and while he sat in the snow, and while he slept, at his best and not at his mood, because the slot held it at his best for him. The machine was small — rank one was rank one, and the county's plain method was nobody's treasure — but where the county's soul worked one hour, his worked every one of them, and it compounded, a word he had loved in the old life and loved more in this one, where nobody else had ever heard it. The honest count — and he counted everything twice — put the wall at ten inside his first year and a half. The county would call that a lie. The ledger called it arithmetic, and the ledger had never once flattered him. The years after the wall would be quiet ones. He had read the story this world lived inside, and the story had never once mentioned a boy on the western hem of the great forest, and he intended to spend the quiet years getting harder to kill.
+His engine did not do hours. It ran while he carried water, and while he sat in snow, and while he slept, at his best and not at his mood, because slot held it at his best for him. Machine was small — rank one was rank one, and county's plain method was nobody's treasure — but where county's soul worked one hour, his worked every one of them, and it compounded, word he had loved in old life and loved more in this one, where nobody else had ever heard it. Honest count — and he counted everything twice — put wall at ten inside his first year and half. County would call that lie. Ledger called it arithmetic, and ledger had never once flattered him. Years after wall would be quiet ones. He had read story this world lived inside, and story had never once mentioned boy on western hem of great forest, and he intended to spend quiet years getting harder to kill.
 
-He slept. The engine did not.
-
----
-
-Spring took the road down to Anlin, and Ye Shan took the cart: a season of pelts, the winter's smoked boar, and his son on top of the load with a blanket and a knife, because the trip was the craft and the craft was his schooling.
-
-Anlin was three streets and a wall, a market, a well, and a county hall with a slate roof, and Ye Cang liked it exactly as much as he had liked every depot he had ever worked: it was where the counts happened. The pelt-buyer counted bundles. His father counted coins. The boy sat on the cart rail and counted the counting, which was his own private version of the whole town.
-
-At the county hall, the crystal came out of its box for him, and the examiner — older in the spring light, the same mule — read the spark and read it again.
-
-"Level six," he said. He opened the book, found his own line from the autumn — *wolf, rank one, cultivates slowly* — and did not cross it out. He wrote under it. "Faster than my word, boy."
-
-"The method suits me," said Ye Cang.
-
-The examiner looked at him for the length of a breath, the tired look of a man who had seen four hundred villages and been surprised by perhaps ten of them, and wrote a second line, and closed the book. Whatever the county now believed about the Ye boy, it believed it in two careful lines and a half inch of ink, and that was exactly as much noise as Ye Cang intended to make in this world for some years.
-
-On the way back to the cart they passed the pelt-buyer's shop, and in its window burned a small lamp with no flame in it. A stone of engraved metal, lit from somewhere inside itself, cold to look at and steady. Ye Cang looked at it for exactly one breath. He knew what it was. He had read the future of this world, and the future of this world was engraved metal burning without fire — the east was already building it, street by street, army by army, and the lamp in a pelt-buyer's window on the western edge of nowhere cost more than Grey Ridge's forty roofs. The book he had read twice started with a boy and a forest and ended past a war that these lamps were the small quiet first line of.
-
-He let it go, and got on the cart, and said nothing, and counted bundles the whole ride home.
+He slept. Engine did not.
 
 ---
 
-Summer was the snare lines, and the snare lines were mathematics, and the mathematics was joy.
+Spring took road down to Anlin, and Ye Shan took cart: season of pelts, winter's smoked boar, and his son on top of load with blanket and knife, because trip was craft and craft was his schooling.
 
-Set the loop where the trail narrows. Anchor to what will hold. Mind the wind, because everything with a nose is reading you while you read it. His father taught as he did everything: once, plainly, with his hands. Then it was the boy's line, the boy's counts, the boy's mistakes, walked at dusk and dawn with the father two steps behind and his opinions held until asked.
+Anlin was three streets and wall, market, well, and county hall with slate roof, and Ye Cang liked it exactly as much as he had liked every depot he had ever worked: it was where counts happened. Pelt-buyer counted bundles. His father counted coins. Boy sat on cart rail and counted counting, which was own private version of whole town.
 
-In the last month of summer his father creased a boar high on the east slope — a cutting stroke, not a killing one, gone wrong as hunting goes wrong sometimes, both of them listening to the brush take the animal's noise downhill. Ye Shan nocked nothing and drew nothing.
+At county hall, crystal came out of its box for him, and examiner — older in spring light, same mule — read spark and read it again.
+
+"Level six," he said. He opened book, found own line from autumn — *wolf, rank one, cultivates slowly* — and did not cross it out. He wrote under it. "Faster than my word, boy."
+
+"Method suits me," said Ye Cang.
+
+Examiner looked at him length of breath, tired look of man who had seen four hundred villages and been surprised by perhaps ten of them, and wrote second line, and closed book. Whatever county now believed about Ye boy, it believed it in two careful lines and half inch of ink, and that was exactly as much noise as Ye Cang intended to make in this world for some years.
+
+On way back to cart they passed pelt-buyer's shop, and in its window burned small lamp with no flame in it. Stone of engraved metal, lit from somewhere inside itself, cold to look at and steady. Ye Cang looked at it exactly one breath. He knew what it was. He had read future of this world, and future of this world was engraved metal burning without fire — east was already building it, street by street, army by army, and lamp in pelt-buyer's window on western edge of nowhere cost more than Grey Ridge's forty roofs. Book he had read twice started with boy and forest and ended past war that these lamps were small quiet first line of.
+
+He let it go, and got on cart, and said nothing, and counted bundles whole ride home.
+
+---
+
+Summer was snare lines, and snare lines were mathematics, and mathematics was joy.
+
+Set loop where trail narrows. Anchor to what will hold. Mind wind, because everything with nose is reading you while you read it. His father taught as he did everything: once, plainly, with hands. Then it was boy's line, boy's counts, boy's mistakes, walked at dusk and dawn with father two steps behind and opinions held until asked.
+
+In last month of summer his father creased boar high on east slope — cutting stroke, not killing one, gone wrong as hunting goes wrong sometimes, both listening to brush take animal's noise downhill. Ye Shan nocked nothing and drew nothing.
 
 "Your track," he said. "Your call."
 
-The boy read the blood on the leaves. Bright, then dark; splashing, then dripping; a boar that would not lie down until it had to, and would be at its most dangerous exactly when it did. The old life had read about this. The craft had a teaching for it. He let the boar have its head start, and followed at the pace of the wounded, and the whole hot afternoon went by with the world narrowed to sign and wind, and when the boar finally stood at bay in the thorn it was standing on tired legs with its one good plan already spent.
+Boy read blood on leaves. Bright, then dark; splashing, then dripping; boar that would not lie down until it had to, and would be at its most dangerous exactly when it did. Old life had read about this. Craft had teaching for it. He let boar have its head start, and followed at pace of wounded, and whole hot afternoon went by with world narrowed to sign and wind, and when boar finally stood at bay in thorn it was standing on tired legs with its one good plan already spent.
 
-His father's spear ended it. That was the law of the ridge: a boy reads the ground, and a man takes the weight.
+His father's spear ended it. That was law of ridge: boy reads ground, and man takes weight.
 
-On the walk home, with the light going long and orange, his father said it plainly, because he was a man who paid words out like coin and never wasted one.
+On walk home, with light going long and orange, his father said it plainly, because he was man who paid words out like coin and never wasted one.
 
 "You waited."
 
-"The ground said to."
+"Ground said to."
 
-His father walked ten steps. "Your grandfather would have liked watching you," he said, to the trees, and that was all, and it was a very great deal.
+His father walked ten steps. "Your grandfather would have liked watching you," he said, to trees, and that was all, and it was very great deal.
 
-That night, in the loft, a new line had surfaced in the dark behind his eyes, quiet as everything the ledger did, and Ye Cang lay still and smiled at it. The system counted even the sitting still.
+That night, in loft, new line had surfaced in dark behind eyes, quiet as everything ledger did, and Ye Cang lay still and smiled at it. System counted even sitting still.
 
 ---
 
-The ninth level came up in the night near the end of summer, like a boat coming to anchor: no sound, no ceremony, the water simply standing higher. Then the year came around to the stone room's anniversary, and the year's list printed itself in the dark, complete — as it had on the first night, and as it would on every gate he ever crossed.
+Ninth level came up in night near end of summer, like boat coming to anchor: no sound, no ceremony, water simply standing higher. Then year came around to stone room's anniversary, and year's list printed itself in dark, complete — as it had on first night, and as it would on every gate he ever crossed.
 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 9 · innate 1」
@@ -253,127 +257,131 @@ The ninth level came up in the night near the end of summer, like a boat coming 
 
 He audited it line by line, because auditing was how he slept.
 
-The engine at twenty-two parts. The craft at nineteen, grown a full winter of snares and one long afternoon of a boar. The wolf at nine — sixty breaths of grey light most mornings, and each breath worth more than the last. The blood at twelve, and the winter's proof of it hung on the fence every morning of the cold: the shirt, and the boy under the shirt, comfortable. Two lines up in the list of the life a man lives with his mouth and his legs. One new line, counted from the thorn thicket and the sitting still.
+Engine at twenty two parts. Craft at nineteen, grown full winter of snares and one long afternoon of boar. Wolf at nine — sixty breaths of grey light most mornings, and each breath worth more than last. Blood at twelve, and winter's proof of it hung on fence every morning of cold: shirt, and boy under shirt, comfortable. Two lines up in list of life man lives with mouth and legs. One new line, counted from thorn thicket and sitting still.
 
-And the level: nine, at seven years old — a season from the wall his father had stood at for twenty years. The wall was never the work; the body was. A seven-year-old frame could hold ten levels as a cup holds a flood, and a hundred-and-twenty-year beast would need a man's shoulders to take it from. The winters between now and the grey beast were for the shoulders. And the book this world lived inside would open its first page somewhere far east of here, on schedule, without him.
+And level: nine, at seven years old — season from wall his father had stood at for twenty years. Wall was never work; body was. Seven-year-old frame could hold ten levels as cup holds flood, and hundred-and-twenty-year beast would need man's shoulders to take it from. Winters between now and grey beast were for shoulders. And book this world lived inside would open its first page somewhere far east of here, on schedule, without him.
 
-His mother let his sleeves out twice that year and the shoulders once, working the needle in the door light with the calm of a woman who had made up her mind about something and did not require witnesses. He was growing as the ridge's boys grew, and then a little past it — the frame filling quietly under everything, bone and meat coming on like weather. She measured him with her eyes across the whole year and said only, "Eat," and put the bigger share in his bowl, and he ate, and neither of them called the bloodline by name, and neither of them needed to.
+His mother let his sleeves out twice that year and shoulders once, working needle in door light with calm of woman who had made up mind about something and did not require witnesses. He was growing as ridge's boys grew, and then little past it — frame filling quietly under everything, bone and meat coming on like weather. She measured him with eyes across whole year and said only, "Eat," and put bigger share in his bowl, and he ate, and neither called bloodline by name, and neither needed to.
 
-At the pond below the house he washed the anniversary's dust off, and for one breath the boy in the water looked back at him with amber eyes, and he let the wolf look, and put it away.
+At pond below house he washed anniversary's dust off, and for one breath boy in water looked back at him with amber eyes, and he let wolf look, and put it away.
 
-At the door, his father's hand came down on his head, once, the good-bow touch.
+At door, father's hand came down on head, once, good-bow touch.
 
 "One year," said Ye Shan.
 
 "One year," said Ye Cang.
 
-Outside, the ridge went quiet in its old order. Inside, the machine ran on, all hours, at his best, compounding. Nothing in the Ye line had ever moved like this before, and none of them had ever been able to see it moving.
+Outside, ridge went quiet in old order. Inside, machine ran on, all hours, at his best, compounding. Nothing in Ye line had ever moved like this before, and none had ever been able to see it moving.
 
-He could. That was the whole cheat, he had decided long ago, lying in the loft with a wolf in his blood and a ledger in the dark. Not the wolf. Not the old blood. The seeing — and the patience to spend it one honest night at a time.
+He could. That was whole cheat, he had decided long ago, lying in loft with wolf in blood and ledger in dark. Not wolf. Not old blood. Seeing — and patience to spend it one honest night at time.
 
 ---
 
 # Chapter 3 — The Wall
 
-In the second month of autumn, in the night, the water came up against the wall and stopped.
+In second month of autumn, in night, water came up against wall and stopped.
 
-There was no sound to it and no ceremony. He had climbed one level in the season since the anniversary, the engine running as it always ran, and then, between one night and the next, the count simply stood still at a round number and refused the next one. He lay in the loft and looked at it for a long time.
+There was no sound to it and no ceremony. He had climbed one level in season since anniversary, engine running as it always ran, and then, between one night and next, count simply stood still at round number and refused next one. He lay in loft and looked at it long time.
 
 > 「Level — 10」
 
-The ledger did not explain. It never had. It had stopped counting levels and it kept counting everything else, and he lay still and took the machine's whole inventory, because a tallykeeper who finds a dock locked does not go home — he walks the fence and finds what still moves.
+Ledger did not explain. It never had. It had stopped counting levels and it kept counting everything else, and he lay still and took machine's whole inventory, because tallykeeper who finds dock locked does not go home — he walks fence and finds what still moves.
 
-The machine still moved. The technique's line still climbed, part by patient part. The pool still filled; it came up to the stone and pressed, and the stone held, and the water grew heavy instead of tall. The skill still drank. The blood still grew. One number had stopped in all the world, and it was the one number his father had stopped at twenty years ago.
+Machine still moved. Technique's line still climbed, part by patient part. Pool still filled; it came up to stone and pressed, and stone held, and water grew heavy instead of tall. Skill still drank. Blood still grew. One number had stopped in all world, and it was one number his father had stopped at twenty years ago.
 
-He knew the law before he lived it. A soul power level was a title's worth of climbing, and no title was given without a ring, and no ring was given without a kill. The wall at ten was not a failure of effort. It was a door with a price on it, and the price was written in the forest.
+He knew law before he lived it. Soul power level was title's worth of climbing, and no title was given without ring, and no ring was given without kill. Wall at ten was not failure of effort. It was door with price on it, and price was written in forest.
 
-He was seven years old, and he was at the door his father had leaned on for twenty years, and he had arrived there in a single year of nights.
+He was seven years old, and he was at door his father had leaned on for twenty years, and he had arrived there in single year of nights.
 
-He slept better than he had any right to. The machine ran on.
+He slept better than he had any right to. Machine ran on.
 
 ---
 
-He told his father at the porch, in the evening, with the dogs asleep and the meat smoke going up straight.
+He told his father at porch, in evening, with dogs asleep and meat smoke going up straight.
 
-"I'm at the wall."
+"I'm at wall."
 
-His father's hands stopped on the shaft he was mending. He did not ask how a boy knew such a thing without a crystal. A man at the wall knows the wall; his own body had told him the same thing twenty years ago, in the same words, and he had never needed a county official to read it back to him.
+His father's hands stopped on shaft he was mending. He did not ask how boy knew such thing without crystal. Man at wall knows wall; own body had told him same thing twenty years ago, in same words, and he had never needed county official to read it back to him.
 
 "You are seven," he said.
 
 "Yes."
 
-The quiet after that was long, and Ye Cang let it be long, because the man was doing arithmetic that could not be hurried. A boy at the wall at seven. A beast that must die by a seven-year-old's hand, or a wait of years with the door shut. The boy's shoulders, now, against the shoulders the door would demand.
+Quiet after that was long, and Ye Cang let it be long, because man was doing arithmetic that could not be hurried. Boy at wall at seven. Beast that must die by seven-year-old's hand, or wait of years with door shut. Boy's shoulders, now, against shoulders door would demand.
 
-His father set the mended shaft against the wall of the house, and looked at the treeline, and did the thing Ye Cang had seen him do over every kill he had ever made: he stopped wishing, and started planning.
+His father set mended shaft against wall of house, and looked at treeline, and did thing Ye Cang had seen him do over every kill he had ever made: he stopped wishing, and started planning.
 
-"The beast must die by your hand," he said. "That is the law, and the law has no mercy in it for children. A hundred-year beast would need a man's shoulders to take it from." He looked at his son, up and down, the grown look. "So we will spend the winters making you a man's shoulders. Three of them. The spear, the wind, the deep hem. You have the nose and the patience. I will supply the rest."
+"Beast must die by your hand," he said. "That is law, and law has no mercy in it for children. Hundred-year beast would need man's shoulders to take it from." He looked at his son, up and down, grown look. "So we will spend winters making you man's shoulders. Three of them. Spear, wind, deep hem. You have nose and patience. I will supply rest."
 
 "Three winters," said Ye Cang.
 
-"If the shoulders come early, we go early." His father picked the shaft back up. "You will not sit at this door as long as I sat at mine."
+"If shoulders come early, we go early." His father picked shaft back up. "You will not sit at this door as long as I sat at mine."
 
-He said it without bitterness, the manner of a man reading his own ledger, and it was the closest thing to a vow Ye Cang had ever heard him make.
-
----
-
-The winter he turned eight, his father put a spear in his hands.
-
-It was a hunter's spear and nothing more: plain wood, a socketed head, the weight of honest work. His father taught as he did everything — once, plainly, with his hands — and then it was the boy's spear, and the boy's blisters, and the boy's counts. Thrust and recover. The low guard for the boar. The point that leads a moving thing by a hand's width and lets the moving thing arrive onto it. Every lesson was one sentence long and a whole winter deep.
-
-That night, a new line surfaced in the dark behind his eyes, quiet as everything the ledger did, and he smiled at it in the loft. 「Spear: 1%」. Honest. He had never held one before dusk.
-
-The winter nights brought the other teaching, the one his father paid out in stories, one coin at a time, when the fire was low. The deep hem. What ran in it.
-
-"Iron-grey," his father said. "They run in packs at the deep quarter, past the burned cedar, where the ground goes down to the black pools. Your grandfather called them the patient kind. They don't charge like the boar. They watch, and they follow, and they wear a thing down until it makes a mistake, and then the whole pack is on the one spot of it." He turned his cup slowly. "Copper-headed, iron-boned, bean-curd waist. You want the waist. Everything else on that animal is a wall, and the waist is a door."
-
-"How old do they run?" asked Ye Cang, in the flat voice of a boy collecting facts.
-
-"Old, at the deep quarter. A hundred and more. The old herders say the packs keep a king somewhere in past the black pools, and no meat of ours has ever walked that far and come back to say." His father looked into the fire. "The grey one hunts like we do. It waits. Remember that, when you meet it. It will not hurry, and you must not hurry first."
-
-Ye Cang remembered. He had read this world's book twice, and the book had never mentioned Grey Ridge or the black pools or his father's cup turning slowly in the firelight, and he held all of it, the stories and the book both, and did not say which was which.
-
-The spring he was nine, his father took him to the edge of the deep quarter for the first time, and the two of them lay in the bracken from noon until the light went long, doing nothing, which was the lesson. In the late afternoon the pack came down to water: four of them, yearlings and a two-year-old, iron-grey and low, moving through the fern like smoke with shoulders. The wind was right and the boy's nose was open and the whole world smelled of them — musk and old blood and cold stone. His heart went like a rabbit's and his body did not move a hair, and his father's hand lay flat on his back the entire time, which was the other half of the lesson. The pack watered and went. Neither of them spoke for an hour after, and the hour was better than the speaking.
+He said it without bitterness, manner of man reading own ledger, and it was closest thing to vow Ye Cang had ever heard him make.
 
 ---
 
-The years ran as the ridge's years ran, which is to say they went by like water under ice: nothing on the surface, everything moving underneath.
+Winter he turned eight, his father put spear in his hands.
 
-The releases grew from an hour to whole mornings. The pool's new weight paid for every minute of it; the wolf stayed out while the frost silvered the grass, and came in when the boy called it, and the village dogs had long since filed the whole arrangement under the world's ordinary laws. The skill's line climbed, part by part, each one heavier than the last, and the body between releases filled in behind it — bone and quiet meat, the predator's frame arriving as weather arrives, which is to say all at once one spring and never again unnoticed.
+It was hunter's spear and nothing more: plain wood, socketed head, weight of honest work. His father taught as he did everything — once, plainly, with hands — and then it was boy's spear, and boy's blisters, and boy's counts. Thrust and recover. Low guard for boar. Point that leads moving thing by hand's width and lets moving thing arrive onto it. Every lesson was one sentence long and whole winter deep.
 
-The nose found game. That was the village's version of the whole thing, and it was true as far as it went. A wolf's nose on a hunter's son, walked through the hem with a hunter's craft behind it, found more deer and boar in a season than the ridge's snares had found in a year. Old Kuo's count gained a column that ate well every winter, and nobody looked past the fortune to the machinery under it, because nobody in Grey Ridge had ever imagined machinery under anything. His mother took in dye for her thread that year, and the following year a second loom, and said nothing about any of it, in the manner of women who have made up their minds.
+That night, new line surfaced in dark behind eyes, quiet as everything ledger did, and he smiled at it in loft. Spear one percent. Honest. He had never held one before dusk.
 
-The summer he turned nine, he took his first deer alone: the nose, the wind, the stillness, and then the wolf, held low and slow along the treeline for a whole grey morning until the spear could reach. He carried the meat home the long route, through the village street, because that was the custom and because it was due. The ridge made its sound. His father turned the carcass once, looked at the spear's entry, and said, "Good kill," which on the ridge was a sentence handed out perhaps once a year, and the meat went into the winter store with Old Kuo writing YE under the tally column, and that was the whole ceremony.
+Winter nights brought other teaching, one his father paid out in stories, one coin at time, when fire was low. Deep hem. What ran in it.
 
-He did not go down to the crystal again. There was nothing the county could read that he needed written. The examiner's book held two careful lines and half an inch of ink about the Ye boy, and Ye Cang intended those lines to age in peace. A man who had read this world's book knew what the continent's institutions did with a village anomaly, and the anomaly had three winters of growing left to do before it wanted any company.
+"Iron-grey," his father said. "They run in packs at deep quarter, past burned cedar, where ground goes down to black pools. Your grandfather called them patient kind. They don't charge like boar. They watch, and they follow, and they wear thing down until it makes mistake, and then whole pack is on one spot of it." He turned cup slowly. "Copper-headed, iron-boned, bean-curd waist. You want waist. Everything else on that animal is wall, and waist is door."
 
-Little Shan grew into his bow the same years, and the two of them walked the middle hem together in the good months, the bow and the nose, saying almost nothing, hunting well. Once, at the stream, Little Shan looked at him for a while and said, "You're going to take a ring soon."
+"How old do they run?" asked Ye Cang, in flat voice of boy collecting facts.
 
-"The ground says so?" said Ye Cang.
+"Old, at deep quarter. Hundred and more. Old herders say packs keep king somewhere past black pools, and no meat of ours has ever walked that far and come back to say." His father looked into fire. "Grey one hunts like we do. It waits. Remember that, when you meet it. It will not hurry, and you must not hurry first."
 
-"Your face says so," said Little Shan, and shouldered his bow, and that was the end of it, because a friendship with two hunters in it does not require the matter finished.
+Ye Cang remembered. He had read this world's book twice, and book had never mentioned Grey Ridge or black pools or father's cup turning slowly in firelight, and he held all of it, stories and book both, and did not say which was which.
 
-And the wall held, and the wall did not matter.
+Father taught wind that winter too. Wind is hunter's second ledger, he said. It carries nose both ways. You read it before you move, and you move so it does not read you. Boy learned to test wind with ash from fire, and to walk so ash fell behind, not ahead. Learned to keep sun at back when watching water, so glare did not give him away. Learned that patience is not waiting. Patience is doing small honest things while waiting, so waiting does not rot.
 
-That was the private joke of those years, told to nobody, held in the loft with the rest of the counting. The world said the wall was a stop. The world was right about the level and wrong about everything else: the technique still climbed, the craft still deepened, the blood still thickened, the skill still strengthened, the life list still grew its lines, and the pool pressed against the closed door and grew heavy. When the door finally opened — and doors with prices on them do open, when the price is paid — everything behind it would arrive at once, all those nights of water. He had read the story this world lived inside. He knew what a held level became. Nothing in the book had ever mentioned the boy on the western hem who was spending three years growing richer behind a shut door, and that suited the boy exactly.
+Mother taught other side of wall years. She let sleeves out, and shoulders, and never commented on why boy needed more room each spring. She put bigger share in bowl and said Eat, and that was whole speech. She mended hunt coat twice and oiled it once, and taught him to oil spear shaft so wood did not crack in deep cold. Bloodline grew that winter, Grey line deepening, ice thin becoming true enough that frost no longer bit his hands when he carried water bare. He noticed. Said nothing. Ledger noticed too, and counted.
+
+Spring he was nine, his father took him to edge of deep quarter first time, and two lay in bracken from noon until light went long, doing nothing, which was lesson. In late afternoon pack came down to water: four of them, yearlings and two-year-old, iron-grey and low, moving through fern like smoke with shoulders. Wind was right and boy's nose was open and whole world smelled of them — musk and old blood and cold stone. His heart went like rabbit's and body did not move hair, and father's hand lay flat on his back entire time, which was other half of lesson. Pack watered and went. Neither spoke hour after, and hour was better than speaking.
 
 ---
 
-The spring he turned ten, his father came in from the deep hem with the map in his head and put the spear's new head on the shaft, and Ye Cang watched him do it, and knew what it meant.
+Years ran as ridge's years ran, which is to say they went by like water under ice: nothing on surface, everything moving underneath.
 
-"You've been walking the deep quarter without me," he said.
+Releases grew from hour to whole mornings. Pool's new weight paid for every minute; wolf stayed out while frost silvered grass, and came in when boy called it, and village dogs had long since filed whole arrangement under world's ordinary laws. Skill's line climbed, part by part, each one heavier than last, and body between releases filled in behind it — bone and quiet meat, predator's frame arriving as weather arrives, which is to say all at once one spring and never again unnoticed.
 
-"I've been walking it since the thaw." His father set the whetstone down. "Past the burned cedar. The packs run four and five at the edge of it, yearlings and two-year-olds, and the tracks of the big one come down to the black pools alone, evenings. Old tracks and new ones. A hundred and twenty if a day." He said it as he said weights and distances, plain, and then he said the rest of it, which was not plain at all. "It's alone, and it's old, and it hunts as I taught you. It will not hurry. It will watch you first, all day if it lets you, and it will go for the waist when it comes."
+Nose found game. That was village's version of whole thing, and it was true as far as it went. Wolf's nose on hunter's son, walked through hem with hunter's craft behind it, found more deer and boar in season than ridge's snares had found in year. Old Kuo's count gained column that ate well every winter, and nobody looked past fortune to machinery under it, because nobody in Grey Ridge had ever imagined machinery under anything. His mother took in dye for her thread that year, and following year second loom, and said nothing about any of it, in manner of women who have made up minds.
+
+Summer he turned nine, he took first deer alone: nose, wind, stillness, and then wolf, held low and slow along treeline for whole grey morning until spear could reach. He carried meat home long route, through village street, because that was custom and because it was due. Ridge made its sound. His father turned carcass once, looked at spear's entry, and said, "Good kill," which on ridge was sentence handed out perhaps once a year, and meat went into winter store with Old Kuo writing YE under tally column, and that was whole ceremony.
+
+He did not go down to crystal again. There was nothing county could read that he needed written. Examiner's book held two careful lines and half inch of ink about Ye boy, and Ye Cang intended those lines to age in peace. Man who had read this world's book knew what continent's institutions did with village anomaly, and anomaly had three winters of growing left to do before it wanted any company.
+
+Little Shan grew into his bow same years, and two walked middle hem together in good months, bow and nose, saying almost nothing, hunting well. Once, at stream, Little Shan looked at him while and said, "You're going to take ring soon."
+
+"Ground says so?" said Ye Cang.
+
+"Your face says so," said Little Shan, and shouldered bow, and that was end of it, because friendship with two hunters in it does not require matter finished.
+
+And wall held, and wall did not matter.
+
+That was private joke of those years, told to nobody, held in loft with rest of counting. World said wall was stop. World was right about level and wrong about everything else: technique still climbed, craft still deepened, blood still thickened, skill still strengthened, life list still grew its lines, and pool pressed against closed door and grew heavy. When door finally opened — and doors with prices on them do open, when price is paid — everything behind it would arrive at once, all those nights of water. He had read story this world lived inside. He knew what held level became. Nothing in book had ever mentioned boy on western hem who was spending three years growing richer behind shut door, and that suited boy exactly.
+
+---
+
+Spring he turned ten, his father came in from deep hem with map in head and put spear's new head on shaft, and Ye Cang watched him do it, and knew what it meant.
+
+"You've been walking deep quarter without me," he said.
+
+"I've been walking it since thaw." His father set whetstone down. "Past burned cedar. Packs run four and five at edge of it, yearlings and two-year-olds, and tracks of big one come down to black pools alone, evenings. Old tracks and new ones. Hundred and twenty if day." He said it as he said weights and distances, plain, and then he said rest of it, which was not plain at all. "It's alone, and it's old, and it hunts as I taught you. It will not hurry. It will watch you first, all day if it lets you, and it will go for waist when it comes."
 
 "Then I will not hurry first," said Ye Cang.
 
-His father looked at him across the spear and the ten years of him, and whatever he was going to say, he did not say it. He said, "This autumn."
+His father looked at him across spear and ten years of him, and whatever he was going to say, he did not say it. He said, "This autumn."
 
 ---
 
-His mother had the hunt coat ready by then, oiled and quiet in the shoulders where a bowstring or a spear shaft rubs. She had made it without being asked and she gave it without a speech. "Come back with both hands," she said, which was her whole religion regarding hunting, and had been her mother's before her.
+His mother had hunt coat ready by then, oiled and quiet in shoulders where bowstring or spear shaft rubs. She had made it without being asked and she gave it without speech. "Come back with both hands," she said, which was her whole religion regarding hunting, and had been her mother's before her. She checked ties once, with both hands, and that was second half of religion. Boy nodded and let her check, because some rituals are not for boy to hurry.
 
-That night, Ye Cang looked. It was the gate of the hunt year, and gates got the whole panel, every line, as a man counts everything he owns the night before he spends some of it.
+That night, Ye Cang looked. It was gate of hunt year, and gates got whole panel, every line, as man counts everything he owns night before he spends some of it.
 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 10 · innate 1 · the wall, held three years」
@@ -389,107 +397,107 @@ That night, Ye Cang looked. It was the gate of the hunt year, and gates got the 
 > 「The Tally: 40%」
 > 「Spear: 25%」
 
-He audited it line by line, the night's last count, and found it honest.
+He audited it line by line, night's last count, and found it honest.
 
-Three winters had bought: an engine at half its basic road; a craft at nearly half, grown in the man's own school; a wolf that could hold a whole morning and more. A bloodline a quarter deep, with the shoulders finally arrived to prove it; a spear with five years of blisters on it; and a level that had not moved once, and had never once slowed him.
+Three winters had bought: engine at half its basic road; craft at nearly half, grown in man's own school; wolf that could hold whole morning and more. Bloodline quarter deep, with shoulders finally arrived to prove it; spear with five years of blisters on it; and level that had not moved once, and had never once slowed him.
 
-One autumn to the grey beast, if the ground held. A year past that to the day a boy with spirit eyes walked into the far forest, and the book this world lived inside turned its first page without him in it.
+One autumn to grey beast, if ground held. Year past that to day boy with spirit eyes walked into far forest, and book this world lived inside turned its first page without him in it.
 
-The wall had held the door for three years. The water behind it was heavy enough now that he could hear it in his sleep, like a river against a door.
+Wall had held door for three years. Water behind it was heavy enough now that he could hear it in sleep, like river against door. Pool pressed and grew heavy, and body waited with it, shoulders broader now, nose sharper, wolf closer to surface even without calling.
 
-Let it hold one more season, he thought, and then we will see about the price.
+Let it hold one more season, he thought, and then we will see about price.
 
-He slept, and the machine ran on, and the water rose all night against the stone, patient as everything else on the ridge, and somewhere past the burned cedar, at the black pools, something old and iron-grey and alone was being patient too.
+He slept, and machine ran on, and water rose all night against stone, patient as everything else on ridge, and somewhere past burned cedar, at black pools, something old and iron-grey and alone was being patient too, breathing slow, waiting for boy who would not hurry first.
 
 ---
 
 # Chapter 4 — The Patient Kind
 
-The autumn came in dry and loud, the leaves going down in windrows, and on the first cold morning of it Ye Cang stood at the door in the hunt coat with the spear, and his mother checked the coat's ties once, with both hands, which was her religion performed in full.
+The autumn came in dry and loud, leaves going down in windrows, and on the first cold morning Ye Cang stood at the door in hunt coat with spear, and his mother checked coat's ties once, with both hands, which was her religion performed in full.
 
-"Both hands," she said anyway.
+"Both hands," she said.
 
 "Both hands," he said.
 
-His father carried the second spear and the rope and nothing else, and the two of them went up past the snares and into the hem in the dark before the light. The deep quarter was a long day's walk and the black pools were past it, and a patient thing should be arrived on in the morning, when the day is young and the patience is fresh.
+His father carried second spear and rope and nothing else, and the two went up past snares and into hem in dark before light. Deep quarter was long day's walk and black pools past it, and patient thing should be arrived on in morning, when day is young and patience is fresh.
 
-At the burned cedar, in the first light, his father stopped, and turned, and said the law of the hunt standing up, like a man reading a contract aloud.
+At burned cedar, in first light, his father stopped, and turned, and said law of hunt standing up, like man reading contract aloud.
 
-"The ring comes to the hand that kills it. If my spear so much as opens its skin, the forest owes you nothing — the years go to whoever's hand did the killing, and no one else's. So hear the whole of my part before you walk on." He set the second spear against the cedar, deliberately, and left it there. "I will be your edge. Nothing else. I will sit at this tree for as long as it takes, and I will listen, and I will not come. Not for the kill. Not for the sound of it. Not unless you call me twice, and if you call me twice, boy, the hunt is over and done and we go home and try another year, and no word about it after." He looked at his son, the grown look, ten years deep. "A hundred and twenty years of that animal against ten of you. The law has no mercy in it. Say the terms back."
+"The ring comes to hand that kills it. If my spear so much as opens its skin, forest owes you nothing. Years go to whoever's hand did killing, and no one else's. So hear whole of my part before you walk on." He set second spear against cedar, deliberately, and left it there. "I will be your edge. Nothing else. I will sit at this tree for as long as it takes, and I will listen, and I will not come. Not for kill. Not for sound of it. Not unless you call me twice, and if you call me twice, boy, hunt is over and done and we go home and try another year, and no word about it after." He looked at his son, grown look, ten years deep. "Hundred and twenty years of that animal against ten of you. Law has no mercy in it. Say terms back."
 
-"The ring comes to the hand that kills it," said Ye Cang. "You are the edge. Two calls ends it."
+"The ring comes to hand that kills it," said Ye Cang. "You are edge. Two calls ends it."
 
-"Then go," said his father, and sat down against the burned cedar with his back to the trunk and his hands loose on his knees, and watched his son walk into the black pools country alone, which was, though neither of them said it, the hardest thing either of them had ever done.
-
----
-
-The ground past the cedar went down by degrees, the living forest thinning into spars and dead trunks standing in dark water, and the smell changed: moss and rot and cold stone and, under all of it, old musk, layered like the counts in a ledger nobody had audited in a century. The pools themselves were round and black and did not reflect, holding the sky as a closed hand holds a coin. Ye Cang walked the edge of them with his eyes open and his nose open and the spear at the low guard. He found the place his father had described: a leaning cedar at the margin of the bog, solid at the root, with a fork a man could sit in and a view across three pools and a wall of dead spars at its back.
-
-He built the blind small and honest, cut fern and dead bough, and sat, and the first day went by as the bracken hours had gone all those springs, except that now he was the thing in the bracken and something else was doing the sitting still.
-
-He never saw it. He felt it — the whole day, from midmorning on, a pressure on the left side of the world, the hair on his arms learning things his eyes had not been told. A hundred and twenty years of watching, set against ten years of being watched. He knew which side of that arithmetic he was on, and he did what the tallykeeper does with an account too large to count at once: he noted it, and sat on it, and waited for the pattern.
-
-At dusk the pressure went. He climbed into the fork, tied himself in, slept in pieces with the spear tied to his wrist, and the small fire he'd left at the cedar root burned all night at the edge of things, and nothing came.
-
-The second day was the same, and that was the information. It was not going to come to a boy sitting in a blind with a spear. It was a hundred and twenty years old; boys with spears had been a part of its world for longer than the ridge had had a name. It would wait for a mistake. It hunted as his father had taught, and as the herders said, and as he had read in another life: watch, follow, wear down, and go in at the waist when the weakness showed.
-
-So, on the second evening, he gave it one.
+"Then go," said his father, and sat down against burned cedar with back to trunk and hands loose on knees, and watched his son walk into black pools country alone, which was, though neither said it, hardest thing either had ever done.
 
 ---
 
-He built the performance with a professional's care, as he had once built an honest day's count out of a dishonest dock. The last light going long and orange across the black water. The spear set against the pool's lip, a full reach and a half away — the reach of a boy who has forgotten it, tired at the end of a second useless day. He knelt at the water and drank, unhurried, with his shoulder turned to the dead spars, and let his head hang as a ten-year-old's head hangs at the end of a ten-year-old's day, and he drank, and did not turn, and the whole back of him was a door held open.
+Ground past cedar went down by degrees, living forest thinning into spars and dead trunks standing in dark water, and smell changed: moss and rot and cold stone and, under all of it, old musk, layered like counts in ledger nobody had audited in century. Pools themselves were round and black and did not reflect, holding sky as closed hand holds coin. Ye Cang walked edge with eyes open and nose open and spear at low guard. He found place father had described: leaning cedar at margin of bog, solid at root, with fork a man could sit in and view across three pools and wall of dead spars at its back.
 
-The grey came out of the spars without a sound. Iron-gray base coat, green glowing eyes — Ghost Wolf canon. At hundred and twenty years young, no golden lock yet on forehead. That lock — distinct golden hair right on forehead — comes only at thousand years, most prominent canon identifier. Base coat remains iron-gray with green glowing eyes. At thousand years skull undergoes immense hardening — toughest weapon capable matching head-on force elite power attack systems — even though overall body constitution naturally fragile defensively weak. And retains canine flaw copper-headed iron-boned tofu-waist — waist and neck remain highly vulnerable vital spots experienced hunters target. That was why father's teaching said waist when weakness shows.
+He built blind small and honest, cut fern and dead bough, and sat, and first day went by as bracken hours had gone all those springs, except now he was thing in bracken and something else was doing sitting still.
 
-He heard nothing — that was the frightening part, the part he would keep — only the pressure arriving, and the smell of old musk and cold stone suddenly enormous, and then the light changed. The grey of the beast went out of it like a lamp going down. Something colder came up in its place. A green-grey shimmer. The light of the netherworld. The 1,000-Year Light of the Netherworld canon. Innate speed-boosting and physical mitigation aura scales up dramatically. Allows flash past standard sensory tracking. The color of the deep pools at night. And the wolf crossed ten paces of bog like smoke with shoulders. Inherently suspicious, completely avoiding charging head-on, using advanced speed to force battle of high-speed attrition tracking until tire or exposed flank — psychological warfare — elite calculation-driven phantom hunter at thousand years, at hundred and twenty still learning it.
+He never saw it. He felt it — whole day, from midmorning on, pressure on left side of world, hair on arms learning things eyes had not been told. Hundred and twenty years of watching, set against ten years of being watched. He knew which side of that arithmetic he was on, and he did what tallykeeper does with account too large to count at once: noted it, and sat on it, and waited for pattern.
 
-He moved on the only count that mattered, the one his whole life had been set to: the point leads a moving thing by a hand's width, and lets the moving thing arrive.
+At dusk pressure went. He climbed into fork, tied himself in, slept in pieces with spear tied to wrist, and small fire he'd left at cedar root burned all night at edge of things, and nothing came.
 
-It arrived. The world came down on him — weight, musk, cold — and the spear's point took it at the waist, the bean-curd door — tofu waist paradox — and held. At thousand years it would generate three phantom clones Advanced Ghost Doppelganger seamlessly hiding real body while visual duplicates serve as target distractions — canon thousand-year Ghost Wolf generates three phantom clones, used in Shrek Academy Beast Dueling Area vs Huo Yuhao and He Caitou to pressure duo with evasive phantom traits. At hundred and twenty it had not yet learned clones, only netherlight. Claws found him anyway, along the hip and up across the ribs, fire opening in a long line, the telling of claws his whole life suddenly finished with words. And the beast's weight came down the shaft, the whole hundred-and-twenty years of it, and the point went through the door — waist and neck vulnerable vital spots experienced hunters target — and then it was done as big things are done, all at once, in the space of one breath that neither of them had. Its skull — at thousand years toughest weapon capable matching elite power attack, capable of being shattered only by Dark Gold Terror Claw Bear right palm bone dark golden blades as Huo Yuhao did in Beast Dueling Area — at hundred and twenty still soft.
+Second day was same, and that was information. It was not going to come to boy sitting in blind with spear. It was hundred and twenty years old; boys with spears had been part of its world longer than ridge had name. It would wait for mistake. It hunted as his father had taught, and as herders said, and as he had read in another life: watch, follow, wear down, and go in at waist when weakness showed.
 
-The beast lay along the spear and did not get up.
-
-It watched him while it died. The green went out of the eyes and the grey came back, and then even the grey went, and between patient things, at the end, there is an accounting: it had not hurried, and he had not hurried first, and the forest had simply kept the appointment.
-
-The ring rose out of the dying beast at the last of the light, and turned, slowly, over the black water. The yellow of young straw.
-
-Ye Cang sat down in the bog with his hand still on the spear and his side on fire, and looked at it, and breathed, and did not call his father even once.
-
-He learned later what those hours had been on the other side of the spars. His father had heard the fight — of course he had; the whole deep quarter had heard it, the bog birds going up in one voice. He had stood up, and picked up nothing, and sat back down, and done the hardest arithmetic of his life with his hands loose on his knees: one call would have brought him at a dead run. There had been no call. So he had sat at the burned cedar with his ears stretched across the dark water until the birds settled, and he had watched the stars move over the dead spars, and he had not gone. A man who could do that, Ye Cang thought, when the story reached him whole years after, could do anything in the world except talk about it.
+So, on second evening, he gave it one.
 
 ---
 
-His father came at dawn anyway — came and stopped at the dead spars, having seen from far off that the blind was empty and the bog was not, and stood there with his hands empty and the second spear still back at the cedar, because the ring had not been absorbed yet, and the law was the law. It was the second hardest thing he had ever not done.
+He built performance with professional care, as he had once built honest day's count out of dishonest dock. Last light going long and orange across black water. Spear set against pool's lip, full reach and half away — reach of boy who has forgotten it, tired at end of second useless day. He knelt at water and drank, unhurried, with shoulder turned to dead spars, and let head hang as ten-year-old's head hangs at end of ten-year-old's day, and he drank, and did not turn, and whole back of him was door held open.
 
-"Sit," was all he said. "Put your back to the cedar root. I'll watch the water."
+Grey came out of spars without sound. Iron-gray coat, green eyes faint in dusk. At hundred twenty young, no golden lock yet on forehead. That lock comes only at thousand years, most prominent identifier, golden hair on forehead. Base coat remains iron-gray with green glowing eyes. At thousand years skull hardens immense, toughest weapon capable matching head-on force elite power attack, even though overall body fragile defensively weak. And retains canine flaw copper-headed iron-boned tofu-waist, waist and neck remain highly vulnerable vital spots hunters target. That was why father's teaching said waist when weakness shows.
 
-The absorption, when Ye Cang reached for the ring, was winter.
+He heard nothing — that was frightening part, part he would keep — only pressure arriving, and smell of old musk and cold stone suddenly enormous, and then light changed. Grey of beast went out of it like lamp going down. Something colder came up in its place. Green-grey shimmer. Light of netherworld. Thousand-year Light of Netherworld canon. Innate speed-boosting and mitigation aura scales up dramatically, allows flash past standard tracking, color of deep pools at night. And wolf crossed ten paces of bog like smoke with shoulders. Inherently suspicious, avoiding head-on, using advanced speed to force high-speed attrition tracking until tire or exposed flank, psychological warfare, elite calculation-driven phantom hunter at thousand years, at hundred twenty still learning it.
 
-The yellow ring came to him across the water at his pulling, slow, patient, and settled over him, and then a hundred and twenty cold seasons went into the body all at once — the old wolf's winters, every one of them, poured in as frost goes into stone. It hurt with a deep clean hurt, the hurt of a thing being made larger, and he sat through it as he had learned to sit through everything. Somewhere in the middle of it the door stood open in him that had been shut for three years, and the water behind it, heavy with all its banked nights, began at last to move.
+He moved on only count that mattered, one his whole life had been set to: point leads moving thing by hand's width, and lets moving thing arrive.
+
+It arrived. World came down on him — weight, musk, cold — and spear's point took it at waist, bean-curd door, and held. At thousand years it would generate three phantom clones hiding real body while duplicates serve as distractions, canon thousand-year Ghost Wolf generates three clones used in Shrek Academy Beast Dueling Area vs Huo Yuhao and He Caitou to pressure duo. At hundred twenty it had not yet learned clones, only netherlight. Claws found him anyway, along hip and up across ribs, fire opening in long line, telling of claws his whole life suddenly finished with words. And beast's weight came down shaft, whole hundred-twenty years of it, and point went through door — waist and neck vulnerable vital spots hunters target — and then it was done as big things are done, all at once, in space of one breath neither had. Its skull at thousand years toughest weapon capable matching elite power attack, capable being shattered only by Dark Gold Terror Claw Bear right palm bone dark golden blades as Huo Yuhao did in Beast Dueling Area, at hundred twenty still soft.
+
+Beast lay along spear and did not get up.
+
+It watched him while it died. Green went out of eyes and grey came back, and then even grey went, and between patient things, at end, there is accounting: it had not hurried, and he had not hurried first, and forest had simply kept appointment.
+
+Ring rose out of dying beast at last of light, and turned, slowly, over black water. Yellow of young straw.
+
+Ye Cang sat down in bog with hand still on spear and side on fire, and looked at it, and breathed, and did not call his father even once.
+
+He learned later what those hours had been on other side of spars. His father had heard fight — of course he had; whole deep quarter had heard it, bog birds going up in one voice. He had stood up, and picked up nothing, and sat back down, and done hardest arithmetic of his life with hands loose on knees: one call would have brought him at dead run. There had been no call. So he had sat at burned cedar with ears stretched across dark water until birds settled, and he had watched stars move over dead spars, and he had not gone. Man who could do that, Ye Cang thought, when story reached him whole years after, could do anything in world except talk about it.
+
+---
+
+His father came at dawn anyway — came and stopped at dead spars, having seen from far off that blind was empty and bog was not, and stood there with hands empty and second spear still back at cedar, because ring had not been absorbed yet, and law was law. It was second hardest thing he had ever not done.
+
+"Sit," was all he said. "Put back to cedar root. I'll watch water."
+
+Absorption, when Ye Cang reached for ring, was winter.
+
+Yellow ring came to him across water at his pulling, slow, patient, and settled over him, and then hundred and twenty cold seasons went into body all at once — old wolf's winters, every one of them, poured in as frost goes into stone. It hurt with deep clean hurt, hurt of thing being made larger, and he sat through it as he had learned to sit through everything. Somewhere in middle of it door stood open in him that had been shut for three years, and water behind it, heavy with all its banked nights, began at last to move.
 
 > 「Soul Ring — Ghost Wolf: 120 years」
 > 「Slots: 2 / 2 / 2」
 > 「Level — 11」
 
-The lines printed cold and quiet in the dark behind his eyes, one after another, and he was a Soul Master, at ten, sitting in the black pools country with his father's hand flat on his back — the whole lesson, both halves of it, finished.
+Lines printed cold and quiet in dark behind eyes, one after another, and he was Soul Master, at ten, sitting in black pools country with father's hand flat on back — whole lesson, both halves, finished.
 
-The gains came in over the hours of that day, as freight comes off a dock: the pool itself deepened and darkened, fed at the bottom by the old wolf's cold; the body took its vitality as meat takes salt, slowly, permanently. The level came too, and it came twice: one rank of banked water through the door the ring had opened, and one more atop it that was the ring's own. A level for a ring — the beast's hundred and twenty years of cultivation, paid in at the seating — the continent's oldest arithmetic. The craft's own count, which had stood at its top since the cedar, went over at the kill itself and reopened deeper — Stage Two before the seat that took it. And the second seat stood open in him where there had been one, and The Hunter's Craft went into it unasked, as a hand goes home to a familiar tool, and seated, and began quietly to run.
+Gains came in over hours of that day, as freight comes off dock: pool itself deepened and darkened, fed at bottom by old wolf's cold; body took its vitality as meat takes salt, slowly, permanently. Level came too, and it came twice: one rank of banked water through door ring had opened, and one more atop it that was ring's own. Level for ring — beast's hundred and twenty years of cultivation, paid in at seating — continent's oldest arithmetic. Craft's own count, which had stood at its top since cedar, went over at kill itself and reopened deeper — Stage Two before seat that took it. And second seat stood open in him where there had been one, and Hunter's Craft went into it unasked, as hand goes home to familiar tool, and seated, and began quietly to run.
 
-And with the evening, one more thing arrived, cold and plain, one silent word set in his mind with a skill's weight to it, the second word of its kind in his life: *fade.*
+And with evening, one more thing arrived, cold and plain, one silent word set in mind with skill's weight to it, second word of its kind in life: *fade.*
 
-He knew what it was for. He had felt it cross ten paces of bog like smoke. The old wolf's own light — the speed of it, and how the spear's first touch had slid off the shimmer of it like rain off oiled cloth — his now, from the ring, at the price of his pool and the cost of a breath.
+He knew what it was for. He had felt it cross ten paces of bog like smoke. Old wolf's own light — speed of it, and how spear's first touch had slid off shimmer like rain off oiled cloth — his now, from ring, at price of pool and cost of breath.
 
 ---
 
-The carcass went home on the sledge over two days, and at the village street his father told the ridge the true shape of it and the false size of it: a beast of the deep quarter, taken by the Ye men together, the boy walking the wind and the father taking the weight. The ridge made its sound. The pelt went to the killer by the oldest custom, iron-grey and heavy, to lie at last beside the loom where his mother worked. Old Kuo wrote the winter's largest number under YE, and that was the door closed quietly — and Ye Cang, who had read this world's book twice, understood that his father's one public lie was itself a kind of craft, and honored it.
+Carcass went home on sledge over two days, and at village street his father told ridge true shape of it and false size of it: beast of deep quarter, taken by Ye men together, boy walking wind and father taking weight. Ridge made its sound. Pelt went to killer by oldest custom, iron-grey and heavy, to lie at last beside loom where mother worked. Old Kuo wrote winter's largest number under YE, and that was door closed quietly — and Ye Cang, who had read this world's book twice, understood that father's one public lie was itself kind of craft, and honored it.
 
-Little Shan was in the street crowd, the practice bow on his back as always, and he did not make the sound the ridge made. He looked once at the sledge, once at Ye Cang, and touched two fingers to his forehead, the hunter's acknowledgment between equals, and went home without a word, which was the most anyone ever said about it on the ridge.
+Little Shan was in street crowd, practice bow on back as always, and he did not make sound ridge made. He looked once at sledge, once at Ye Cang, and touched two fingers to forehead, hunter's acknowledgment between equals, and went home without word, which was most anyone ever said about it on ridge.
 
-"Good kill," his father said, at the door of the house, with the meat smoke going up straight. The second time in ten years.
+"Good kill," his father said, at door of house, with meat smoke going up straight. Second time in ten years.
 
-His mother checked his hands herself, both of them, turning them over in the door light, and then the bandage at his ribs, and said nothing at all, and fed him until he laughed.
+His mother checked his hands herself, both of them, turning them over in door light, and then bandage at ribs, and said nothing at all, and fed him until he laughed.
 
-And that night, in the loft, at the gate of the thing that had happened, he looked, and the ledger gave him the whole of it, every line, as it did at every gate he had ever crossed.
+And that night, in loft, at gate of thing that had happened, he looked, and ledger gave him whole of it, every line, as it did at every gate he had ever crossed.
 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 12 · Soul Master · the door open · the ring's gift」
@@ -508,15 +516,15 @@ And that night, in the loft, at the gate of the thing that had happened, he look
 > 「The Tally: 44%」
 > 「Spear: 29%」
 
-Two lines of blood now: the one he was born to, and the one he had taken. The level line held the day's other gift: twelve, with the ring's own rank inside it.
+Two lines of blood now: one he was born to, and one he had taken. Level line held day's other gift: twelve, with ring's own rank inside it.
 
-He audited it, line by line, and found it honest, and found himself smiling at the ring's line in particular. A hundred and twenty, it said, and then, underneath the number, in the manner of ledgers and nothing else in this world, the quiet note that the number was not going to stand still.
+He audited it, line by line, and found it honest, and found himself smiling at ring's line in particular. Hundred and twenty, it said, and then, underneath number, in manner of ledgers and nothing else in this world, quiet note that number was not going to stand still.
 
-The door was open. The water was moving. The machine ran on.
+Door was open. Water was moving. Machine ran on.
 
-And one year from this autumn, more or less, a boy with spirit eyes would walk into a forest far to the east of here, and the book this world lived inside would open, and this time he would be there to meet it. A Soul Master of the western hem, eleven years old: a grey wolf, a seated craft, a ring that aged, and a year of road between him and the gates of a city ten thousand years old.
+And one year from this autumn, more or less, boy with spirit eyes would walk into forest far east of here, and book this world lived inside would open, and this time he would be there to meet it. Soul Master of western hem, eleven years old: grey wolf, seated craft, ring that aged, and year of road between him and gates of city ten thousand years old.
 
-He slept, and the pool poured through the open door all night, level after level of banked water arriving home, and the ring turned slowly in its seat, growing older.
+He slept, and pool poured through open door all night, level after level of banked water arriving home, and ring turned slowly in its seat, growing older.
 
 ---
 
@@ -524,85 +532,83 @@ He slept, and the pool poured through the open door all night, level after level
 
 The water moved all winter.
 
-Thirteen came with the first deep snow. Fourteen before the thaw, fifteen with the melt, sixteen when the first green showed on the south crags. He learned each at dawn from the ledger's cold line and said nothing, because there was no one to say it to and nothing in the county's books that had a column for a boy pouring levels like rain through a roof.
+Thirteen came with first deep snow. Fourteen before thaw, fifteen with melt, sixteen when first green showed on south crags. He learned each at dawn from ledger's cold line and said nothing, because there was no one to say it to and nothing in county's books that had column for boy pouring levels like rain through roof.
 
-He did not go to Anlin. The crystal could not read what the ledger already counted, and the ledger counted everything.
+He did not go to Anlin. Crystal could not read what ledger already counted, and ledger counted everything.
 
-The engine had said MASTERED since his first midwinter at six. Five years at mastery, all hours, at his best. The pool did not get a new stage — a county method has no stages, only mastery — it went dark. Dense. The water of a deeper well fed by three bloodlines and seventeen poured levels. The reborn mind wasted no hour and no motion. The method ran while he carried water, while he sat the black pools, while he slept. Where other souls worked one hour, his worked every one, and it compounded.
+Engine had said MASTERED since first midwinter at six. Five years at mastery, all hours, at his best. Pool did not get new stage — county method has no stages, only mastery — it went dark. Dense. Water of deeper well fed by three bloodlines and seventeen poured levels. Reborn mind wasted no hour and no motion. Method ran while he carried water, while he sat black pools, while he slept. Where other souls worked one hour, his worked every one, and it compounded.
 
-The body changed under it, not as the ridge's ordinary weather of bone and meat, but with a direction.
+Body changed under it, not as ridge's ordinary weather of bone and meat, but with direction.
 
-The grey line deepened past Mid into High. At forty-eight parts it had been the forties' edge; at sixty-five it was the sixties, and the predator's frame arrived as freight arrives, box by box across a season. The wrist that no longer knew a sprain. The back that carried winter's wood without complaint. The nose that stood at the door each morning and read the whole day out of the air. Height came that winter, and shoulders with it. Amber in the eyes caught the firelight now, and a grey tint showed in his hair when the sun hit it. The village dogs stopped lifting their heads when he passed. He had not decided to walk more quietly. The ghost's line and the storm's line had decided it for him, and were being fed, and were growing, and the boy lived inside what grew.
+Grey line deepened past Mid into High. At forty eight parts it had been forties edge; at sixty five it was sixties, and predator's frame arrived as freight arrives, box by box across season. Wrist that no longer knew sprain. Back that carried winter's wood without complaint. Nose that stood at door each morning and read whole day out of air. Height came that winter, and shoulders with it. Amber in eyes caught firelight now, and grey tint showed in hair when sun hit it. Village dogs stopped lifting heads when he passed. He had not decided to walk more quietly. Ghost's line and storm's line had decided it for him, and were being fed, and were growing, and boy lived inside what grew.
 
-The village, without ceremony, stopped calling him the little one in spring and started calling him Ye Cang. Not because he asked. Because the grey worn like the coat — let out, and let out, and still fitting — had become a frame the ridge recognized. The wood passed him at peace when he sat the bracken in possession. That was new.
+Village, without ceremony, stopped calling him little one in spring and started calling him Ye Cang. Not because he asked. Because grey worn like coat — let out, and let out, and still fitting — had become frame ridge recognized. Wood passed him at peace when he sat bracken in possession. That was new.
 
-The releases grew with the year. The grey came on him now for whole mornings, possession and boy breathing as one animal. When he called it — silent *hunt.* — grey light surged from within. Faint ice-amber light fluctuated. Bones cracked. Muscles and bones expanded. Stature larger. Hair grey with frost tint. Amber eyes ice-amber. Hands became claws. Nails sharp like daggers. Grey fur faint on arms. Cold air exhaled. Wind curled around feet. Beast martial soul possession. Attributes superimposed upon body. Changes increasingly pronounced as cultivation rose. Degree of fusion affected how completely strength expressed. Closer to Storm Frost Ghost Wolf characteristics, better unleash power. Body robust released or not. At eleven the wolf held an hour at six; at eleven it held the whole morning and asked for more. The pool's new weight paid for every minute. The skill's line climbed, fed by three bloodlines: Grey frame, Ghost patience, Stormwind speed. Eighty-five parts by the leaving, High. The ledger had never flattered him. It simply counted what three bloods poured into one skill.
+Releases grew with year. Grey came on him now for whole mornings, possession and boy breathing as one animal. When he called it — silent *hunt.* — grey light surged from within. Faint ice-amber light fluctuated. Bones cracked. Muscles and bones expanded. Stature larger. Hair grey with frost tint. Amber eyes ice-amber. Hands became claws. Nails sharp like daggers. Grey fur faint on arms. Cold air exhaled. Wind curled around feet. Beast possession. Attributes superimposed upon body. Changes increasingly pronounced as cultivation rose. Degree of fusion affected how completely strength expressed. Closer to Storm Frost Ghost Wolf characteristics, better unleash power. Body robust released or not. At eleven wolf held hour at six; at eleven it held whole morning and asked for more. Pool's new weight paid for every minute. Skill's line climbed, fed by three bloodlines: Grey frame, Ghost patience, Stormwind speed. Eighty five parts by leaving, High. Ledger had never flattered him. It simply counted what three bloods poured into one skill.
 
-The patience grew too, and this was stranger than the rest, because patience had seemed a thing a man had or did not have, like a chin. It was not. It was a limb. It lengthened. He could sit the black pools blind through a whole short day, spear across knees, mind counting musk and water and small sounds of bog birds, without the fidget a ten-year-old's body owes its blood. The body outlasted the boy in it. Something old and wolfish held the sitting the boy could not.
+Patience grew too, and this was stranger than rest, because patience had seemed thing man had or did not have, like chin. It was not. It was limb. It lengthened. He could sit black pools blind through whole short day, spear across knees, mind counting musk and water and small sounds of bog birds, without fidget ten-year-old's body owes its blood. Body outlasted boy in it. Something old and wolfish held sitting boy could not.
 
-Soul power control surfaced that winter, quiet as everything the ledger did. Not a new list the world gave him — a name for what the reborn mind had been doing since the first midwinter: flowing power where the eye went, not where the hand went. Observation surfaced with it — the hunter's eye and the tallykeeper's counting fused into one line. Running surfaced when the storm-line seated. Stillness, Sense, Stride, Spear, Tally — all mastered, all feeding each other.
+Soul power control surfaced that winter, quiet as everything ledger did. Not new list world gave him — name for what reborn mind had been doing since first midwinter: flowing power where eye went, not where hand went. Observation surfaced with it — hunter's eye and tallykeeper's counting fused into one line. Running surfaced when storm-line seated. Stillness, Sense, Stride, Spear, Tally — all mastered, all feeding each other.
 
-Mastery made other things easier. That was the cascade the ledger never wrote in words but counted in numbers. Basic MASTERED made soul power control 50% easier. Craft MASTERED made Spear, Stillness, Sense, Stride, Tally 50% easier. When you learn one thing true, the next comes faster. A smart person does not collect basics — he fuses them.
+Mastery made other things easier. That was cascade ledger never wrote in words but counted in numbers. Basic MASTERED made soul power control fifty percent easier. Craft MASTERED made Spear, Stillness, Sense, Stride, Tally fifty percent easier. When you learn one thing true, next comes faster. Smart person does not collect basics — he fuses them.
 
 By late summer they fused.
 
-It was not a new technique the world handed him. It was what happened when a man who counted for a living mastered every basic the ridge could teach — soul power control, observation, running, patience, wind stride, quiet step — and the ledger, which never invents roads, recognized that the roads had become one road. The third seat, open since Soul Master, filled without him asking.
+It was not new technique world handed him. It was what happened when man who counted for living mastered every basic ridge could teach — soul power control, observation, running, patience, wind stride, quiet step — and ledger, which never invents roads, recognized that roads had become one road. Third seat, open since Soul Master, filled without him asking.
 
 > 「Technique — The Grey Ridge Hunt: 100% · MASTERED · seated, the third slot · High」
 
-The fused method: spirit power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst. Its own effects, its own name. The county's plain method plus the hunter's craft plus every life-skill the ridge taught, become something more good — a named method that has own effects. That was canon's own road: Tang Sect's Ghost Shadow Perplexing Track was observation plus running; Mysterious Heaven Skill was cultivation plus control. His was the Grey Ridge Hunt.
+Fused method: spirit power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst. Its own effects, its own name. County's plain method plus hunter's craft plus every life-skill ridge taught, become something more good — named method that has own effects. That was canon's own road: Tang Sect's Ghost Shadow Perplexing Track was observation plus running; Mysterious Heaven Skill was cultivation plus control. His was Grey Ridge Hunt.
 
-The ring aged — not by calendar, but by what poured through it. At thousand years Ghost Wolf grows distinct lock golden hair right on forehead most prominent canon identifier base coat iron-gray green glowing eyes toughest skull capable matching head-on force elite power attack even though overall body fragile defensively weak tofu waist paradox copper-headed iron-boned tofu-waist waist and neck highly vulnerable vital spots experienced hunters target.
+Ring aged — not by calendar, but by what poured through it. He had felt it turn in its seat on night it seated, and thought turning was settling. It was work. Seventeen levels poured through it in pouring year — thirteen through twenty nine — shelves holding less, water coming anyway, effective talent two point nine six at start of year, three point five by its end with three bloodlines and thousand-year rings feeding it. Year of engine at mastery, all hours. Number under ring's line was not number kill had left: hundred twenty at seating, thirteen fifty by leaving, twelve hundred thirty years of ghost-wolf poured into year's honest work, yellow to purple, color changing as years crossed thousand. Pelt beside mother's loom, faintly on warm evenings, smelled of live wolf, and wolf was older now.
 
-He had felt it turn in its seat on the night it seated, and thought the turning was settling. It was work. Seventeen levels poured through it in the pouring year — thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine — the shelves holding less, the water coming anyway, effective talent 2.96× at the start of the year, 3.5× by its end with three bloodlines and thousand-year rings feeding it. A year of engine at mastery, all hours. The number under the ring's line was not the number the kill had left: 120 at the seating, 1,350 by the leaving, twelve hundred and thirty years of ghost-wolf poured into a year's honest work, yellow to purple, the color changing as the years crossed a thousand. The pelt beside his mother's loom, faintly on warm evenings, smelled of live wolf, and the wolf was older now.
+Nineteen arrived with first cold of autumn and did not stop. Twenty came week later. Twenty one, twenty two, twenty three, twenty four, twenty five — pour that had slowed shelf by shelf for half season now ran faster at its end than start, because blood feeds speed and speed feeds blood. Grey line at sixty five percent High gave plus one point three zero effective innate. Ghost at thirty five percent Mid gave plus zero point three five. Storm at fifteen percent Mid gave plus zero point two two five. Basic MASTERED High gave plus zero point five. Craft MASTERED High gave plus zero point three. Innate one became three point five. Wall at twenty was door with price, and price was paid, and water behind it kept coming. Twenty six, twenty seven, twenty eight, twenty nine — and stopped.
 
-Nineteen arrived with the first cold of autumn and did not stop. Twenty came a week later. Twenty-one, twenty-two, twenty-three, twenty-four, twenty-five — the pour that had slowed shelf by shelf for half a season now ran faster at its end than its start, because blood feeds speed and speed feeds blood. The grey line at sixty-five percent High gave +1.30 effective innate; ghost at thirty-five percent Mid gave +0.35; storm at fifteen percent Mid gave +0.225; Basic MASTERED High gave +0.5; Craft MASTERED High gave +0.3 — innate 1 became 3.5. The wall at twenty was a door with a price, and the price was paid, and the water behind it kept coming. Twenty-six, twenty-seven, twenty-eight, twenty-nine — and stopped.
+He knew stop. He had lived beside one for three years in father's shoulders. Water against stone, one number standing still in all world. Second wall at thirty. Door forest kept keys to.
 
-He knew the stop. He had lived beside one for three years in his father's shoulders. Water against stone, one number standing still in all the world. The second wall at thirty. The door the forest kept the keys to.
+He was not boy who had stood at first wall. He knew this one as door, and he owned key to its making.
 
-He was not the boy who had stood at the first wall. He knew this one as a door, and he owned a key to its making.
+"It's time," he said at fire in middle October's first week. "Second one."
 
-"It's time," he said at the fire in middle October's first week. "The second one."
+His father looked at him long moment, as he looked at track before deciding what had made it.
 
-His father looked at him for a long moment, as he looked at a track before deciding what had made it.
-
-"The skirts," his father said. "Not the deep quarter. There's a pack that runs the wind line under the south crags. Stormwind. Fast kind. Twelve hundred, the big one, maybe more. Purple if you can take it. You can't out-sit what won't stop, boy. You know that."
+"The skirts," his father said. "Not deep quarter. There's pack that runs wind line under south crags. Stormwind. Fast kind. Twelve hundred, big one, maybe more. Purple if you can take it. You can't out-sit what won't stop, boy. You know that."
 
 "I know it."
 
 "Then say what you'll do."
 
-"Out-decide it," Ye Cang said. "It runs. Everything that runs has a line it has to take. I'll be standing in the line. With the Hunt."
+"Out-decide it," Ye Cang said. "It runs. Everything that runs has line it has to take. I'll be standing in line. With Hunt."
 
-His father turned the spit one turn. That was the whole council.
+His father turned spit one turn. That was whole council.
 
-The wind line under the south crags was hunted country of a different alphabet. No bogs, no blinds, no patient musk — a long shoulder of scree and bent grass, all of it moving, all of it noise, wind coming off crags in cold ropes. They found the pack's line in first hour, prints laid in running pairs, stride longer than law of walking wolf had any right to allow. His father read them at crouch.
+Wind line under south crags was hunted country of different alphabet. No bogs, no blinds, no patient musk — long shoulder of scree and bent grass, all of it moving, all of it noise, wind coming off crags in cold ropes. They found pack's line in first hour, prints laid in running pairs, stride longer than law of walking wolf had any right to allow. His father read them at crouch.
 
-"Twelve hundred years, the big one. Purple. The grey's son at head, pack behind his temper. Mid-caliber even at hundred, High at this age. You take head, or you take nothing."
+"Twelve hundred years, big one. Purple. Grey's son at head, pack behind his temper. Mid-caliber even at hundred, High at this age. You take head, or you take nothing."
 
-They sat the shoulder a day and a night, and second day pack came through scree at hour when light goes long, and boy learned what fast truly was at twelve hundred years. Not speed. Decision, whole animal already committed to line through world, body merely arriving where mind had gone first. Pack streamed shoulder in grey rope, at head ran son of storm, iron-dark, wind pulling howl off throat that arrived before it did.
+They sat shoulder day and night, and second day pack came through scree at hour when light goes long, and boy learned what fast truly was at twelve hundred years. Not speed. Decision, whole animal already committed to line through world, body merely arriving where mind had gone first. Pack streamed shoulder in grey rope, at head ran son of storm, iron-dark, wind pulling howl off throat that arrived before it did.
 
 Ye Cang stood up out of grass into line.
 
-He had chosen place in first hour of first day: fold in scree where every running line through shoulder narrowed to one. Pack's line fixed by crags; crags did not move; fold did not move; boy stood in fold and did not move, and spear's point led arriving wolf by width craft demanded, which is to say: by nothing slower eye could see. Soul power control flowed where eye went — the fused Hunt's first gift. Observation read running line, running arrived where mind went first — the Hunt's second gift. First soul ring lit up — yellow to world, true purple in Ledger — faint black light halo erupted one meter around, then slid: Netherlight, speed surge +60% agility +50% physical blow sliding off 30%, body shifting half-step before fear arrived like sledge runner. At purple upgrade it would become Ghost Veil — energy sliding off +40% plus brief invisibility 2 seconds ghost-line seen-late plus confuse/stun like Purple Demon Eye — Spirit Sea 850 supporting.
+He had chosen place in first hour of first day: fold in scree where every running line through shoulder narrowed to one. Pack's line fixed by crags; crags did not move; fold did not move; boy stood in fold and did not move, and spear's point led arriving wolf by width craft demanded, which is to say: by nothing slower eye could see. Soul power control flowed where eye went — fused Hunt's first gift. Observation read running line, running arrived where mind went first — Hunt's second gift. First soul ring lit up — yellow to world, true purple in Ledger — faint black light halo erupted one meter around, then slid: Netherlight, speed surge plus sixty agility plus fifty physical blow sliding off thirty, body shifting half-step before fear arrived like sledge runner. At purple upgrade it would become Ghost Veil — energy sliding off plus forty plus brief invisibility two seconds ghost-line seen-late plus confuse stun like Purple Demon Eye — Spirit Sea eight fifty supporting.
 
-The grey met point at full stride. Point went home at shoulder's root, craft's whole sentence written in one line — and wind's own weight came down shaft and tore shoulder half open before second spear, his father's, arrived from flank and closed account.
+Grey met point at full stride. Point went home at shoulder's root, craft's whole sentence written in one line — and wind's own weight came down shaft and tore shoulder half open before second spear, his father's, arrived from flank and closed account.
 
 Pack poured past on both sides of killing like water past stone, and was gone down shoulder, and crags stood quiet, and father's hand was flat on his back, and ring was rising.
 
-Purple. Young straw darkened to deep violet: twelve hundred years and change, and it came to him across scree as first one had come across bog: patient, unhurried, certain of welcome. He sat into it with torn shoulder singing and father's arm behind him, and second door of his life opened, and banked water of long autumn poured home through it — one level the wall had held, arriving, and atop it, ring's own rank. And with evening, third word of his life arrived, cold and plain, set in his mind with skill's weight:
+Purple. Young straw darkened to deep violet: twelve hundred years and change, and it came to him across scree as first one had come across bog: patient, unhurried, certain of welcome. He sat into it with torn shoulder singing and father's arm behind him, and second door of his life opened, and banked water of long autumn poured home through it — one level wall had held, arriving, and atop it, ring's own rank. And with evening, third word of his life arrived, cold and plain, set in mind with skill's weight:
 
 *run.*
 
-The storm's own stride. Burst that is not escape but arrival, body going where mind went first, his now, at price of pool and cost of breath. Second soul ring lit up — yellow to world true purple in Ledger — cyan light burst, sharp wolf claws extended from palms, wind curled around legs: Windstride, burst 10 meters afterimage 1 second attack +50% defense +30% speed +80% like Double Wolf Possession. At purple upgrade it would become Storm Step. Wind Blade Burst: 10 half crescent wind blades sealing evasion. Range 20 meters. Each 30% spirit power. Stormwind Wings: pair enormous cyan wings with frost edges. Flight 50 meters height. 15 seconds. Sharp wings offensive. Afterimage 2-3 like Ghost Shadow Perplexing Track. Future Tornado Wind Blade: layer intense cyan light exploding into dazzling tornado. He sat on scree with shoulder in pieces and word in head and laughed once, short, sound ridge would have sworn boy did not make, because wolf's book now read: *hunt. fade. run.* — and he was eleven years old, and a Great Soul Master at top, level thirty, and ledger's lines were climbing off page, and both rings were purple, thousand-year.
+Storm's own stride. Burst that is not escape but arrival, body going where mind went first, his now, at price of pool and cost of breath. Second soul ring lit up — yellow to world true purple in Ledger — cyan light burst, sharp wolf claws extended from palms, wind curled around legs: Windstride, burst ten meters afterimage one second attack plus fifty defense plus thirty speed plus eighty like Double Wolf Possession. At purple upgrade it would become Storm Step. Wind Blade Burst: ten half crescent wind blades sealing evasion. Range twenty meters. Each thirty percent spirit power. Stormwind Wings: pair enormous cyan wings with frost edges. Flight fifty meters height. Fifteen seconds. Sharp wings offensive. Afterimage two to three like Ghost Shadow Perplexing Track. Future Tornado Wind Blade: layer intense cyan light exploding into dazzling tornado. He sat on scree with shoulder in pieces and word in head and laughed once, short, sound ridge would have sworn boy did not make, because wolf's book now read: *hunt. fade. run.* — and he was eleven years old, and Great Soul Master at top, level thirty, and ledger's lines were climbing off page, and both rings were purple, thousand-year.
 
-The coming home was quiet one. Mother sewed shoulder and fed him and said nothing at all, which was her longest speech. Pelt went to smoke-house beam beside first. Old Kuo, at year's turning of his book, wrote largest number of Ye column to date, looked at it a while, and ruled line closed with flat stroke he kept for finished accounts.
+Coming home was quiet one. Mother sewed shoulder and fed him and said nothing at all, which was her longest speech. Pelt went to smoke-house beam beside first. Old Kuo, at year's turning of his book, wrote largest number of Ye column to date, looked at it while, and ruled line closed with flat stroke he kept for finished accounts.
 
-The leaving was made in weeks after, without one word of it being spoken as decision.
+Leaving was made in weeks after, without one word of it being spoken as decision.
 
-Mother let hunt coat out a last time, and then, finding nothing left to let, cut it down middle of its cleverness and rebuilt it as road coat. Into its hem, with needle and silence, she sewed what ten years of pelts had brought. He could feel weight of hem when he lifted coat, and knew better than to count it in front of her. Father oiled second spear, one that had stood against burned cedar through whole of first hunt, and wrapped its head in oiled linen, and stood it by door without word about it, and that was giving.
+Mother let hunt coat out last time, and then, finding nothing left to let, cut it down middle of its cleverness and rebuilt it as road coat. Into its hem, with needle and silence, she sewed what ten years of pelts had brought. He could feel weight of hem when he lifted coat, and knew better than to count it in front of her. Father oiled second spear, one that had stood against burned cedar through whole first hunt, and wrapped its head in oiled linen, and stood it by door without word about it, and that was giving.
 
-"You'll walk forest's hem north," his father said last evening at fire. "Never in trees. Hem roads are old, villages know them. Season to city, if you're honest." He looked at fire a while. "Ye men stop at ten. You're past twenty. I don't know what you are. I know whose you are."
+"You'll walk forest's hem north," his father said last evening at fire. "Never in trees. Hem roads are old, villages know them. Season to city, if you're honest." He looked at fire while. "Ye men stop at ten. You're past twenty. I don't know what you are. I know whose you are."
 
 "I know whose I am," Ye Cang said.
 
@@ -610,7 +616,7 @@ Mother let hunt coat out a last time, and then, finding nothing left to let, cut
 
 Little Shan was at fence in blue cold of leaving morning, practice bow on back. Ye Cang, passing, touched two fingers to own forehead — hunter's acknowledgment between equals, returned at last, given away whole. Little Shan took it as ridge takes weather, and that was everything that was ever said.
 
-At top of first rise he looked back once. Smoke, forty roofs, long grey shoulder of ridge he could hunt blind, mother small at gate, father not there, which meant father was in trees, which meant father would watch road a while from inside it. Then road went over rise, and ridge went into him instead, and he walked east into cold morning with road coat weighted at hem, father's spear on shoulder, two purple thousand-year rings aging in seats, three bloodlines High/Mid/Mid, fused Hunt in third seat, and whole counted life of him folded shut like Old Kuo's book.
+At top of first rise he looked back once. Smoke, forty roofs, long grey shoulder of ridge he could hunt blind, mother small at gate, father not there, which meant father was in trees, which meant father would watch road while from inside it. Then road went over rise, and ridge went into him instead, and he walked east into cold morning with road coat weighted at hem, father's spear on shoulder, two purple thousand-year rings aging in seats, three bloodlines High Mid Mid, fused Hunt in third seat, and whole counted life of him folded shut like Old Kuo's book.
 
 That night, at first gate of road, in loft of hem-village inn with smell of other men's suppers below, he looked, and ledger gave him whole of it, every line, as it did at every gate he had ever crossed.
 
@@ -644,9 +650,9 @@ That night, at first gate of road, in loft of hem-village inn with smell of othe
 > 「Cooking Skill: 100% · MASTERED · High」
 > 「Combat Style: 100% · MASTERED · High」
 
-He read it twice, and found it honest — and found the first line changed. Wolf no longer said Grey Wolf. It said High → Storm Frost Ghost Wolf. The bloodline strange change — Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year — had awakened the soul. Grey Wolf → Ice Wolf → Storm Frost Ghost Wolf, three bloodlines fused, attribute ice deepened from thin to true ice, frame larger, eyes ice-amber. The ledger counted the evolution as it counted everything. Netherlight at 1,350y purple had upgraded — Ghost Veil: speed surge + physical + energy sliding off + brief invisibility. Windstride at 1,850y purple had upgraded — Storm Step: burst + wind blade + afterimage. Skills upgrade when ring breakthroughs next stage — canon's own law, Soul Land 3 receipt. And the third technique, Grey Ridge Hunt, carried its own concealment — Ring Veil: hides purple as yellow to world, true purple only in Ledger. What fool shows two thousand-year rings at eleven? Not this one. He slept sleep of man whose tally had come out even, and in morning road ran on east, and he ran with it, spirit power flowed where eye went, body arrived where mind went first — the Hunt's own effects, and purple hidden as yellow to every eye but his.
+He read it twice, and found it honest — and found first line changed. Wolf no longer said Grey Wolf. It said High → Storm Frost Ghost Wolf. Bloodline strange change — Grey sixty five High plus Ghost thirty five Mid plus Stormwind fifteen Mid plus both rings purple thousand-year — had awakened soul. Grey Wolf → Ice Wolf → Storm Frost Ghost Wolf, three bloodlines fused, attribute ice deepened from thin to true ice, frame larger, eyes ice-amber. Ledger counted evolution as it counted everything. Netherlight at thirteen fifty purple had upgraded — Ghost Veil: speed surge plus physical plus energy sliding off plus brief invisibility. Windstride at eighteen fifty purple had upgraded — Storm Step: burst plus wind blade plus afterimage. Skills upgrade when ring breakthroughs next stage — canon's own law, Soul Land 3 receipt. And third technique, Grey Ridge Hunt, carried its own concealment — Ring Veil: hides purple as yellow to world, true purple only in Ledger. What fool shows two thousand-year rings at eleven? Not this one. He slept sleep of man whose tally had come out even, and in morning road ran on east, and he ran with it, spirit power flowed where eye went, body arrived where mind went first — Hunt's own effects, and purple hidden as yellow to every eye but his.
 
-Somewhere far down same turning of world, in same autumn, a boy his own age with eyes color of nothing was walking alone out of great man's back gate, toward forest, toward ring of his own that was million years wide, toward same city. Book this world lived inside was opening. Ye Cang walked hem of it, season ahead, two purple thousand-year rings, level thirty, everything Mid+, fused method, and ledger counted his road whole way.
+Somewhere far down same turning of world, in same autumn, boy his own age with eyes color of nothing was walking alone out of great man's back gate, toward forest, toward ring of his own that was million years wide, toward same city. Book this world lived inside was opening. Ye Cang walked hem of it, season ahead, two purple thousand-year rings, level thirty, everything Mid+, fused method, and ledger counted his road whole way.
 
 ---
 
