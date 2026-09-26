@@ -1,6 +1,6 @@
 # SYSTEM SPEC — The Ledger — v5.4 Footwork Fusion Fix — Different Name Per Grade — Correct Evolution
 
-v5.4, 2026-09-26. Footwork Fusion Fix: Which fool masters so many step techniques separately? Basic Walking + Basic Running + Mountain Stride are all footwork — they FUSE into one movement technique Silent Wind Step Mid, not three separate High. Evolution chain with different name per grade, correct evolution per technique, footwork fusion law. All MASTERED references removed. Every evolution has different name and own logical next, not everything into Silent Wind Step, and footwork fusion mandatory. Chapters 1-7 clean and clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 panels 80 IN SYNC run_all green.
+v5.4, 2026-09-26. Footwork Fusion Fix: Which fool masters so many step techniques separately? Basic Walking + Basic Running + Mountain Stride are all footwork — they FUSE into one movement technique Silent Wind Step Mid, not three separate High. Evolution chain with different name per grade, correct evolution per technique, footwork fusion law. All terminal references removed. Every evolution has different name and own logical next, not everything into Silent Wind Step, and footwork fusion mandatory. Chapters 1-7 clean and clear avg 14-18 band 2400-3400 over60 0 the-way 0 bare 0 panels 80 IN SYNC run_all green.
 
 ## 1. What it is
 

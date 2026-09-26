@@ -6,7 +6,7 @@ Thirteen came with first deep snow. Fourteen before thaw, fifteen with melt, six
 
 He did not go to Anlin. Crystal could not read what ledger already counted, and ledger counted everything.
 
-Engine had said evolving Low→Mid→High since first midwinter at six. Five years evolving Low 1-100% → Mid → High, all hours, at his best. At 100% that second it evolved into next like Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High. Pool did not get new stage — county method has no stages, only mastery — it went dark. Dense. Water of deeper well fed by three bloodlines and seventeen poured levels. Reborn mind wasted no hour and no motion. Method ran while he carried water, while he sat black pools, while he slept. Where other souls worked one hour, his worked every one, and it compounded.
+Engine had said Basic Soul Power Cultivation Low → Flowing Soul Cultivation Mid → Dark Pool Cultivation High since first midwinter at six. Five years Low 1-100% → Mid different name → High different name, all hours, at his best. At 100% that second it evolved into next with different name — Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid ONE → Ghost Frost Storm Step High different name. Pool did not get new stage — county method has no stages, only mastery — it went dark. Dense. Water of deeper well fed by three bloodlines and seventeen poured levels. Reborn mind wasted no hour and no motion. Method ran while he carried water, while he sat black pools, while he slept. Where other souls worked one hour, his worked every one, and it compounded.
 
 Body changed under it, not as ridge's ordinary weather of bone and meat, but with direction.
 
@@ -18,9 +18,9 @@ Releases grew with year. Grey came on him now for whole mornings, possession and
 
 Patience grew too, and this was stranger than rest, because patience had seemed thing man had or did not have, like chin. It was not. It was limb. It lengthened. He could sit black pools blind through whole short day, spear across knees, mind counting musk and water and small sounds of bog birds, without fidget ten-year-old's body owes its blood. Body outlasted boy in it. Something old and wolfish held sitting boy could not.
 
-Soul power control surfaced that winter, quiet as everything ledger did. Not new list world gave him — name for what reborn mind had been doing since first midwinter: flowing power where eye went, not where hand went. Observation surfaced with it — hunter's eye and tallykeeper's counting fused into one line. Running surfaced when storm-line seated. Stillness, Sense, Stride, Spear, Tally — all mastered, all feeding each other.
+Soul power control surfaced that winter, quiet as everything ledger did. Not new list world gave him — name for what reborn mind had been doing since first midwinter: flowing power where eye went, not where hand went. Observation surfaced with it — hunter's eye and tallykeeper's counting fused into one line. Silent Wind Step surfaced when storm-line seated, already fused from Walking plus Running plus Mountain Stride ONE. Stillness, Sense, Spear, Tally — all evolving with different name per grade, all feeding each other.
 
-Evolving Low→Mid→High made other things easier. That was cascade ledger never wrote in words but counted in numbers. Basic evolving Low→Mid→High made soul power control fifty percent easier. Craft evolving High made Spear, Stillness, Sense, Stride, Tally fifty percent easier. When you learn one thing true, next comes faster. Smart person does not collect basics — he fuses them.
+Evolution chain with different name per grade made other things easier. That was cascade ledger never wrote in words but counted in numbers. Flowing Soul Cultivation Mid made soul power control fifty percent easier. Forest Craft Mid made Spear, Stillness, Sense, Clear Mind, Hunter's Eye fifty percent easier. When you learn one thing true, next comes faster. Smart person does not collect basics — he fuses them into named method with own effects.
 
 By late summer they fused.
 
@@ -107,7 +107,7 @@ That night, at first gate of road, in loft of hem-village inn with smell of othe
 > 「Hunter's Sense: 100% → Beast Sense Mid 1% → Beast Sense」
 > 「Stillness: 100% → Patience as Limb Mid 1% → Patience as Limb」
 > 「Plain Speech: 100% → Clear Speech Mid 1% → Clear Speech」
-> 「Mountain Stride: 100% → Silent Wind Step Mid (FUSED — footwork fusion Basic Walking+Basic Running+Mountain Stride→Silent Wind Step ONE) 1% → Ridge Stride」
+> 「Mountain Stride: 100% → Silent Wind Step Mid (FUSED — footwork fusion Basic Walking+Basic Running+Mountain Stride→Silent Wind Step ONE) 1% → Ghost Frost Storm Step」
 > 「The Tally: 100% → Clear Mind Mid 1% → Clear Mind」
 > 「Spear: 100% → Spear Flow Mid 1% → Spear Flow」
 > 「Soul Power Control: 100% → Flowing Control Mid 1% → Flowing Control」

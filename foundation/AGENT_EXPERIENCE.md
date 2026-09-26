@@ -1,15 +1,15 @@
-# Agent Experience — Soul Land 2: The Grey Wolf — v5.1 Evolution Chain Fix
+# Agent Experience — Soul Land 2: The Grey Wolf — v5.4 Footwork Fusion Fix
 
 Date: 2026-09-26
 Project: Soul Land 2 fanfic — OC Ye Cang, grown Earth man reborn, silent wolf, innate 1 beside Huo Yuhao
-Progress: F0-F22, 6 chapters, 80 panel rows, 10 releases, 79 self-audit checks PASS
-Evolution Fix: v5.1 — There is no such thing as evolving Low→Mid→High (v5.1 evolution chain). Techniques evolve Low 1-100% → Mid → High → Top. At 100% that second it evolves into next like Silent Wind Step Mid, then Ghost Frost Storm Step High. Suitable techniques can fuse like three fuse and become a High, how logically things work.
+Progress: F0-F26, 7 chapters, 80 panel rows, run_all green, panels IN SYNC
+Evolution Fix: v5.4 — Footwork Fusion Fix — Different Name Per Grade — Correct Evolution Per Technique — Which fool masters so many step techniques separately? Basic Walking + Basic Running + Mountain Stride FUSE into Silent Wind Step Mid ONE → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top ONE line, not three separate High. Other techniques correct evolution per technique, not everything into Silent Wind Step. Different name per grade.
 
 Purpose: Share everything learned so other agents can work faster and avoid same strikes.
 
 ---
 
-## 1. How User Teaches — Serial Locks — v5.1 Evolution Chain Fix
+## 1. How User Teaches — Serial Locks — v5.4 Footwork Fusion Fix
 
 User teaches by strike, not by long spec. Each lock = one correction you must keep forever.
 
@@ -21,26 +21,30 @@ User teaches by strike, not by long spec. Each lock = one correction you must ke
 - **F6** "Do yourself": agent must rebuild foundations, not ask user.
 - **F7** FULL panels: full panel at every gate (night one, rank up, year end). Every other beat panel short. Drift guard checks that every 「...」 in chapters exists in PANELS.md and reverse. Must stay IN SYNC.
 - **F8** Honest pace: level 10 wall held 3 years. Pour 12 to 29 is 17 levels in one year. No inflated growth.
-- **F9** Grade ladder: Waste / Ordinary / Excellent / Top-tier / Divine for martial souls. Low / Mid / High / Top / Ultimate for current readings. Rings white > yellow > purple > black > red.
-- **F10** Ring seats bloodline: each ring seats its beast bloodline. Ghost 1% Low, Stormwind 15% Mid.
+- **F9** Grade ladder: Waste / Ordinary / Excellent / Top-tier / Divine for martial souls. Low / Mid / High / Top / Ultimate for current readings. Rings white > yellow > purple > black > red. Different name per grade.
+- **F10** Ring seats bloodline: each ring seats its beast bloodline. Ghost 1% Low → 35% Mid, Stormwind 15% Mid→High.
 - **F11** Full grant: each ring gives 7 things — SKILL, RANK GIFT, SOUL UPGRADE, BODY FLOOD, BLOOD, YEARS, TITLE. Years: white 10, yellow 100, purple 1000, black 10000, red 100000. First ring limit ~420y but ages after seating.
 - **F12** Walls: bottlenecks at 10,20,30. No ring = no crossing.
 - **F13** Honest yield 24/7: slotted techniques run at best 24/7 even while sleeping. Hours that count are hours engine runs. Two slots for 5 years = decades of part-time.
-- **F14 v5.1 Evolution Chain Fix:** Mastery — There is no such thing as evolving Low→Mid→High (v5.1 evolution chain). Basic Walking and Running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work. Pool quality deepens. Aging is pour-based, not calendar. Ghost 120y to 1350y via levels + hours + bloodlines, not months. Evolution chain: Low 1-100% → Mid 1-100% → High 1-100% → Top — no terminal evolving.
-- **F15** Interconnection: effective talent = innate 1 + Grey + Ghost + Stormwind + basics evolving + fusion. At Ch5 ~3.5x. Appearance changes with bloodline: frame, height, amber eyes, grey tint hair, dogs ignore him. Evolution chain feeds talent.
-- **F16** Thousand-year gate: by Ch5, Ghost 1350y purple, Stormwind 1850y purple, Level 29-30, everything Mid+, Grey Ridge Hunt fusion of basics evolving Low→Mid→High.
-- **F17** Evolution: Grey Wolf > Ice Wolf > Frost Ghost Wolf > Storm Frost Ghost Wolf when Grey 65% High + both rings purple. Skill upgrade on color break: Netherlight > Ghost Veil, Windstride > Storm Step. Ring Veil hides purple as yellow. Fool shows two thousand-year rings. Evolution chain + fusion: Walking + Running + Body Control fuse → Silent Wind Step Mid; three Mid fuse → High.
-- **F18 v5.1 Evolution Chain Fix:** Full status strike: user said "what level they are not mastered" and "where wind attribute even" and "how strong body". Fix: all 15 life-skills evolving Low→Mid→High, not evolving terminal — Walking Low 1-100% → Silent Wind Step Mid, Running Low→Wind Stride Mid, etc., suitable fuse like three fuse become High, how logically things work. Martial soul ice+wind, body ~500kg lift robust, named technique like Purple Demon Eyes 4 stages but evolution chain, Spirit Sea 850, wind attribute even, STATUS.md must have everything not just system panel. No such thing as evolving Low→Mid→High (v5.1 evolution chain).
-- **F19** Skills like canon: rewrite skills with canon format — Name, Ring, Type, Activation, Appearance, Effect, Duration, Range, Cost, Origin Beast, Evolution. Check Dai Mubai White Tiger possession and Feng Xiaotian Wind Blade Burst as anchors.
-- **F20** Ghost Wolf canon: golden lock on forehead at 1000y, iron-gray coat, green eyes, toughest skull, fragile body, tofu waist (waist/neck weak), Light of Netherworld speed aura, Ghost Doppelganger 3 clones, Shrek Beast Dueling Area vs Huo Yuhao + He Caitou, skull shattered by Dark Gold Terror Claw Bear.
+- **F14 Evolution Chain Fix:** No stages — evolving first midwinter, 5y at mastery. Aging pour-based. Ghost 120y → 1350y via levels + hours + bloodlines. Evolution chain: Low 1-100% → Mid different name → High different name → Top different name instant evolution second it hits 100% with different name each grade. Fusion 2-3 Low → Mid different name logically.
+- **F15** Interconnection: effective talent = innate 1 + Grey + Ghost + Stormwind + basics evolving + fusion. At Ch7 ~3.5x. Appearance changes with bloodline: frame, height, amber eyes, grey tint hair, dogs ignore him.
+- **F16** Thousand-year gate: by Ch5, Ghost 1350y purple, Stormwind 1850y purple, Level 29-30, everything Mid+, Grey Ridge Hunt fusion of basics — footwork fusion already: Walking+Running+Mountain Stride → Silent Wind Step Mid ONE.
+- **F17** Evolution: Grey Wolf → Ice Wolf → Frost Ghost Wolf → Storm Frost Ghost Wolf when Grey 65% High + both rings purple. Skill upgrade on color break: Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top different name, Wind Blade Burst Low → Windstride Mid → Storm Step High different name. Ring Veil Low → Veil of Ghost High → Phantom Veil Top hides purple as yellow. Fool shows two thousand-year rings.
+- **F18 Full Status:** all 15 life-skills evolving Low→Mid→High with different name per grade and correct evolution per technique, not everything into Silent Wind Step, footwork fusion mandatory. Martial soul ice+wind, body ~500kg lift robust, named technique like Purple Demon Eyes 4 stages but evolution chain with different name, Spirit Sea 850, wind attribute even, STATUS.md must have everything.
+- **F19** Skills like canon: rewrite skills with canon format — Name, Ring, Type, Activation, Appearance, Effect, Duration, Range, Cost, Origin Beast, Evolution. Check Dai Mubai White Tiger possession and Feng Xiaotian Wind Blade Burst as anchors. Different name per grade.
+- **F20** Ghost Wolf canon: golden lock on forehead at 1000y, iron-gray coat, green eyes, toughest skull, fragile body, tofu waist (waist/neck weak), Light of Netherworld speed aura, Ghost Doppelganger 3 clones, Shrek Beast Dueling Area vs Huo Yuhao + He Caitou, skull shattered by Dark Gold Terror Claw Bear. Different name per grade.
 - **F21** Correct everything: self-audit 79 checks, run_all green, panels 80 IN SYNC.
-- **F22** Road craft: Ch6 The Hem Road, no fight, show Grey Ridge Hunt in daily life — control, body control, five senses, stillness, observation. User rule: "Not every time, in chapter you only write when there is update or just gain, then you write full, normally I can check in status file". So Ch6 has 0 panel lines. Evolution chain: Walking Low→Silent Wind Step Mid→Ghost Frost Storm Step High, suitable fuse.
+- **F22** Road craft: Ch6 The Hem Road, no fight, show Grey Ridge Hunt in daily life. User rule: "Not every time, in chapter you only write when there is update or just gain, then you write full, normally I can check in status file". So Ch6 0 panel lines, Ch7 0 lines. Evolution chain different name per grade correct evolution per technique footwork fusion mandatory.
+- **F23** No MASTERED terminal: Low 1-100% → Mid different name → High different name → Top instant evolution second it hits 100% with different name each grade. Fusion 3 Low→Mid different name 3 Mid→High logically. No terminal.
+- **F24** Different name per grade: Mid different from Low, High different from Mid, Top different from High — every technique/method/skill.
+- **F25** Correct evolution per technique: NOT everything into Silent Wind Step — Basic Spearmanship→Spear Flow, Body Control→Flowing Body, Combat Style→Grey Ridge Hunt, Cooking→Camp Cooking, Five Senses→Keen Senses, Hunter's Sense→Beast Sense, Mountain Stride→FUSED into Silent Wind Step (not Ridge Stride), Observation→Hunter's Eye, Plain Speech→Clear Speech, Reading→Fluent Reading, Soul Power Control→Flowing Control, Spear→Spear Flow, Stillness→Patience as Limb, Soul Cultivation→Flowing→Dark Pool, Grey Ridge Hunt→Storm Frost Ghost Hunt, Hunter's Craft→Forest Craft, Tally→Clear Mind, Understanding→Clear Understanding — correct evolution per technique.
+- **F26 Footwork Fusion Fix:** Which fool masters so many step techniques separately? Basic Walking + Basic Running + Mountain Stride FUSE into Silent Wind Step Mid ONE movement technique — not three separate High. Basic Walking 100% + Basic Running 80%+ + Mountain Stride 80%+ fuse → Silent Wind Step Mid 1% ONE → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top ONE line, not three. Footwork fusion mandatory.
 
-Keep all locks forever unless user reverses. v5.1 evolution chain fix: no evolving terminal.
+Keep all locks forever unless user reverses. v5.4 footwork fusion fix.
 
 ---
 
-## 2. Standing Rules — v5.1 Evolution Chain Fix
+## 2. Standing Rules — v5.4 Footwork Fusion Fix
 
 - Re-export git identity every bash: GIT_AUTHOR_NAME, GIT_AUTHOR_EMAIL, GIT_COMMITTER_NAME, GIT_COMMITTER_EMAIL. Bash does not preserve env.
 - No gh CLI. Use REST API with PAT for releases.
@@ -50,7 +54,7 @@ Keep all locks forever unless user reverses. v5.1 evolution chain fix: no evolvi
 - Stop writing chapters until foundations approved.
 - Ask via ask_user when ambiguous.
 - Check canon perfectly before writing.
-- **Evolution chain law v5.1:** There is no such thing as evolving Low→Mid→High (v5.1 evolution chain). Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work.
+- **Evolution chain law v5.4 — Different Name Per Grade — Correct Evolution — Footwork Fusion:** There is no such thing as terminal. Every evolution has different name and own logical next, not everything into Silent Wind Step, and footwork Low techniques FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name ONE line, not three. Other techniques correct: Body Control→Flowing Body→Storm Body, Soul Power Control→Flowing Control→Spirit Control, Five Senses→Keen Senses→Spirit Eye, Observation→Hunter's Eye→Spirit Perception, Hunter's Sense→Beast Sense→Predator Sense, Stillness→Patience as Limb→Void Stillness, Basic Spear→Spear Flow→Storm Spear, Tally→Clear Mind→Profound Tally, Plain Speech→Clear Speech→Silver Tongue, Basic Reading→Fluent Reading→Deep Reading, Basic Understanding→Clear Understanding→Profound Understanding, Basic Spearmanship→Spear Flow→Storm Spear, Basic Cooking→Camp Cooking→Feast Cooking, Basic Combat Style→Grey Ridge Hunt→Storm Frost Ghost Hunt, Basic Soul Power Cultivation→Flowing Soul Cultivation→Dark Pool Cultivation→Spirit Sea Cultivation, Hunter's Craft→Forest Craft→Grey Ridge Craft, Grey Ridge Hunt→Storm Frost Ghost Hunt→Ghost Storm Dominion, Light of Netherworld→Netherlight→Ghost Veil→Ghost Storm Veil, Wind Blade Burst→Windstride→Storm Step→Storm Frost Ghost Wings, Ring Veil→Veil of Ghost→Phantom Veil — every evolution different name per grade — correct evolution per technique — footwork fusion mandatory.
 
 ---
 
@@ -68,9 +72,9 @@ Keep all locks forever unless user reverses. v5.1 evolution chain fix: no evolvi
 
 - Remote: origin main. Current HEAD ahead after push.
 - Before commit: `python3 tools/run_all.py` must be green. Then `python3 tools/check_panels.py` must be IN SYNC.
-- Docs: `docs/` has 6 chapters + index.html built by run_all.
-- Manuscript: `manuscript/` has 6 reader editions + FULL.
-- Releases: 10 releases v0.6.3-f16 to v0.6.9-f22 via REST. Each has one zip asset. POST /repos/OWNER/REPO/releases then POST /uploads/.../assets.
+- Docs: `docs/` has 7 chapters + index.html built by run_all.
+- Manuscript: `manuscript/` has 7 reader editions + FULL.
+- Releases: via REST. Each has one zip asset.
 - Files to update each push: README.md, CHANGELOG.md, NEXT.md, docs/, manuscript/ if changed, foundation/ if changed.
 
 ---
@@ -82,11 +86,12 @@ Keep all locks forever unless user reverses. v5.1 evolution chain fix: no evolvi
 - Keep receipts in docs or memory.
 - Key facts learned:
   - Spiritual realms: Spirit Origin 0-99, Connection 100-499, Sea 500-4999, Abyss 5k-19k, Domain 20k-49k, Divine Origin 50k+, God King. Current 850 = Spirit Sea.
-  - Purple Demon Eyes: 4 stages Survey/Attention/Intoxication/Immersion, training purple qi morning, effects vision + confuse/stun + mind's eye 10-100m — but evolution chain version: Low 1-100% → Mid → High, not evolving terminal
-  - Body thousand-year: 10y ring +10, 100y +100, 1000y +1000. Pool deepened, pathways widened, vitality. Beast bodies robust even without release.
-  - Stormwind Demon Wolf: Wind attribute, Wind Blade Burst 10 half crescent, Wings 50m flight, Wolftaken, rank 20-30.
+  - Purple Demon Eyes: 4 stages Perception/Attention/Intoxication/Immersion, training purple qi morning, effects vision + confuse/stun + mind's eye 10-100m — different name per stage, evolution chain with different name per grade.
+  - Body thousand-year: 10y ring +10, 100y +100, 1000y +1000. Pool deepened, pathways widened, vitality. Beast bodies robust even without release. ~500kg lift at 11.
+  - Stormwind Demon Wolf: Wind attribute, Wind Blade Burst 10 half crescent, Wings 50m flight, Wolftaken, rank 20-30. Skill evolution Light→Netherlight→Ghost Veil→Ghost Storm Veil, Wind Blade Burst→Windstride→Storm Step→Storm Frost Ghost Wings.
   - Ghost Wolf thousand-year: golden lock, iron-gray, green eyes, toughest skull, tofu waist, Light of Netherworld, 3 clones, Shrek duel vs Yuhao + Caitou, Dark Gold Terror Claw Bear shatters skull.
   - Beast possession format: grey light surges, bones cracking, muscles expand, hair dyed, claws 20cm, pupils dark blue, etc.
+  - Footwork fusion: Basic Walking+Basic Running+Mountain Stride FUSE into Silent Wind Step Mid ONE → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top ONE line, not three.
 
 Always cite with [id](url) when using search results.
 
@@ -97,9 +102,10 @@ Always cite with [id](url) when using search results.
 - Tools: `tools/check_panels.py` enforces both directions.
 - Every 「...」 line in chapters must exist in PANELS.md.
 - Every row in PANELS.md must appear in chapters or be marked retired.
-- Current: 80 rows — Ch1 12, Ch2 14, Ch3 14, Ch4 18, Ch5 22, Ch6 0. IN SYNC.
+- Current: 80 rows — Ch1 12, Ch2 14, Ch3 14, Ch4 18, Ch5 29, Ch6 0, Ch7 0. IN SYNC.
 - Bare panels not allowed: must have grade or description.
 - When adding panel, update both chapter and PANELS.md same turn.
+- Footwork fusion: Mountain Stride 100% → Silent Wind Step Mid (FUSED) 1% → Ghost Frost Storm Step — ONE line, not Ridge Stride.
 
 ---
 
@@ -107,8 +113,8 @@ Always cite with [id](url) when using search results.
 
 - Tool: `tools/run_all.py` runs manuscript sync + style gate + site + panel check.
 - Checks:
-  - Word count band: 2400-3400 per chapter. Ch6 2677w IN.
-  - Avg sentence length, median, max.
+  - Word count band: 2400-3400 per chapter.
+  - Avg sentence length 14-18, median, max <60.
   - Dialogue density per 1000w.
   - over60 must be 0. Fix by splitting into short sentences.
   - the-way must be 0. Fix by removing phrase.
@@ -117,65 +123,64 @@ Always cite with [id](url) when using search results.
 
 ---
 
-## 8. Status File — Full Status Completely Everything — v5.1 Evolution Chain Fix
+## 8. Status File — Full Status Completely Everything — v5.4 Footwork Fusion Fix
 
-User wants full status in STATUS.md, not just system panel. v5.1 evolution chain fix: no evolving terminal.
+User wants full status in STATUS.md, not just system panel. v5.4 footwork fusion fix.
 
 Must include:
-- Basic Info: Name Ye Cang, Age 11, Level 30 Great Soul Master, Martial Soul Storm Frost Ghost Wolf ice+wind High, Slots 3/3/3
+- Basic Info: Name Ye Cang, Age 11, Level 30 Great Soul Master, Martial Soul Storm Frost Ghost Wolf ice+wind High, Slots 3/3/3, footwork fusion Silent Wind Step Mid ONE line
 - Body: ~500kg lift, robust beast-type, denser bone, quicker muscle, predator frame, amber ice-amber eyes, grey tint hair, height shoulders, cold tolerance, recovery, appearance freight, dogs ignore, wood passes at peace
 - Spiritual Realm: Spirit Sea 850, vast as sea, perception 10-100m, house fly detail
-- Soul Power: dense dark pure, all-hours circulation evolving Low→Mid→High, three bloodlines feeding
-- Techniques: Basic Cultivation Low 1-100% → Mid → High at Ch5 gate, Hunter's Craft Low→Mid→High, Grey Ridge Hunt High — fusion of basics evolving, not evolving terminal — Walking Low→Silent Wind Step Mid→Ghost Frost Storm Step High, suitable fuse
-- Life-skills: all 15 evolving Low→Mid→High — Walking Low 1-100% → Silent Wind Step Mid, Running Low→Wind Stride Mid, Body Control Low→Flowing Body Mid, Soul Power Control Low→Flowing Control Mid, Five Senses Low→Keen Senses Mid, Reading Low→Fluent Reading Mid, Understanding Low→Deep Understanding Mid, Basic Spearmanship Low→Spear Flow Mid, Cooking Low→Camp Cooking Mid, Combat Style Low→Grey Ridge Hunt High, Hunter's Sense Low→Beast Sense Mid, Stillness Low→Patience as Limb Mid, Plain Speech Low→Clear Speech Mid, Mountain Stride Low→Ridge Stride Mid, Tally Low→Quick Count Mid, Spear Low→Spear Flow Mid, Observation Low→Sharp Eye Mid — evolution chain, no evolving terminal — suitable techniques can fuse like three fuse and become a High, how logically things work
-- Rings: Ghost 1350y purple (concealed 120y yellow), Stormwind 1850y purple (concealed 603y yellow)
-- Skills canon format: Possession, Ghost Veil, Storm Step with full appearance and effects and future possibilities
-- Bloodlines: Grey 65% High ice +1.30 true ice, Ghost 35% Mid +0.35 quiet step, Stormwind 15% Mid +0.225 wind
-- Named Techniques: Grey Ridge Hunt 4 stages Perception/Attention/Intoxication/Immersion like Purple Demon Eyes but evolution chain Low→Mid→High, not evolving terminal, training purple qi morning, effects mind's eye Wide-Area
+- Soul Power: dense dark pure, all-hours circulation Dark Pool Cultivation High → Spirit Sea Cultivation Top, three bloodlines feeding, different name per grade
+- Techniques: Basic Cultivation Low → Flowing Soul Cultivation Mid → Dark Pool Cultivation High, Hunter's Craft Low → Forest Craft Mid → Grey Ridge Craft High, Grey Ridge Hunt High — fusion of basics with correct evolution per technique and footwork fusion mandatory — Basic Walking+Basic Running+Mountain Stride FUSE → Silent Wind Step Mid ONE → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top ONE line, not three separate High — other techniques correct evolution
+- Life-skills: all 15 evolving Low→Mid→High with different name per grade and correct evolution per technique — Body Control→Flowing Body→Storm Body, Soul Power Control→Flowing Control→Spirit Control, Five Senses→Keen Senses→Spirit Eye, Observation→Hunter's Eye→Spirit Perception, Hunter's Sense→Beast Sense→Predator Sense, Stillness→Patience as Limb→Void Stillness, Basic Spear→Spear Flow→Storm Spear, Tally→Clear Mind→Profound Tally, Plain Speech→Clear Speech→Silver Tongue, Basic Reading→Fluent Reading→Deep Reading, Basic Understanding→Clear Understanding→Profound Understanding, Basic Spearmanship→Spear Flow→Storm Spear, Basic Cooking→Camp Cooking→Feast Cooking, Basic Combat Style→Grey Ridge Hunt→Storm Frost Ghost Hunt, plus footwork fusion Walking+Running+Mountain Stride→Silent Wind Step Mid ONE — every evolution different name — correct evolution per technique — footwork fusion mandatory
+- Rings: Ghost 1350y purple (concealed 120y yellow), Stormwind 1850y purple (concealed 603y yellow) via Veil of Ghost High
+- Skills canon format: Possession, Ghost Veil, Storm Step with full appearance and effects and future possibilities, different name per grade, correct evolution, footwork fusion not applicable but same law
+- Bloodlines: Grey 65% High ice +1.30 true ice, Ghost 35% Mid +0.35 quiet step, Stormwind 15% Mid→High +0.225 wind
+- Named Techniques: Grey Ridge Hunt 4 stages Perception/Attention/Intoxication/Immersion like Purple Demon Eyes but evolution chain with different name per grade and correct evolution per technique and footwork fusion mandatory: Stage3 includes Silent Wind Step Mid FUSED from Walking+Running+Mountain Stride ONE, not three separate
 - Attributes, Grades, Body Strength full sections
 - Future: True Body 70+, Domain, Soul Bone, Core, Ring ageing black/red, Divine Beast evolution, Fusion Skill
-- Evolution Chain: Basic Walking and Running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work. No such thing as evolving Low→Mid→High (v5.1 evolution chain).
+- Evolution Chain: Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name ONE line, not three — which fool masters so many step techniques separately? They fuse! Other techniques correct evolution per technique with different name per grade.
 
 ---
 
-## 9. Life-Skills, Body, Spirit Sea, Wind Attribute — v5.1 Evolution Chain Fix
+## 9. Life-Skills, Body, Spirit Sea, Wind Attribute — v5.4 Footwork Fusion Fix
 
-- All basics evolving Low→Mid→High — not evolving terminal — Walking Low 1-100% → Silent Wind Step Mid → Ghost Frost Storm Step High, suitable fuse like three fuse become High, how logically things work — user strike: There is no such thing as evolving Low→Mid→High (v5.1 evolution chain)
+- All basics evolving Low→Mid→High with different name per grade and correct evolution per technique, not everything into Silent Wind Step, footwork fusion mandatory — Basic Walking+Basic Running+Mountain Stride FUSE into Silent Wind Step Mid ONE → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top ONE line, not three separate High — which fool masters so many step techniques separately? They fuse!
 - Body ~500kg robust — 2 thousand-year rings give 2000 attribute increase + Grey body-line
 - Spirit Sea 850 — perception 10-100m, battleship pilot foundation
 - Wind attribute even — Stormwind bloodline gives wind, martial soul ice+wind mutation allowed by canon (Beast soul may mutate)
-- Named technique like Purple Demon Eyes but evolution chain: Grey Ridge Hunt 4 stages, own training, own effects, incantation "hunt." — Low 1-100% → Mid → High → Top, no evolving terminal
+- Named technique like Purple Demon Eyes but evolution chain with different name per grade and correct evolution per technique and footwork fusion: Grey Ridge Hunt 4 stages, own training, own effects, incantation "hunt." — Low different name → Mid different name → High different name → Top different name, footwork fusion mandatory
+- Correct evolution per technique: Body Control→Flowing Body, Soul Power Control→Flowing Control, Five Senses→Keen Senses, Observation→Hunter's Eye, Hunter's Sense→Beast Sense, Stillness→Patience as Limb, Basic Spear→Spear Flow, Tally→Clear Mind, Plain Speech→Clear Speech, Basic Reading→Fluent Reading, Basic Understanding→Clear Understanding, Basic Spearmanship→Spear Flow, Basic Cooking→Camp Cooking, Basic Combat Style→Grey Ridge Hunt, Soul Cultivation→Flowing→Dark Pool, Grey Ridge Hunt→Storm Frost Ghost Hunt, Hunter's Craft→Forest Craft, Light→Netherlight→Ghost Veil, Wind Blade Burst→Windstride→Storm Step, Ring Veil→Veil of Ghost — every evolution different name, correct evolution per technique, not everything into Silent Wind Step
 
 ---
 
-## 10. Skills Description Like Soul Land Canon — v5.1 Evolution Chain
+## 10. Skills Description Like Soul Land Canon — v5.4 Footwork Fusion Fix
 
-Format:
-- Name / Ring / Type / Activation / Appearance / Effect / Duration / Range / Cost / Origin Beast / Evolution / Canon Anchor
-- Example: Dai Mubai White Tiger Protective Barrier — pale white light, muscles expand, golden hair, king pattern, hands double size, white fur, claws 20cm, defense +50%
-- Example: Feng Xiaotian Wind Blade Burst — 10 half crescent sealing evasion, Double Wolf Possession +50%, Wings flight 50m, Tornado, 36 Continuous Slashes increasing each chop — but evolution chain Low→Mid→High, not evolving
+Format: Name / Ring / Type / Activation / Appearance / Effect / Duration / Range / Cost / Origin Beast / Evolution / Canon Anchor — different name per grade — correct evolution — footwork fusion mandatory
 
-Ye Cang — v5.1 evolution chain:
-- Possession: grey light surges, bones cracking, muscles expand, stature larger, hair grey frost tint, amber ice-amber eyes, claws, grey fur, cold air + wind curls, strength +100%, speed +80%, senses +200%, defense +60% — evolution chain Low→Mid→High
-- Ghost Veil: Light of Netherworld speed boost + mitigation + 3 clones + toughest skull + tofu waist + invisibility 2s + confuse/stun — evolution chain
-- Storm Step: Wind Blade Burst 10 half crescent 20m + Wings 50m 15s + afterimage 2-3 + future Tornado + 36 Slashes — evolution chain
+Ye Cang — v5.4:
+- Possession: grey light surges, bones cracking, muscles expand, stature larger, hair grey frost tint, amber ice-amber eyes, claws, grey fur, cold air + wind curls, strength +100%, speed +80%, senses +200%, defense +60% — Grey Wolf Possession Mid → Storm Frost Ghost Wolf Possession High → Ghost Wolf Emperor Possession Top different name
+- Ghost Veil: Light of Netherworld Low → Netherlight Mid → Ghost Veil High → Ghost Storm Veil Top different name — speed boost + mitigation + 3 clones + toughest skull + tofu waist + invisibility 2s + confuse/stun — golden lock iron-gray green eyes
+- Storm Step: Wind Blade Burst Low → Windstride Mid → Storm Step High → Storm Frost Ghost Wings Top different name — Wind Blade Burst 10 half crescent 20m + Wings 50m 15s + afterimage 2-3 + future Tornado + 36 Slashes
+- Footwork: Basic Walking+Basic Running+Mountain Stride FUSE → Silent Wind Step Mid ONE → Ghost Frost Storm Step High → Storm Frost Ghost Veil Top ONE line, not three — which fool masters so many step techniques separately? They fuse!
 
-Many things possible future: self-created skills evolution chain, True Body giant 5m+ ice+wind domain 100-300%, Domain Grey Ridge Domain, Soul Bone Ghost Leg + Wing Bone, Blood Essence Core / Soul Core, Ring ageing black 10k red 100k, Further Evolution Extreme Ice -150C Extreme Wind, Fusion Skill with Yuhao, Tang Sect Methods — all evolution chain Low→Mid→High, no evolving terminal.
+Many things possible future: self-created skills, True Body giant 5m+ ice+wind domain 100-300%, Domain Grey Ridge Domain, Soul Bone Ghost Leg + Wing Bone, Blood Essence Core / Soul Core, Ring ageing black 10k red 100k, Further Evolution Extreme Ice -150C Extreme Wind, Fusion Skill with Yuhao, Tang Sect Methods — all different name per grade, correct evolution per technique, footwork fusion mandatory.
 
 ---
 
-## 11. Chapter Rule — v5.1 Evolution Chain
+## 11. Chapter Rule — v5.4 Footwork Fusion Fix
 
 User rule: "Not every time, in chapter you only write when there is update or just gain, then you write full, normally I can check in status file everything when needed"
 
-- At gate (absorption, level up, evolution) → write full panel — evolution chain: Walking Low 1-100% → Silent Wind Step Mid etc.
-- No update → 0 panel lines allowed, keep prose short, show skills in daily life evolving
-- Ch6 = 0 lines, allowed, ledger still IN SYNC
-- Evolution chain: Basic Walking and Running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work. No such thing as evolving Low→Mid→High (v5.1 evolution chain).
+- At gate (absorption, level up, evolution) → write full panel — evolution chain with different name per grade and correct evolution per technique and footwork fusion mandatory
+- No update → 0 panel lines allowed, keep prose short, show skills in daily life evolving with different name per grade and correct evolution per technique and footwork fusion — Silent Wind Step Mid ONE line, not three
+- Ch6 = 0 lines, Ch7 = 0 lines, allowed, ledger still IN SYNC
+- Evolution chain: Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name ONE line, not three — which fool masters so many step techniques separately? They fuse! Other techniques correct evolution per technique with different name per grade — not everything into Silent Wind Step
 
 ---
 
-## 12. Helpful Tips For Other Agents — v5.1 Evolution Chain Fix
+## 12. Helpful Tips For Other Agents — v5.4 Footwork Fusion Fix
 
 - Always ask questions first via ask_user before big changes.
 - Keep foundations approved before chapters.
@@ -184,13 +189,13 @@ User rule: "Not every time, in chapter you only write when there is update or ju
 - Avoid "the way" phrase.
 - Bloodline is not joke — gives many things: vitality, recovery, frame, senses, ice, wind, appearance, talent, martial soul growth.
 - Aging is pour-based, not calendar — levels + engine hours + bloodlines age rings.
-- Skill upgrade on color break — keep identity, grow power.
-- Concealment is smart — hide purple as yellow via Ring Veil.
+- Skill upgrade on color break — keep identity, grow power, different name per grade.
+- Concealment is smart — hide purple as yellow via Ring Veil → Veil of Ghost → Phantom Veil.
 - Evolution needs High + purple + bloodlines — strange change awakening.
-- Keep effective talent growing — innate is start — evolution chain Low→Mid→High feeds talent.
+- Keep effective talent growing — innate is start — evolution chain with different name per grade and correct evolution per technique and footwork fusion feeds talent.
 - Keep appearance consistent — frame freight, amber eyes, grey tint, dogs no lift, wood passes at peace.
-- **Evolution chain law v5.1:** There is no such thing as evolving Low→Mid→High (v5.1 evolution chain). Basic walking and running Low go 1 to 100% — just as it reaches 100% that second it evolves into next like Silent Wind Step Mid level — then same 1 to 100% then as it reaches 100% it becomes next Ghost Frost Storm Step High then same. Suitable techniques can fuse like three fuse and become a High and others many, how logically things work. No evolving terminal — 100% is evolution/fusion trigger, not terminal.
+- **Evolution chain law v5.4:** There is no such thing as terminal. Every evolution has different name and own logical next, not everything into Silent Wind Step, and footwork Low techniques FUSE into Silent Wind Step Mid ONE — not three separate High — which fool masters so many step techniques separately? They fuse! Basic Walking Low 100% + Basic Running Low 100% + Mountain Stride Low 100% fuse → Silent Wind Step Mid different name 1% ONE → Ghost Frost Storm Step High different name → Storm Frost Ghost Veil Top different name ONE line, not three. Other techniques correct evolution per technique with different name per grade. No terminal — 100% is evolution/fusion trigger with different name, not terminal. Footwork fusion mandatory.
 
 ---
 
-All lessons shared clean and clear — evolution chain fix. Other agents can learn and build.
+All lessons shared clean and clear — v5.4 footwork fusion fix — different name per grade — correct evolution per technique — footwork fusion mandatory — which fool masters so many step techniques separately? They fuse!

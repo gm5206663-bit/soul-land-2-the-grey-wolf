@@ -34,7 +34,7 @@ v5.4, 2026-09-26. Footwork Fusion Fix: Which fool masters so many step technique
 | 「Level — 9 · innate 1」 | Chapter_02_The_Quiet_Climb.md |
 | 「Martial Soul — Wolf · beast-type · Power Attack · ice + wind · High → Storm Frost Ghost Wolf」 | Chapter_05_The_Road_Begins.md |
 | 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | Chapter_01_The_Grey_Wolf.md |
-| 「Mountain Stride: 100% → Silent Wind Step Mid (FUSED — footwork fusion Basic Walking+Basic Running+Mountain Stride→Silent Wind Step ONE) 1% → Ridge Stride」 | Chapter_05_The_Road_Begins.md |
+| 「Mountain Stride: 100% → Silent Wind Step Mid (FUSED — footwork fusion Basic Walking+Basic Running+Mountain Stride→Silent Wind Step ONE) 1% → Ghost Frost Storm Step」 | Chapter_05_The_Road_Begins.md |
 | 「Mountain Stride: 18%」 | Chapter_02_The_Quiet_Climb.md |
 | 「Mountain Stride: 35%」 | Chapter_03_The_Wall.md |
 | 「Mountain Stride: 39%」 | Chapter_04_The_Patient_Kind.md |
@@ -71,12 +71,12 @@ v5.4, 2026-09-26. Footwork Fusion Fix: Which fool masters so many step technique
 | 「Stillness: 8%」 | Chapter_02_The_Quiet_Climb.md |
 | 「Technique — Basic Soul Power Cultivation: 1% · the engine, passive · Low」 | Chapter_01_The_Grey_Wolf.md |
 | 「Technique — Basic Soul Power Cultivation: 100% → Flowing Soul Cultivation Mid 1% → Flowing Soul Cultivation · the engine, passive · High」 | Chapter_05_The_Road_Begins.md |
-| 「Technique — Basic Soul Power Cultivation: 100% → evolving Low→Mid→High (v5.1 evolution chain) · the engine, passive · Mid」 | Chapter_02_The_Quiet_Climb.md |
-| 「Technique — Basic Soul Power Cultivation: 100% → evolving Low→Mid→High (v5.1 evolution chain)」 | Chapter_02_The_Quiet_Climb.md |
+| 「Technique — Basic Soul Power Cultivation: 100% → Flowing Soul Cultivation Mid 1% → Flowing Soul Cultivation · the engine, passive · Mid」 | Chapter_02_The_Quiet_Climb.md |
+| 「Technique — Basic Soul Power Cultivation: 45% · the engine, passive · Mid」 | Chapter_02_The_Quiet_Climb.md |
 | 「Technique — Basic Soul Power Cultivation: 2%」 | Chapter_01_The_Grey_Wolf.md |
 | 「Technique — The Grey Ridge Hunt: 100% → Storm Frost Ghost Hunt Mid 1% → Storm Frost Ghost Hunt · seated, the third slot · High」 | Chapter_05_The_Road_Begins.md |
 | 「Technique — The Hunter's Craft: 100% → Forest Craft Mid 1% → Forest Craft · seated, the second slot · High」 | Chapter_05_The_Road_Begins.md |
-| 「Technique — The Hunter's Craft: 100% → evolving Low→Mid→High (v5.1 evolution chain) · seated, the second slot · Mid」 | Chapter_04_The_Patient_Kind.md |
+| 「Technique — The Hunter's Craft: 100% → Forest Craft Mid 1% → Forest Craft · seated, the second slot · Mid」 | Chapter_04_The_Patient_Kind.md |
 | 「Technique — The Hunter's Craft: 11% · parked, unslotted · Low」 | Chapter_01_The_Grey_Wolf.md |
 | 「Technique — The Hunter's Craft: 55% · parked, unslotted · Low」 | Chapter_02_The_Quiet_Climb.md |
 | 「Technique — The Hunter's Craft: 78% · parked, unslotted · Low」 | Chapter_03_The_Wall.md |
