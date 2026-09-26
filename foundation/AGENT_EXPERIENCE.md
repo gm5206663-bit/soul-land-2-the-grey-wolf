@@ -1,213 +1,191 @@
-# AGENT EXPERIENCE — All experience and many helpful things other agents can learn
+# Agent Experience — Soul Land 2: The Grey Wolf
 
 Date: 2026-09-26
-Project: soul-land-2-the-grey-wolf — Soul Land 2 fan fiction OC silent system wolf innate1 beside Yuhao
-Total rebuilds: F0-F22 (22 serial locks), 6 chapters, 80 panel rows, 10 releases with assets, 79 self-audit checks PASS 0 errors, all hard checks green.
+Project: Soul Land 2 fanfic — OC Ye Cang, grown Earth man reborn, silent wolf, innate 1 beside Huo Yuhao
+Progress: F0-F22, 6 chapters, 80 panel rows, 10 releases, 79 self-audit checks PASS
 
-This file is for other agents to learn from this project's many strikes, corrections, and lessons.
-
----
-
-## 1. The Serial Locks — How user teaches via strikes
-
-- **F0 OC grown Earth full meta silent wolf innate1 beside Yuhao:** Base premise — OC is grown Earth man reborn, full meta knowledge of Soul Land, silent system wolf innate1 beside Yuhao. Keep innate1 start not ceiling, talent grows via bloodlines.
-- **F2 bloodline at awakening:** Grey Wolf bloodline inherited seats night one 7% Low — body-line vitality recovery predator's frame senses fed ice thin appearance etc. Bloodline is not joke, gives many things.
-- **F3 research everything:** Must web_search canon before writing — wolf-type martial souls mostly ice attribute, Stormwind Demon Wolf attribute Wind Wind Blade Burst Stormwind Wings, Ghost Wolf patient etc. Check canon perfectly.
-- **F4 all files:** All foundations must exist: SYSTEM_SPEC, STATUS, METERS, PANELS, SKILLS, FOUNDATION, RULINGS_LOG, TIMELINE, STORY_ARCS, RELATIONSHIPS, CHARACTERS, CANON_GROUND, CANON_STUDY_BEAST_TYPE, SERIAL_LOG, GLOSSARY, PLACES, ECONOMY, CODEX.
-- **F5 workshop refresh:** After wipe, restore from /tmp/mine/wolf clone via tar, not rsync.
-- **F6 Do yourself:** User says "Do yourself" — means agent must do foundations first, not ask user to do.
-- **F7 FULL panels:** Panel grammar — FULL panel at every gate (night one, rank-ups, year-ends) carries every line COMPLETE: martial soul class system attribute, skill nature, bloodline attribute work. Beat-panels short. Bare name and number never whole status again. Drift guard enforces panel lines against PANELS.md — every 「...」 line in chapters must exist in PANELS.md and vice versa.
-- **F8 honest pace:** Level 10 wall held three years, pour 12→29 17 levels in pouring year honest to engine's hours + effective talent 2.96×→3.5× with thousand-year rings. No inflated growth.
-- **F9 grade ladder:** Canon quality ladder verbatim: Waste Soul, Ordinary Soul, Excellent Soul, Top-tier Soul, Divine Soul. Ledger maps Low/Mid/High/Top/Ultimate. Rings grade white→yellow→purple→black→red. Life-skills carry no grade — life has no ceiling. Grades are honest current readings rising with %.
-- **F10 ring seats beast bloodline:** Every soul ring seats slain beast's bloodline — Ghost Wolf bloodline seated with first ring at 1% Low, Stormwind Demon Wolf second ring 15% Mid.
-- **F11 full grant 7 parts level per ring white10/yellow100/purple1k/black10k/red100k:** Full grant — SKILL, RANK GIFT, SOUL'S UPGRADE, BODY FLOOD, BLOOD, YEARS (white 10 / yellow 100 / purple 1000 / black 10000 / red 100000; first-ring limit ~420y at absorption but AGES beyond after seating), TITLE. Level 12 with ring's own gift.
-- **F12 walls alone ring-gated:** Bottleneck law at every title 10,20,30 — no ring no crossing. Between walls hours honest and band pours.
-- **F13 honest yield 24/7:** Slotted techniques run FULL PASSIVE 24/7 at his best awake and asleep. Hours actually run are hours that count — two slotted techniques through five years bank decades part-time practice, meters pay it. Basic MASTERED first midwinter age 6 — 5y at mastery, pool dark dense.
-- **F14 Mastery no stages→MASTERED 120→168 pour-based Mid-caliber 1% Mid:** For foundational or mortal methods — county's Basic Soul Power Cultivation and Hunter's Craft and all basics — NO invented numbered stages. At 100% becomes MASTERED: grade Low→Mid→High, pool quality deepens, locks as 100% MASTERED, continues 24/7 at mastery feeding every other meter via Infusion. Aging Law revised pour-based not calendar — Ghost 120→168y +48y via levels + engine hours + bloodlines, not 131 calendar. Bloodline caliber — Grey Low 0-25 Mid 25-60 High 60-90 Top 90+, Ghost Low 0-30 Mid 30-70 High 70+, Stormwind Mid 0-40 High 40-80 Top 80+ — Stormwind 1% Mid-caliber even at 100y.
-- **F15 interconnection 2.96× Grey Mid appearance cascade:** Cultivation Speed Law effective talent = innate 1 + Grey bonus 100%=+2.0 + Ghost 100%=+1.0 + Stormwind 100%=+1.5 + Basic MASTERED +0.5 + Craft MASTERED +0.3 + Fusion +0.5 = ~3.5-4.0× at Ch5 gate — talent GROWS as bloodlines grow innate is start not ceiling. Bloodline Influence Law each bloodline is work canon-verified: Grey body-line vitality recovery predator's frame senses fed cold-tolerance appearance cultivation speed martial soul growth talent attribute evolution awakening when strange change; Ghost patience quiet step seen-late spirit power efficiency Stillness Hunter's Sense soul power control observation; Stormwind fast kind wind's stride burst speed agility Mountain Stride Spear leading observation running body control. Three lines combine via Resonance whole faster than parts. Mastery Cascade Law mastering makes related easier 50% faster. Grade Evolution Law grades current readings rise with % AND caliber. Appearance Law bloodline deepening changes appearance not just numbers: frame arrives as freight wrist back shoulders height nose reads day at door eyes amber hair grey tint cold tolerance dogs no longer lift heads wood passes him at peace. Martial soul grows with blood Wolf 71% fed by three lines.
-- **F16 thousand-year 1,350/1,850 purple level29-30 everything Mid+ fusion Grey Ridge Hunt:** Thousand-year rings — Ghost 120→1,350y purple (+1,230y) by Ch5 gate via 17 levels + 1y 24/7 mastered engine at 2.96×→3.5× + three bloodlines, Stormwind 1,200→1,850y purple thousand-year, Level 21→30 (12→29 pour 17 levels + 30 gift top Great Soul Master canon monsters band 29 at 12), Everything Mid+ (Grey 48→65 High Ghost 18→35 Mid Stormwind 1→15 Mid Wolf 71→85 High Netherlight 26→45 High Windstride 1→20 High Basic/Craft Mid→High new fusion Grey Ridge Hunt High 100% MASTERED life-list 58→70 etc Control 65 Observation 68), Appearance, Effective talent 3.5x, Bloodline not joke canon perfectly gives many things awakening when strange change, Fusion Law smart people master basics and fuse into named method with own effects.
-- **F17 evolution Storm Frost Ghost Wolf at High+purple skill upgrade Ghost Veil/Storm Step at 1000y Ring Veil hides purple as yellow fool shows two thousand-year rings full basics fuse Reading/Understanding/Spearmanship/Cooking/Combat Style etc:** Martial Soul Evolution Law — Grey Wolf → Ice Wolf → Frost Ghost Wolf → Storm Frost Ghost Wolf final fusion three bloodlines when Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year = strange change awakening. Skill Upgrade on Ring Breakthrough Law — when ring breakthroughs color threshold yellow 100→purple 1000 purple→black 10000 skill upgrades keeps identity power grows new effect — Netherlight → Ghost Veil at 1000y adds energy damage sliding off + brief invisibility, Windstride → Storm Step at 1000y adds wind blade burst + wings + afterimage, Wolf possession upgrades when bloodline evolves. Concealment Law — Ring Veil / Soul Ring Concealment 100% MASTERED High hides true color purple shows fake yellow white hides years smart person creates technique to hide true colours named technique with own effects — fool who shows two thousand-year rings. Fusion Law expanded to all basics complete combat style like Purple Demon Eyes — Soul Power Control Body Control Five Senses Reading Understanding Spearmanship Cooking Combat Style Observation Running Stillness Sense Stride Spear Tally Control fused into Grey Ridge Hunt.
-- **F18 full status completely everything all basics 100% MASTERED High ice+wind body ~500kg named technique like Purple Demon Eyes spiritual realm Spirit Sea 850 wind attribute even go check canon difference:** User strike after F17 push — Sense70 Stillness60 Speech55 Stride70 Tally70 Spear60 Control65 Observation68 what level they are not mastered → must be 100% MASTERED High he doesn't master all basic things. Martial soul attributes what attributes ice+wind where wind attribute even — Stormwind Demon Wolf attribute Wind Wind Blade Burst Stormwind Wings Wolftaken control wind rank20-30 → martial soul must be ice+wind. Body strength how strong body is who have 2 thousand-year rings and others many things clear in status → need physique ~500kg lift robust beast-type body released or not pool flood appearance. Named technique like Purple Demon Eyes a named technique with stages training own effects → Grey Ridge Hunt must be defined like Purple Demon Eyes 4 stages Perception/Attention/Intoxication/Immersion with training purple qi morning effects mind's eye Wide-Area etc. Status file should have full status completely everything not just system panel → STATUS.md must include Basic Info Body Spiritual Realm Soul Power Techniques Rings Skills Bloodlines Life-skills all MASTERED Attributes Named Techniques. Spiritual realm what spiritual realm he is → Spirit Origin 0-99 Connection 100-499 Sea 500-4999 Abyss 5k-19k Domain 20k-49k Divine Origin 50k+ God King current Spirit Sea 850. Wind attribute even → add wind to martial soul/bloodline. Go check canon completely difference ordinary wolf ice only vs ours ice+wind mutation via bloodline merge evolution allowed Baike Beast Martial Soul may undergo mutation. Keep F16/F17 numbers 30 1,350y/1,850y purple concealed as yellow everything Mid+ High effective talent 3.5×.
-- **F19 skills description like in Soul Land go check canon how soul skills is and many things possible:** Canon format — Beast possession grey light surges bones cracking muscles expand stature larger hair dyed claws etc Dai Mubai White Tiger pale white light erupts muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers pupils deep dark blue Feng Xiaotian Swift Wind Doubleheaded Wolf faint cyan light surges bones cracking muscles bones expand stature larger hair dyed cyan wolf head emerges left shoulder, soul ring lights up yellow/purple/black aura grandeur incantation First Soul Skill, self-enhancement +50% +100% +150%, long-range area Wind Blade Burst 10 half crescent sealing evasion, flight Swift Wind Dual Wings 50m height, self-created Thirty-Six Continuous Slashes strength speed increasing each chop vs Disorder Splitting Wind Hammer, domain True Body 70+ 300% etc. Rewrite Ye Cang skills like canon with Name Soul Ring Type Activation Appearance Effect Duration Range Cost Origin Beast Evolution Canon anchor. Many things possible future — self-created skills Grey Ridge Hunt Continuous Thrusts, Martial Soul True Body at 70 Storm Frost Ghost Wolf True Body giant 5+ meters ice+wind domain 100-300%, Domain Grey Ridge Domain / Storm Frost Ghost Wolf Domain ice+wind+ghost slows enemies enhances senses Wide-Area, Soul Bone Ghost Wolf Right Leg Bone speed+ghost veil Stormwind Wing Bone flight, Blood Essence Core / Soul Core fully merge soul power blood essence integrating into all skills, Spiritual Realm further Abyss Domain Divine Origin God King, Ring Ageing black 10k red 100k skill upgrade Ghost Emperor Veil Storm Emperor Step Tornado, Martial Soul Further Evolution Divine Beast Extreme Ice -150C Extreme Wind, Martial Soul Fusion Skill with Yuhao, Tang Sect Methods Mysterious Heaven Skill Purple Demon Eyes Ghost Shadow Perplexing Track etc.
-- **F20 thousand-year Ghost Wolf canon facts integrated:** Official canon facts user provided — Lock of Golden Hair most prominent identifier thousand-year Ghost Wolf growth distinct lock golden hair forehead base coat iron-gray green glowing eyes, Toughest Skull overall body fragile defensively weak skull immense hardening toughest weapon capable matching head-on force elite power attack, Tofu Waist Paradox copper-headed iron-boned tofu-waist waist neck highly vulnerable vital spots experienced hunters target, Combat Strategy elite calculation-driven phantom hunter away from low-tier pack scattering, Psychological Warfare inherently suspicious avoids head-on high-speed attrition tracking until tire or exposed flank, 1,000-Year Light of the Netherworld innate speed-boosting physical mitigation aura scales dramatically flash past sensory tracking, Advanced Ghost Doppelganger generates three phantom clones hiding real body visual duplicates distractions, Key Canon Storyline Appearance Soul Land 2 Shrek Academy Beast Dueling Area Huo Yuhao + He Caitou vs Thousand-Year Spectre Wolf wolf uses evasive phantom traits pressure duo climax hardened skull shattered by Dark Gold Terror Claw Bear right palm bone dark golden blades. Integrated into SKILLS_CANON.md First Ring Skill Netherlight -> Ghost Veil rewritten with full canon golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones Shrek Beast Dueling Area Dark Gold Terror Claw Bear shattering skull, STATUS.md second bloodline card + detailed skills section, METERS.md Ghost Wolf bloodline, Ch4 prose iron-gray green eyes fragile no golden lock yet golden lock only at 1000y toughest skull tofu waist paradox waist/neck vulnerable Light of Netherworld psychological warfare 3 clones at thousand years Dark Gold Terror Claw Bear shattering skull waist bean-curd door canon correct, Ch5 prose ring aged golden lock etc, SYSTEM_SPEC Law20 Ghost Wolf Thousand-Year Physical Evolution Law.
-- **F21 correct everything and check everything and understand:** Self-audit 79 checks PASS 0 errors run_all green panels 80 IN SYNC all F0-F21 locks verified Ghost Wolf thousand-year canon golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones Shrek Beast Dueling Area Huo Yuhao He Caitou Dark Gold Terror Claw Bear integrated.
-- **F22 Chapter 6 The Hem Road road craft all basics MASTERED High:** User answer road_craft hem roads villages Grey Ridge Hunt in use all basics MASTERED High shown in daily life soul power control + body control + five senses like Purple Demon Eyes no fights yet keep honest pace show fused method in daily travel stillness observation mountain stride cooking etc maintain concealment effective talent 3.5x Spirit Sea perception 10-100m + prose short when no update full when update — Not every time in chapter you only write when there is update or just gain then you write full normally can check in status file everything when needed — so Ch6 has 0 panel lines no full panel prose short canon markers but full numbers in STATUS.md SKILLS_CANON.md 2677w band IN avg6.8 med5 max47 over60 0.
+Purpose: Share everything learned so other agents can work faster and avoid same strikes.
 
 ---
 
-## 2. Standing Constraints & Corrections — What user explicitly directed
+## 1. How User Teaches — Serial Locks
 
-- PAT `[REDACTED PAT]`; no workflow; re-export git identity every bash; gh absent REST.
-- SERIAL LOCKS F0–F22 as above — never drop unless user reversed or task finished.
-- Standing: stop writing chapters until foundations approved, ask questions first, check canon perfectly, the-way ban, tar not rsync, re-export git identity.
+User teaches by strike, not by long spec. Each lock = one correction you must keep forever.
 
-**Other agents — learn this:** If user says "Do yourself" or "Next" or strikes with "what level they are not mastered" or "where wind attribute even" or "go check canon completely what difference" — it means foundations are not honest, not full, not canon-perfect. Stop writing chapters. Rebuild foundations first. Ask via ask_user.
+- **F0** OC premise: grown Earth, full meta knowledge of Soul Land, silent, wolf martial soul, innate 1 start. Innate is start, not ceiling.
+- **F2** Bloodline at awakening: Grey Wolf 7% Low on night one. Bloodline gives body, senses, recovery, appearance.
+- **F3** Research everything: web_search canon before writing. Wolf souls mostly ice. Stormwind = wind. Ghost Wolf = patient hunter.
+- **F4** All foundation files must exist: SYSTEM_SPEC, STATUS, METERS, PANELS, SKILLS_CANON, FOUNDATION, RULINGS_LOG, TIMELINE, STORY_ARCS, etc.
+- **F5** Workshop refresh: workspace can wipe. Keep backup clone at /tmp/mine/wolf. Use tar, not rsync. Restore .git via cp -r.
+- **F6** "Do yourself": agent must rebuild foundations, not ask user.
+- **F7** FULL panels: full panel at every gate (night one, rank up, year end). Every other beat panel short. Drift guard checks that every 「...」 in chapters exists in PANELS.md and reverse. Must stay IN SYNC.
+- **F8** Honest pace: level 10 wall held 3 years. Pour 12 to 29 is 17 levels in one year. No inflated growth.
+- **F9** Grade ladder: Waste / Ordinary / Excellent / Top-tier / Divine for martial souls. Low / Mid / High / Top / Ultimate for current readings. Rings white > yellow > purple > black > red.
+- **F10** Ring seats bloodline: each ring seats its beast bloodline. Ghost 1% Low, Stormwind 15% Mid.
+- **F11** Full grant: each ring gives 7 things — SKILL, RANK GIFT, SOUL UPGRADE, BODY FLOOD, BLOOD, YEARS, TITLE. Years: white 10, yellow 100, purple 1000, black 10000, red 100000. First ring limit ~420y but ages after seating.
+- **F12** Walls: bottlenecks at 10,20,30. No ring = no crossing.
+- **F13** Honest yield 24/7: slotted techniques run at best 24/7 even while sleeping. Hours that count are hours engine runs. Two slots for 5 years = decades of part-time.
+- **F14** Mastery: basic methods have no numbered stages. At 100% they become 100% MASTERED with grade Low>Mid>High. Pool quality deepens. Aging is pour-based, not calendar. Ghost 120y to 168y via levels + hours, not months.
+- **F15** Interconnection: effective talent = innate 1 + Grey + Ghost + Stormwind + basics + fusion. At Ch5 ~3.5x. Appearance changes with bloodline: frame, height, amber eyes, grey tint hair, dogs ignore him.
+- **F16** Thousand-year gate: by Ch5, Ghost 1350y purple, Stormwind 1850y purple, Level 29-30, everything Mid+, Grey Ridge Hunt fusion of basics.
+- **F17** Evolution: Grey Wolf > Ice Wolf > Frost Ghost Wolf > Storm Frost Ghost Wolf when Grey 65% High + both rings purple. Skill upgrade on color break: Netherlight > Ghost Veil, Windstride > Storm Step. Ring Veil hides purple as yellow. Fool shows two thousand-year rings.
+- **F18** Full status strike: user said "what level they are not mastered" and "where wind attribute even" and "how strong body". Fix: all 15 life-skills 100% MASTERED High, martial soul ice+wind, body ~500kg lift robust, named technique like Purple Demon Eyes 4 stages, Spirit Sea 850, wind attribute even, STATUS.md must have everything not just system panel.
+- **F19** Skills like canon: rewrite skills with canon format — Name, Ring, Type, Activation, Appearance, Effect, Duration, Range, Cost, Origin Beast, Evolution. Check Dai Mubai White Tiger possession and Feng Xiaotian Wind Blade Burst as anchors.
+- **F20** Ghost Wolf canon: golden lock on forehead at 1000y, iron-gray coat, green eyes, toughest skull, fragile body, tofu waist (waist/neck weak), Light of Netherworld speed aura, Ghost Doppelganger 3 clones, Shrek Beast Dueling Area vs Huo Yuhao + He Caitou, skull shattered by Dark Gold Terror Claw Bear.
+- **F21** Correct everything: self-audit 79 checks, run_all green, panels 80 IN SYNC.
+- **F22** Road craft: Ch6 The Hem Road, no fight, show Grey Ridge Hunt in daily life — control, body control, five senses, stillness, observation. User rule: "Not every time, in chapter you only write when there is update or just gain, then you write full, normally I can check in status file". So Ch6 has 0 panel lines.
 
----
-
-## 3. Workspace & GitHub Management — Lessons
-
-- **Workspace snapshot excludes:** .arena, .cache, .local, .mypy_cache, .next, .nox, .npm, .nuxt, .output, .parcel-cache, .pytest_cache, .ruff_cache, .svelte-kit, .tox, .turbo, .venv, .vite, __pycache__, build, coverage, dist, node_modules, out, target, .git/config, .git/credentials, .git-credentials, .netrc. Turn-end snapshots capped ~128MB or 10k files. So keep anything you want to persist under /home/user.
-- **Bash does NOT preserve:** working directory changes, shell variables, aliases, functions, history, exported env changes, background process state across calls. So re-export GIT_AUTHOR_NAME etc every bash.
-- **tar not rsync:** User explicitly said tar not rsync. Use `tar -cf /tmp/mine/wolf_f18.tar -C /home/user soul-land-2-the-grey-wolf --exclude=.git --exclude=docs --exclude=manuscript` for backup before commit. Then restore .git via `cp -r /tmp/mine/wolf/.git workspace/.git` when .git lost. /tmp wipes, so keep clone at /tmp/mine/wolf as backup git repo with .git.
-- **gh absent REST:** `gh` CLI absent, so use REST API for releases: POST https://api.github.com/repos/OWNER/REPO/releases with Authorization token PAT, then POST https://uploads.github.com/repos/OWNER/REPO/releases/RELEASE_ID/assets?name=FILE with Content-Type application/zip --data-binary @FILE.
-- **No nested double quotes heredocs:** Avoid `cat << "EOF"` with nested double quotes inside — breaks. Use single quotes heredoc `'PY'` or escape.
-- **the-way ban:** Style gate fails on "the-way" construction — idioms excepted but generally avoid "the way". Search and replace.
-- **Panel ledger drift guard:** `tools/check_panels.py` enforces every 「...」 line in chapters must exist in PANELS.md and vice versa — both ways. A frozen or stale meter fails build. So after updating chapter panel block, update PANELS.md same turn, or vice versa. Ledger rows count — currently 80 rows IN SYNC (12/14/14/18/29/0 for Ch1-6).
-- **Style gate:** `tools/run_all.py` — manuscript sync (6 reader editions + FULL edition) → style gate → site → panel check. Style gate checks band IN (word count 2400-3400 working band), avg sentence length, median, max, dialogue density (dlg per 1000w), over60 (sentences over 60 words) must be 0, the-way must be 0, bare panels must be 0. So split long sentences into short ones — use periods, not commas. Example fix over60 90w sentence by splitting into 10 sentences each <15w.
-- **run_all must be green before commit:** Always run `python3 tools/run_all.py` and `python3 tools/check_panels.py` before commit. If FAIL, fix over60 or panel drift first.
-- **Chapters word count band:** Keep 2500-3300w. Ch5 3336w band IN, Ch6 2677w band IN. If add 7 new life-skills lines, word count +88w but still IN.
-- **Panel lines in chapters:** When no update no just gain per user rule "Not every time, in chapter you only write when there is update or just gain, then you write full, normally I can check in status file everything when needed" — Ch6 has 0 panel lines, ledger still 80 rows IN SYNC, allowed.
-
----
-
-## 4. Canon Checking — How to check canon perfectly
-
-- Use `web_search` with depth 3 for spiritual realms, Purple Demon Eye 4 stages training, body thousand-year, Stormwind Demon Wolf attribute Wind Wind Blade Burst Stormwind Wings.
-- Use `fetch_page` for fandom wiki pages, but content may be chunked — call again with chunkIndex.
-- Receipts: Keep receipts 20-25 on disk plus search results — spiritual realms Spirit Origin 0-99 Connection 100-499 Sea 500-4999 Abyss 5k-19k Domain 20k-49k Divine Origin 50k+ God King; Purple Demon Eye 4 levels Survey/Comprehensive Observation Detailed/Attention/Subtlety Mustard Seed/Intoxication Boundless/Immersion/Vastness method cultivate eyes strength + mental power confuse/stun Boundless unlocks mind's eye extreme distances Wide-Area training purple qi rising sun morning Mystic Water Pill Attention 6 months Sun Moon Intoxication Fullmoon Dew Immersion; body thousand-year Blue Silver Grass control nature +10 for 10y +100 for 100y +1000 for 1000y soul ring flood pool deepened pathways widened hardened vitality beast martial soul bodies extremely robust released or not; Stormwind Demon Wolf attribute Wind evil nature mate human women offspring Wolftaken power rank20-30 control wind low level spirit beast physique speed innate Stormwind Doubleheaded Wolf high variation attribute Wind extremely powerful agile Wind Blade Burst 10 half crescent Stormwind Wings sharp wings flight/offensive Feng Xiaotian user.
-- For Ghost Wolf thousand-year: golden lock forehead iron-gray green eyes toughest skull fragile tofu waist paradox copper-headed iron-boned tofu-waist waist neck vulnerable, Light of Netherworld speed-boosting physical mitigation aura flash past tracking, Advanced Ghost Doppelganger 3 phantom clones hiding real body, Shrek Academy Beast Dueling Area Huo Yuhao + He Caitou vs Thousand-Year Spectre Wolf Dark Gold Terror Claw Bear right palm bone dark golden blades shattering skull.
-- For skills: Dai Mubai White Tiger Protective Barrier white light barrier defense +50% self-enhancement amplification, White Tiger Fierce Light Wave spits milky-white light sphere long-range blows away, White Tiger Vajra Transformation body muscles expand black stripes half-hour resistance abnormal statuses attack defense strength doubled 100%, White Tiger Meteor Shower countless fist-sized golden light spheres each 1/10 spirit power area or concentrated, White Tiger Demon God Transformation +150% etc; Feng Xiaotian Wind Blade Array sharp wolf claws extend palms slash out ten crescent-shaped wind blades sealing all evasion, Double Wolf Possession self-enhancement double-headed wolf light shadow merges body increasing attack defense agility 50%, Swift Wind Dual Wings pair enormous cyan wings unfurl back granting flight 50m height brings body best condition, Tornado Wind Blade layer intense cyan light bursts transforming into countless extremely sharp wind blades explode into dazzling tornado, Thirty-Six Continuous Slashes strength speed increasing each chop vs Tang San Disorder Splitting Wind Hammer.
-- Always cite results with [id](url) format when using web_search results.
-- Go check canon completely what difference — ordinary wolf ice only vs ours ice+wind mutation via bloodline merge evolution allowed Baike Beast Martial Soul may undergo mutation.
+Keep all locks forever unless user reverses.
 
 ---
 
-## 5. Status File — Full Status Completely Everything
+## 2. Standing Rules
 
-User strike: status file should have full status completely everything not just system panel.
-
-**STATUS.md v4.1 F18/F20/F21 must include:**
-
-- Basic Info: Name Ye Cang, Age 11, Level 30 Great Soul Master top 3.5× effective talent, Martial Soul Wolf → Storm Frost Ghost Wolf ice+wind High, Slots 3/3/3
-- Body: ~500kg lift robust beast-type body denser bone quicker muscle reflexes step ahead vitality recovery senses fed appearance changed frame as freight height shoulders amber ice-amber eyes grey tint dogs no longer lift heads wood passes him at peace
-- Spiritual Realm: Spirit Origin 0-99 Connection 100-499 Sea 500-4999 Abyss 5k-19k Domain 20k-49k Divine Origin 50k+ God King current Spirit Sea 850 points vast as sea foundation expert battleship pilot minimum perception 10-100m minute details house fly
-- Soul Power / Pool Quality: dense dark pure for rank reborn mind discipline all-hours circulation at mastery three bloodlines feeding thousand-year rings feeding fused method Grey Ridge Hunt
-- Techniques: Basic Soul Power Cultivation 100% MASTERED High like Mysterious Heaven Skill foundation, Hunter's Craft 100% MASTERED High like Tang Sect craft, Grey Ridge Hunt 100% MASTERED High like Purple Demon Eyes + Ring Veil
-- Other basics fuse: Soul Power Control Body Control Five Senses Reading Understanding Spearmanship Cooking Combat Style all MASTERED High
-- Soul Rings: Ghost Wolf 1,350y purple aging with golden lock iron-gray green eyes toughest skull tofu waist paradox Light of Netherworld Ghost Doppelganger 3 clones concealed as 120y yellow via Ring Veil true purple in Ledger, Stormwind Demon Wolf 1,850y purple aging wind attribute even Wind Blade Burst 10 half crescent Wings 50m concealed as 603y yellow via Ring Veil true purple in Ledger fool who shows two thousand-year rings
-- Skills: Wolf 85% High → Storm Frost Ghost Wolf possession grey light surges bones cracking muscles bones expand stature larger hair grey frost tint amber ice-amber eyes hands claws nails daggers grey fur faint cold air wind curls feet attributes superimposed changes increasingly pronounced degree fusion affecting power robust released or not strength +100% ~500kg speed +80% senses +200% defense +60% ice true wind affinity; Netherlight 45% High → Ghost Veil at 1000y Light of Netherworld speed-boosting mitigation aura flash past tracking + Ghost Doppelganger 3 clones hiding real body + energy slide + brief invisibility 2s + confuse/stun + toughest skull head defense +60% but tofu waist waist/neck vulnerable +20%; Windstride 20% High → Storm Step at 1000y Wind Blade Burst 10 half crescent sealing evasion 20m + Stormwind Wings flight 50m 15s + afterimage 2-3 + future Tornado + 36 Continuous Slashes
-- Bloodlines: Grey 65% High ice +1.30 true ice + Ghost 35% Mid +0.35 quiet step seen-late patience soul power control observation golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones + Stormwind 15% Mid +0.225 wind attribute Wind Wind Blade Burst Stormwind Wings Wolftaken control wind rank20-30
-- Life-skills: all 15 100% MASTERED High per author's strike he doesn't master all basic things
-- Level: 30 Great Soul Master top 29 banked +30 gift canon monsters band
-- Plus Bloodline Cards, Grades, Named Techniques, Spiritual Realm, Attributes, Body Strength full sections
-- Plus Skills — Description like in Soul Land canon how soul skills is and many things possible future: self-created skills, True Body at 70, Domain, Soul Bone, Blood Essence Core / Soul Core, Spiritual Realm further, Ring Ageing black red, Martial Soul Further Evolution Divine Beast Extreme Ice -150C Extreme Wind, Martial Soul Fusion Skill, Tang Sect Methods.
+- Re-export git identity every bash: GIT_AUTHOR_NAME, GIT_AUTHOR_EMAIL, GIT_COMMITTER_NAME, GIT_COMMITTER_EMAIL. Bash does not preserve env.
+- No gh CLI. Use REST API with PAT for releases.
+- Use tar for backup, not rsync.
+- Avoid "the-way" phrase. Style gate fails on it.
+- Avoid sentences over 60 words. Split long sentences.
+- Stop writing chapters until foundations approved.
+- Ask via ask_user when ambiguous.
+- Check canon perfectly before writing.
 
 ---
 
-## 6. Life-Skills Level — All Basics MASTERED
+## 3. Workspace Management
 
-User strike: Sense70 Stillness60 Speech55 Stride70 Tally70 Spear60 Control65 Observation68 what level they are not mastered he doesn't master all basic things.
-
-Fix: All 15 life-skills 100% MASTERED High:
-Hunter's Sense, Stillness, Plain Speech, Mountain Stride, Tally, Spear, Soul Power Control, Observation, Body Control, Five Senses, Reading, Understanding, Basic Spearmanship, Cooking Skill, Combat Style.
-
-Each feeds Grey Ridge Hunt, each has its own pace law what feeds it, each fuses into Grey Ridge Hunt complete combat style like Purple Demon Eyes.
-
----
-
-## 7. Martial Soul Attributes — Ice + Wind Where Wind Attribute Even
-
-Canon: ordinary wolf-type martial souls mostly ice attribute (receipt 16) — our Wolf ice thin → true ice at evolution matches canon.
-Stormwind Demon Wolf attribute Wind Wind Blade Burst Stormwind Wings Wolftaken control wind rank20-30 — our Stormwind bloodline wind matches canon.
-Ghost Wolf no element receipted none claimed — our Ghost line no element matches canon.
-At evolution to Storm Frost Ghost Wolf ice+wind+ghost — difference is mutation via three bloodlines + thousand-year rings — canon-allowed: Beast Martial Soul may undergo mutation resulting in characteristics different from original species (Baike), Xu Sanshi Xuanwu Shield → Golden Xuanwu Shield, Lan Mengqin Jade Phoenix Zither → Emerald Jade Phoenix Zither, Bai Xiuxiu Demon Shark → Abyss Demon Dragon Shark — bloodline merge evolves martial soul.
+- Snapshot saves only /home/user. Excludes .arena, .cache, node_modules, dist, build, .git/config etc. Cap ~128MB / 10k files.
+- Bash cwd resets each call. Always cd to project.
+- Keep backup: `tar -cf /tmp/mine/wolf.tar -C /home/user soul-land-2-the-grey-wolf --exclude=.git --exclude=docs --exclude=manuscript`
+- Restore .git: `cp -r /tmp/mine/wolf/.git ./`
+- /tmp wipes on restart. Keep clone at /tmp/mine/wolf.
 
 ---
 
-## 8. Body Strength — How Strong Body Is Who Have 2 Thousand-Year Rings
+## 4. GitHub Management
 
-With 2 thousand-year purple rings 1,350y/1,850y + Grey 65% High body-line + Ghost 35% Mid + Stormwind 15% Mid + Basic MASTERED High + Craft MASTERED High + Grey Ridge Hunt High + Five Senses High + Body Control High + Soul Power Control High body is monster: can lift ~500kg can carry winter's wood without complaint wrist no longer knows sprain back carries sledge nose reads day at door cold tolerance thin ice → true ice at evolution recovery sleep heals more fatigue lifts sooner body mends faster vitality deep health sick less last longer predator's frame denser bone quicker muscle reflexes step ahead — body slowly becoming wolf's released or not — appearance changes height shoulders amber ice-amber eyes grey tint dogs no longer lift heads wood passes him at peace body with 2 thousand-year rings is robust released or not Baike Beast Martial Soul can withstand 1,350y cold seasons poured as frost into stone absorption as winter can thrust spear through 1,200y Stormwind Demon Wolf at shoulder root at full stride at price torn shoulder — honest price.
-
-Canon: soul rings give body flood — pool deepened pathways widened hardened vitality F11 — thousand-year rings give 1000 attribute increase Blue Silver Grass control nature increases by 10 for 10-year ring 100 for 100-year ring 1000 for 1000-year ring — receipt. So 2 thousand-year rings give 1000+1000 = 2000 attribute increase to body — robust.
-
----
-
-## 9. Named Technique Like Purple Demon Eyes
-
-Canon Purple Demon Eyes: Tang Sect's eye technique method to cultivate eyes' strength while also increasing mental power can be used to temporarily confuse or stun opponent divided into 4 stages Perception/Comprehensive Observation/Survey improve vision power clearly grasp detail, Attention/Detailed/Subtlety after Mystic Water Pill ascended to Attention, Intoxication/Mustard Seed after 6 months meditation Sun Moon Empire ascended to Intoxication, Immersion/Boundless/Vastness after Fullmoon-Piercing Autumn Dew ascended to Immersion Boundless unlocks mind's eye allowing perception to extreme distances Wide-Area Ability. Training requires purple qi from rising sun morning practice Tang San started at young age Huo Yuhao trained with Spirit Eyes to incapacitate opponents. Effects substantially improve vision power clearly grasp detail confuse/stun opponent unlock mind's eye perceive surroundings extreme distances Wide-Area.
-
-Grey Ridge Hunt (Ye Cang's own PROPOSED like Purple Demon Eyes): fused method from mastering complete all basic techniques person learns in life — Soul Power Control Body Control Five Senses Sight Hearing Smell Taste Touch Observation Running Stillness Hunter's Sense Mountain Stride Spear Tally Reading Understanding Spearmanship Cooking Combat Style — complete combat style his own with own effects own training own stages own incantation *hunt.* — like Purple Demon Eyes named technique.
-
-- Stages like Purple Demon Eyes 4 stages:
-  - Stage 1 — Perception Five Senses MASTERED High Sight amber ice-amber eyes sees weakness Hearing hears dogs' hearts at fence Smell nose reads whole day Taste pelt smell live wolf Touch wrist no longer knows sprain — improves vision power clearly grasp detail like Purple Demon Eye Survey — training morning ridge run nose at door reads day.
-  - Stage 2 — Attention Observation + Soul Power Control MASTERED High soul power flows where eye goes — like Purple Demon Eye Detailed — training black pools blind counting musk and water tallykeeper's counting — after mastering ascended via reborn mind discipline + all-hours engine.
-  - Stage 3 — Intoxication Body Control + Running + Mountain Stride + Patience as limb MASTERED High body arrives where mind went first — like Purple Demon Eye Mustard Seed — training thorn thicket stillness sledge runner wind line scree fold — after 1y at mastery ascended.
-  - Stage 4 — Immersion/Boundless Quiet Step + Seen-late + Burst + Wind Blade + Ring Veil concealment MASTERED High brief invisibility wind blade burst 10 half crescent wind blades — Feng Xiaotian's 1st skill — stormwind wings sharp wings flight/offensive — Feng Xiaotian's 3rd skill — afterimage hides purple as yellow unlocks mind's eye perception 10-100m minute details like house fly detecting hand before motion — like Purple Demon Eye Boundless — Wide-Area Ability — training south crags fold out-decide fast kind.
-
-- Training method morning purple qi from rising sun like Purple Demon Eyes ridge run thorn thicket sitting still black pools blind wind line scree fold sledge runner spear point leading — all hours at best via Passive Law — reborn mind + 24/7 + bloodlines = compounding.
-- Own effects spirit power flows where eye goes body arrives where mind went first patience as limb quiet step seen-late burst wind blade wings afterimage Ring Veil concealment hides purple as yellow mind's eye perception extreme distances Wide-Area confuse/stun opponent like Purple Demon Eye.
-- Incantation *hunt.* — one silent word cold and plain — like Purple Demon Eye silent training.
-
-Other named techniques like Purple Demon Eyes F18:
-- Five Senses — 100% MASTERED High — Sight Hearing Smell Taste Touch as technique — like Purple Demon Eyes eye training — own effects own training.
-- Body Control — 100% MASTERED High — body arrives where mind went first — like Ghost Shadow Perplexing Track — own effects.
-- Soul Power Control — 100% MASTERED High — soul power flows where eye goes — like Mysterious Heaven Skill foundation — own effects.
-- Ring Veil — 100% MASTERED High — hides true color purple thousand-year shows fake yellow/white hides years — like Tang San hiding rings Yuhao's simulation — named technique with own effects — fool who shows two thousand-year rings.
+- Remote: origin main. Current HEAD ahead after push.
+- Before commit: `python3 tools/run_all.py` must be green. Then `python3 tools/check_panels.py` must be IN SYNC.
+- Docs: `docs/` has 6 chapters + index.html built by run_all.
+- Manuscript: `manuscript/` has 6 reader editions + FULL.
+- Releases: 10 releases v0.6.3-f16 to v0.6.9-f22 via REST. Each has one zip asset. POST /repos/OWNER/REPO/releases then POST /uploads/.../assets.
+- Files to update each push: README.md, CHANGELOG.md, NEXT.md, docs/, manuscript/ if changed, foundation/ if changed.
 
 ---
 
-## 10. Skills Description Like in Soul Land — How Soul Skills Is
+## 5. Canon Checking Method
 
-Canon format from fandom/baike:
+- Use web_search depth 3 for spiritual realms, Purple Demon Eyes, body thousand-year, Stormwind attribute.
+- Use fetch_page for fandom wiki, may need chunkIndex.
+- Keep receipts in docs or memory.
+- Key facts learned:
+  - Spiritual realms: Spirit Origin 0-99, Connection 100-499, Sea 500-4999, Abyss 5k-19k, Domain 20k-49k, Divine Origin 50k+, God King. Current 850 = Spirit Sea.
+  - Purple Demon Eyes: 4 stages Survey/Attention/Intoxication/Immersion, training purple qi morning, effects vision + confuse/stun + mind's eye 10-100m.
+  - Body thousand-year: 10y ring +10, 100y +100, 1000y +1000. Pool deepened, pathways widened, vitality. Beast bodies robust even without release.
+  - Stormwind Demon Wolf: Wind attribute, Wind Blade Burst 10 half crescent, Wings 50m flight, Wolftaken, rank 20-30.
+  - Ghost Wolf thousand-year: golden lock, iron-gray, green eyes, toughest skull, tofu waist, Light of Netherworld, 3 clones, Shrek duel vs Yuhao + Caitou, Dark Gold Terror Claw Bear shatters skull.
+  - Beast possession format: grey light surges, bones cracking, muscles expand, hair dyed, claws 20cm, pupils dark blue, etc.
 
-| Field | Example |
-|---|---|
-| Name | White Tiger Protective Barrier / Wind Blade Burst / Blue Silver Grass Bind |
-| Soul Ring | 1st ring 300+ years Yellow / 1st ring 422 years Yellow from Datura Snake |
-| Type | Self-enhancement amplification / Long-range attack / Control |
-| Activation | Soul ring lights up yellow/purple/black light surges incantation First Soul Skill White Tiger Protective Barrier |
-| Appearance | Pale white light erupts muscles expand golden hair white/black king pattern forehead hands double size white fur claws 20cm daggers pupils deep dark blue (Dai Mubai White Tiger possession) / faint cyan light surges bones cracking muscles bones expand stature larger hair dyed cyan wolf head emerges left shoulder (Feng Xiaotian Stormwind Doubleheaded Wolf) |
-| Effect | Forms white light barrier increases defense 50% increases strength 50% etc / Spits milky-white light sphere from mouth long-range blows anything obstructing away / Throws 6-7 meters spider net extremely durable self constricting + poisonous corrosive / Launches countless fist-sized golden light spheres each 1/10 spirit power area or concentrated |
-| Duration / Range / Cost | Lasts half hour White Tiger Vajra Transformation covers ten meters or more knocks back and stuns etc |
-| Origin Beast | Vajra Tiger 1,500 years purple Ghost Vine Man Faced Demon Spider 1,100 years purple etc |
-| Evolution | At higher cultivation appearance changes more pronounced fusion degree affects power closer transformation to martial soul characteristics better unleash power. When martial soul evolves Xu Sanshi Mystic Deep Turtle → Xuanwu → Golden Xuanwu skills evolve too. |
-
-Ye Cang current skills F18/F19/F20 rewritten like canon — see SKILLS_CANON.md v4.3 F20 with full tables for Possession The Wolf → Storm Frost Ghost Wolf, First Ring Netherlight → Ghost Veil with golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones, Second Ring Windstride → Storm Step with Wind Blade Burst 10 half crescent Wings 50m afterimage Tornado future 36 Continuous Slashes.
-
-Many things possible future — self-created skills Grey Ridge Hunt Continuous Thrusts, Martial Soul True Body at 70 Storm Frost Ghost Wolf True Body giant 5+ meters ice+wind domain 100-300%, Domain Grey Ridge Domain / Storm Frost Ghost Wolf Domain ice+wind+ghost slows enemies enhances senses Wide-Area, Soul Bone Ghost Wolf Right Leg Bone speed+ghost veil Stormwind Wing Bone flight, Blood Essence Core / Soul Core fully merge soul power blood essence integrating into all skills, Spiritual Realm further Abyss Domain Divine Origin God King, Ring Ageing black 10k red 100k skill upgrade Ghost Emperor Veil Storm Emperor Step Tornado, Martial Soul Further Evolution Divine Beast Extreme Ice -150C Extreme Wind, Martial Soul Fusion Skill with Yuhao, Tang Sect Methods Mysterious Heaven Skill Purple Demon Eyes Ghost Shadow Perplexing Track etc.
+Always cite with [id](url) when using search results.
 
 ---
 
-## 11. Chapter Writing Rule — Only Write Full When Update or Just Gain
+## 6. Panel Ledger Drift Guard
 
-User custom: "Not every time, in chapter you only write when there is update or just gain, then you write full, normally i can check in stuts file everything when i needed"
-
-So Ch6 has 0 panel lines per user rule — no full panel in chapter normally can check in status file everything when needed — honest pace road craft all basics MASTERED High shown in daily life no fights yet.
-
-Ch4 had 18 panel lines at gate — absorption + gate panel — full panel at every gate night one rank-ups year-ends.
-Ch5 had 29 panel lines at road's first gate — full panel at gate with evolution Ghost Veil Storm Step Ring Veil all basics MASTERED High ice+wind Spirit Sea 850 body ~500kg wind attribute even.
-Ch6 has 0 panel lines — not gate — no update — no just gain — so no full panel — check status file when needed.
-
----
-
-## 12. Helpful Things for Other Agents
-
-- **Always re-export git identity every bash:** `export GIT_AUTHOR_NAME="gm5206663-bit"` etc — bash does not preserve env.
-- **Use ask_user tool when ambiguous:** User may strike with "what level they are not mastered" or "where wind attribute even" — ask first, don't guess. Use ask_user with 2-4 options plus free-text.
-- **Check canon perfectly before writing:** web_search depth 3 for spiritual realms, Purple Demon Eye, body thousand-year, Stormwind attribute, etc. Cite with [id](url) format.
-- **Keep foundations approved before chapters:** Stop writing chapters until foundations approved per standing. After each foundation rebuild, run check_panels and run_all, then ask user if approved.
-- **Use tar not rsync for backup:** `tar -cf /tmp/mine/wolf_f18.tar -C /home/user soul-land-2-the-grey-wolf --exclude=.git --exclude=docs --exclude=manuscript` then `cp -r /tmp/mine/wolf/.git workspace/.git` when .git lost. /tmp wipes but /tmp/mine/wolf clone persists as backup git repo.
-- **Handle over60 sentences:** Split long sentences into many short sentences <60w each, each idea separate, use periods not commas. Example 90w sentence → 10 sentences each <15w.
-- **Handle the-way ban:** Avoid "the way" construction — search and replace.
-- **Handle bare panels:** Panel lines must have grade or description, not bare name and number — `「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」` not `「Wolf: 1%」`.
-- **Effective talent grows:** Innate 1 is start not ceiling — talent GROWS as bloodlines grow — Grey 65%×2.0=1.30 + Ghost 35%×1.0=0.35 + Stormwind 15%×1.5=0.225 + Basic MASTERED 0.5 + Craft MASTERED 0.3 + Fusion 0.5 = 3.5× at gate — honest.
-- **Bloodline is not joke:** Gives many things vitality recovery frame senses ice wind appearance cultivation speed martial soul growth talent attribute evolution awakening when strange change physique remade Qian Lei fatty → muscular tall manly man via Golden Behemoth counter-resonance martial soul evolution Xu Sanshi Xuanwu Shield → Golden Xuanwu Shield Lan Mengqin Jade Phoenix Zither → Emerald Jade Phoenix Zither Bai Xiuxiu Demon Shark → Abyss Demon Dragon Shark Tang Yuge Five Elements Qilin → Heavenly Celestial Qilin blood essence core removal of need for sustenance fully merge soul power and blood essence completely integrating bloodline power into all soul skills soul core storage collection unit lessen loss accelerate recovery.
-- **Aging Law pour-based not calendar:** Rings age in seats NOT by calendar but by what pours through them levels engine hours at mastery bloodline infusion world weight — Ghost 120→1,350y +1,230y by Ch5 gate thousand-year purple.
-- **Skill Upgrade on Ring Breakthrough Law:** When ring breakthroughs color threshold yellow 100→purple 1000 purple→black 10000 skill upgrades keeps identity power grows new effect — Netherlight → Ghost Veil at 1000y adds energy slide + invisibility + 3 clones + toughest skull + tofu waist, Windstride → Storm Step at 1000y adds wind blade burst + wings + afterimage.
-- **Concealment Law:** Ring Veil technique hides purple as yellow to world true purple only in Ledger — fool who shows two thousand-year rings — smart person creates technique to hide true colours — like Tang San hiding rings Yuhao's simulation Blue Silver Disguise.
-- **Martial Soul Evolution Law:** Grey Wolf → Ice Wolf → Frost Ghost Wolf → Storm Frost Ghost Wolf final fusion three bloodlines when Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year = strange change awakening — Baike Beast Martial Soul may undergo mutation resulting in characteristics different from original species.
-- **Ghost Wolf Thousand-Year Physical Evolution Law F20:** Lock golden hair forehead most prominent identifier iron-gray green eyes toughest skull fragile tofu waist paradox Light of Netherworld Ghost Doppelganger 3 clones Shrek Beast Dueling Area Huo Yuhao He Caitou Dark Gold Terror Claw Bear shattering skull.
-- **Spiritual Realm:** Spirit Origin 0-99 Connection 100-499 Sea 500-4999 Abyss 5k-19k Domain 20k-49k Divine Origin 50k+ God King current Spirit Sea 850 vast as sea foundation expert battleship pilot minimum perception 10-100m house fly.
-- **Body Strength:** With 2 thousand-year purple rings 1,350y/1,850y + Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + Basic MASTERED High + Craft MASTERED High + Grey Ridge Hunt High + Five Senses High + Body Control High + Soul Power Control High body monster can lift ~500kg can carry winter's wood without complaint wrist no longer knows sprain back carries sledge nose reads day cold tolerance true ice recovery sleep heals more fatigue lifts sooner body mends faster vitality deep health sick less last longer predator's frame denser bone quicker muscle reflexes step ahead — body slowly becoming wolf's released or not — appearance changes height shoulders amber ice-amber eyes grey tint dogs no longer lift heads wood passes him at peace — body with 2 thousand-year rings is robust released or not Baike Beast Martial Soul can withstand 1,350y cold seasons poured as frost into stone absorption as winter can thrust spear through 1,200y Stormwind Demon Wolf at shoulder root at full stride at price torn shoulder — honest price — thousand-year rings give 1000 attribute increase — 2 thousand-year = 2000 attribute increase.
-- **Named Techniques like Purple Demon Eyes:** Grey Ridge Hunt 4 stages Perception Five Senses MASTERED High Sight Hearing Smell Taste Touch, Attention Observation + Soul Power Control MASTERED High soul power flows where eye goes, Intoxication Body Control + Running + Mountain Stride + Patience MASTERED High body arrives where mind went first, Immersion/Boundless Quiet Step + Seen-late + Burst + Wind Blade + Ring Veil MASTERED High brief invisibility wind blade burst 10 half crescent stormwind wings afterimage hides purple as yellow unlocks mind's eye perception 10-100m minute details house fly Wide-Area confuse/stun — training purple qi morning ridge run thorn thicket black pools scree fold sledge runner spear point leading all hours at best via Passive Law reborn mind +24/7+bloodlines=compounding — incantation hunt.
-- **GitHub management:** Keep repo clean git status, docs built 6 chapters + index site built, manuscript synced 6 reader editions + FULL edition, releases 10 with assets f14-f22 via REST PAT, README updated 6 chapters releases through v0.6.9-f22 Chapter 7 Shrek City arrival next, CHANGELOG appended F22, NEXT.md tracker updated to 6 chapters current state Level30 Ghost 1,350y purple with golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones concealed 120y yellow Stormwind 1,850y purple wind even Wind Blade Burst 10 half crescent Wings 50m concealed 603y yellow Storm Frost Ghost Wolf ice+wind High skills Wolf 85% High → Storm Frost Ghost Wolf possession grey light surges bones cracking muscles expand etc robust released or not strength +100% ~500kg speed +80% senses +200% defense +60% Netherlight 45% High → Ghost Veil at 1000y Light of Netherworld + 3 clones + toughest skull + tofu waist + invisibility 2s + confuse/stun Windstride 20% High → Storm Step at 1000y Wind Blade Burst 10 half crescent sealing evasion 20m + Stormwind Wings flight 50m 15s + afterimage 2-3 + future Tornado + 36 Continuous Slashes techniques Basic 100% MASTERED High + Craft 100% MASTERED High + Grey Ridge Hunt 100% MASTERED High fusion all 15 basics + Ring Veil hides purple as yellow complete combat style like Purple Demon Eyes 4 stages etc bloodlines Grey 65% High ice +1.30 true ice + Ghost 35% Mid +0.35 quiet step seen-late patience soul power control observation golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones + Stormwind 15% Mid +0.225 wind attribute Wind Wind Blade Burst Stormwind Wings Wolftaken control wind rank20-30 life-skills all 15 100% MASTERED High effective talent 3.5x appearance frame freight amber ice-amber eyes grey tint dogs no lift spiritual realm Spirit Sea 850 vast as sea foundation expert battleship pilot perception 10-100m house fly body ~500kg robust beast-type 3x normal 11yo denser bone quicker muscle reflexes step ahead released or not pool deepened pathways widened hardened vitality 2000 attribute increase PANELS 80 IN SYNC run_all green 6 chapters 2875/2642/2531/2930/3336/2677w band IN avg6.8-21.8 dlg 0-7.1 over60 0 the-way 0 bare 0 site built manuscript synced releases v0.6.3-f16 through v0.6.9-f22 all with assets — management done.
+- Tools: `tools/check_panels.py` enforces both directions.
+- Every 「...」 line in chapters must exist in PANELS.md.
+- Every row in PANELS.md must appear in chapters or be marked retired.
+- Current: 80 rows — Ch1 12, Ch2 14, Ch3 14, Ch4 18, Ch5 22, Ch6 0. IN SYNC.
+- Bare panels not allowed: must have grade or description.
+- When adding panel, update both chapter and PANELS.md same turn.
 
 ---
 
-## 13. Conclusion for Other Agents
+## 7. Style Gate
 
-- Foundations first, ask questions, check canon perfectly, no the-way, tar not rsync, re-export git identity, gh absent REST, panel ledger IN SYNC, style gate green, all basics MASTERED High, ice+wind, body ~500kg robust, named technique like Purple Demon Eyes 4 stages, full status completely everything, Spirit Sea 850, wind attribute even, skills description like Soul Land canon how soul skills is many things possible future, thousand-year Ghost Wolf canon golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones Shrek Beast Dueling Area Huo Yuhao He Caitou Dark Gold Terror Claw Bear shattering skull, correct everything and check everything and understand, road craft hem roads villages Grey Ridge Hunt in use no fights yet honest pace, panel rule only write full when update or just gain normally check status file, GitHub management README CHANGELOG NEXT docs manuscript releases.
+- Tool: `tools/run_all.py` runs manuscript sync + style gate + site + panel check.
+- Checks:
+  - Word count band: 2400-3400 per chapter. Ch6 2677w IN.
+  - Avg sentence length, median, max.
+  - Dialogue density per 1000w.
+  - over60 must be 0. Fix by splitting into short sentences.
+  - the-way must be 0. Fix by removing phrase.
+  - bare must be 0.
+- If FAIL, fix first, then commit.
 
-All experience shared — other agents can learn and build.
+---
 
+## 8. Status File — Full Status Completely Everything
+
+User wants full status in STATUS.md, not just system panel.
+
+Must include:
+- Basic Info: Name Ye Cang, Age 11, Level 30 Great Soul Master, Martial Soul Storm Frost Ghost Wolf ice+wind High, Slots 3/3/3
+- Body: ~500kg lift, robust beast-type, denser bone, quicker muscle, predator frame, amber ice-amber eyes, grey tint hair, height shoulders, cold tolerance, recovery, appearance freight, dogs ignore, wood passes at peace
+- Spiritual Realm: Spirit Sea 850, vast as sea, perception 10-100m, house fly detail
+- Soul Power: dense dark pure, all-hours circulation at mastery, three bloodlines feeding
+- Techniques: Basic Cultivation 100% MASTERED High, Hunter's Craft 100% MASTERED High, Grey Ridge Hunt 100% MASTERED High + Ring Veil
+- Life-skills: all 15 100% MASTERED High — Sense, Stillness, Speech, Stride, Tally, Spear, Soul Power Control, Observation, Body Control, Five Senses, Reading, Understanding, Basic Spearmanship, Cooking, Combat Style
+- Rings: Ghost 1350y purple (concealed 120y yellow), Stormwind 1850y purple (concealed 603y yellow)
+- Skills canon format: Possession, Ghost Veil, Storm Step with full appearance and effects and future possibilities
+- Bloodlines: Grey 65% High ice +1.30 true ice, Ghost 35% Mid +0.35 quiet step, Stormwind 15% Mid +0.225 wind
+- Named Techniques: Grey Ridge Hunt 4 stages Perception/Attention/Intoxication/Immersion like Purple Demon Eyes, training purple qi morning, effects mind's eye Wide-Area
+- Attributes, Grades, Body Strength full sections
+- Future: True Body 70+, Domain, Soul Bone, Core, Ring ageing black/red, Divine Beast evolution, Fusion Skill
+
+---
+
+## 9. Life-Skills, Body, Spirit Sea, Wind Attribute
+
+- All basics 100% MASTERED High — user strike "he doesn't master all basic things"
+- Body ~500kg robust — 2 thousand-year rings give 2000 attribute increase + Grey body-line
+- Spirit Sea 850 — perception 10-100m, battleship pilot foundation
+- Wind attribute even — Stormwind bloodline gives wind, martial soul ice+wind mutation allowed by canon (Beast soul may mutate)
+- Named technique like Purple Demon Eyes: Grey Ridge Hunt 4 stages, own training, own effects, incantation "hunt."
+
+---
+
+## 10. Skills Description Like Soul Land Canon
+
+Format:
+- Name / Ring / Type / Activation / Appearance / Effect / Duration / Range / Cost / Origin Beast / Evolution / Canon Anchor
+- Example: Dai Mubai White Tiger Protective Barrier — pale white light, muscles expand, golden hair, king pattern, hands double size, white fur, claws 20cm, defense +50%
+- Example: Feng Xiaotian Wind Blade Burst — 10 half crescent sealing evasion, Double Wolf Possession +50%, Wings flight 50m, Tornado, 36 Continuous Slashes increasing each chop
+
+Ye Cang:
+- Possession: grey light surges, bones cracking, muscles expand, stature larger, hair grey frost tint, amber ice-amber eyes, claws, grey fur, cold air + wind curls, strength +100%, speed +80%, senses +200%, defense +60%
+- Ghost Veil: Light of Netherworld speed boost + mitigation + 3 clones + toughest skull + tofu waist + invisibility 2s + confuse/stun
+- Storm Step: Wind Blade Burst 10 half crescent 20m + Wings 50m 15s + afterimage 2-3 + future Tornado + 36 Slashes
+
+Many things possible future: self-created skills, True Body giant 5m+ ice+wind domain 100-300%, Domain Grey Ridge Domain, Soul Bone Ghost Leg + Wing Bone, Blood Essence Core / Soul Core, Ring ageing black 10k red 100k, Further Evolution Extreme Ice -150C Extreme Wind, Fusion Skill with Yuhao, Tang Sect Methods.
+
+---
+
+## 11. Chapter Rule
+
+User rule: "Not every time, in chapter you only write when there is update or just gain, then you write full, normally I can check in status file everything when needed"
+
+- At gate (absorption, level up, evolution) → write full panel
+- No update → 0 panel lines allowed, keep prose short, show skills in daily life
+- Ch6 = 0 lines, allowed, ledger still IN SYNC
+
+---
+
+## 12. Helpful Tips For Other Agents
+
+- Always ask questions first via ask_user before big changes.
+- Keep foundations approved before chapters.
+- Run run_all + check_panels before every commit.
+- Split long sentences to avoid over60.
+- Avoid "the way" phrase.
+- Bloodline is not joke — gives many things: vitality, recovery, frame, senses, ice, wind, appearance, talent, martial soul growth.
+- Aging is pour-based, not calendar — levels + engine hours + bloodlines age rings.
+- Skill upgrade on color break — keep identity, grow power.
+- Concealment is smart — hide purple as yellow via Ring Veil.
+- Evolution needs High + purple + bloodlines — strange change awakening.
+- Keep effective talent growing — innate is start.
+- Keep appearance consistent — frame freight, amber eyes, grey tint, dogs no lift, wood passes at peace.
+
+---
+
+All lessons shared clean and clear. Other agents can learn and build.
