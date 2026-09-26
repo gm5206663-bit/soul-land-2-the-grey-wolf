@@ -15,8 +15,7 @@ souls hold the advantage before level 30 (receipt 11); the **True Body**
 **The grade ladder** — rank in everything (F9, canon-verified): **Low
 (Waste) / Mid (Ordinary) / High (Excellent) / Top (Top-tier) / Ultimate
 (Divine — the Extreme road: canon defines Extreme Ice at −150°C and
-below)**. The Wolf is Mid; the engine and the craft are Mid (each raised at its 100% upgrade — §8's own law, F13); the bloodline
-is Low — and every grade is a current reading that can rise.
+below)**. The Wolf is Mid (71% honest); the engine and the craft are Mid (both 100% MASTERED, grade Low→Mid at mastery — §8/F14, no stages); the Grey bloodline Low (48% honest), Ghost Low→Mid (18% on 168y), Stormwind Mid (1% Mid-caliber even at 100y, F14) — and every grade is a current reading that can rise.
 
 **The bloodline list** — the fourth list: a beast-type soul is its
 bloodline expressed, so it unlocks with the soul itself (night one: 「Bloodline — Grey Wolf: 7% · ice · the body-line: vitality, recovery, the wolf's frame」 — the line's name for their own grey wolf blood, OURS, no canon breed claimed). The Ye line's old, thin wolf — his father's soul and his grandfather's before that. Grows on living and on the ring's

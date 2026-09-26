@@ -68,12 +68,7 @@ ledger and is updated the same turn any number moves; the drift guard
 1. **THE INITIALIZATION LAW** — a meter opens where life put it, never
    zero, never inflated. The night it wakes, it has already counted his
    six years.
-2. **THE UPGRADE LAW** — the moment a meter touches 100%, the technique
-   upgrades to its next stage, immediately, in place. 100% is a gate,
-   never a resting state. The named method IS the next stage. (Firings
-   to date, F13: the ENGINE at the first midwinter — the county's plain
-   method reopened as Stage Two, its grade rising with it; the CRAFT at
-   the kill — Stage Two, seated the same night.)
+2. **THE UPGRADE LAW — REVISED F14 (THE MASTERY LAW)** — the moment a meter touches 100%, 100% is a gate, never a resting state. For true cultivation methods that have canon stages (e.g., Mysterious Heaven Skill), the method opens its next stage and its grade rises with it. For FOUNDATIONAL or MORTAL methods — the county's **Basic Soul Power Cultivation** and **The Hunter's Craft** — there are NO invented numbered stages. At 100% the method becomes **MASTERED**: grade Low→Mid (§8's own law, F13), pool quality deepens, and the meter locks as **100% MASTERED**, continuing to run passively at mastered yield, feeding every other meter via Infusion. The "next stage" is not Stage Two of the same name; it is a greater method acquired from the world via Acquisition Law (e.g., at Shrek). Firings to date, F14: ENGINE mastered first midwinter age 6 — MASTERED, grade Mid, 5 years at mastery by Ch5; CRAFT mastered at the kill age 10 — MASTERED, grade Mid, seated same night, 1 year at mastery by Ch5.
 3. **THE VARIED-PACE LAW** — every skill and technique is different; each
    takes its own time, at its own pace, for its own reasons. No two meters
    alike.
@@ -86,10 +81,7 @@ ledger and is updated the same turn any number moves; the drift guard
    slotted techniques through five years bank decades of a part-time
    practitioner's practice, and the meters pay it (F13 — the honest
    yield).
-7. **THE AGING LAW** — rings age in their seats (his strength, the ring's
-   own potential, the bloodline, what the world weighs), and everything
-   seated on a ring deepens with it — the skill keeps its identity, its
-   power grows.
+7. **THE AGING LAW — REVISED F14 (THE TRUE AGING)** — rings age in their seats NOT by calendar, but by what pours through them: levels, engine hours at mastery, bloodline infusion, world weight. The pouring year (12→19, 7 levels + 1 year of 24/7 mastered engine) aged the Ghost Wolf ring from 120y to **168y (+48y)** by Ch5 gate — honest yield of F13's 40-year bank. Calendar aging (~1y/y) is the floor, not the rule. Everything seated on a ring deepens with it — the skill keeps its identity, its power grows.
 8. **THE RESONANCE LAW** — every seat leans on every other; the whole is
    faster than the parts can account for.
 9. **THE TENDING LAW** — growth by living. Nothing is purchasable. No
@@ -153,7 +145,7 @@ one-to-one:
   level, the slots (counts, not things).
 - **Grades are honest current readings** (Nothing-Fixed): a grade rises as
   the thing grows; a technique's 100% upgrade opens the next stage and its
-  grade with it; mutation is canon's other road between grades (receipt
+  grade with it — or, for foundational/mortal methods, mastery raises grade Low→Mid and locks as MASTERED; mutation is canon's other road between grades (receipt
   14).
 - **The far horizon, canon-true:** an old thin ice line has a defined
   ceiling to grow toward — the Ultimate tier is real, receipted, and

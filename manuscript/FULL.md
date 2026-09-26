@@ -182,7 +182,7 @@ In the second month of winter, lying in the loft with the engine turning over in
 
 And that same night, for the first time, a second line printed under the level's: the engine's own count, standing at one hundred. It did not rest there. The method reopened under him as it touched its top — a road becoming a road again past a bridge — and what had been the county's plain method came back deeper, and its grade rose with it, and the engine settled into the deeper water and went on. He had read a thousand systems in another life. He knew what a gate was.
 
-> 「Technique — Basic Soul Power Cultivation: 100% · STAGE TWO」
+> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED」
 
 He lay still and did the professional arithmetic, because it was the only luxury he had ever been able to afford in either life.
 
@@ -241,7 +241,7 @@ The ninth level came up in the night near the end of summer, like a boat coming 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 9 · innate 1」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation — Stage Two: 34% · the engine, passive · Mid」
+> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」
 > 「Technique — The Hunter's Craft: 55% · parked, unslotted · Low」
 > 「Skill — The Wolf: 12% · possession · strength, speed, senses, claws · Mid」
 > 「Bloodline — Grey Wolf: 14% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
@@ -378,7 +378,7 @@ That night, Ye Cang looked. It was the gate of the hunt year, and gates got the 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 10 · innate 1 · the wall, held three years」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation — Stage Two: 71% · the engine, passive · Mid」
+> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」
 > 「Technique — The Hunter's Craft: 78% · parked, unslotted · Low」
 > 「Skill — The Wolf: 41% · possession · strength, speed, senses, claws · Mid」
 > 「Bloodline — Grey Wolf: 29% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
@@ -495,8 +495,8 @@ And that night, in the loft, at the gate of the thing that had happened, he look
 > 「Level — 12 · Soul Master · the door open · the ring's gift」
 > 「Slots: 2 / 2 / 2」
 > 「Soul Ring — Ghost Wolf: 120 years · yellow · aging」
-> 「Technique — Basic Soul Power Cultivation — Stage Two: 84% · the engine, passive · Mid」
-> 「Technique — The Hunter's Craft — Stage Two: 6% · seated, the second slot · Mid」
+> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」
+> 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · Mid」
 > 「Skill — The Wolf: 52% · possession · strength, speed, senses, claws · Mid」
 > 「Skill — Netherlight: 1% · the speed surge, the blow sliding off · Mid」
 > 「Bloodline — Grey Wolf: 36% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
@@ -538,9 +538,9 @@ The patience grew too, and this was stranger than the rest, because patience had
 
 The netherlight grew too. He paid for the bursts honestly, on the winter's ice, at the bog's edge, one breath at a time, and the ledger's line for it climbed. Once, when a sledge runner snapped on the slope above him, the cold light arrived before his fear did. The surge took him sideways off the road's edge, the runner's iron sliding off the shimmer of him like rain off oiled cloth. The sledge's whole winter of meat was saved, and nobody but the ledger was the wiser.
 
-The ring aged. He had felt it turn in its seat on the night it seated, and he had half thought the turning was the settling of a new thing. It was not settling. It was work. The number under the ring's line was not the number the kill had left: a year on, the ledger carried it higher, and higher again by the leaving, and the pelt that lay beside his mother's loom had begun, faintly, on warm evenings, to smell of live wolf.
+The ring aged — not by calendar, but by what poured through it. He had felt it turn in its seat on the night it seated, and he had half thought the turning was the settling of a new thing. It was not settling. It was work. Seven levels poured through it in the pouring year — thirteen to nineteen, the shelves holding less, the water coming anyway — and a year of the engine running at mastery, all hours, and the blood feeding it. The number under the ring's line was not the number the kill had left: 120 at the seating, 168 by the leaving, forty-eight years of ghost-wolf poured into a year's honest work, and the pelt that lay beside his mother's loom had begun, faintly, on warm evenings, to smell of live wolf.
 
-And the engine's own count crossed its hundred in the last week of summer, in his sleep, the second gate opening under him without waking him. He found it at dawn: the method he had been given by a county examiner, mastered once and reopened, now mastered deeper and opened again, the third stage of a plain road he had been told had no turns in it. The ledger's line for it settled at nine parts into the new stage, and the pool, that same week, went dark in a manner he had no other word for. Dense. The water of a deeper well.
+And the engine — mastered since his first midwinter, five years at mastery — went dark that last week of summer in a manner he had no other word for. Not a new stage — there were no stages to a county method, only mastery — but the fifth year of running at its best, all hours, the pool fed by two bloodlines and seven poured levels, deepening past what a county examiner's plain road had ever been asked to hold. Dense. The water of a deeper well. The ledger's line for it had said MASTERED since he was six, and it said MASTERED still, because some gates, once crossed, stay crossed and the work after is the water going dark.
 
 Nineteen arrived with the first cold of autumn, and stopped.
 
@@ -607,23 +607,25 @@ That night, at the first gate of the road, in the loft of a hem-village inn with
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 21 · Great Soul Master · the second door open · the ring's gift」
 > 「Slots: 3 / 3 / 3」
-> 「Soul Ring — Ghost Wolf: 131 years · yellow · aging」
+> 「Soul Ring — Ghost Wolf: 168 years · yellow · aging」
 > 「Soul Ring — Stormwind Demon Wolf: 603 years · yellow · aging」
-> 「Technique — Basic Soul Power Cultivation — Stage Three: 9% · the engine, passive · Mid」
-> 「Technique — The Hunter's Craft — Stage Two: 35% · seated, the second slot · Mid」
-> 「Skill — The Wolf: 63% · possession · strength, speed, senses, claws · Mid」
-> 「Skill — Netherlight: 18% · the speed surge, the blow sliding off · Mid」
+> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」
+> 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · Mid」
+> 「Skill — The Wolf: 71% · possession · strength, speed, senses, claws · Mid」
+> 「Skill — Netherlight: 26% · the speed surge, the blow sliding off · Mid」
 > 「Skill — Windstride: 1% · the burst that arrives · Mid」
-> 「Bloodline — Grey Wolf: 41% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
-> 「Bloodline — Ghost Wolf: 13% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」
-> 「Bloodline — Stormwind Demon Wolf: 1% · the storm-line: the fast kind, the wind's stride · Low」
-> 「Hunter's Sense: 52%」
-> 「Stillness: 37%」
-> 「Plain Speech: 38%」
-> 「Mountain Stride: 46%」
-> 「The Tally: 50%」
-> 「Spear: 35%」
+> 「Bloodline — Grey Wolf: 48% · ice · the body-line: vitality, recovery, the wolf's frame · Low」
+> 「Bloodline — Ghost Wolf: 18% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」
+> 「Bloodline — Stormwind Demon Wolf: 1% · the storm-line: the fast kind, the wind's stride · Mid」
+> 「Hunter's Sense: 58%」
+> 「Stillness: 42%」
+> 「Plain Speech: 42%」
+> 「Mountain Stride: 52%」
+> 「The Tally: 56%」
+> 「Spear: 41%」
 
 He read it twice, and found it honest, and slept the sleep of a man whose tally had come out even, and in the morning the road ran on east, and he ran with it.
 
 Somewhere far down that same turning of the world, in the same autumn, a boy his own age with eyes the color of nothing was walking alone out of a great man's back gate, toward a forest, toward a ring of his own that was a million years wide, toward the same city. The book this world lived inside was opening. Ye Cang walked the hem of it, a season ahead, and the ledger counted his road the whole way.
+
+---

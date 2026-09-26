@@ -5,10 +5,10 @@
 | # | Title | Words | Band | State at close |
 |---|---|---|---|---|
 | 1 | The Grey Wolf | 2,874 | IN | level 1 · the full panel night one · the engine at 2% by dawn · the beast RULED: the Ghost Wolf, ~120y · five winters to the book's first page |
-| 2 | The Quiet Climb | 2644 | IN | level 9 at seven (the honest pace) · the engine MASTERED at midwinter — the FIRST UPGRADE (Stage Two 34% by year-end) · craft 55% · wolf 12% · blood 14% · the grades on every line · Stillness surfaced · the wall a season out |
-| 3 | The Wall | 2532 | IN | level 10 held three years · engine Stage Two 71% · craft 78% (the kill will graduate it) · wolf 41% · blood 29% · Spear 25% · the first sighting · **the hunt set: this autumn** |
+| 2 | The Quiet Climb | 2644 | IN | level 9 at seven (honest pace) · engine MASTERED at midwinter — 100% MASTERED Mid by year-end (F14, no Stage Two) · craft 55% · wolf 12% · blood 14% · grades · Stillness surfaced · wall a season out |
+| 3 | The Wall | 2532 | IN | level 10 held three years · engine MASTERED (F14) · craft 78% (kill will master it) · wolf 41% · blood 29% · Spear 25% · first sighting · **hunt set: this autumn** |
 | 4 | The Patient Kind | 2641 | IN |
-| 5 | The Road Begins | 2,686 | IN | **ARC 2 OPENED** — the pouring year 12→19 (the hours honest) · the SECOND UPGRADE (engine Stage Three) · the last hunt: Stormwind Demon Wolf 603y, yellow, AGING — ring two, Windstride (run.) · level 21 Great Soul Master at eleven · 3/3/3 · three lines of blood · the leaving · the road east begun | **THE RING** — Soul Master at ten · Ghost Wolf 120y, yellow, AGING · 2/2/2 · level 12 (the ring's gift), the door open · the craft mastered at the kill (Stage Two, grade Mid) and seated · engine Stage Two 84% · wolf 52% · blood 36% · Netherlight (fade.) · the ghost-line seated (F10, 1%) · one year to Shrek's road |
+| 5 | The Road Begins | 2,686→re-cut F14 | IN | **ARC 2 OPENED — CORRECTED F14** — pouring year 12→19 (honest hours, engine MASTERED 5y, craft MASTERED 1y, no Stage Three) · Ghost 120→168y true aging (F14) · last hunt: Stormwind Demon Wolf 603y Mid-caliber yellow AGING — ring two Windstride (run.) · level 21 Great Soul Master · 3/3/3 · grey 48 ghost 18 storm 1 Mid · wolf 71 Netherlight 26 · life-list lifted (Sense 58 etc) · leaving · road east | **THE RING** — Soul Master at ten · Ghost Wolf 120y→168y · 2/2/2 · level 12 (gift) · door open · craft MASTERED at kill (Mid) seated · engine MASTERED 100% Mid · wolf 52→71 · blood 36→48 · Netherlight (fade.) · ghost-line seated (F10) · one year to Shrek |
 
 
 ## The author's hand (gates)

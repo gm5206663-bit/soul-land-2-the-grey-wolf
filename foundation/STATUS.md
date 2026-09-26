@@ -45,16 +45,16 @@ Read honestly, the way he reads it that night:
 
 ## THE CURRENT STATE (updated every turn a number moves)
 
-**Story position:** after Chapter 5 — THE ROAD BEGINS, Arc 2 opened. Ye Cang is a GREAT SOUL MASTER at eleven: the pouring year done (the levels 12 to 19, honest to the engine's hours — F12), the second wall met, the last hunt won — the Stormwind Demon Wolf ring seated (603 years, yellow, **AGING**), the second door open, **level 21** (twenty the banked water, twenty-one the ring's gift — F11), slots **3/3/3**, two rings aging, three lines of blood (the grey 41, the ghost 13, the storm 1), three words (*hunt. fade. run.*), the engine past its SECOND UPGRADE (Stage Three, 9%). The leaving made; the road east begun; a season to Shrek City — the same autumn a boy with spirit eyes walks into a forest far to the east. The road-gate panel (Chapter 5's close) is the current reading.
+**Story position:** after Chapter 5 — THE ROAD BEGINS, Arc 2 opened (F14 corrected). Ye Cang is a GREAT SOUL MASTER at eleven: the pouring year done (the levels 12 to 19, honest to the engine's hours — F12), the second wall met, the last hunt won — the Stormwind Demon Wolf ring seated (603 years, yellow, **AGING**), the second door open, **level 21** (twenty the banked water, twenty-one the ring's gift — F11), slots **3/3/3**, two rings aging (**Ghost 168y**, Stormwind 603y — F14 true aging: pour-based, not calendar), three lines of blood (the grey 48, the ghost 18, the storm 1 — Mid), three words (*hunt. fade. run.*), the engine **MASTERED** 5 years (first midwinter age 6, F14 — no invented stages). The leaving made; the road east begun; a season to Shrek City — the same autumn a boy with spirit eyes walks into a forest far to the east. The road-gate panel (Chapter 5's close) is the current reading.
 
 | List | State |
 |---|---|
-| Techniques | 3 seats open, 2 filled: **Basic Soul Power Cultivation — Stage Three (engine, Mid): 9%** (mastered twice — the FIRST UPGRADE at the first midwinter, the SECOND in the pouring year's late summer, in his sleep) · **The Hunter's Craft — Stage Two (Mid): 35%, SEATED slot 2** (mastered at the first kill) · the third seat standing open until something true fills it |
-| Soul Rings | 2 seats: **Ghost Wolf, 131 years, yellow — AGING** (the hunt, Ch 4; a year and a season of turning) · **Stormwind Demon Wolf, 603 years, yellow — AGING** (the last hunt, Ch 5 — six centuries turning) |
+| Techniques | 3 seats open, 2 filled: **Basic Soul Power Cultivation — 100% MASTERED (engine, Mid): MASTERED** (mastered first midwinter age 6 — F14 Mastery Law, 5 years at mastery, no stages) · **The Hunter's Craft — 100% MASTERED (Mid), SEATED slot 2** (mastered at the first kill age 10 — F14) · the third seat standing open until something true fills it |
+| Soul Rings | 2 seats: **Ghost Wolf, 168 years, yellow — AGING** (the hunt, Ch 4; 120→168 in pouring year — F14 true aging: 7 levels + 1y 24/7 engine = +48y) · **Stormwind Demon Wolf, 603 years, yellow — AGING** (the last hunt, Ch 5 — six centuries turning) |
 | Soul Bones | 0 seats |
-| Bloodline | **three lines now**: Grey Wolf 41% · ice · Low · the body-line (the forties' edge — the frame arrived as freight) · Ghost Wolf 13% · Low (the quiet step, the seen-late, the patience as a limb) · **Stormwind Demon Wolf 1% · Low** (the storm-line — the fast kind, the wind's stride; the third seat, filled at the kill) |
-| Skills | The Wolf 63% · Mid (innate — possession; the grey worn like the coat, whole mornings) · **Netherlight 18% · Mid** (the cold light arriving before fear — the sledge runner) · **Windstride 1% · Mid (the second ring's gift — the burst that arrives; run.)** |
-| Life-skills | Hunter's Sense 52 · Stillness 37 · Plain Speech 38 · Mountain Stride 46 (the road begun) · The Tally 50 (half a life's craft) · Spear 35 (the father's spear carried now) · (others surface as the counting does) |
+| Bloodline | **three lines now**: Grey Wolf 48% · ice · Low · the body-line (the forties' edge — the frame arrived as freight, honest 5y yield) · Ghost Wolf 18% · Low (climbing toward Mid on 168y — the quiet step, the seen-late, the patience as a limb) · **Stormwind Demon Wolf 1% · Mid** (the storm-line — the fast kind, the wind's stride; third seat, Mid-caliber even at 100y — F14) |
+| Skills | The Wolf 71% · Mid (innate — possession; the grey worn like the coat, whole mornings — honest 5y) · **Netherlight 26% · Mid** (the cold light arriving before fear — the sledge runner, 120→168y feeding it) · **Windstride 1% · Mid (the second ring's gift — the burst that arrives; run.)** |
+| Life-skills | Hunter's Sense 58 · Stillness 42 · Plain Speech 42 · Mountain Stride 52 (the road begun) · The Tally 56 (half a life's craft) · Spear 41 (the father's spear carried now) · (others surface as the counting does) — F14 honest yield |
 | Level | **21 — Great Soul Master (Ch 5, age 11: the pour 12 to 19 — F12's honest curve; the second wall held a season; ring two — 20 the banked water, 21 the ring's gift — F11; the 21–30 band, canon's title ladder)** — the twenties open now |
 
 **The pool's quality (F13):** dense, dark, and pure for its rank — the
@@ -77,10 +77,7 @@ Rank for rank, more than the rank says.
   3/3/3 at GREAT SOUL MASTER (the 21–30 band — the F12 note's "Soul
   Elder" corrected); Windstride seated with the ring; the third
   technique seat standing open.
-- The meters' road (F13): the engine's Stage Two masters in the pouring
-  year — the SECOND UPGRADE (Stage Three) near the leaving; the ghost
-  line climbs toward the mid-teens on the ring's aging; the grey line
-  toward the forties; the craft's Stage Two deepens seated.
+- The meters' road (F14): the engine MASTERED first midwinter age 6, 5 years at mastery by Ch5 — pool dense/dark/pure, no Stage Two/Three invention; the ghost line climbs to high teens on ring's true aging (120→168); the grey line toward high forties (48); the craft MASTERED at kill, 1 year at mastery.
 - **NOW (Ch 5 close): on the road east** — the hem roads around the
   forest's skirts, a season to Shrek City, level 21, two yellow rings,
   eleven years old. AHEAD: the city, the gates, the entrance exam — the
@@ -126,13 +123,13 @@ line, the first kill's, the last hunt's.
 | Thing | Grade | Canon anchor |
 |---|---|---|
 | The Wolf (the martial soul) | **Mid** (Ordinary) | the quality ladder, receipt 17 |
-| The Wolf (the skill — possession) | **Mid** | the soul's own expression |
-| Netherlight (the first ring's skill) | **Mid** | a hundred-and-twenty-year beast's signature light |
-| Basic Soul Power Cultivation (the engine) | **Mid** | the county's plain method, mastered and reopened — the grade rose at the FIRST UPGRADE (§8's own law, F13) |
-| The Hunter's Craft | **Mid** | mastered at the kill — the grade rose with the upgrade (F13) |
-| The Grey Wolf bloodline | **Low** | an old, thin line — honest reading |
-| The Ghost Wolf bloodline | **Low** (13% and climbing) | the first kill's blood — the quiet step, the seen-late |
-| The Stormwind bloodline | **Low** (1% at the open) | the last hunt's blood — the fast kind, the wind's stride (Ch 5) |
+| The Wolf (the skill — possession) | **Mid** | the soul's own expression — 71% honest 5y |
+| Netherlight (the first ring's skill) | **Mid** | a hundred-and-sixty-eight-year beast's signature light (120→168, F14) |
+| Basic Soul Power Cultivation (the engine) | **Mid** | the county's plain method, **MASTERED** first midwinter — grade Low→Mid at mastery, no stages (F14) |
+| The Hunter's Craft | **Mid** | **MASTERED** at the kill — grade Low→Mid at mastery (F14) |
+| The Grey Wolf bloodline | **Low** | an old, thin line — 48% honest 5y |
+| The Ghost Wolf bloodline | **Low** (18% and climbing toward Mid) | the first kill's blood — the quiet step, the seen-late — 168y feeding it |
+| The Stormwind bloodline | **Mid** (1% at the open) | the last hunt's blood — Mid-caliber even at 100y (F14), the fast kind, wind's stride |
 | Windstride (the second ring's skill) | **Mid** | a six-hundred-year storm-wolf's stride — the burst that arrives |
 
 The ladder: **Low (Waste) / Mid (Ordinary) / High (Excellent) / Top

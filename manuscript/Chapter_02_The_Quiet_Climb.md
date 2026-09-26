@@ -42,7 +42,7 @@ In the second month of winter, lying in the loft with the engine turning over in
 
 And that same night, for the first time, a second line printed under the level's: the engine's own count, standing at one hundred. It did not rest there. The method reopened under him as it touched its top — a road becoming a road again past a bridge — and what had been the county's plain method came back deeper, and its grade rose with it, and the engine settled into the deeper water and went on. He had read a thousand systems in another life. He knew what a gate was.
 
-> 「Technique — Basic Soul Power Cultivation: 100% · STAGE TWO」
+> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED」
 
 He lay still and did the professional arithmetic, because it was the only luxury he had ever been able to afford in either life.
 
@@ -101,7 +101,7 @@ The ninth level came up in the night near the end of summer, like a boat coming 
 > 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」
 > 「Level — 9 · innate 1」
 > 「Slots: 1 / 1 / 1」
-> 「Technique — Basic Soul Power Cultivation — Stage Two: 34% · the engine, passive · Mid」
+> 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」
 > 「Technique — The Hunter's Craft: 55% · parked, unslotted · Low」
 > 「Skill — The Wolf: 12% · possession · strength, speed, senses, claws · Mid」
 > 「Bloodline — Grey Wolf: 14% · ice · the body-line: vitality, recovery, the wolf's frame · Low」

@@ -246,3 +246,20 @@ Shan's two fingers returned. The road east begun — a season to Shrek
 City, the autumn a boy with spirit eyes converging on the same gates.
 2,686 words, gate green; 19 new panel rows (ledger 72 in sync); receipt
 23 (the second ring's law). Release v0.6.0.
+
+## v1.15 — 2026-09-26 — F14: THE MASTERY LAW + TRUE AGING + BLOODLINE CALIBER (the triple strike)
+
+The author's triple strike: "131 years?,are you even serious?" / "He doesn't even master basic method, when basic technique started to have such stages, what the hell, what even think 5 years is like what the hell?,5 years almost no growth" / "Stormwind Demon Wolf is low level bloodline what the hell, it's already mid level even 100 years soul beast" / "Complete everything wrong".
+
+**THE STRIKES, JUST:**
+
+1. **131 years was calendar-thinking.** A ring that sat through seven poured levels (12→19) and a year of 24/7 mastered engine should not age +11y. The Aging Law is pour-based (receipt 19's origin energy aging + F13's 40-year bank). **Corrected: Ghost Wolf 120→168y (+48y) by Ch5 gate** — 7 levels + 1y engine + bloodline infusion. Calendar is floor, not rule.
+
+2. **Basic method has no stages.** County-issue basic method is one road: learned → MASTERED → replaced by greater method via Acquisition. Inventing Stage Two/Three was my invention, never canon. **Corrected: Basic 100% MASTERED first midwinter age 6, 5y at mastery by Ch5, grade Low→Mid, pool dense/dark/pure, no stages. Hunter's Craft 100% MASTERED at kill age 10, 1y at mastery, no Stage Two.** The Upgrade Law clarified: for foundational/mortal methods, 100% = MASTERED, locks as MASTERED, continues 24/7 at mastery.
+
+3. **Stormwind bloodline caliber wrong.** Stormwind Demon Wolf is Mid-caliber wind demon line — Mid even at 100y (user strike, canon naming: Demon Wolf = 100k+ line, Stormwind = wind branch). **Corrected: Stormwind bloodline 1% Mid at open, not Low.** Ghost Wolf remains Low-caliber common (Low, climbing toward Mid at 168y).
+
+4. **Five years almost no growth.** 5y 24/7 = >40y normal practice — meters must show honest yield. **Re-derived whole: Wolf 63→71, Netherlight 18→26 (120→168y feeding), Grey 41→48, Ghost blood 13→18, Hunter's Sense 52→58, Stillness 37→42, Plain Speech 38→42, Mountain Stride 46→52, Tally 50→56, Spear 35→41.** Life-list lifted, frame as freight honest.
+
+**FILES:** SYSTEM_SPEC (Upgrade + Aging laws revised F14), METERS (MASTERED + 168y + Mid + lifted meters), STATUS (techniques MASTERED, rings 168/603, bloodlines 48/18/1 Mid, grades, forward map), SKILLS (Ghost 120→168, Stormwind Mid-caliber), PANELS (Ch2-5 technique lines → MASTERED with engine nature, Ch5 19 rows corrected to 168y + MASTERED + Mid + lifted), GLOSSARY, RULINGS_LOG F14, CODEX 24, CANON_GROUND receipt 24, STORY_ARCS, TIMELINE, NEXT, Chapters 2-5 re-cut (Ch5 2,753w, gate green), SERIAL_LOG 17. run_all green, ledger 67 rows in sync. Release v0.6.1-f14 follows.
+

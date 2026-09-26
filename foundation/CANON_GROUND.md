@@ -275,6 +275,10 @@ canon ground are marked [CARRIED].
     corrected before the author had to strike it: Soul Elder is the
     31–40 band).
 
+
+24. **THE MASTERY + TRUE AGING + CALIBER (F14 — at author's triple strike).** (1) BASIC HAS NO STAGES: canon's basic meditation is one road — learned, then mastered, then replaced by a greater method acquired (Mysterious Heaven Skill has stages; basic does not). Receipt: Yu Xiaogang's basic theory is taught as foundation, Tang San's Mysterious Heaven Skill is the staged method that carries stages; county-issue methods never show Stage Two/Three in canon. (2) TRUE AGING: receipt 19 already gave origin energy aging rings (Heavenly Dream aging Huo Yuhao's rings toward 100k); F14 makes it pour-based — levels + mastered engine hours = years. Ghost 120→168 (+48) from 7 levels + 1y 24/7 is honest to F13's 40-year bank. (3) CALIBER: wolf beasts have caliber — Ghost Wolf is common low-caliber (iron-grey pack hunter, 10-1000y), Stormwind Demon Wolf is wind-demon line, mid-caliber even at 100y — user's strike, canon's naming (Demon Wolf = 100k+ line, Stormwind Demon Wolf = its wind branch). So bloodline grade Mid at 1% opening, not Low. Ghost remains Low approaching Mid at 168y.
+
+
 ## The rules of the ground
 
 - The anime and the novel reorder things — **we never do.** The receipts
