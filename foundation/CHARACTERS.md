@@ -1,48 +1,36 @@
-# CHARACTERS — ours (canon cast: RELATIONSHIPS.md)
+# CHARACTERS — ours (canon cast: RELATIONSHIPS.md) — v5.0 Perfect Rebuild F22
 
-All names and details PROPOSED, strikeable until written.
+All names and details PROPOSED, strikeable until written — updated to perfect rebuild clean and clear.
 
-## Ye Cang (叶苍) — the protagonist
+## Ye Cang (叶苍) — the protagonist — Level 30 Great Soul Master top, Storm Frost Ghost Wolf ice+wind High, 2 thousand-year purple rings, body ~500kg, Spirit Sea 850
 
-- **Earth life:** a night-shift tallykeeper — a man who counted crates in
-  the dark for a living, and read web novels in the breaks. Read Soul
-  Land and Soul Land 2 to the end. Died ordinary; woke being born.
-- **This life:** six quiet years as a hunter's son, an adult mind folded
-  small inside a child's patience, waiting for the awakening he knew came
-  at six. It came.
-- **The soul:** the Wolf — canon's base beast spirit (the author's
-  ruling; receipt 13), beast-type, Power Attack System, **ice attribute** (receipt 16), thin in the line; his line's is grey-furred. **Innate soul power: level 1** (the author's ruling; the
-  canon mirror of Huo Yuhao's own rank 1). The release is possession
-  (receipt 10). The blood came with it — the Ye line's wolf (the fourth
-  list, night one).
-- **The cheat:** the Ledger (the same silent system, complete from day
-  one — SYSTEM_SPEC.md).
-- **Written as:** patient, observant, unafraid — he has read this
-  world's book, and grief and danger arrive for him as things he has
-  already read. He counts everything twice: once because it is his
-  nature, once because the Ledger does. He never explains what he cannot
-  know; he simply chooses first and chooses right.
+- **Earth life:** night-shift tallykeeper — man who counted crates in dark for living, read web novels in breaks. Read Soul Land and Soul Land 2 to end. Died ordinary, woke being born.
+- **This life:** six quiet years as hunter's son, adult mind folded small inside child's patience, waiting for awakening he knew came at six. It came at six: Wolf ice Mid innate 1. Ledger woke same night.
+- **Soul:** Wolf · beast-type · Power Attack · ice Mid at night one thin → **Storm Frost Ghost Wolf ice+wind High at Ch5/Ch6 gate** — evolved at Grey 65% High + Ghost 35% Mid + Stormwind 15% Mid + both rings purple thousand-year 1350y/1850y = strange change awakening — Grey Wolf → Ice Wolf → Frost Ghost Wolf → Storm Frost Ghost Wolf final fusion three bloodlines — attributes ice primary true ice at evolution + wind secondary from Stormwind bloodline wind attribute even receipt Stormwind Demon Wolf attribute Wind Wind Blade Burst Stormwind Wings Wolftaken control wind rank20-30 — canon mutation allowed Baike Beast Martial Soul may undergo mutation.
+- **Level:** 1 innate 1 at night one → 9 at seven honest pace → 10 wall held three years → 12 Soul Master after first ring Ghost Wolf 120y yellow aging → 30 Great Soul Master top after second ring Stormwind Demon Wolf 1200→1850y purple aging + Ghost 120→1350y purple aging + pouring 12→29 17 levels +30 gift F11 — top Great Soul Master 21-30 band canon monsters band Tang San Xiao Wu 29 at 12 — effective talent 3.5× innate 1 start not ceiling Grey 65%×2.0=1.30 Ghost 35%×1.0=0.35 Stormwind 15%×1.5=0.225 Basic MASTERED 0.5 Craft MASTERED 0.3 Fusion Grey Ridge Hunt 0.5.
+- **Rings:** Ghost Wolf 1350y purple aging with golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones concealed as 120y yellow via Ring Veil true purple in Ledger — Stormwind Demon Wolf 1850y purple aging wind attribute even Wind Blade Burst 10 half crescent Wings 50m concealed as 603y yellow via Ring Veil true purple in Ledger — fool who shows two thousand-year rings Ring Veil hides.
+- **Skills:** Wolf 85% High → Storm Frost Ghost Wolf possession grey light surges bones cracking muscles expand stature larger hair grey frost tint amber ice-amber eyes claws etc robust released or not strength +100% ~500kg speed +80% senses +200% defense +60% — Netherlight 45% High → Ghost Veil at 1000y Light of Netherworld speed-boosting mitigation aura flash past tracking + Ghost Doppelganger 3 clones hiding real body + toughest skull + tofu waist + invisibility 2s + confuse/stun — Windstride 20% High → Storm Step at 1000y Wind Blade Burst 10 half crescent sealing evasion 20m + Stormwind Wings flight 50m 15s + afterimage 2-3 + future Tornado + 36 Continuous Slashes.
+- **Techniques:** Basic Soul Power Cultivation 100% MASTERED High engine passive 24/7 5y at mastery pool dense dark pure like Mysterious Heaven Skill foundation — Hunter's Craft 100% MASTERED High seated slot2 father teaching like Tang Sect craft — Grey Ridge Hunt 100% MASTERED High seated slot3 fusion all 15 basics Soul Power Control Body Control Five Senses Observation Running Stillness Sense Stride Spear Tally Reading Understanding Spearmanship Cooking Combat Style + Ring Veil hides purple as yellow — complete combat style like Purple Demon Eyes 4 stages Perception Attention Intoxication Immersion training purple qi morning ridge run thorn thicket black pools scree fold incantation hunt Wide-Area mind's eye 10-100m.
+- **Bloodlines:** Grey Wolf 65% High ice +1.30 true ice + Ghost 35% Mid +0.35 quiet step seen-late patience soul power control observation golden lock iron-gray green eyes toughest skull tofu waist Light of Netherworld Ghost Doppelganger 3 clones + Stormwind 15% Mid +0.225 wind attribute Wind Wind Blade Burst Stormwind Wings Wolftaken control wind rank20-30 — bloodline is not joke gives many things vitality recovery frame senses ice wind appearance cultivation speed martial soul growth talent attribute evolution awakening when strange change physique remade appearance changed frame freight amber ice-amber eyes grey tint dogs no lift.
+- **Body:** ~500kg lift robust beast-type body denser bone quicker muscle reflexes step ahead released or not pool deepened pathways widened hardened vitality 2000 attribute increase — can thrust spear through 1200y Stormwind Demon Wolf at shoulder root at full stride at price torn shoulder — honest price — appearance frame freight height shoulders amber ice-amber eyes grey tint dogs no longer lift heads wood passes him at peace.
+- **Spiritual Realm:** Spirit Sea Realm 850 points vast as sea foundation expert battleship pilot minimum perception 10-100m minute details house fly — Spirit Origin 0-99 Connection 100-499 Sea 500-4999 Abyss 5k-19k Domain 20k-49k Divine Origin 50k+ God King — current Spirit Sea 850 at eleven monster — Huo Yuhao similar age Spirit Eyes + Purple Demon Eye reached Spirit Connection→Spirit Sea via Mystic Water Pill Attention 6 months Sun Moon Intoxication Fullmoon Dew Immersion — Ye Cang Grey Ridge Hunt includes similar eye training.
+- **Life-skills:** all 15 100% MASTERED High per author's strike he doesn't master all basic things — Hunter's Sense Stillness Plain Speech Mountain Stride Tally Spear Soul Power Control Observation Body Control Five Senses Reading Understanding Basic Spearmanship Cooking Combat Style.
+- **Cheat:** Ledger same silent System complete day one SYSTEM_SPEC.md — no voice no shop no quests no points — there like floor counts — slots meters full status panel cold quiet at key beats.
+- **Written as:** patient observant unafraid — he has read this world's book and grief danger arrive as things he has already read. Counts everything twice once because nature once because Ledger does. Never explains what cannot know simply chooses first chooses right. Clean and clear prose no nonsense spam.
+- **Current position:** after Ch6 The Hem Road road craft first week north hem roads old villages know them forest's hem north never in trees season to city if honest road craft Grey Ridge Hunt in use all basics MASTERED High shown daily life no fights yet honest pace effective talent 3.5x Spirit Sea perception 10-100m house fly body 500kg robust frame freight amber eyes grey tint dogs no lift Ring Veil hides purple as yellow true purple only Ledger Storm Frost Ghost Wolf ice+wind High Ghost Veil 3 clones golden lock toughest skull tofu waist Light of Netherworld Storm Step wind blade burst wings flight. Same autumn boy with spirit eyes walks into forest far east two roads meeting Arc2 second half.
 
 ## The family
 
-- **Ye Shan** — the father: Grey Ridge's steadiest hunter, plain-spoken,
-  owed favors across the ridge. His craft is the son's first technique.
-  **The wolf is his too** — the same plain Wolf of the Ye line: innate 2, level 9, ringless;
-  the wall at ten has stood in front of him his whole life, and he fed his family anyway — and the Ye men hunt the deep cold without shivering, every winter, because the thin ice in the blood is theirs too. The bloodline the Ledger counts is his blood.
-- **Zhou Xia** — the mother: the village weaver, sharper than her
-  quiet. The grown mind respects her more than anyone in two lives.
+- **Ye Shan** — father: Grey Ridge steadiest hunter plain-spoken owed favors across ridge. Craft is son's first technique. Wolf is his too same plain Wolf Ye line innate 2 level 9 ringless wall at ten stood in front him whole life and he fed family anyway — and Ye men hunt deep cold without shivering every winter because thin ice in blood theirs too. Bloodline Ledger counts is his blood. At son's leaving said "Ye men stop at ten. You're past twenty. I don't know what you are. I know whose you are." — "I know whose I am." — "Then road's just arithmetic." Father watching road from inside trees.
+- **Zhou Xia** — mother: village weaver sharper than quiet. Grown mind respects her more than anyone two lives. Let hunt coat out last time then rebuilt as road coat hem sewed ten years pelts weight when lifted coat knew better than to count in front her. Checked hands both turning over door light said nothing fed until laughed. Religion both hands.
 
-## The village (Grey Ridge — a hunter village on the western edge of the
-Great Star Dou Forest, PROPOSED)
+## The village (Grey Ridge — hunter village western edge Great Star Dou Forest)
 
-- **Old Kuo** — the village head, all arithmetic and arrows.
-- **Little Shan** — the friend, two years older, bow-hunter's apprentice.
-- **Little Bao** — the tanner's boy: a hatchet soul with no fuel to run it; the not-unkind sound; will tan, and be strong, and probably be happy.
-- **The examiner** — the county's traveling official with the crystal
-  (OPEN-1: the ceremony's administration in the SL2 era is unreceipted;
-  written as county-run until receipts say otherwise).
+- **Old Kuo** — village head all arithmetic arrows. Wrote winter largest number under YE and at year's turning largest number Ye column to date ruled line closed flat stroke finished accounts. Barn count chair barrel.
+- **Little Shan** — friend two years older bow-hunter apprentice. Practice bow on back. Touched two fingers forehead hunter acknowledgment between equals returned at last given away whole. "Your face says so." At fence blue cold leaving morning.
+- **Little Bao** — tanner's boy: hatchet soul with no fuel to run it not-unkind sound will tan strong probably happy.
+- **Examiner** — county traveling official with crystal OPEN-1 ceremony administration SL2 era unreceipted written county-run until receipts say otherwise. Wrote two careful lines half inch ink about Ye boy.
 
 ## The casting rule
 
-Every original character earns a function or loses the page. Canon
-characters enter only as canon receipts allow.
+Every original character earns function or loses page. Canon characters enter only as canon receipts allow. Clean and clear no nonsense.
