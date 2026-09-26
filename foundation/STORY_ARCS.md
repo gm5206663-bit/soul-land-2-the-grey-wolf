@@ -14,7 +14,7 @@ skill arriving, the slots doubling.
 
 ## ARC 2 — THE ROAD TO SHREK (age 11)
 
-**Begun — WRITTEN (Ch 5) — CORRECTED F14: the pouring year (12 to 19, honest hours — no invented stages, engine MASTERED 5y, craft MASTERED 1y, meters honest yield); the last hunt (the Stormwind Demon Wolf, 603, yellow, AGING — Mid-caliber — ring two, level 21, Great Soul Master at eleven, the storm-line blood Mid, Windstride — run., Ghost 120→168y true aging); the leaving (the road coat, the cedar spear, Old Kuo's closed stroke, Little Shan's two fingers returned); the road east begun.**
+**Begun — WRITTEN (Ch 5) — REBUILT F16: the pouring year (12 to 29, 17 levels, honest hours + effective talent 3.5× + thousand-year rings — F16: level 29-30, soul rings thousands years old, everything Mid+); the last hunt (Stormwind Demon Wolf 1,200→1,850 purple thousand-year AGING — Mid→High — ring two, level 30 top Great Soul Master at eleven, storm-line blood Mid→High, Windstride run., Ghost 120→1,350y purple thousand-year, fusion Grey Ridge Hunt High); the leaving (the road coat, the cedar spear, Old Kuo's closed stroke, Little Shan's two fingers returned); the road east begun.**
 
 The county, the road north and east around the forest's skirts (the
 academy sits northeast of the Great Star Dou Forest — the receipted map),

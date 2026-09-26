@@ -130,25 +130,28 @@ The full block, as `STATUS.md` carries it:
 
 | Panel | Beat |
 |---|---|
-| 「Martial Soul — Wolf · beast-type · Power Attack · ice · Mid」 | THE ROAD'S FIRST GATE — the inn loft, the leaving made, every line complete — F15 REBUILD: Grey Mid, talent 2.96×, appearance, interconnection |
-| 「Level — 21 · Great Soul Master · the second door open · the ring's gift」 | 〃 — 19 the wall, 20 the banked water, 21 the ring's gift |
-| 「Slots: 3 / 3 / 3」 | 〃 — the second rank-up, every list |
-| 「Soul Ring — Ghost Wolf: 168 years · yellow · aging」 | 〃 — 120→168 in pouring year — F14 true aging |
-| 「Soul Ring — Stormwind Demon Wolf: 603 years · yellow · aging」 | 〃 — the last hunt, the fast kind — Mid-caliber |
-| 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · Mid」 | 〃 — MASTERED first midwinter, 5 years at mastery, no stages (F14) |
-| 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · Mid」 | 〃 — MASTERED at kill, 1 year at mastery |
-| 「Skill — The Wolf: 71% · possession · strength, speed, senses, claws · Mid」 | 〃 — the grey worn like the coat — honest 5y |
-| 「Skill — Netherlight: 26% · the speed surge, the blow sliding off · Mid」 | 〃 — the sledge runner, 120→168y feeding it |
-| 「Skill — Windstride: 1% · the burst that arrives · Mid」 | 〃 — the storm's own stride, its word run. |
-| 「Bloodline — Grey Wolf: 48% · ice · the body-line: vitality, recovery, the wolf's frame · Mid」 | 〃 — the forties' edge — honest 5y |
-| 「Bloodline — Ghost Wolf: 18% · the ghost-line: the patient hunt, the quiet step, the seen-late · Low」 | 〃 — 168y feeding, climbing toward Mid |
-| 「Bloodline — Stormwind Demon Wolf: 1% · the storm-line: the fast kind, the wind's stride · Mid」 | 〃 — third seat, Mid-caliber even at 100y (F14) |
-| 「Hunter's Sense: 58%」 | 〃 — honest |
-| 「Stillness: 42%」 | 〃 |
-| 「Plain Speech: 42%」 | 〃 |
-| 「Mountain Stride: 52%」 | 〃 — road begun |
-| 「The Tally: 56%」 | 〃 — half a life's craft — honest |
-| 「Spear: 41%」 | 〃 — father's spear carried now |
+| 「Martial Soul — Wolf · beast-type · Power Attack · ice · High」 | THE ROAD'S FIRST GATE — the inn loft, the leaving made, every line complete — F16 REBUILD: thousand-year rings, level 30, everything Mid+, fusion method, bloodline not joke |
+| 「Level — 30 · Great Soul Master (top) · the second door open · the ring's gift」 | 〃 — 29 the wall, 29 banked water, 30 gift — F16 thousand-year + level 29-30 per author's view |
+| 「Slots: 3 / 3 / 3」 | 〃 — second rank-up, every list |
+| 「Soul Ring — Ghost Wolf: 1,350 years · purple · aging」 | 〃 — 120→1,350 thousand-year purple — F16: 17 levels + 1y 24/7 mastered engine at 2.96×→3.5× + three bloodlines = +1,230y, everything Mid+ view |
+| 「Soul Ring — Stormwind Demon Wolf: 1,850 years · purple · aging」 | 〃 — last hunt, fast kind — 1,200→1,850 thousand-year purple, Mid→High |
+| 「Technique — Basic Soul Power Cultivation: 100% · MASTERED · the engine, passive · High」 | 〃 — MASTERED first midwinter, 5y at mastery, no stages, F15 Cascade +0.5 talent, F16 Mid→High, everything Mid+ |
+| 「Technique — The Hunter's Craft: 100% · MASTERED · seated, the second slot · High」 | 〃 — MASTERED at kill, 1y at mastery, F15 Cascade +0.3 talent, F16 Mid→High, fuses into Grey Ridge Hunt |
+| 「Technique — The Grey Ridge Hunt: 100% · MASTERED · seated, the third slot · High」 | 〃 — F16 Fusion: Basic+Craft+Sense+Stillness+Stride+Spear+Tally+Control+Observation+Running fused — named method with own effects |
+| 「Skill — The Wolf: 85% · possession · strength, speed, senses, claws · High」 | 〃 — grey worn like coat — honest 5y + thousand-year rings feeding, Mid→High per everything Mid+ view |
+| 「Skill — Netherlight: 45% · the speed surge, the blow sliding off · High」 | 〃 — sledge runner, 120→1,350y purple feeding it, Mid→High |
+| 「Skill — Windstride: 20% · the burst that arrives · High」 | 〃 — storm's own stride, its word run — 1,200→1,850y purple feeding, Mid→High |
+| 「Bloodline — Grey Wolf: 65% · ice · the body-line: vitality, recovery, the wolf's frame · High」 | 〃 — sixties edge — frame arrived as freight, appearance changed, High at 60-90%, +1.30 talent, everything Mid+ |
+| 「Bloodline — Ghost Wolf: 35% · the ghost-line: the patient hunt, the quiet step, the seen-late · Mid」 | 〃 — 1,350y purple feeding, Mid at 30-70%, +0.35 talent, everything Mid+ |
+| 「Bloodline — Stormwind Demon Wolf: 15% · the storm-line: the fast kind, the wind's stride · Mid」 | 〃 — third seat, 1,850y purple feeding, Mid 0-40% High 40-80%, +0.225 talent, everything Mid+ |
+| 「Hunter's Sense: 70%」 | 〃 — observation mastered, fuses into Grey Ridge Hunt — everything Mid+ |
+| 「Stillness: 60%」 | 〃 — patience as limb, fuses — everything Mid+ |
+| 「Plain Speech: 55%」 | 〃 |
+| 「Mountain Stride: 70%」 | 〃 — running mastered, fuses — everything Mid+ |
+| 「The Tally: 70%」 | 〃 — half a life's craft, fuses — everything Mid+ |
+| 「Spear: 60%」 | 〃 — father's spear carried now, fuses — everything Mid+ |
+| 「Soul Power Control: 65%」 | 〃 — soul power flows where eye goes, fuses — everything Mid+ |
+| 「Observation: 68%」 | 〃 — observation mastered, fuses — everything Mid+ |
 
 ## The law of this file
 

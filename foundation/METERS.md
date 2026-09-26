@@ -1,54 +1,51 @@
 # METERS — the master ledger of every meter
 
-v1.0, 2026-09-25. Every meter with its own pace law (the Varied-Pace
-Law); updated the same turn a number moves; the drift guard polices the
-panel lines. Every reading is a current reading — nothing fixed.
+v3.0, 2026-09-26. F16 REBUILD: thousand-year rings, level 29-30, everything Mid+, fusion method. Every meter with its own pace law; updated same turn number moves; drift guard polices panel lines. Every reading is current reading — nothing fixed.
 
 ## THE TECHNIQUES
 
 | Art | Its own pace law (what feeds it) | Night one | Now |
 |---|---|---|---|
-| Basic Soul Power Cultivation — **100% MASTERED** (the county's plain method, mastered first midwinter age 6 — F14 Mastery Law, F15 Cascade; the ENGINE — slotted, passive 24/7 at mastery) | his best, around the clock at mastery; infusions + bloodline bonuses (F15 Cultivation Speed); mastered yield feeds pool quality dense/dark/pure, makes all soul power techniques 50% easier (F15 Cascade) | 1% (mastered first midwinter — FIRST UPGRADE, grade Low→Mid) | **100% MASTERED · Mid** (Ch 5 gate — 5 years at mastery, pool dark/dense, effective talent +0.5) |
-| The Hunter's Craft — **100% MASTERED** (his father's teaching, mastered at first kill age 10 — F14, F15 Cascade) | six lived years counted at open; grows by living it; mastered at kill; makes Spear, Stillness, Sense, Stride, Tally 50% easier (F15 Cascade) | 11% | **100% MASTERED · Mid · SEATED slot 2** (Ch 5 gate — 1 year at mastery, effective talent +0.3, road's practice ahead) |
+| Basic Soul Power Cultivation — **100% MASTERED · High** (the county's plain method, mastered first midwinter age 6 — F14 Mastery, F15 Cascade +0.5 talent, F16 Mid→High via three bloodlines + thousand-year rings; the ENGINE — slotted, passive 24/7 at mastery) | his best, around the clock at mastery; infusions + bloodline bonuses (F15 Cultivation Speed 2.96×→3.5× with thousand-year rings); mastered yield feeds pool quality dense/dark/pure, makes all soul power 50% easier (F15 Cascade), fuses into Grey Ridge Hunt (F16 Fusion) | 1% (mastered first midwinter — grade Low→Mid) | **100% MASTERED · High** (Ch 5 gate F16 — 5 years at mastery, pool dark/dense, effective talent +0.5, everything Mid+ per author's view) |
+| The Hunter's Craft — **100% MASTERED · High** (his father's teaching, mastered at first kill age 10 — F14, F15 Cascade +0.3 talent, F16 Mid→High, fuses into Grey Ridge Hunt) | six lived years counted at open; grows by living it; mastered at kill; makes Spear, Stillness, Sense, Stride, Tally 50% easier (F15 Cascade); fuses into Grey Ridge Hunt | 11% | **100% MASTERED · High · SEATED slot 2** (Ch 5 gate F16 — 1 year at mastery, effective talent +0.3, everything Mid+) |
+| The Grey Ridge Hunt — **100% MASTERED · High** (F16 Fusion: Basic + Craft + Sense + Stillness + Stride + Spear + Tally + soul power control + observation + running fused — named method with own effects: spirit power flows where eye goes, body arrives where mind went first, patience as limb, quiet step, seen-late, burst) | fuses when basics MASTERED (F16 Fusion Law); canon's road: Tang Sect methods are fused basics | — (not yet; fuses at Ch5 gate when all basics MASTERED) | **100% MASTERED · High · SEATED slot 3** (Ch 5 gate F16 — fusion, own effects, everything Mid+) |
 
 ## THE SKILLS
 
 | Skill | Its own pace law | Night one | Now |
 |---|---|---|---|
-| The Wolf (innate — the first skill: POSSESSION, the release attaching the beast to the man — strength, speed, senses, claws) | every release feeds it; each part heavier than the last; deepens with every ring that seats; first release Ch 1 (twelve breaths, then emptied) | 1% | **71%** (Ch 5 gate — the grey worn like the coat, whole mornings; the wood passing him at peace — honest 5-year yield) |
+| The Wolf (innate — the first skill: POSSESSION, release attaching beast to man — strength, speed, senses, claws) | every release feeds it; each part heavier than last; deepens with every ring that seats; first release Ch 1 (twelve breaths, then emptied); fed by three bloodlines via F15/F16 Bloodline Influence (Grey frame, Ghost patience, Stormwind speed) | 1% | **85% High** (Ch 5 gate F16 — grey worn like coat, whole mornings, wood passing him at peace — honest 5y + thousand-year rings feeding, Mid→High per everything Mid+ view) |
 
-## THE LIFE-SKILLS (each its own pace; grows on plain living)
+## THE LIFE-SKILLS (each its own pace; grows on plain living; fuse into Grey Ridge Hunt F16)
 
 | Skill | What feeds it | Night one | Now |
 |---|---|---|---|
-| Hunter's Sense | a hunter's son's six years of woodcraft | 13% | **58%** (Ch 5 — honest yield) |
-| Plain Speech | a grown mind's plain speech, six years of the local tongue | 21% | **42%** (Ch 5) |
-| Mountain Stride | the ridge trails, the following | 9% | **52%** (Ch 5 — the road begun) |
-| The Tally | a tallykeeper's whole adult life — the one thing he was better at than anyone he knew | 27% | **56%** (Ch 5) |
-| Spear | the father's teaching from the winter of eight — SURFACED Ch 3 | — | **41%** (Ch 5 — two kills on it; the father's spear carried now) |
-| Stillness | the thorn thicket, the sitting still — SURFACED Ch 2 | — | **42%** (Ch 5 — the patience as a limb) |
+| Hunter's Sense | a hunter's son's six years of woodcraft; fed by Ghost bloodline (F15), Craft MASTERED 50% easier (F15 Cascade) | 13% | **70%** (Ch 5 F16 — everything Mid+ view, observation mastered, fuses into Grey Ridge Hunt) |
+| Plain Speech | a grown mind's plain speech, six years of local tongue | 21% | **55%** (Ch 5 F16) |
+| Mountain Stride | the ridge trails, following; fed by Stormwind bloodline (F15), Craft MASTERED 50% easier | 9% | **70%** (Ch 5 F16 — running mastered, fuses into Grey Ridge Hunt) |
+| The Tally | a tallykeeper's whole adult life — one thing he was better at than anyone he knew; Craft MASTERED 50% easier | 27% | **70%** (Ch 5 F16 — fuses into Grey Ridge Hunt) |
+| Spear | the father's teaching from winter of eight — SURFACED Ch 3; fed by Stormwind, Craft MASTERED 50% easier | — | **60%** (Ch 5 F16 — two kills on it, father's spear carried now, fuses into Grey Ridge Hunt) |
+| Stillness | the thorn thicket, sitting still — SURFACED Ch 2; fed by Ghost, Craft MASTERED 50% easier | — | **60%** (Ch 5 F16 — patience as limb, fuses into Grey Ridge Hunt) |
+| Soul Power Control | the engine's own control, reborn mind's discipline — SURFACED Ch2 midwinter at mastery; Basic MASTERED 50% easier | — | **65%** (Ch 5 F16 — soul power flows where eye goes, fuses into Grey Ridge Hunt) |
+| Observation | the hunter's eye, the tallykeeper's counting — SURFACED Ch2; fed by Ghost+Grey, Craft MASTERED 50% easier | — | **68%** (Ch 5 F16 — observation mastered, fuses into Grey Ridge Hunt) |
 | Reading | — | (no line — cannot read this world's script yet; surfaces when it exists) | — |
 
-## THE BLOODLINE (the fourth list — unlocked with the soul itself)
+## THE BLOODLINE (fourth list — unlocked with soul itself — F16: bloodline is not joke, gives many things, canon perfectly, awakening when strange change)
 
 | Line | Its own pace law (what feeds it) | Night one | Now |
 |---|---|---|---|
-| Grey Wolf (the Ye line — inherited; **ice, thin** — the body-line: vitality, recovery, predator's frame, senses fed, cold-tolerance, appearance, cultivation speed — F15) | grows on living it: every release, every hunt, every year of growth; once a ring seats, on the ring's years too (the Aging Law F14 — pour-based); feeds the blood and body, and through the Infusion Law every open meter; never purchasable; no ceiling | 7% | **48%** (Ch 5 gate — the forties' edge, the frame arrived as freight — honest 5-year yield) |
-| Ghost Wolf (the FIRST RING'S BLOOD — F10; the ghost-line: the patient hunt, quiet step, seen-late, spirit power efficiency, Stillness — F15) | feeds on its own ring's years (Aging F14 — 120→168y), on living, releases; through Infusion+Resonance+Cultivation Speed F15 every meter; never purchasable; no ceiling — **feeds Wolf skill, Sense, Stillness, cultivation speed** | — (not yet; seated at kill, Ch 4) | **18% Low** (Ch 5 gate — quiet step, seen-late, patience as limb — Low 0-30%, Mid at 30% per F15 Grade Evolution, 168y feeding, effective talent +0.18) |
-| Stormwind Demon Wolf (the SECOND RING'S BLOOD — Ch 5; the storm-line: the fast kind, wind's stride, burst speed, agility, Mountain Stride, Spear leading — F15) | feeds on its own ring's years (Aging — six centuries), on living, releases; through Infusion+Resonance+Cultivation Speed F15 every meter; never purchasable; no ceiling — **feeds Wolf, Stride, Spear, cultivation speed** | — (not yet; seated at kill, Ch 5) | **1% Mid** (Ch 5 gate — opening reading, **Mid 0-40% per Grade Evolution F15: Mid-caliber even at 100y, effective talent +0.015**) |
+| Grey Wolf (the Ye line — inherited; **ice, thin** — body-line: vitality, recovery, predator's frame, senses fed, cold-tolerance, appearance, cultivation speed, martial soul growth, talent, attribute evolution — F15/F16; full card in STATUS.md) | grows on living it: every release, every hunt, every year of growth; once ring seats, on ring's years too (Aging F16 thousand-year: 120→1,350y); feeds blood/body, and via Infusion+Resonance+Cultivation Speed Laws (F15/F16) every open meter; never purchasable; no ceiling — **appearance changes, talent grows, awakening when strange change (grade Mid→High)** | 7% | **65% High** (Ch 5 gate F16 — forties→sixties edge, frame arrived as freight, appearance changed: amber eyes, height, shoulders, dogs no longer lift heads — F15 Appearance, Mid 25-60 High 60-90 per Grade Evolution F15/F16, honest 5y + thousand-year rings, effective talent +1.30 at 65% (2.0×65%), everything Mid+ per author's view) |
+| Ghost Wolf (the FIRST RING'S BLOOD — F10; ghost-line: patient hunt, quiet step, seen-late, spirit power efficiency, Stillness, soul power control, observation — F15/F16) | feeds on its own ring's years (Aging F16 thousand-year: 120→1,350y pouring into line that opened at 1%), on living, releases; through Infusion+Resonance+Cultivation Speed F15/F16 every meter; never purchasable; no ceiling — **feeds Wolf skill, Sense, Stillness, Control, Observation, cultivation speed, awakening when ring becomes purple** | — (not yet; seated at kill, Ch 4) | **35% Mid** (Ch 5 gate F16 — quiet step, seen-late, patience as limb — Low 0-30 Mid 30-70 per F15/F16, 1,350y purple feeding, effective talent +0.35 at 35% (1.0×35%), everything Mid+ per author's view, Mid at 30%) |
+| Stormwind Demon Wolf (the SECOND RING'S BLOOD — Ch 5; storm-line: fast kind, wind's stride, burst speed, agility, Mountain Stride, Spear leading, observation, running — F15/F16) | feeds on its own ring's years (Aging F16 thousand-year: 1,200→1,850y), on living, releases; through Infusion+Resonance+Cultivation Speed F15/F16 every meter; never purchasable; no ceiling — **feeds Wolf, Stride, Spear, Observation, Running, cultivation speed, awakening when second ring purple** | — (not yet; seated at kill, Ch 5) | **15% Mid** (Ch 5 gate F16 — opening reading, **Mid 0-40% per Grade Evolution F15/F16: Mid-caliber even at 100y, High at 40-80%, 1,850y purple feeding, effective talent +0.225 at 15% (1.5×15%), everything Mid+ per author's view, Mid) |
 
 ## THE CONTEXT
 
 | Measure | Law | Night one | Now |
 |---|---|---|---|
-| Level (the crystal's) | the bottleneck law at every title (no ring, no crossing 10, 20, 30...); engine passive + infusions; the ring's rank gift at every ring (F11); **F12 THE ENGINE'S OWN ARITHMETIC: the walls alone are ring-gated — between walls the hours are honest and the band pours (receipt 21: canon's monsters did 13 to 29 inside a year; the ordinary soul does 1 to 10 in about three years)** | 1 | **21 — Great Soul Master** (Ch 5 gate: the pour 12 to 19, the second wall held a season; ring two — 20 the banked water, 21 the ring's gift, F11; the 21–30 band, canon's ladder) |
-| The ring — Ghost Wolf (the hunt, Ch 4) | **the Aging Law F14**: pour-based — levels 12→19 (7 levels) + 1y 24/7 mastered engine = +48y — the number not going to stand still | — | **168 years, yellow — AGING** (Ch 5 gate; 120→168, honest yield) |
-| The ring — Stormwind Demon Wolf (the last hunt, Ch 5) | the Aging Law F14, the same: six centuries turning in their seat | — | **603 years, yellow — AGING** |
+| Level (the crystal's) | bottleneck law at every title (no ring, no crossing 10,20,30...); engine passive + infusions + effective talent F15/F16; ring's rank gift at every ring (F11); **F12 THE ENGINE'S OWN ARITHMETIC + F16 THOUSAND-YEAR + LEVEL 29-30**: walls alone ring-gated, between walls hours honest and band pours, effective talent 2.96×→3.5× with thousand-year rings, canon monsters 29 at 12 — **F16: pour 12→29 (17 levels) in pouring year, second wall held, second ring 1,200y at absorption → 1,850y, level 30 at Shrek gates (29 banked + 30 gift), top of Great Soul Master** | 1 | **30 — Great Soul Master** (Ch 5 gate F16: pour 12→29, second wall held, ring two 1,200→1,850y purple — 29 banked, 30 gift F11, 21-30 band top, canon monsters' band, everything Mid+ per author's view) |
+| The ring — Ghost Wolf (the hunt, Ch 4) | **Aging Law F16 thousand-year**: pour-based — 12→29 (17 levels) + 1y 24/7 mastered engine at 2.96×→3.5× + three bloodlines = 120→1,350y (+1,230y) — thousand-year ring, purple, AGING — **F16: soul rings should be thousands years old per author's view** | — | **1,350 years, purple — AGING** (Ch 5 gate F16; 120→1,350 thousand-year, purple, honest yield with effective talent, everything Mid+ view) |
+| The ring — Stormwind Demon Wolf (the last hunt, Ch 5) | Aging Law F16 thousand-year: 1,200y at absorption (optimum 764y, but bearable with MASTERED body + three bloodlines + 2.96× talent — PROPOSED author's word) → 1,850y by gate, purple, AGING — thousand-year | — | **1,850 years, purple — AGING** (Ch 5 gate F16; 1,200→1,850 thousand-year purple, everything Mid+ view) |
 
 ## THE LAW OF THIS FILE
 
-Everything that grows feeds everything that can grow. When anything moves
-— a level, a ring-year, a mastery, a year of age — sweep this whole file
-for what it feeds, and write the new reading the same turn. The Derivation
-Duty stands: derive the obvious consequences of every ruling before the
-author must.
+Everything that grows feeds everything that can grow. When anything moves — level, ring-year, mastery, year of age — sweep whole file for what it feeds, and write new reading same turn. Derivation Duty stands: derive obvious consequences of every ruling before author must. **F16: everything Mid or above at Ch5 gate per author's view, thousand-year rings, level 29-30, fusion method.**
