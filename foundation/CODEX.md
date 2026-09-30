@@ -18,6 +18,11 @@
 | CANON_STUDY_BEAST_TYPE.md | the beast-type study whole: possession, the body laws, canon's beast masters, the wolf receipts |
 | SERIAL_LOG.md | the work journal, every turn |
 | GLOSSARY.md / PLACES.md / ECONOMY.md | terms, map, money |
+| HANDOFF.md | cold start: truth now, authority order, read order, the five failure modes |
+| RAILS.md | k01–k08 — the serial's laws, each with its check |
+| OPEN_RULINGS.md | Stage 0 status — grandfathered 2026-09-30, drafting unlocked; future author-only decisions open lanes here |
+| CANON_ACCESS.md | spine (SL2 novel era) vs anchors, V1–V6 status, the honest extract gap |
+| POWER_LAW.md | the growth law above the system: canon ring optima, evolution chain, ceiling not fixed |
 | ../chapters/ ../manuscript/ | the author editions + reader editions + the FULL edition (built by the pipeline) |
 | ../tools/ | the pipeline: gate · site · panel check · run_all (+ the CI draft, held for a workflow-scoped token) |
 
