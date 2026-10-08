@@ -42,3 +42,9 @@
 - Life-skills: all 15 100% MASTERED High per author's strike
 - Effective talent 3.5x, appearance frame freight amber ice-amber eyes grey tint dogs no lift, spiritual realm Spirit Connection 200-300 points vast as sea foundation expert battleship pilot minimum perception 10-20m house fly, body 100-150kg robust for age robust beast-type 3x normal 11yo denser bone quicker muscle reflexes step ahead released or not pool deepened pathways widened hardened vitality 2000 attribute increase
 - PANELS 80 rows IN SYNC, run_all green 6 chapters 2875/2428/2414/2498/3125/2458w band IN avg11.3-18.5 med7-15 max43-57 over60 0 the-way 0 bare 0 dlg0-8.3, site built manuscript synced, releases v0.6.3-f16 through v0.7.0-perfect-rebuild all with assets, chapters rebuilt perfectly clean and clear no nonsense spam
+
+## Sweep note (2026-10-07)
+Unreceipted Ch7–11 draft fragments that sat in `chapters/` were moved to
+`archive_unshipped_drafts_2026-10-07/` (marker README inside). `chapters/` now
+holds exactly the six shipped chapters — counts match every receipt. The
+draft material is not continuity; if wanted, it enters the normal gate first.
